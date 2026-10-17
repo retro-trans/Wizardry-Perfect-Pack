@@ -1,0 +1,5 @@
+676a5656d9f128cb8679d02210f0f834dc1f9d0bb348ceed6717bf58367a4ecf  BUILD-MANIFEST.json
+d852a434212616532ce43cdb9c43b1b906fee5de379dc0d065a67ebf2bff7bec  VALIDATION.json
+4948ce513bada1e9c26262bce0af55a9109b05c1506ebe70ab3edfd778add25f  Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.13.xdelta
+0d8e5499dfb2af1776b3cd03a342bba400d5b2279714680d366dfa5029235ca5  Wizardry-Perfect-Pack-Prisoners-English-v0.1.12-to-v0.1.13.xdelta
+848820c18e1a149fa269963fff25045d5ebeb8bf4418215082e7bb3a50ba5f55  Wizardry-Perfect-Pack-Prisoners-English-v0.1.13.xdelta

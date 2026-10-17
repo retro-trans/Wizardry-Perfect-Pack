@@ -1,0 +1,18 @@
+{
+  "version": "0.1.13",
+  "target": "NPJB00162",
+  "content_id": "JP0048-NPJB00162_00-WIZDL0000000BLUR",
+  "compatibility": "RPCS3 only; installation and boot not yet tested",
+  "retail_authentication_valid": false,
+  "source_sha256": "beeaa26163cb39314ef0d82748af7afd865e0acd3ca006b1226755cb1b1e72b8",
+  "source_entries": 1498,
+  "output_entries": 1513,
+  "output_bytes": 1114929072,
+  "source_unchanged": true,
+  "output_sha256": "d0cc801d65e81074cf53aaa210149fe36b96c7ca68bbd9adaa278238edb30187",
+  "result": "verified",
+  "verification_scope": "all entry payloads and preserved ciphertext; no runtime test",
+  "rpcs3_aligned_table_and_names_verified": true,
+  "entry_payloads_verified": 1513,
+  "overlay_files": 636
+}

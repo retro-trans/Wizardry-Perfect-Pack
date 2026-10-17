@@ -19,10 +19,9 @@ The public release remains 0.1.11 and does not contain these local fixes.
 
 ## Test the local 0.1.12 portrait-dialogue fix
 
-The local 0.1.12 build corrects portrait dialogue that still clipped in
-0.1.11. Save your progress, close the current test session and run
-`work/output/Play-English-Test.cmd`. The launcher preserves controller
-settings and saves. Confirm `v0.1.12` on the title screen.
+The 0.1.12 portrait-dialogue fix is also included in local 0.1.13. Use the
+current launcher and version check above. It preserves controller settings
+and saves.
 
 Revisit Beatrix's curse explanation, her adventurer introduction and the
 Adventurers' Guild explanation. The curse paragraph should use two pages;

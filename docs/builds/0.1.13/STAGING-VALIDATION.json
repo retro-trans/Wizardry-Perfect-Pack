@@ -1,0 +1,10 @@
+{
+  "version": "0.1.13",
+  "executable_matches": true,
+  "overlay_files_changed_from_previous": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "save_or_controller_files_changed": false,
+  "active_emulator_interrupted": false,
+  "restart_required": true
+}

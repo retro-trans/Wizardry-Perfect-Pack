@@ -1,0 +1,142 @@
+{
+  "version": "0.1.13",
+  "target": "/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG",
+  "compatibility": "RPCS3 installer ISO; retail console compatibility not claimed",
+  "source_sha256": "25dc1f842f42dbd9e24ee1a23e23e51e339fc406bed997c8fbdb9815d41a42a7",
+  "replacement_sha256": "d0cc801d65e81074cf53aaa210149fe36b96c7ca68bbd9adaa278238edb30187",
+  "source_bytes": 2081947648,
+  "output_bytes": 2123663360,
+  "first_extent": [
+    736274432,
+    1073739776
+  ],
+  "appended_second_extent": [
+    2081947648,
+    41189296
+  ],
+  "metadata": [
+    {
+      "sector": 0,
+      "label": "PS3 final plaintext region"
+    },
+    {
+      "sector": 16,
+      "label": "ISO/Joliet volume size"
+    },
+    {
+      "sector": 17,
+      "label": "ISO/Joliet volume size"
+    },
+    {
+      "sector": 34,
+      "label": "UDF physical partition size"
+    },
+    {
+      "sector": 66,
+      "label": "UDF physical partition size"
+    },
+    {
+      "sector": 96,
+      "label": "UDF integrity physical partition size"
+    },
+    {
+      "sector": 295,
+      "label": "PKG01 second extent record"
+    },
+    {
+      "sector": 327,
+      "label": "PKG01 second extent record"
+    },
+    {
+      "sector": 407,
+      "label": "UDF PKG01 information and allocation"
+    }
+  ],
+  "added_anchors": [
+    1036688,
+    1036944
+  ],
+  "udf_partition_start": 352,
+  "udf_partition_size": 1036592,
+  "result": "verified",
+  "files": [
+    {
+      "path": "/PS3_DISC.SFB",
+      "size": 1536,
+      "sha256": "8fe7863822a15ebe67ec76bf19efee177f25a30c600230d1053d7f2856d757ab",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/LICDIR/LIC.DAT",
+      "size": 65536,
+      "sha256": "b8f8d86d59fbcd911b68a68cfa5b6d30321ae67157e9f3fc75190afe81d079a6",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/PARAM.SFO",
+      "size": 656,
+      "sha256": "1cf1156cbdb9ac7bef06494462c9ed990a525f1b4ebc726e69bdf40e79b36640",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/PKGDIR/ICON0.PNG",
+      "size": 34250,
+      "sha256": "7da130ced94eced9a279379c9a517cf64874fe595fa5cd38911f10f9b1d16bc0",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/PKGDIR/PARAM.SFO",
+      "size": 500,
+      "sha256": "6a6a5a10930cb77c063b849141474389da1396d06264a23ad9471ae5c9d8fe69",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/PKGDIR/PKG00/ICON0.PNG",
+      "size": 57644,
+      "sha256": "2de4a4e6ef3d44f9499512eb1d0266bb18fbdfdc6e75329bd2c083ac3d5969f5",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/PKGDIR/PKG00/INSTALL.PKG",
+      "size": 735160304,
+      "sha256": "953673d8b12ee32e0d2a2a7c227787aa16736fbdc05e35fa7a7955f8216367b1",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/PKGDIR/PKG00/PARAM.SFO",
+      "size": 460,
+      "sha256": "9d51b4772071798eb3bb036305ac09601eb300d878a52142efcba99baebfec7b",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/PKGDIR/PKG01/ICON0.PNG",
+      "size": 81373,
+      "sha256": "8f193fafac4f50b60726039e427f8ecdfcb64999a51f2e9be00b22b732cceb9d",
+      "selected": false
+    },
+    {
+      "path": "/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG",
+      "size": 1114929072,
+      "sha256": "d0cc801d65e81074cf53aaa210149fe36b96c7ca68bbd9adaa278238edb30187",
+      "selected": true
+    },
+    {
+      "path": "/PS3_GAME/PKGDIR/PKG01/PARAM.SFO",
+      "size": 460,
+      "sha256": "d3cd7823abf79ed40a7dd39861a88870f2f4da851a2af73b6dcefa30757e0654",
+      "selected": false
+    },
+    {
+      "path": "/PS3_UPDATE/PS3UPDAT.PUP",
+      "size": 268435456,
+      "sha256": "301384b37e122e167e30f116c6b914b00ed156966477a6d53b367fd7b64e2050",
+      "selected": false
+    }
+  ],
+  "unchanged_physical_bytes": 1008189440,
+  "iso9660_joliet_udf_main_mirror_reserve_agree": true,
+  "udf_descriptor_checksums_verified": true,
+  "source_unchanged": true,
+  "output_sha256": "06bd962c96d607ec4b04a32c2e7343f2b6b3fe6e314f5a956a9f17093a9e6cbc",
+  "verification_scope": "all filesystem views, every file, unchanged physical bytes; no runtime test"
+}

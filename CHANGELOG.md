@@ -5,6 +5,8 @@
 - Change sword weapon categories and preferred weapons from Kns to Swords at 13 references. Keep Kns only for the compact Kensei class label.
 - Audit 295 short/shared source rows. Separate compact Mage (Mag) and Felpurr race labels from Magic and Beast monster categories. Flag the unresolved Light speaker-name occurrence for review; retain uncertain Evil category wording pending stronger evidence.
 - Add guarded per-reference translations, independent pointer/string verification and eight regressions. Prevent exact-text reuse from importing contextual rows or their edition-specific addresses. Preserve the 0.1.12 portrait-dialogue fix.
+- Pass all 77 regressions, 17 native dialogue cases and 5,222 event paragraph groups. Verify 2,976 executable text references, all 636 overlay files, all 1,513 package payloads and every ISO filesystem view. Preserve the other game and all unselected disc files.
+- Stage the matching executable and update the launcher. Build full original-ISO and 0.1.11/0.1.12 upgrade patches through Retro Trans Tools; all three encode/decode round trips reproduce the exact new ISO. Record manifests and evidence under docs/builds/0.1.13.
 - Keep this build local; updated in-game appearance remains pending.
 
 ## 0.1.12 — 2026-10-18 (local test build)
