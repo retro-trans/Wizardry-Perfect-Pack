@@ -1,0 +1,21 @@
+{
+  "version": "0.1.11",
+  "target": "NPJB00162",
+  "content_id": "JP0048-NPJB00162_00-WIZDL0000000BLUR",
+  "retail_authentication_valid": false,
+  "source_sha256": "beeaa26163cb39314ef0d82748af7afd865e0acd3ca006b1226755cb1b1e72b8",
+  "build_manifest_sha256": "14ea573cb3b8b931e350d22772e1859fa26ed84b8c66fe53bd49347fa5a70eeb",
+  "source_entries": 1498,
+  "output_entries": 1513,
+  "output_bytes": 1114929056,
+  "unchanged_ciphertext_bytes": 891594388,
+  "entry_payloads_verified": true,
+  "iv_preserved": true,
+  "rpcs3_aligned_table_and_names_verified": true,
+  "unchanged_entry_offsets_preserved": true,
+  "executable_mapping": "USRDIR/EBOOT.elf -> USRDIR/EBOOT.BIN",
+  "source_unchanged": true,
+  "output_sha256": "a39cfd853316d2532cdc1821c3d21cc12e6b46456f70e3b2ff96edc74a11779f",
+  "result": "verified",
+  "verification_scope": "all entry payloads and preserved ciphertext; no runtime test"
+}

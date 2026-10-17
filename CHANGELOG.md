@@ -5,6 +5,8 @@
 - Withdraw the public 0.1.10 package release to a private draft at the user's request. Switch distribution to an original-ISO-to-English-ISO xdelta patch, compatible with Retro Trans Tools.
 - Rebuild Prisoners of the Lost City with `v0.1.11` in the title footer. Preserve the other game's package and all unrelated disc files.
 - Update patching and installation instructions: select the original Perfect Pack ISO as the patch source, then extract and install its translated PKG01 package in RPCS3. Direct ISO boot and stock-console authentication are unsupported.
+- Verify ISO9660, Joliet and four UDF reading paths, affected descriptor checksums, all 11 unselected file hashes and unchanged physical regions. Independently extract PKG01 with both 7-Zip ISO9660 and UDF readers; both exit successfully and match the exact new package installed in RPCS3.
+- Pass all 64 regression tests, all 1,483 installed-file checks and a new 90-second startup probe. Verify the complete ISO-to-ISO xdelta encode/decode round trip with Retro Trans Tools. Keep visual/footer/playthrough limits and nonfatal emulator diagnostics explicit in the release evidence.
 
 ## 0.1.10 — 2026-10-17
 

@@ -1,49 +1,59 @@
 # Wizardry Perfect Pack — Prisoners of the Lost City English patch
 
-English fan translation of **Wizardry: Prisoners of the Lost City**, **NPJB00162**, from the Japanese **Wizardry Perfect Pack** install disc (**BLJM61008**). Only **PKG01** is patched. The separately installed **Labyrinth of Lost Souls**, **NPJB00163 / PKG00**, is outside this project's scope.
+English fan translation of **Wizardry: Prisoners of the Lost City**, **NPJB00162**, from the Japanese **Wizardry Perfect Pack** install disc (**BLJM61008**). The translation changes only **PKG01** and the disc metadata needed to store it. The separate **Labyrinth of Lost Souls**, **NPJB00163 / PKG00**, is preserved.
 
-Version **0.1.10** is an early **RPCS3-only** package patch. Apply the xdelta to your own original `INSTALL.PKG`, then install the resulting PKG normally in RPCS3. The package passes isolated installation, all 1,483 installed-file hash checks, and a 90-second headless startup test. The updated title footer still needs visual confirmation, and a complete playthrough has not been verified. Stock PS3 firmware and physical-console compatibility are unsupported.
+Version **0.1.11** is an early **RPCS3-only ISO patch**. Apply the xdelta to your own original Japanese ISO. After patching, extract PKG01 from the English ISO and install that package in RPCS3. Independent ISO9660 and UDF extraction checks reproduce the exact package tested in RPCS3: installation, all 1,483 installed-file hashes and a 90-second startup probe pass. A complete playthrough and the updated footer's appearance remain unverified; physical-console and stock-firmware compatibility are unsupported.
 
-This repository contains English translation decisions, glossaries, layout metadata and tools. Original game files, rebuilt packages and Japanese working scripts are excluded.
+The previous **0.1.10 PKG patch was withdrawn and its release is now a private draft**. Use the 0.1.11 ISO patch described here.
+
+This repository contains English translation decisions, glossaries, layout metadata and tools. Original game files, rebuilt packages/discs and Japanese working scripts are excluded.
 
 ## Applying the patch
 
 Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools/releases/latest) for automatic patching:
 
-1. Extract **PKG01's `INSTALL.PKG`** from your own Perfect Pack disc image, as described below. Do not select PKG00 or the ISO itself.
-2. In Retro Trans Tools, open **Automatic**, click **Refresh catalog**, and select that original PKG.
-3. Select **Wizardry Perfect Pack: Prisoners of the Lost City**, leave **Target** on **Latest**, and choose a new `.pkg` output filename. Retro Trans Tools downloads the matching patch and verifies the complete output.
-4. In RPCS3, choose **File → Install Packages/Raps/Edats** and install the new English PKG. Boot the installed **Prisoners of the Lost City** entry normally. This release does not require manually launching an overlay ELF.
+1. In **Automatic**, click **Refresh catalog** and select your original `Wizardry - Perfect Pack (Japan).iso`.
+2. Select **Wizardry Perfect Pack: Prisoners of the Lost City**, leave **Target** on **Latest**, and choose a new `.iso` output filename.
+3. Apply the patch. Retro Trans Tools downloads the matching xdelta and verifies the complete resulting ISO.
+4. [Extract PKG01 from the patched ISO](#extracting-the-english-install-package), then in RPCS3 choose **File → Install Packages/Raps/Edats** and install the extracted English package.
+5. Boot the installed **Prisoners of the Lost City** entry normally. This workflow does not require manually launching an overlay ELF.
 
-See the [release notes](docs/releases/0.1.10/RELEASE-NOTES.md) for hashes, verification status and limitations, and [Releases](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases) for downloads. Back up existing saves before replacing an installation. Keep the original package so you can reinstall it if needed.
+See the [release notes](docs/releases/0.1.11/RELEASE-NOTES.md) for verification status and limitations, and [Releases](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases) for downloads. Back up existing saves before replacing an installation. Keep your untouched original ISO.
 
-### Getting the correct original package
+### Supported ISO
 
-The required file is `/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` inside the Japanese Perfect Pack disc image:
+The patch accepts the complete original **BLJM61008** Japanese disc image:
 
-| File | Bytes | SHA-256 |
+| Identity | Bytes | SHA-256 |
 |---|---:|---|
-| Original PKG01 `INSTALL.PKG` | 1,077,146,912 | `beeaa26163cb39314ef0d82748af7afd865e0acd3ca006b1226755cb1b1e72b8` |
+| Original `Wizardry - Perfect Pack (Japan).iso` | 2,081,947,648 | `25dc1f842f42dbd9e24ee1a23e23e51e339fc406bed997c8fbdb9815d41a42a7` |
+| English 0.1.11 ISO | `2,123,663,360` | `1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877` |
 
-This disc stores PKG01 in two ISO9660 extents. The included reader joins both with bounds checks and handles the disc's unusual directory metadata. With Python and this repository, inspect first, then extract into a fresh local destination:
-
-```powershell
-python tools/disc_read.py "Wizardry - Perfect Pack (Japan).iso"
-python tools/disc_read.py "Wizardry - Perfect Pack (Japan).iso" --path /PS3_GAME/PKGDIR/PKG01/INSTALL.PKG --extract work/source/disc
-```
-
-The output is `work/source/disc/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG`. Verify its size and SHA-256 before patching. The extraction command refuses to overwrite an existing file. Other extraction tools are suitable if they produce exactly the required bytes.
+Filenames may differ; the complete size and hash must match. Select the original ISO as the patch input.
 
 ### Manual xdelta patching
 
-1. Download `Wizardry-Perfect-Pack-Prisoners-English-v0.1.10.xdelta` from [the release](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/tag/v0.1.10).
-2. Use xdelta3, Delta Patcher, or Retro Trans Tools' **Apply xdelta** tab with the original PKG as the source and a new PKG as the output. For xdelta3:
+1. Download `Wizardry-Perfect-Pack-Prisoners-English-v0.1.11.xdelta` from [the release](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/tag/v0.1.11).
+2. Use xdelta3, Delta Patcher, or Retro Trans Tools' **Apply xdelta** tab with the original ISO as the source and a new ISO as the output. For xdelta3:
 
    ```powershell
-   xdelta3 -d -s "INSTALL.PKG" "Wizardry-Perfect-Pack-Prisoners-English-v0.1.10.xdelta" "Wizardry-Prisoners-English-0.1.10.pkg"
+   xdelta3 -d -s "Wizardry - Perfect Pack (Japan).iso" "Wizardry-Perfect-Pack-Prisoners-English-v0.1.11.xdelta" "Wizardry-Perfect-Pack-Prisoners-English-0.1.11.iso"
    ```
 
-3. Verify the resulting package against the target identity in the release notes or `BUILD-MANIFEST.json`, then install it in RPCS3 as above. The output must be **1,114,929,056 bytes**, SHA-256 `7cb285c8abae4f80df288c34dc7118c55b77f4bc9f3b5f83be0e76571bdd8659`.
+3. Verify the resulting ISO against the target identity in the release notes or `BUILD-MANIFEST.json`, then extract and install PKG01 as below.
+
+### Extracting the English install package
+
+The English package is `/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` **inside the patched ISO**. The disc uses multiple extents for this file; all extents must be joined. Use the included reader or another extractor that produces the complete verified package. Do not extract PKG00.
+
+With Python and this repository, inspect the patched ISO first, then extract into a fresh local destination:
+
+```powershell
+python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.11.iso"
+python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.11.iso" --path /PS3_GAME/PKGDIR/PKG01/INSTALL.PKG --extract work/local/iso-0.1.11
+```
+
+Install `work/local/iso-0.1.11/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` through RPCS3's **File → Install Packages/Raps/Edats** menu, then boot its installed game entry. The extraction command refuses to overwrite an existing file. RPCS3 does not boot this install ISO directly. Independent 7-Zip ISO9660 and UDF extraction checks both complete without errors and produce the same 1,114,929,056-byte package, SHA-256 `a39cfd853316d2532cdc1821c3d21cc12e6b46456f70e3b2ff96edc74a11779f`.
 
 ## What is translated
 
@@ -51,7 +61,7 @@ The output is `work/source/disc/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG`. Verify its s
 - Menus, system messages, items, skills, spells, quests, monster text, dungeon names and trophy text identified by the project's extraction tools.
 - Selected title/help graphics and **English subtitles along the bottom of the opening movie**. The original Japanese lettering, artwork, logo and audio are retained.
 - Runtime layout changes for full English dialogue, narration, battle rewards and several narrow UI panels. Long text is relocated rather than truncated to Japanese byte capacities.
-- A small title-screen footer showing `v0.1.10` and `github.com/retro-trans`.
+- A small title-screen footer showing `v0.1.11` and `github.com/retro-trans`.
 
 There are **11,387 exported rows with decisions**: **10,796 English drafts** and **591 documented internal/parser exclusions**. **448 entries retain review status**. These counts describe the extracted corpus; they do not establish complete game coverage or a successful playthrough. Image and movie captions are tracked separately.
 
@@ -77,6 +87,8 @@ Report problems with the version, screen or scene, exact text and a screenshot w
 Use 64-bit Python and the dependencies in `tools/requirements.txt`. Original files remain local under ignored `work/source/`. The [format notes](docs/formats.md), [local testing guide](docs/testing.md), and tool help describe extraction and the overlay build. Inspection tools default to dry runs unless their help states otherwise; inspect the plan before using extraction or write modes.
 
 Build and independently verify a fresh versioned overlay, then use `tools/pkg_overlay.py` to rebuild PKG01 for RPCS3. It maps the translated ELF to `USRDIR/EBOOT.BIN`, preserves unselected package payloads, and independently checks native package-name alignment and file contents. Package reconstruction does not create valid retail-console authentication. Keep package installation/boot testing separate from static validation and xdelta round-trip checks.
+
+For the ISO release, run `tools/iso_overlay.py` to place the rebuilt package into a fresh disc copy. It updates ISO9660, Joliet, UDF and required disc metadata, verifies all views and checks every unselected file plus unchanged physical regions. Independently extract the package and match it to the exact package tested in RPCS3. See [the release guide](docs/RETRO_TRANS_RELEASES.md) for ISO packaging and Retro Trans Tools release checks.
 
 Before committing, run `tools/strip_jp.py --write` and commit only the English `.en.json` translation copies. See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution rules.
 

@@ -16,7 +16,7 @@ Full English text is stored in relocated memory rather than cut to Japanese byte
 - Resolve the review-status entries against stronger context or authoritative readings where possible.
 - Complete a playthrough; retail console signing/installation is outside the present ELF overlay workflow.
 
-Build manifests and saved UI captures report the narrower checks actually performed. Public version 0.1.10 distributes a package-to-package xdelta patch for RPCS3, with separate installed-file and startup evidence. Local overlays remain developer test outputs. Stock-console signing and full-playthrough verification remain outside the completed checks.
+Build manifests and saved UI captures report the narrower checks actually performed. Public version 0.1.11 distributes an ISO-to-ISO xdelta patch for RPCS3, with independent package extraction, installed-file and limited startup evidence. The earlier 0.1.10 package release was withdrawn to a private draft. Local overlays remain developer test outputs. Stock-console signing and full-playthrough verification remain outside the completed checks.
 
 ## Runtime observations
 

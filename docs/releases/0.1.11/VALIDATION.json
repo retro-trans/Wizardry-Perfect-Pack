@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "c729c27dc6d5058a402ff0eb267386c3a50e45aba73f2fbf5bd0b57221bc846c",
+  "patches": [
+    {
+      "patch": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.11.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877"
+    }
+  ]
+}

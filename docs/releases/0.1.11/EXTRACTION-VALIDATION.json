@@ -1,0 +1,24 @@
+{
+  "iso_sha256": "1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877",
+  "iso_bytes": 2123663360,
+  "package_sha256": "a39cfd853316d2532cdc1821c3d21cc12e6b46456f70e3b2ff96edc74a11779f",
+  "readers": [
+    {
+      "reader": "7-Zip 26.02 Iso",
+      "exit_code": 0,
+      "bytes": 1114929056,
+      "sha256": "a39cfd853316d2532cdc1821c3d21cc12e6b46456f70e3b2ff96edc74a11779f",
+      "expected_package_match": true,
+      "diagnostics": ""
+    },
+    {
+      "reader": "7-Zip 26.02 Udf",
+      "exit_code": 0,
+      "bytes": 1114929056,
+      "sha256": "a39cfd853316d2532cdc1821c3d21cc12e6b46456f70e3b2ff96edc74a11779f",
+      "expected_package_match": true,
+      "diagnostics": ""
+    }
+  ],
+  "all_extracted_packages_match": true
+}

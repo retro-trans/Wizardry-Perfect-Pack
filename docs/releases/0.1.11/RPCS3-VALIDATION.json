@@ -1,0 +1,48 @@
+{
+  "version": "0.1.11",
+  "iso_sha256": "1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877",
+  "package_sha256": "a39cfd853316d2532cdc1821c3d21cc12e6b46456f70e3b2ff96edc74a11779f",
+  "independent_iso_and_udf_extractions_match_install_tested_package": true,
+  "emulator": "RPCS3 0.0.43-20323-64ba740c",
+  "installation": {
+    "installer_success_logged": true,
+    "installed_files_verified": 1483,
+    "all_installed_file_sizes_and_hashes_match": true,
+    "isolated_profile": true,
+    "installer_exit_code": 3221226505,
+    "headless_teardown_error": true,
+    "teardown_note": "Installer success and complete installed hashes verified despite the headless manual_typemap destructor error after installation."
+  },
+  "startup": {
+    "result": "actual_game_execution_observed_with_warnings",
+    "verification_scope": "Installed payload startup and continued PPU/SPU execution only. ISO-to-package payload identity must be checked separately.",
+    "clean_boot_verified": false,
+    "title_screen_verified": false,
+    "footer_visual_verified": false,
+    "gameplay_verified": false,
+    "visual_verification": false,
+    "headless": true,
+    "observed_renderer_settings": [
+      "Renderer: \"Null\"",
+      "Renderer: \"Null\""
+    ],
+    "elapsed_seconds": 90.11,
+    "terminated_own_process_after_timeout": true,
+    "natural_exit_code": null,
+    "installed_eboot_sha256": "f7f8081601c2c51253cfaa1079cbd56c83599bb1f29c845e8d9546bbe885506e",
+    "fatal_log_count": 0,
+    "access_violation_or_segmentation_log_count": 0,
+    "error_log_count": 108,
+    "title_asset_opened": true,
+    "warnings": [
+      "Runtime startup is not a visual title/footer or gameplay test.",
+      "All nonfatal loader, analyzer, PRX, headless input/dialog, network, mutex and SPU diagnostics are retained in the captured log.",
+      "Only the process created for this probe was stopped at its90-second deadline."
+    ]
+  },
+  "unit_tests": {
+    "passed": 64,
+    "failed": 0
+  },
+  "full_playthrough_verified": false
+}
