@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "DP0000",
+      "en": "Gathers fire into an arrow\nand fires it at one enemy,\nburning the target for damage.\nDevastating against earth enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0000",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0001",
+      "en": "Uses special mass\nhypnosis to disrupt the\ntargets' mental activity and\nforce an enemy group into sleep.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0001",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0002",
+      "en": "Stimulates one ally's reflexes\nand sharpens their intuition,\nraising their evasion.\nRepeated casts strengthen the effect.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0002",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0003",
+      "en": "Instantly forms a hard\nmembrane around the caster's\nbody. This protective coating\nreduces the damage from one enemy attack.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0003",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0004",
+      "en": "Gathers cold into small pieces of\nice and fires them at one enemy.\nThe chilling attack deals damage.\nDevastating against fire enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0004",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0005",
+      "en": "Raises the temperature around an\nenemy group, setting them alight\nand spreading the flames among\nthem. Devastating against earth enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0005",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0006",
+      "en": "Heightens perception while\ndrawing a map in the mind. Has\nno effect in anti-spell zones.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0006",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0007",
+      "en": "Loosens gravity's hold and controls\nits pull on the targets. Makes the\nentire party float, allowing\npassage over some traps and shallow pits.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0007",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0008",
+      "en": "Gathers electricity into an\narrow and fires it at one\nenemy, dealing electrical damage.\nDevastating against water enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0008",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0009",
+      "en": "Wraps an enemy group in\ndarkness and subjects them to\noppressive pressure, dealing\ndamage. Devastating against light enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0009",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0010",
+      "en": "Lowers the surrounding\ntemperature, freezing and\nchilling the area to freeze every\nenemy. Devastating against fire enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0010",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0011",
+      "en": "Strikes one enemy's mind with a\nspecial shock wave, knocking away\ntheir consciousness and\ntemporarily paralyzing thought to stun them.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0011",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0012",
+      "en": "Gathers darkness around one\nenemy and deals dark damage\nthrough concentrated malevolence.\nDevastating against light enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0012",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0013",
+      "en": "Disrupts the flow of earth\nenergy, raising the ground's power\nto deal earth damage to one enemy.\nDevastating against lightning enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0013",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0014",
+      "en": "Creates countless chunks of ice with\nintense cold and hurls them at an\nenemy group, chilling and striking\nthem. Devastating against fire enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0014",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0015",
+      "en": "Slows the targets' thoughts and\nsubjects them to extreme pressure,\ndeeply unsettling their minds to\ngreatly lower an enemy group's evasion.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0015",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0016",
+      "en": "Borrows the earth's fury,\nunleashing a storm of soil, rubble\nand heat to attack an enemy group.\nDevastating against lightning enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0016",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0017",
+      "en": "Freezes all moisture in the\nair, creating an area of\nabsolute zero to attack an enemy\ngroup. Devastating against fire enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0017",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0018",
+      "en": "Heightens one ally's reflexes\nand sharpens their intuition,\nraising their evasion.\nRepeated casts strengthen the effect.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0018",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0019",
+      "en": "Links this location to space outside\nthe dungeon and escapes through a warp,\nteleporting the party out of the\ndungeon. In battle, the destination is random.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0019",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0020",
+      "en": "Condenses cold into a huge mass\nof ice and fires it at one enemy.\nMay freeze and paralyze the\ntarget. Devastating against fire enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0020",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0021",
+      "en": "Erupts magma around an enemy\ngroup, engulfing them in hellfire\nand striking terror into them.\nDevastating against earth enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0021",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0022",
+      "en": "Calls down countless bolts of\nlightning to shock every enemy.\nFavors coverage over attack power.\nDevastating against water enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0022",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0023",
+      "en": "Releases dense malice to corrode\nthe targets' minds and twist their\nsouls, forcibly bringing an enemy\ngroup's vital functions to a halt.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0023",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0024",
+      "en": "Compresses high-voltage\nelectricity into an arrow that pierces\none enemy. May also paralyze the\ntarget. Devastating against water enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0024",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0025",
+      "en": "Drags an enemy group into\ndarkness that admits no light,\nforcing their consciousness into\nsleep. Devastating against light enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0025",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0026",
+      "en": "Uses the caster's memories to\nchoose a destination, then warps\nspace to teleport there, moving\ninstantly into another location.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0026",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0027",
+      "en": "Uses special mass hypnosis to\ntemporarily suppress thought,\nforcibly robbing an enemy group\nof consciousness and stunning them.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0027",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0028",
+      "en": "Gathers mind-corroding darkness\naround one enemy, subjecting them to\na powerful shock and mental\nassault. Devastating against light enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0028",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0029",
+      "en": "Fires a barrage of immense,\ncompressed lightning bolts at an enemy\ngroup, striking them with intense heat and\nshock. Devastating against water enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0029",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0030",
+      "en": "Uses the surrounding air as fuel,\ncausing rapid thermal expansion and\nan explosion that engulfs every\nenemy in searing heat and burning blasts.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0030",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0031",
+      "en": "Interferes with the course of\nevents, forcing a change that even the\ncaster cannot predict. Casting this\nspell requires an immense amount of magic.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0031",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0032",
+      "en": "Strengthens one ally's natural\nhealing ability. The heightened\nhealing eases bleeding, closes\nwounds and heals their injuries.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0032",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0033",
+      "en": "Briefly creates light that\nilluminates the dungeon's\nshadows and improves visibility.\nThe effect vanishes in dark zones.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0033",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0034",
+      "en": "Stimulates one ally's brain\nwaves. The resulting\ndisturbance activates\nconsciousness and awakens that ally from sleep.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0034",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0035",
+      "en": "Stimulates one ally's reflexes\nand greatly sharpens their\nintuition, raising their evasion.\nRepeated casts strengthen the effect.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0035",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0036",
+      "en": "Gathers light into an arrow and\nfires it at one enemy, dealing\ndamage through heat and impact.\nDevastating against dark enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0036",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0037",
+      "en": "Creates an area in which air\nno longer vibrates, forcing\nan enemy group into silence\nand preventing spellcasting.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0037",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0038",
+      "en": "Reads the materials that\nmake up a treasure chest and\nanalyzes that information to\ndetect the trap hidden inside.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0038",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0039",
+      "en": "Locates and analyzes the toxic\nsubstances inside one ally's\nbody, then neutralizes the\npoison to cure that ally of poisoning.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0039",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0040",
+      "en": "Stimulates concentration and\nnerve signals, raising the\nentire party's accuracy with\nphysical attacks. The effect persists.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0040",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0041",
+      "en": "Creates an intense, long-lasting\nlight that illuminates the\ndungeon's shadows and improves\nvisibility. Has no effect in dark zones.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0041",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0042",
+      "en": "Instantly restores\ncompressed nerves to their\nnormal state. Relieves the\npressure and cures one ally of paralysis.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0042",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0043",
+      "en": "Strengthens the entire party's\nnatural healing ability. The\nheightened healing eases bleeding,\ncloses wounds and heals injuries.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0043",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0044",
+      "en": "Generates a wave of radiant heat,\ndealing damage to an enemy group\nthrough light, heat and impact.\nDevastating against dark enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0044",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0045",
+      "en": "Gathers immense radiant energy\nand fires it above one enemy,\nstriking them with tremendous\nheat. Devastating against dark enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0045",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0046",
+      "en": "Heightens the party's\nreflexes and makes their\nmovements more agile, raising\neveryone's evasion. The effect persists.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0046",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0047",
+      "en": "Forcibly interferes with one\nenemy's soul. Drains their life\nenergy and converts it into the caster's\nown energy to heal the caster's wounds.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0047",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0048",
+      "en": "Greatly strengthens one ally's\nnatural healing ability. The\nheightened healing stops bleeding,\nrepairs wounds and heals their injuries.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0048",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0049",
+      "en": "Reads the petrification\naffecting a body and dispels\nit, restoring one petrified ally\nto their normal flesh and blood.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0049",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0050",
+      "en": "Interferes directly with the\nsoul. Restores the bond\nbetween body and soul,\nreviving one ally's vital functions.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0050",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0051",
+      "en": "Strikes one enemy's soul directly\nwith a shock born of malice,\nsevering its bond with the body and\nforcibly halting that enemy's life.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0051",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0052",
+      "en": "Greatly strengthens the party's\nnatural healing ability, stopping\nbleeding, repairing wounds and\ninstantly healing everyone's injuries.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0052",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0053",
+      "en": "Strikes an enemy group with a\ndazzling shock wave of light,\ndealing intense radiant heat and\nimpact. Devastating against dark enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0053",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0054",
+      "en": "Warps space to teleport instantly\nto a stairway held in memory. Can\nalso be used during battle, but\nthe destination is not guaranteed.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0054",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0055",
+      "en": "Reads and analyzes the curse\nafflicting one ally, then\ndispels it, restoring the\ncursed body to its normal state.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0055",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0056",
+      "en": "Analyzes changes to one ally's\nbody, fully restoring it to normal\nand completely repairing its\ninjuries. Does not cure Dead, Ashes or Lost.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0056",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0057",
+      "en": "Strikes one enemy's mind and\nsoul with a mass of malice. The\ndamage disrupts vital\nfunctions, leaving that enemy near death.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0057",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0058",
+      "en": "Tears away one enemy's mind\nand soul. Converts what was\nstolen into life energy and\nabsorbs it to heal the caster's wounds.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0058",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0059",
+      "en": "Creates a mirror that\ndistorts a spell's target,\nreflecting one damaging spell\nattack. The mirror protects one ally.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0059",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0060",
+      "en": "Heals the entire party so\ncompletely that not a drop of\nblood is missing and not a single\nscar remains on anyone's restored body.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0060",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0061",
+      "en": "Analyzes changes to the entire party's\nbodies and restores them completely to\nnormal. Does not cure Dead, Ashes or Lost.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0061",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0062",
+      "en": "Interferes directly with the soul.\nStirs the soul of one ally reduced\nto ashes, reviving them with their\nbody's injuries completely repaired.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0062",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0063",
+      "en": "Fires light and heat so densely\nconcentrated that not a cell remains.\nDeals radiant damage to an enemy\ngroup. Devastating against dark enemies.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0063",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0064",
+      "en": "An elementary summoning spell.\nSummons and commands low-ranking\nmonsters. The summoned monster's\nlevel scales with the summoner's strength.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0064",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0065",
+      "en": "Summons low-ranking monsters.\nDeveloped specifically to summon\nmonsters capable of casting some spells.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0065",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0066",
+      "en": "Summons low-ranking monsters.\nDeveloped to summon the strongest\npossible monster for little magic.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0066",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0067",
+      "en": "Summons a manageable demon that is easy\nto command. The summoned monster's\nlevel scales with the summoner's strength.\n",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0067",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0068",
+      "en": "Developed as an intermediate step toward\na spell to summon high-ranking demons.\nAn appealingly efficient summoning spell.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0068",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0069",
+      "en": "Adapts dragon-summoning\nmagic with the aim of\nsummoning dragonkind for little magic.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0069",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0070",
+      "en": "Can summon dragons, but only\nlow-ranking ones. The\nsummoned monster's level\nscales with the summoner's strength.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0070",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0071",
+      "en": "Developed with the aim of\nsummoning dragons, but\nultimately summons a related\nsubspecies rather than true dragons.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0071",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0072",
+      "en": "Developed to summon powerful monsters at\nlow cost, but the creatures summoned\nremain only as strong as the cost warrants.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0072",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0073",
+      "en": "Summons spirits: a powerful spell\ncapable of calling one of the basic\nelements. The summoned monster's\nlevel scales with the summoner's strength.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0073",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0074",
+      "en": "Gives form to the power of spirits\nin nature to summon a monster. Its\nstrength is appropriate to the cost.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0074",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0075",
+      "en": "Renowned as the masterpiece of\nspirit-summoning magic. A powerful\nspell that allows command of fickle spirits.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0075",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0076",
+      "en": "Summons a creature made of\nmagic that excels at defense.\nThe summoned monster's level\nscales with the summoner's strength.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0076",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0077",
+      "en": "Refines the purity of magic to\nsummon a powerful magical creature.\nThe summoning requires potent magic.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0077",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0078",
+      "en": "Raises magical purity to its limit,\nquickly summoning a controllable magical\ncreature. This useful spell calls a monster\nthat would normally take a long time to create.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0078",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0079",
+      "en": "Summons a mid-ranking demon that\nrequires strong willpower to\ncommand. The summoned monster's level\nscales with the summoner's strength.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0079",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

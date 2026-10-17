@@ -1,0 +1,522 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E5520",
+      "en": "\"Daddy, let me out of here. Daddy, let me out of here.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5521",
+      "en": "Daddy, let me out of here. Daddy, let me out of here.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5522",
+      "en": "Daddy Daddy Daddy Daddy",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5523",
+      "en": "Daddy Daddy Daddy Daddy Dad-\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5524",
+      "en": "An old pocket watch lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5525",
+      "en": "Inside was a photograph of two very similar-looking girls",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5526",
+      "en": "smiling shyly.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5527",
+      "en": "Something like a note lies on the ground.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1753",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5528",
+      "en": "\"You can still turn back.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5529",
+      "en": "Words are engraved on the floor.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1729",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5530",
+      "en": "\"Do you have a death wish?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5531",
+      "en": "A diary lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5532",
+      "en": "\"Why only that girl?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5533",
+      "en": "\"I just wanted to play with everyone.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5534",
+      "en": "Suddenly, you heard a piercing scream.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5535",
+      "en": "\"Don't leave me alone!!!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5536",
+      "en": "A drop of water fell on the back of your neck!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5537",
+      "en": "You obtained the @3rEvil Boots@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5538",
+      "en": "You obtained @3rKotetsu@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5539",
+      "en": "You obtained ten @3rTeleport Scrolls@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5540",
+      "en": "There was a statue of a beautiful woman.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5541",
+      "en": "It was so lifelike that she might have been turned to stone.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5542",
+      "en": "She almost seemed to be drinking happily",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5543",
+      "en": "from the spring beside her...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5544",
+      "en": "A statue of a fighter held a sign.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5545",
+      "en": "\"If you wish to test your luck, proceed.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5546",
+      "en": "But this room was a dead end.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5547",
+      "en": "Was this some kind of riddle?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5548",
+      "en": "There was a brand-new sign.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5549",
+      "en": "\"Do not disturb the sleep of the dead.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5550",
+      "en": "A basket of the sort used for shopping lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5551",
+      "en": "Its decaying condition showed",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5552",
+      "en": "how much time had passed.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5553",
+      "en": "Words resembling a spell were written on the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5554",
+      "en": "\"May those who seek my possessions",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5555",
+      "en": "wander for eternity.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5556",
+      "en": "A paper talisman was attached, bearing a message...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5557",
+      "en": "\"Let those of gentle heart be welcomed here.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5558",
+      "en": "Was it some kind of charm?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5559",
+      "en": "\"Let those of gentle heart be driven to the brink.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5560",
+      "en": "A magic circle and a message were carved into the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5561",
+      "en": "\"Seal away malice.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5562",
+      "en": "You could make out faded lettering on a decaying sign.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5563",
+      "en": "\"Please enjoy our delicious water.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5564",
+      "en": "A drinking fountain was visible farther in.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5565",
+      "en": "Was it some facility left from long ago?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5566",
+      "en": "The water looked clear.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5567",
+      "en": "There was a broken treasure chest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5568",
+      "en": "Will you examine it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5569",
+      "en": "You found nothing particularly suspicious or valuable.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5570",
+      "en": "You decided to ignore the treasure chest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5571",
+      "en": "A jar sat there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5572",
+      "en": "Look inside the jar",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5573",
+      "en": "Ignore the jar",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5574",
+      "en": "There was some slightly cloudy water inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5575",
+      "en": "Try drinking it",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5576",
+      "en": "It tasted extremely bitter,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5577",
+      "en": "but you felt it was good for your health.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5578",
+      "en": "When you looked into the emptied jar,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5579",
+      "en": "water had already begun gathering inside again.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5580",
+      "en": "You gently put the jar back.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5581",
+      "en": "You ignored the jar.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5582",
+      "en": "Then the jar shattered.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5583",
+      "en": "A charming little sign hung in front of the door.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5584",
+      "en": "\"A beloved family, forever.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5585",
+      "en": "The handwriting was sweet,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5586",
+      "en": "but you sensed something twisted in the feelings behind the sign.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5587",
+      "en": "Words were carved on the door.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5588",
+      "en": "\"A room to give you time to reflect on yourself.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5589",
+      "en": "The words seemed to hold some significance.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5590",
+      "en": "Red letters were carved into the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5591",
+      "en": "\"One step forward.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5592",
+      "en": "You had an extremely ominous feeling.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5593",
+      "en": "The sense of foreboding was so strong",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5594",
+      "en": "that going any farther felt dangerous.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5595",
+      "en": "There was a statue of a large bird.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5596",
+      "en": "It seemed to be threatening you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5597",
+      "en": "Or perhaps it was meant as a warning.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5598",
+      "en": "One of the statue's eyes was conspicuously missing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5599",
+      "en": "There was a statue of a small bird.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5522",
+    "E5525",
+    "E5526",
+    "E5542",
+    "E5543",
+    "E5551",
+    "E5552",
+    "E5554",
+    "E5555",
+    "E5576",
+    "E5577",
+    "E5578",
+    "E5579",
+    "E5585",
+    "E5586",
+    "E5593",
+    "E5594"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 78
+}

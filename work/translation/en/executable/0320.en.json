@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "X0320",
+      "en": "Shangria Specialists",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0320",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0321",
+      "en": "Kikusui",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0321",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0322",
+      "en": "Kongo",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0322",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0323",
+      "en": "Chihaya",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0323",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0324",
+      "en": "Jinmu",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0324",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0325",
+      "en": "Hakuryu",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0325",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0326",
+      "en": "Tatara",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0326",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0327",
+      "en": "Tenmu",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0327",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0328",
+      "en": "Shinbu",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0328",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0329",
+      "en": "Todoroki",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0329",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0330",
+      "en": "Tamon",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0330",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0331",
+      "en": "Bunny Lovers",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0331",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0332",
+      "en": "Hell's Suicide Squad",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0332",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0333",
+      "en": "Flaming Suicide Squad",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0333",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0334",
+      "en": "Perpetual Students",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0334",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0335",
+      "en": "Elite Students",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0335",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0336",
+      "en": "Morning Students",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0336",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0337",
+      "en": "Harun",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0337",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0338",
+      "en": "Rin",
+      "status": "review",
+      "note": "Term or grammatical integration requires in-game context review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0338",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0339",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal position/state/steps/Fix diagnostic column headings, adjoining debug commands.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0339",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0340",
+      "en": null,
+      "status": "exclude",
+      "note": "Invalid NM spawn-load argument diagnostic.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0340",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0341",
+      "en": null,
+      "status": "exclude",
+      "note": "NM placement failure diagnostic.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0341",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0342",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal allied/enemy percentage diagnostic formatting.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0342",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0343",
+      "en": "Warning: An Infinite is currently rampaging out of the Cemetery!",
+      "status": "review",
+      "note": "Possibly inherited internal event notice, but visibility is unproven, so translate conservatively instead of excluding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0343",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0344",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal entity inspector real-name field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0344",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0345",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal entity inspector nickname field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0345",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0346",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal entity inspector location field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0346",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0347",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal entity inspector reincarnation field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0347",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0348",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector spell-name field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0348",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0349",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector attribute field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0349",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0350",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector type field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0350",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0351",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector equipment-race field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0351",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0352",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector color field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0352",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0353",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector enhancement field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0353",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0354",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector type field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0354",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0355",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector state field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0355",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0356",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector statistic field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0356",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0357",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector equipment-effect field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0357",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0358",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector HP-regeneration field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0358",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0359",
+      "en": "Cursed",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0359",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0360",
+      "en": "Normal",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0360",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0361",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector curse field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0361",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0362",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector gender field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0362",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0363",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector alignment field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0363",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0364",
+      "en": "Identified",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0364",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0365",
+      "en": "Unidentified",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0365",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0366",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector identification field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0366",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0367",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector original-item numeric ID field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0367",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0368",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal item inspector quantity field.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0368",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0369",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal shop inspector stock column.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0369",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0370",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal shop inspector purchase-price column.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0370",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0371",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal shop inspector sale-price column.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0371",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0372",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal encounter countdown diagnostic next to debug display controls.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0372",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0373",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal dungeon step-count diagnostic next to debug display controls.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0373",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0374",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal waypoint diagnostic next to debug display controls.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0374",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0375",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal level-total diagnostic next to debug display controls.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0375",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0376",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: show position cursor.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0376",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0377",
+      "en": null,
+      "status": "exclude",
+      "note": "Explicit debug display toggle description.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0377",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0378",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: move anywhere in dungeon.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0378",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0379",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: free dungeon camera.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0379",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0380",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: infinite MP.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0380",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0381",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: toggle environment-color rendering.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0381",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0382",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: toggle dungeon blur rendering.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0382",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0383",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: toggle equipment texture lighting.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0383",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0384",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: toggle dungeon texture lighting.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0384",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0385",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: reverse object draw order.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0385",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0386",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: disable dark-zone fade.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0386",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0387",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: display performance analysis.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0387",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0388",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: unlock every town and dungeon.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0388",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0389",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: reveal map data.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0389",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0390",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: force mapping and movement spells.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0390",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0391",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: encounter every step.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0391",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0392",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: disable encounters.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0392",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0393",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: reveal all recipes.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0393",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0394",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: reveal all monsters.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0394",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0395",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: reveal all items.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0395",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0396",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: adjust equipment model offset.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0396",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0397",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: add NPC test to library.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0397",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0398",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: disable random traps.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0398",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0399",
+      "en": null,
+      "status": "exclude",
+      "note": "Debug option description: show position/events and disable rotating floors.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0399",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

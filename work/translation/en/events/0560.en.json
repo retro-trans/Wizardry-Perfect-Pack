@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E0560",
+      "en": "What?! She wants me to get all this together right away?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0560",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0561",
+      "en": "She always asks the impossible...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0561",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0562",
+      "en": "As if I'd have all that... just sitting around.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0562",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0563",
+      "en": "Sigh... I suppose there's no helping it...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0563",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0564",
+      "en": "I'm sorry, but... could you collect the materials for me?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0564",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0565",
+      "en": "I can't get everything on my own.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0565",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0566",
+      "en": "Welcome back. It seems you found it.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0566",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0567",
+      "en": "You hand over the bottle of \"@3rInvisible Solution@0r\" you retrieved,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0567",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0568",
+      "en": "then tell @7rAnselm@0r where the research facility is and describe it in detail.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0568",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0569",
+      "en": "Thank you. So that is where it was.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0569",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0570",
+      "en": "Now I should be able to reach the research facility.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0570",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0571",
+      "en": "This is your reward. Please take it.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0571",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0572",
+      "en": "From @7rAnselm@0r, you receive @3r10,000 G@0r as payment.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0572",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0573",
+      "en": "You have grown into quite a dependable group.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0573",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0574",
+      "en": "I'd like to ask for your help again if another difficult job comes up,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0574",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0575",
+      "en": "so I'll be counting on you.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0575",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0576",
+      "en": "Hmm? What is this medicine used for?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0576",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0577",
+      "en": "Did the name make you curious?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0577",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0578",
+      "en": "It is said to be a concentrate for a magic potion that makes people invisible.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0578",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0579",
+      "en": "There still seems to be plenty of room for research, though.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0579",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0580",
+      "en": "As you listen to @7rAnselm's@0r explanation, the sinister color makes you wonder",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0580",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0581",
+      "en": "whether the liquid might have some other purpose.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0581",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0582",
+      "en": "For some reason, the thought crosses your mind.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0582",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0583",
+      "en": "Well, well. Have you forgotten something?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0583",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0584",
+      "en": "I imagine it is difficult to find, but do your best.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0584",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0585",
+      "en": "I have high hopes for you.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0585",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0586",
+      "en": "Oh, have you finished your other business already?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0586",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0587",
+      "en": "My other arrangements fell through, you see.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0587",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0588",
+      "en": "I still haven't found anyone to look for the laboratory.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0588",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0589",
+      "en": "What do you say?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0589",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0590",
+      "en": "Would you take the job?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0590",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0591",
+      "en": "It is two jobs in one: finding the facility and finding the medicine.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0591",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0592",
+      "en": "I shall increase the reward accordingly.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0592",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0593",
+      "en": "The research facility is apparently somewhere in @6rBresmaslaan@0r,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0593",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0594",
+      "en": "but...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0594",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0595",
+      "en": "I look forward to hearing good news.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0595",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0596",
+      "en": "I see. You cannot do it?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0596",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0597",
+      "en": "Well, if you have other business, it cannot be helped.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0597",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0598",
+      "en": "I'll look for someone else, or wait until you are free.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0598",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0599",
+      "en": "Good timing. I was just thinking of asking you",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0599",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0600",
+      "en": "to take on another job.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0600",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0601",
+      "en": "How much do you know about the legend of @7rChu Lu Gah@0r?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0601",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0602",
+      "en": "Only that, before his death,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0602",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0603",
+      "en": "he placed a curse on this city, perhaps?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0603",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0604",
+      "en": "But what if @7rChu Lu Gah@0r actually lived in this city?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0604",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0605",
+      "en": "What would you think if I told you that?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0605",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0606",
+      "en": "There is a story that, in an area",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0606",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0607",
+      "en": "now reduced to ruins, @7rChu Lu Gah@0r",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0607",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0608",
+      "en": "once made his home.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0608",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0609",
+      "en": "It apparently served as both his home and laboratory.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0609",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0610",
+      "en": "The story is quite credible.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0610",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0611",
+      "en": "Of course, having a laboratory here is no proof",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0611",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0612",
+      "en": "that he did not curse the city.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0612",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0613",
+      "en": "But if we can find that laboratory,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0613",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0614",
+      "en": "we may be able to learn something about the curse.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0614",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0615",
+      "en": "That is why I would like you to find @7rChu Lu Gah's@0r laboratory,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0615",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0616",
+      "en": "by whatever means you can.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0616",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0617",
+      "en": "And one more thing. I want you to look for a medicine said to be there.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0617",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0618",
+      "en": "It is called \"@3rInvisible Solution@0r.\"",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0618",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0619",
+      "en": "Well? Would you take the job?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0619",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0620",
+      "en": "Welcome back...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0620",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0621",
+      "en": "It seems you found them.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0621",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0622",
+      "en": "You give @7rCyrus@0r the \"@3rResearch Papers@0r.\"",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0622",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0623",
+      "en": "Yes, they even have @7rChu Lu Gah's@0r signature...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0623",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0624",
+      "en": "With these... at last...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0624",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0625",
+      "en": "@7rCyrus@0r stares at the research papers with a strange, feverish intensity.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0625",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0626",
+      "en": "What exactly are they?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0626",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0627",
+      "en": "I need to read them carefully... before I can tell you what they are.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0627",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0628",
+      "en": "But I won't forget that you found them for me.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0628",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0629",
+      "en": "When the time comes, I'll... explain everything.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0629",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0630",
+      "en": "Here, this is your reward...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0630",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0631",
+      "en": "From @7rCyrus@0r, you receive @3r8,000 G@0r.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0631",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0632",
+      "en": "I'll... be counting on you again.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0632",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0633",
+      "en": "How's it going? Have you found them yet?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0633",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0634",
+      "en": "What...? Not yet...?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0634",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0635",
+      "en": "I'd appreciate it if you could find them as soon as possible.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0635",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0636",
+      "en": "Hmm? Oh, have you changed your mind?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0636",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0637",
+      "en": "Good... What a relief...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0637",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0638",
+      "en": "You're really the only people I can think of...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0638",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E0639",
+      "en": "Would you take the job...?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E0639",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

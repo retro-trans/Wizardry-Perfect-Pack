@@ -1,0 +1,521 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E5280",
+      "en": "It appeared to be a corpse.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5281",
+      "en": "It had been so thoroughly eaten that you could not tell what it was.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5282",
+      "en": "Blood!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5283",
+      "en": "It must have been there quite some time,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5284",
+      "en": "for it had already turned black.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5285",
+      "en": "It had probably only just died.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5286",
+      "en": "The mangled carcass of a beast lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5287",
+      "en": "Something smelled.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5288",
+      "en": "It was a sour stench, like rotting meat.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5289",
+      "en": "...!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5290",
+      "en": "There was a pungent smell.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5291",
+      "en": "You could not help grimacing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5292",
+      "en": "Something cold struck your back!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5293",
+      "en": "You looked up. Apparently, a drop of water had fallen on you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5294",
+      "en": "...You could feel someone watching.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5295",
+      "en": "You looked around, but no one was there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5296",
+      "en": "Perhaps from the direction of town,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5297",
+      "en": "you could hear a dog barking in the distance.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5298",
+      "en": "You tripped on a stone.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5299",
+      "en": "It was a turtle.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5300",
+      "en": "You were surprised to find an ordinary animal",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5301",
+      "en": "in a place like this.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5302",
+      "en": "Your foot sinks into the mud.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1695",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5303",
+      "en": "Was it your imagination?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5304",
+      "en": "You could hear a woman's voice from somewhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5305",
+      "en": "...........................",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5306",
+      "en": ".............................",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5307",
+      "en": "...You were getting hungry.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5308",
+      "en": "A delicious smell, rather like stew, wafted from somewhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5309",
+      "en": "A bird took flight nearby.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5310",
+      "en": "Something like an old flyer lay at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5311",
+      "en": "\"Eggs at bargain prices!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5312",
+      "en": "Had it belonged to someone who once lived here?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5313",
+      "en": "There was a statue that seemed to resemble a snake.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5314",
+      "en": "Perhaps it belonged to someone who used to live here.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5315",
+      "en": "Some chipped dishes lay there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5316",
+      "en": "Perhaps they belonged to the previous residents.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5317",
+      "en": "Old books lay scattered about.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5318",
+      "en": "The instant you picked one up,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5319",
+      "en": "it crumbled to pieces.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5320",
+      "en": "You could hear something howling in the distance.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5321",
+      "en": "What appeared to be an old advertisement lay at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5322",
+      "en": "\"Huge sale on arms and armor!!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5323",
+      "en": "Whoops.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5324",
+      "en": "You nearly stepped on a spider.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5325",
+      "en": "Small though it was, it was alive.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5326",
+      "en": "Better not kill it needlessly.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5327",
+      "en": "The path was muddy.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5328",
+      "en": "Your feet might get stuck.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5329",
+      "en": "Part of the ground at your feet was a different color.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5330",
+      "en": "What will you do?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5331",
+      "en": "Walk across without worrying",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5332",
+      "en": "Go around",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5333",
+      "en": "A trap had been set there!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5334",
+      "en": "Something like an old journal lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5335",
+      "en": "Read it?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1766",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5336",
+      "en": "Read it",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5337",
+      "en": "Ignore it",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5338",
+      "en": "The handwriting looked limp and weary.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5339",
+      "en": "\"I just want to go home.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5340",
+      "en": "\"...I'm sleepy.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5341",
+      "en": "An old note lies on the ground.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1765",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5342",
+      "en": "\"I can't... I'm sleepy...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5343",
+      "en": "The last part was written in such an illegible scrawl",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5344",
+      "en": "that you could not read it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5345",
+      "en": "The wind seemed to be blowing east.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5346",
+      "en": "You could hear voices from somewhere to the south.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5347",
+      "en": "Something was carved in small letters on the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5348",
+      "en": "\"Thank you for your hard work.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5349",
+      "en": "Some words were carved on the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5350",
+      "en": "\"Do not try to control everything.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5351",
+      "en": "Accept everything.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5352",
+      "en": "The wind was blowing southeast.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5353",
+      "en": "Something was carved on the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5354",
+      "en": "\"I have a feeling I'll be back here again.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5355",
+      "en": "Something was written at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5356",
+      "en": "\"How many times have I passed through here?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5357",
+      "en": "\"It's too soon to relax!!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5358",
+      "en": "Small letters were carved at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5359",
+      "en": "\"Is this our first meeting? Or should I say, welcome back?\"",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5283",
+    "E5284",
+    "E5296",
+    "E5297",
+    "E5300",
+    "E5301",
+    "E5318",
+    "E5319",
+    "E5343",
+    "E5344"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 77
+}

@@ -1,0 +1,399 @@
+{
+  "reference_resolution": [
+    1280,
+    720
+  ],
+  "captures": [
+    {
+      "file": "menus-before-0.1.2-registration.png",
+      "kind": "actual user in-game screenshot",
+      "reported_issue": "overlap and fixed-copy truncation"
+    },
+    {
+      "file": "menus-before-0.1.2-party.png",
+      "kind": "actual user in-game screenshot",
+      "reported_issue": "overlap and fixed-copy truncation"
+    },
+    {
+      "file": "menus-before-0.1.2-class.png",
+      "kind": "actual user in-game screenshot",
+      "reported_issue": "overlap and fixed-copy truncation"
+    },
+    {
+      "file": "menus-before-0.1.2-travel.png",
+      "kind": "actual user in-game screenshot",
+      "reported_issue": "untranslated location texture"
+    },
+    {
+      "file": "menus-before-0.1.2-dungeon.png",
+      "kind": "actual user in-game screenshot",
+      "reported_issue": "untranslated location texture"
+    }
+  ],
+  "panels": {
+    "registration": {
+      "bounds": [
+        192,
+        204,
+        382,
+        237
+      ],
+      "label_x": 208,
+      "alignment_arrow_x": 310,
+      "value_x": 354,
+      "font_size": 32
+    },
+    "party_roster": {
+      "bounds": [
+        299,
+        119,
+        286,
+        440
+      ],
+      "alignment_x": 486,
+      "class_icon_x": 558,
+      "font_size": 24
+    },
+    "party_preview": {
+      "bounds": [
+        594,
+        122,
+        384,
+        477
+      ],
+      "label_x": 611,
+      "hand_item_x": 641,
+      "font_size": 22
+    },
+    "class_details": {
+      "bounds": [
+        580,
+        432,
+        575,
+        211
+      ],
+      "label_x": 596,
+      "value_x": 744,
+      "font_size": 28
+    }
+  },
+  "verification": "Measured from supplied screenshots. Updated in-game captures pending.",
+  "fit_cases": [
+    {
+      "id": "X0245",
+      "font_size": 32,
+      "available_width": 94
+    },
+    {
+      "id": "X2556",
+      "font_size": 32,
+      "available_width": 130
+    },
+    {
+      "id": "X2552",
+      "font_size": 28,
+      "available_width": 140
+    },
+    {
+      "id": "X2553",
+      "font_size": 28,
+      "available_width": 140
+    },
+    {
+      "id": "X2554",
+      "font_size": 28,
+      "available_width": 140
+    },
+    {
+      "id": "X1336",
+      "font_size": 22,
+      "available_width": 150
+    },
+    {
+      "id": "X1337",
+      "font_size": 22,
+      "available_width": 30
+    },
+    {
+      "id": "X1338",
+      "font_size": 22,
+      "available_width": 30
+    },
+    {
+      "id": "X2363",
+      "font_size": 24,
+      "available_width": 70
+    },
+    {
+      "id": "X2359",
+      "font_size": 24,
+      "available_width": 260
+    },
+    {
+      "id": "X0176",
+      "font_size": 28,
+      "available_width": 132
+    },
+    {
+      "id": "X0291",
+      "font_size": 28,
+      "available_width": 106
+    },
+    {
+      "id": "X0292",
+      "font_size": 28,
+      "available_width": 106
+    },
+    {
+      "id": "X2500",
+      "font_size": 32,
+      "available_width": 240
+    },
+    {
+      "id": "X2401",
+      "font_size": 22,
+      "available_width": 129
+    },
+    {
+      "id": "X2404",
+      "font_size": 22,
+      "available_width": 129
+    },
+    {
+      "id": "X2523",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2524",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2525",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2526",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2527",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2528",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2529",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2530",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2531",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2532",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2533",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2534",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2535",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2536",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2537",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2538",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2539",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2540",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2541",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2542",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2543",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2544",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2545",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2546",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2547",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2548",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2549",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2550",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "X2551",
+      "font_size": 28,
+      "available_width": 394
+    },
+    {
+      "id": "L0000",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0001",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0002",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0003",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0004",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0005",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0006",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0007",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0008",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0009",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0010",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0011",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    },
+    {
+      "id": "L0012",
+      "font_size": 28,
+      "available_width": 344,
+      "use": "display",
+      "suffix": " Area 10"
+    }
+  ]
+}

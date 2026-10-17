@@ -1,0 +1,521 @@
+{
+  "translations": [
+    {
+      "id": "E5120",
+      "en": "Anneberg",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5121",
+      "en": "Do that, and I will at least spare your life.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5122",
+      "en": "Did that mean sparing you now, only to destroy you with the town later?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5123",
+      "en": "That would hardly save you in the end,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5124",
+      "en": "and there was no way you could hand over this book anyway.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5125",
+      "en": "You drew your sword and took a fighting stance.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5126",
+      "en": "So you choose to die here...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5127",
+      "en": "You really don't know when to give up.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5128",
+      "en": "So even demons such as @7rAnneberg@0r have appeared...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5129",
+      "en": "It seems time is running short.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5130",
+      "en": "@7rBeatrix@0r and her companions should be able to read that book.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5131",
+      "en": "Study it and learn to use the key.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5132",
+      "en": "This is as far as I shall guide you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5133",
+      "en": "Farewell, child of humanity. Do not let the monsters have it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5134",
+      "en": "With that, @7rLady Marbas@0r was enveloped in a glowing mist",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5135",
+      "en": "and vanished along with it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5136",
+      "en": "In any case, you had to return to the tavern with the @3rbook@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5137",
+      "en": "You should head for town",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5138",
+      "en": "before the monsters came to stop you taking it there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5139",
+      "en": "An old painting hung on the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5140",
+      "en": "It was an eerie painting of a burning hut.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5141",
+      "en": "This is it. This painting. The hut represents the town, the flames its destruction.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5142",
+      "en": "Exactly our current situation...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5143",
+      "en": "Then the town really will be destroyed?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5144",
+      "en": "Is that not what this one is running about trying to prevent?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5145",
+      "en": "If the hut represents the town and the flames its destruction,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5146",
+      "en": "then surely you must put out the flames.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5147",
+      "en": "But how could you extinguish them?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5148",
+      "en": "Do we throw @3rwater@0r on it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5149",
+      "en": "Precisely. Find @3rwater@0r somewhere in this labyrinth",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5150",
+      "en": "and bring it here.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5151",
+      "en": "Were you expected to find @3rwater@0r in the labyrinth? What an unreasonable task...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5152",
+      "en": "Had there been @3rwater@0r anywhere?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5153",
+      "en": "When you opened the box, you found it full of @3rwater@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5154",
+      "en": "The @3rwater@0r was clear, but the thought of how long it might have sat there",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5155",
+      "en": "made you reluctant to drink it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5156",
+      "en": "Still, it would do perfectly well as @3rwater@0r to splash on a painting.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5157",
+      "en": "You filled a small box you found there with water",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5158",
+      "en": "and decided to take it with you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5159",
+      "en": "You obtained the \"@3rBox of Water@0r.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5160",
+      "en": "You found what appeared to be the requested @3rjewelry box@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5161",
+      "en": "It was unlocked and looked as though it would open.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5162",
+      "en": "Inside was a necklace",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5163",
+      "en": "set with a large crystal pendant.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5164",
+      "en": "Within the crystal appeared the image of an intelligent-looking man",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5165",
+      "en": "beside a smiling woman of such enchanting beauty",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5166",
+      "en": "as you had never seen before.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5167",
+      "en": "That jewel holds an image of @7rChu Lu Gah@0r and me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5168",
+      "en": "So this is where it was...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5169",
+      "en": "@7rChu Lu Gah@0r was a man who did not fall captive to my beauty.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5170",
+      "en": "That is why I helped him.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5171",
+      "en": "Though it was not my only reason.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5172",
+      "en": "The ancient seals seal a gate connecting another world to this one.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5173",
+      "en": "Should that world become connected to ours, its invaders",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5174",
+      "en": "would destroy our beautiful scenery and everything else.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5175",
+      "en": "In the end, this very world would be swallowed by the other.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5176",
+      "en": "The humans here are utterly powerless against its inhabitants.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5177",
+      "en": "I loved the scenery of this world.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5178",
+      "en": "The landscapes, the air... I love it all.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5179",
+      "en": "That is why I helped protect the seals",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5180",
+      "en": "and strengthen them further with magic circles.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5181",
+      "en": "I have no wish to see the world @7rChu Lu Gah@0r risked his life to protect",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5182",
+      "en": "trampled underfoot by monsters.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5183",
+      "en": "That is also why I am helping you now.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5184",
+      "en": "I left your reward with that girl, @7rCarmine@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5185",
+      "en": "Go back and collect it from her.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5186",
+      "en": "You handed the jewel to @7rLady Marbas@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5187",
+      "en": "Thank you, child of humanity.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5188",
+      "en": "To cherish such an object as a keepsake... Perhaps I have grown old.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5189",
+      "en": "With that, @7rLady Marbas@0r vanished.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5190",
+      "en": "This was probably the main sanctuary of the temple.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5191",
+      "en": "It was crumbling, but resembled a small house.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5192",
+      "en": "A little house where an unknown god dwelled.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5193",
+      "en": "Yet the faint light seeping in from somewhere",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5194",
+      "en": "bathed the temple in a soft, mysterious glow.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5195",
+      "en": "This must be the temple we're looking for...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5196",
+      "en": "The surroundings look ruined, but the sanctuary seems intact.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5197",
+      "en": "What could that clue mean?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5198",
+      "en": "Standing beside you, @7rBeatrix@0r tilted her head",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5199",
+      "en": "and gazed at the temple before her.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5123",
+    "E5124",
+    "E5134",
+    "E5135",
+    "E5137",
+    "E5138",
+    "E5145",
+    "E5146",
+    "E5149",
+    "E5150",
+    "E5154",
+    "E5155",
+    "E5157",
+    "E5158",
+    "E5162",
+    "E5163",
+    "E5164",
+    "E5165",
+    "E5166",
+    "E5173",
+    "E5174",
+    "E5179",
+    "E5180",
+    "E5181",
+    "E5182",
+    "E5193",
+    "E5194",
+    "E5198",
+    "E5199"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80
+}

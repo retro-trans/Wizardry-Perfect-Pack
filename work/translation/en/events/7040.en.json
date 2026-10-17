@@ -1,0 +1,215 @@
+{
+  "translations": [
+    {
+      "en": "Apparently, this delivery",
+      "status": "translated",
+      "note": "",
+      "id": "E7040",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2140",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "is intended for you.",
+      "status": "translated",
+      "note": "",
+      "id": "E7041",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2141",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You take the items out of the box.",
+      "status": "translated",
+      "note": "",
+      "id": "E7042",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2142",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained a @3rLong Sword@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7043",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2143",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained a @3rGreat Sword@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7044",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2144",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained a @3rStaff of Healing@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7045",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2145",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained a @3rWhite Robe@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7046",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2146",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained a @3rBlack Robe@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7047",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2147",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained @3rPlate Mail@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7048",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2148",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained a @3rLight Shield@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7049",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2149",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained a @3rFeathered Hat@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7050",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2150",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained @3rGauntlets@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7051",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2151",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained two @3rSacrificial Talismans@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7052",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2152",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "You obtained two @3rTalismans of Dominion@0r.",
+      "status": "review",
+      "note": "Item label consistency required.",
+      "id": "E7053",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2153",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "The box seems to be empty now.",
+      "status": "translated",
+      "note": "",
+      "id": "E7054",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2154",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    },
+    {
+      "en": "But your inventory is full.",
+      "status": "translated",
+      "note": "",
+      "id": "E7055",
+      "context": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2155",
+        "match": "exact Japanese source text",
+        "context_review": "Authenticated station event; inherited review notes retained"
+      }
+    }
+  ],
+  "rows_examined": 16,
+  "rows_in_slice": 16,
+  "context_note": "Protected station event authenticated and source text matched exactly to inherited decisions. Original review notes retained."
+}

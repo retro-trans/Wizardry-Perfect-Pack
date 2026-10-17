@@ -1,0 +1,187 @@
+{
+  "rows_in_slice": 15,
+  "rows_examined": 15,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "DP0080",
+      "en": "Summons a mid-ranking demon. A\npowerful spell that requires not\neven a simple pact to summon it.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0080",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0081",
+      "en": "Performs a simulated pact and uses\nmagic to forcibly summon a demon.\nWithout a true pact, however, only\nmid-ranking demons can be called.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0081",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0082",
+      "en": "A powerful spell that summons\ndragons. The summoned monster's level\nscales with the summoner's strength.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0082",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0083",
+      "en": "Forms a magical pact with\na dragon to summon it.\nThis powerful spell can\ncall higher-ranking dragons.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0083",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0084",
+      "en": "Uses great willpower and\nmagical energy to summon a dragon\nacross even dimensions and time.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0084",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0085",
+      "en": "A powerful spell that summons\nhigh-ranking demons. The summoned monster's\nlevel scales with the summoner's strength.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0085",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0086",
+      "en": "A secret art among secret arts: forms\nan improvised temporary pact to\nsummon a demon. Because magic enforces\nthe pact, the caster's safety is assured.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0086",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0087",
+      "en": "The ultimate secret of summoning: uses the caster's\nstrong will and sturdy soul as bait to lure a\nhigh-ranking demon, then forces it into service with a spell.",
+      "status": "translated",
+      "note": "Full mechanism and flavor retained; explicit target scope preserved. Sentence boundaries and final pixel wrapping need in-game checks.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0087",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0088",
+      "en": "Full Status Recovery",
+      "status": "review",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification. Utility-effect name. Source does not define whether this includes HP/MP, abnormal conditions, attributes, or some combination. Neutral wording preserves that uncertainty; trace the actual item-effect function and player visibility before making a more specific promise.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0088",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0089",
+      "en": "Items Only",
+      "status": "review",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0089",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0090",
+      "en": "Revive from Dead or Ashes (1 HP)",
+      "status": "review",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0090",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0091",
+      "en": "Map",
+      "status": "review",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0091",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0092",
+      "en": "Map (Enhanced)",
+      "status": "review",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0092",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0093",
+      "en": "Alignment -1",
+      "status": "review",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0093",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DP0094",
+      "en": "Alignment +1",
+      "status": "review",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DP0094",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

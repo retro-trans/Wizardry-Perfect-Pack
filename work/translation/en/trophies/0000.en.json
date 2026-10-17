@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "T0000",
+      "en": "Wizardry: Prisoners of the Lost City - Scenario 1",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0000",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0001",
+      "en": "Trophy set for Wizardry: Prisoners of the Lost City - Scenario 1.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0001",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0002",
+      "en": "Wizardry: Prisoners of the Lost City - Scenario 2",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0002",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0003",
+      "en": "Trophy set for Wizardry: Prisoners of the Lost City - Scenario 2.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0003",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0004",
+      "en": "Wizardry: Prisoners of the Lost City - Scenario 3",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0004",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0005",
+      "en": "Trophy set for Wizardry: Prisoners of the Lost City - Scenario 3.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0005",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0006",
+      "en": "100% Complete",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0006",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0007",
+      "en": "This platinum trophy unlocks automatically when you earn every other trophy.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0007",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0008",
+      "en": "Rookie Errand Runner",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0008",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0009",
+      "en": "Defeat a total of 750 enemies.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0009",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0010",
+      "en": "Town Bodyguard",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0010",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0011",
+      "en": "Defeat a total of 3,000 enemies.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0011",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0012",
+      "en": "Dedicated Bounty Hunter",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0012",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0013",
+      "en": "Defeat a total of 5,000 enemies.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0013",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0014",
+      "en": "Seasoned Adventurer",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0014",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0015",
+      "en": "Defeat a total of 15,000 enemies.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0015",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0016",
+      "en": "Veteran Ace",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0016",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0017",
+      "en": "Defeat a total of 30,000 enemies.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0017",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0018",
+      "en": "Sky-Soaring Dungeon King",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0018",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0019",
+      "en": "Defeat a total of 45,000 enemies.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0019",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0020",
+      "en": "One Who Can Reduce All to Nothing",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0020",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0021",
+      "en": "Defeat a total of 59,630 enemies.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0021",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0022",
+      "en": "One Who Has Lost the Way",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0022",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0023",
+      "en": "See Cyrus's ending.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0023",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0024",
+      "en": "One Who Changes Everything",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0024",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0025",
+      "en": "See Carmine's ending.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0025",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0026",
+      "en": "One Who Goes with the Flow",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0026",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0027",
+      "en": "See Beatrix's ending.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0027",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0028",
+      "en": "One Who Sees the Bigger Picture",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0028",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0029",
+      "en": "See every ending.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0029",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0030",
+      "en": "5 Hours Played",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0030",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0031",
+      "en": "Play for a total of 5 hours.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0031",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0032",
+      "en": "50 Hours Played",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0032",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0033",
+      "en": "Play for a total of 50 hours.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0033",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0034",
+      "en": "100 Hours Played",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0034",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0035",
+      "en": "Play for a total of 100 hours.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0035",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0036",
+      "en": "200 Hours Played",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0036",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0037",
+      "en": "Play for a total of 200 hours.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0037",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0038",
+      "en": "300 Hours Played",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0038",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0039",
+      "en": "Play for a total of 300 hours.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0039",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0040",
+      "en": "500 Hours Played",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0040",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0041",
+      "en": "Play for a total of 500 hours.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0041",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0042",
+      "en": "One with Good Friends",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0042",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0043",
+      "en": "Have characters of all five basic races.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0043",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0044",
+      "en": "One with Reliable Companions",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0044",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0045",
+      "en": "Have a character at level 30 or above.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0045",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0046",
+      "en": "One Who Knows Great Strength",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0046",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0047",
+      "en": "Have had a character at level 50 or above.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0047",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0048",
+      "en": "Modest Collector",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0048",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0049",
+      "en": "Acquire at least 30 different types of items.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0049",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0050",
+      "en": "A Collector in the Making",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0050",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0051",
+      "en": "Acquire at least 70 different types of items.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0051",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0052",
+      "en": "Boundless Collector",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0052",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0053",
+      "en": "Acquire at least 100 different types of items.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0053",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0054",
+      "en": "Insatiable Seeker",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0054",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0055",
+      "en": "Acquire at least 150 different types of items.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0055",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0056",
+      "en": "10,000 Gold Acquired",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0056",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0057",
+      "en": "Have 10,000 Gold.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0057",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0058",
+      "en": "1,000,000 Gold Acquired",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0058",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0059",
+      "en": "Have 1,000,000 Gold.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0059",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0060",
+      "en": "3,000,000 Gold Acquired",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0060",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0061",
+      "en": "Have 3,000,000 Gold.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0061",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0062",
+      "en": "30,000,000 Gold Acquired",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0062",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0063",
+      "en": "Have 30,000,000 Gold.",
+      "status": "translated",
+      "note": "Achievement label or condition; implied player subject restored where needed.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0063",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0064",
+      "en": "A Wanderer in the Mist",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0064",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0065",
+      "en": "Explore 100% of Bofonkerk.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0065",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0066",
+      "en": "A Wanderer Seeking Darkness",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0066",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0067",
+      "en": "Explore 100% of De Bure Labyrinth.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0067",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0068",
+      "en": "A Wanderer Learning the City",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0068",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0069",
+      "en": "Explore 50% of Machinetohet.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0069",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0070",
+      "en": "A Wanderer Touched by Truth",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0070",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0071",
+      "en": "Explore 100% of Auderkirk Labyrinth.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0071",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0072",
+      "en": "One Connected to the Beginning",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0072",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0073",
+      "en": "Earn every dungeon exploration trophy.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0073",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0074",
+      "en": "One Who Has Gazed into the Abyss",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0074",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0075",
+      "en": "Complete the quest Proof of the Demon God's Existence.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0075",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0076",
+      "en": "After Great Hardship",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0076",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0077",
+      "en": "Complete the quest I Don't Want to Be a Coward!",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0077",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0078",
+      "en": "One Who Nears the Abyssal Gate",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0078",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0079",
+      "en": "Complete the quest The Seal's Whereabouts.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0079",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

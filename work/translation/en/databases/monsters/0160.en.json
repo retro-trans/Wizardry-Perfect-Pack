@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "DM0160",
+      "en": "Scorpion",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0160",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0161",
+      "en": "The fact that labyrinth\nscorpions survive without\nbeing attacked by other\nmonsters suggests that they\ncarry deadly poison. Their\nunusually developed exoskeletons\nalso easily deflect light\nblows. The red stinger at\nthe tip of the tail is\ncalled the trigger of a\ndying scream. Its victims\nare feared to suffer\nunbearable agony before death.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0161",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0162",
+      "en": "No-See-Um Swarm",
+      "status": "review",
+      "note": "No-See-Um Swarm is the conventional English insect phrase corresponding to the phonetic monster name; game-specific spelling needs final consistency.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0162",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0163",
+      "en": "A swarm of flying insects so\nvast that even trying to count\nthem would be exhausting.\nEach insect attacks as if it\nhad a will of its own. However\nmany times a sword strikes,\nit crushes only a few bugs\nand does little harm to the\nswarm as a whole. Sometimes\nthe insects surge forward\nlike a breath attack,\nsomething virtually\nimpossible to defend against.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0163",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0164",
+      "en": "Vorpal Bunny",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0164",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0165",
+      "en": "Headlong Rush",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0165",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0166",
+      "en": "At first glance it resembles\na stuffed rabbit and\nbehaves adorably, but it\nis very much a monstrous\nanimal. Many subspecies\nexist, all sharing sharp\nteeth that can easily\npenetrate steel armor.\nThey also possess the\nhorrifying habit of\nsevering human heads.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0166",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0167",
+      "en": "Giant Crab",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0167",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0168",
+      "en": "Bubble Barrage",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0168",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0169",
+      "en": "A crab whose body measures\nmore than three meters.\nIts shell is hard enough\nto chip a sword's point.\nIts huge pincers do\nnot cut cleanly so\nmuch as crush victims\npainfully into two\npieces. Its vitality\nis also extraordinary;\neven after its limbs\nare torn off, it\noften remains alive.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0169",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0170",
+      "en": "Giant Viper",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0170",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0171",
+      "en": "Several times larger than a human,\nit can kill even a heavily armored\nknight once its coils close\naround them. Flimsy armor is\neasily crushed. Even if stronger\narmor withstands the pressure,\nthe victim is injected with\npoison. Nevertheless, an adventurer\nwho stays calm will find it\nless formidable than a demon.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0171",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0172",
+      "en": "Giant Mantis",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0172",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0173",
+      "en": "Reflexive Charge",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0173",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0174",
+      "en": "Reflex Action",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0174",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0175",
+      "en": "At just under two meters long, it is\nnot much larger than a human. Its\nscythes are sharper than one might\nimagine, however, and can sever an\nunwary victim's head with a single blow.\n\nBeing an insect, it also\nhas a hard exoskeleton and\ncan fly nimbly even through\nnarrow labyrinths. Females\neat the males, which\nkeeps their numbers low.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0175",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0176",
+      "en": "Roc",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0176",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0177",
+      "en": "Its most distinctive feature is\nits seemingly limitless size.\nIt soars leisurely near the\nstratosphere, then suddenly\nplummets with enough force to\nsplit the sky, seizes an elephant\nin its claws, and rises again.\n\nThe terror of a monstrous bird\nwith a wingspan exceeding a\nhundred meters crawling through\na labyrinth is beyond measure.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0177",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0178",
+      "en": "Gas Dragon",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0178",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0179",
+      "en": "Though its swollen body\nappears bloated with fat,\nmore than half of that\nbulk is actually gas,\nwhich it mercilessly\nexhales at adventurers.\n\nThis fast-acting poison has a\nlow fatality rate, but is more\nthan effective enough at\ndraining its victims' strength.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0179",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0180",
+      "en": "Dragonfly",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0180",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0181",
+      "en": "Menacing Breath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0181",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0182",
+      "en": "Dragon Melody",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0182",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0183",
+      "en": "A breath-using dragon\nsubspecies. It feeds on other\nmonsters and can be considered\nthe top of the food chain\namong lesser animal and\nplant monsters. Apart from\nits breath, it is weaker\nthan it looks. Calmly watch\nits flight path and strike,\nand it should be easily\ndefeated. Territorial disputes\nbetween it and Gas Dragons\nare often observed.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0183",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0184",
+      "en": "Wyvern",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0184",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0185",
+      "en": "Dragon's Cry",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0185",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0186",
+      "en": "Charge",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0186",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0187",
+      "en": "Take the Blow",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0187",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0188",
+      "en": "Considered a dragon subspecies,\nthough some claim it is merely\na huge flying lizard. Those\nsupporting the lizard theory\npoint out that it cannot use the\nbreath attacks characteristic\nof dragons. It firmly grips prey\nwith hooked claws and inflicts\nfatal wounds. Its tail also\nbears a sharp stinger harder\nthan its claws, apparently\nallowing it to stab its victims.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0188",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0189",
+      "en": "Dragon Puppy",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0189",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0190",
+      "en": "Dragon's Pride",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0190",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0191",
+      "en": "As the name suggests, it\nis an infant dragon,\nprobably a kind of White\nDragon. Though only about\nthe size of a Human\nchild, its breath is\npowerful. It is also\nfaster than one would\nexpect, making it difficult\nto land attacks on it.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0191",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0192",
+      "en": "Hydra",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0192",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0193",
+      "en": "Numbing Breath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0193",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0194",
+      "en": "Relentless Chain Assault",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0194",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0195",
+      "en": "Also known as the Nine\nDragons, or Kowloon. As that\nname suggests, it is a golden\ndragon with nine heads.\n\nIts astonishing regenerative\npower is said to allow\ntwo new heads to grow\nimmediately wherever\none has been severed.\n\nTheir numbers are small, so\nencounters with them are rare.\n",
+      "status": "review",
+      "note": "Kowloon follows the explicitly supplied pronunciation of the Nine Dragons alias.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0195",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0196",
+      "en": "Fire Dragon",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0196",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0197",
+      "en": "Dragon's Wrath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0197",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0198",
+      "en": "Winged Purge",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0198",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0199",
+      "en": "A famous dragon found\nthroughout the world,\nrepresentative of\ndragonkind. It exhales\nflames hot enough\nto vaporize iron.\n\nIt lacks a hydra's regenerative\nability, and its hide is not\nimpenetrable to swords. However,\nmerely getting close to it is\nso difficult that adventurers\nshould expect a hard battle.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0199",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0200",
+      "en": "Gold Dragon",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0200",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0201",
+      "en": "Dragon's Neigh",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0201",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0202",
+      "en": "Dragon's Fury",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0202",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0203",
+      "en": "Its golden scales and noble\nbearing give this dragon\nan almost divine aura.\nHighly intelligent, it\ncan converse with humans.\n\nEven if adventurers oppose\nit and somehow defeat it,\nit draws limitless vitality\nfrom the ground and\nrevives. To destroy it\ncompletely, it must be\ndragged into water.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0203",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0204",
+      "en": "Black Dragon",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0204",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0205",
+      "en": "Deep Darkness and Slumber",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0205",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0206",
+      "en": "Savage Tail",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0206",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0207",
+      "en": "Beautiful black scales like gemstones,\nand a blue mane that glimmers faintly.\n\nOrdinarily indifferent to\nhuman affairs, it nevertheless\nsometimes waits for\nadventurers in the labyrinth\nwith some purpose in mind.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0207",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0208",
+      "en": "Witch",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0208",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0209",
+      "en": "Wielding the lowest level\nof black magic, these women\nprey on the valuables of\nadventurers who appear\ninexperienced. Negotiation\nis possible, but they too\nare desperate to survive,\nso agreements are rarely\nreached. Adventurers unable\nto defeat even them should\nnot venture any farther.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0209",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0210",
+      "en": "Fighter",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0210",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0211",
+      "en": "Heavenly Sword Dance",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0211",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0212",
+      "en": "Once they aspired to become\nglorious adventurers, but\nthey lost their way and now\nattack other adventurers to\nrob them of their valuables.\n\nHowever, they lack sufficient\nexperience and their equipment\nis unimpressive, so they\nshould be easily defeated.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0212",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0213",
+      "en": "Priestess",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0213",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0214",
+      "en": "A female Priest is\ncalled a Priestess.\n\nSome attack adventurers for\nthe heretical gods they\nworship. Others were\nexcommunicated for breaking\nreligious rules... Each has\na purpose of her own. These\ndeeply devout women wield\nlow-level white magic and\nstrike with force comparable\nto front-row fighters.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0214",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0215",
+      "en": "Priest",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0215",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0216",
+      "en": "Like priestesses, these\nPriests challenge adventurers\nfor various reasons. Religious\nrules forbid them to carry\nbladed weapons, so they\nattack with blunt weapons\nsuch as maces. Wearing\nbreastplates and other armor\nto improve their defenses,\nthey confound adventurers\nwith low-level Priest spells.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0216",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0217",
+      "en": "Mage",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0217",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0218",
+      "en": "Like witches, most\nMages encountered\nin labyrinths are\nenemies of adventurers,\nwielding low-level\nattack magic.\n\nHowever, as Mages, they lack\nstamina and wear no armor\ncapable of withstanding direct\nattacks. They pose little\nthreat to adventurers with a\nreasonable amount of training.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0218",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0219",
+      "en": "Rogue",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0219",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0220",
+      "en": "The Rogues found in labyrinths\nlack a Fighter's strength\nand stamina, cannot use\nheavy equipment, and know\nlittle of magic. Instead,\nthey simply lay traps\nand wait for adventurers\nto fall into them.\n\nThey deliberately place monsters\nin an adventurer's path, then\nattack from behind once the\nvictim is exhausted by battle.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0220",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0221",
+      "en": "Assassin",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0221",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0222",
+      "en": "Having learned even a little\nof the Ninja's art, they\ncan sever an unwary\nadventurer's head in a single\nblow. Their extraordinary\nspeed easily evades a clumsy\nwarrior's sword, and they\nstrike faster than a Mage\ncan finish chanting.\n\nThey excel at fighting in\ngroups, using coordinated\nattacks to wipe out adventurers.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0222",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0223",
+      "en": "Samurai",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0223",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0224",
+      "en": "A swordsman whose rigorous spiritual\ntraining allows the use of black magic.\n\nFrom their state of mind to\ntheir sense of beauty, Samurai\npossess a distinctive outlook.\nEach serves a single lord and\nconsiders dying beautifully\na virtue. However, some have\nbeen completely consumed by\nevil and lost all sense of\nself. Be cautious when meeting\nSamurai in the labyrinth.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0224",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0225",
+      "en": "Berserker",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0225",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0226",
+      "en": "Do not assume an easy\nvictory merely because\nthey wear no armor.\n\nThey excel at controlling their\nodic energy. Though nearly\nhalf-naked, they protect themselves\nwith an invisible defense of\nthat energy, making them tougher\nthan lesser warriors. A single\nblow from a weapon cloaked in\nodic energy is said to shatter\nthe labyrinth's stone paving.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0226",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0227",
+      "en": "Bishop",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0227",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0228",
+      "en": "Bishops of the Quopati\nLegal Academy, servants of\na god... Even they sometimes\nsuccumb to greed and stray\nfrom the path. Though they\ndo not use every spell at\ntheir disposal, they\nremain troublesome enemies.\nIf a high-ranking Bishop\nbecomes an enemy, focus\nfirst and foremost on\nsealing their magic.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0228",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0229",
+      "en": "Crusader Lord",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0229",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0230",
+      "en": "Seal the Evil God",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0230",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0231",
+      "en": "As capable as a Lord, this\nwarrior annihilates adventurers\nwith a Fighter's swordsmanship\nand high defense while\nwielding advanced healing\nspells. Unafraid to lay\ndown their life for their\ngod's will, they rise\nagain however badly\nwounded. Anyone who\nencounters one should prepare\nfor a prolonged battle.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0231",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0232",
+      "en": "Dark Crusader",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0232",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0233",
+      "en": "A Dark Crusader has fallen\nentirely into darkness and\nattacks anyone without\nmercy. Perhaps betrayed by\nsomething they once believed\nin, or exploited by a demon\nthrough a weakness in\ntheir heart... Having lost\nall human reason, they\nare beyond negotiation.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0233",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0234",
+      "en": "Ninja",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0234",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0235",
+      "en": "Death Sentence",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0235",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0236",
+      "en": "Bomb Drop",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0236",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0237",
+      "en": "Explosive Wind God Slash",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0237",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0238",
+      "en": "The stealth arts originated in\nthe distant east. Once apparently\npassed down only among certain\nraces, they have since spread\nin altered forms throughout the\nworld. In close combat, Ninja\ntechniques can sever an adventurer's\nhead with bare hands. Their\nspeed leaves afterimages,\nallowing them to evade sword\nstrikes and spells with ease.\nA Ninja is an extremely dangerous\nand troublesome opponent.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0238",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0239",
+      "en": "Hatamoto",
+      "status": "review",
+      "note": "Hatamoto retained as the Japanese samurai retainer title; lore begins in next slice.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0239",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

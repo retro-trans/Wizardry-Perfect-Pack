@@ -1,0 +1,706 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E6800",
+      "en": "In any case, the seal is still barely holding.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6801",
+      "en": "So we must do everything we can to protect it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6802",
+      "en": "then either create a new seal or defeat that demon god.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6803",
+      "en": "Whichever it is,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6804",
+      "en": "I think we'll have to do one or the other...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6805",
+      "en": "Honestly, I'd prefer to settle this with a new seal.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6806",
+      "en": "As for the newly discovered town ruins,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6807",
+      "en": "we've learned that the place was called the @6rBahelmeja District@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6808",
+      "en": "Does that answer your questions?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6809",
+      "en": "For now, I'd like you to keep in regular contact.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6810",
+      "en": "As long as you're alive,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6811",
+      "en": "I intend to keep you working properly.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6812",
+      "en": "Was there any information about the sealed demon god?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6813",
+      "en": "When you asked, @7rBeatrix@0r shook her head regretfully.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6814",
+      "en": "Unfortunately, I have no information",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6815",
+      "en": "about exactly what sort of demon god is sealed away.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6816",
+      "en": "My adoptive father doesn't seem to know either...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6817",
+      "en": "This is only speculation, but perhaps \"demon god\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6818",
+      "en": "was a name chosen to make it easier for people to understand,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6819",
+      "en": "and something else entirely is sealed away.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6820",
+      "en": "Its threat was equal to a demon god's, so @7rChu Lu Gah@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6821",
+      "en": "simply explained it that way.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6822",
+      "en": "That would explain why no specific details",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6823",
+      "en": "survive in the legends. So we'll have to search for @7rChu Lu Gah@0r's research",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6824",
+      "en": "from here on.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6825",
+      "en": "If anything comes up, I'll post a job to have it investigated.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6826",
+      "en": "I'm counting on you when that happens. And if you find anything important,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6827",
+      "en": "please tell me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6828",
+      "en": "While we're on the subject, the light that made us think the seal had broken",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6829",
+      "en": "is still a mystery too.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6830",
+      "en": "At present, it hasn't caused any actual harm.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6831",
+      "en": "Of course, something may happen later,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6832",
+      "en": "but so far we've seen no effects from that light.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6833",
+      "en": "I don't know whether the light caused it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6834",
+      "en": "but the ruins of another town have been found.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6835",
+      "en": "They were discovered around the time that seal broke,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6836",
+      "en": "so I think there must be some connection...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6837",
+      "en": "We've learned, at least, that it was called the @6rBahelmeja District@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6838",
+      "en": "That's all for now. Since it's unexplored territory,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6839",
+      "en": "I think it will be worth investigating all sorts of things there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6840",
+      "en": "She was as demanding as ever.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6841",
+      "en": "Despite that thought, you nodded to her.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6842",
+      "en": "The fact that @7rChu Lu Gah@0r's seal was beginning to break",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6843",
+      "en": "posed a grave problem that had to be solved.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6844",
+      "en": "It might be inappropriate in the face of such a serious crisis,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6845",
+      "en": "but feeling your heart race at the thought of what was to come",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6846",
+      "en": "was part of being an adventurer.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6847",
+      "en": "Well, what would begin next?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6848",
+      "en": "Hoping for a job that would help resolve the crisis,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6849",
+      "en": "you settled into a seat at the tavern counter.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6850",
+      "en": "Welcome...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2045",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6851",
+      "en": "Oh... I haven't seen you before.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2046",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6852",
+      "en": "Did you lose your way and end up here?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2047",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6853",
+      "en": "You turn toward the unexpected voice.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2048",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6854",
+      "en": "Behind the counter stands a beautiful woman",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2049",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6855",
+      "en": "with an air that makes her difficult to approach.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2050",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6856",
+      "en": "My name is @7rBeatrix@0r... A pleasure.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2051",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6857",
+      "en": "It seems you've become trapped in this city too.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2052",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6858",
+      "en": "Does it sound strange to speak of being trapped by a city?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2053",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6859",
+      "en": "This city is bound by a curse cast long ago by the great mage @7rChu Lu Gah@0r,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2054",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6860",
+      "en": "and its people cannot reach the outside world.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2055",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6861",
+      "en": "Most of the residents, then, are descendants of the people",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2056",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6862",
+      "en": "who lived here when the curse took hold.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2057",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6863",
+      "en": "The rest are people like you, who wandered in from outside.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2058",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6864",
+      "en": "Some were curious souls who heard rumors of the curse and came to investigate;",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2059",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6865",
+      "en": "others simply lost their way and ended up here.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2060",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6866",
+      "en": "Some of those people search for a way out, but...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2061",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6867",
+      "en": "As you can imagine, no one has found one yet.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2062",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6868",
+      "en": "This city is unbelievably vast, and most of it",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2063",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6869",
+      "en": "has fallen into ruin because no one lives there.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2064",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6870",
+      "en": "You will have to make your life here too.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2065",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6871",
+      "en": "For the time being, you're free to do as you please.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2066",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6872",
+      "en": "Oh, yes. Judging by your appearance, you seem to be an adventurer...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2067",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6873",
+      "en": "I'm afraid I have some unfortunate news.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2068",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6874",
+      "en": "There is no Adventurers' Guild in this city.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2069",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6875",
+      "en": "But don't worry. That doesn't mean there is no work for adventurers.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2070",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6876",
+      "en": "We simply have no organization called an Adventurers' Guild.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2071",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6877",
+      "en": "There are plenty of jobs that need doing, from odd errands to exploration.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2072",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6878",
+      "en": "So my tavern gathers them together and passes them on.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2073",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6879",
+      "en": "Think of it as a place where people come",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2074",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ],
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E6801",
+    "E6802",
+    "E6803",
+    "E6806",
+    "E6807",
+    "E6810",
+    "E6814",
+    "E6815",
+    "E6818",
+    "E6819",
+    "E6820",
+    "E6821",
+    "E6822",
+    "E6823",
+    "E6824",
+    "E6826",
+    "E6827",
+    "E6828",
+    "E6829",
+    "E6831",
+    "E6832",
+    "E6833",
+    "E6834",
+    "E6835",
+    "E6836",
+    "E6838",
+    "E6842",
+    "E6843",
+    "E6844",
+    "E6845",
+    "E6846",
+    "E6848",
+    "E6849"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 50
+}

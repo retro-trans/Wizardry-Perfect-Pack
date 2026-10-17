@@ -1,0 +1,488 @@
+{
+  "translations": [
+    {
+      "id": "E2160",
+      "en": "Yay! I swear, you look positively divine right now!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2161",
+      "en": "Now, about the cellar's location.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2162",
+      "en": "Apparently, there's a sign nearby saying Morellen.",
+      "status": "translated",
+      "note": "Morellen is editorial Dutch place-name orthography; source identifies a nearby sign."
+    },
+    {
+      "id": "E2163",
+      "en": "It belonged to a distillery called Pezik on Morellen Street.",
+      "status": "review",
+      "note": "Pezik follows the source spelling rather than silently correcting it to Dutch Perzik."
+    },
+    {
+      "id": "E2164",
+      "en": "They say it was quite a large distillery.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2165",
+      "en": "That's all I've got to go on, though.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2166",
+      "en": "All right! Let's get going!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2167",
+      "en": "Whaaat?! Why, why, why?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2168",
+      "en": "It's legendary liquor! Legendary! Do you understand?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2169",
+      "en": "If it's fine liquor from three hundred years ago, it'll be worth a fortune!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2170",
+      "en": "This is treasure hunting by another name!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2171",
+      "en": "Change your mind and come with me!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2172",
+      "en": "No? Really, absolutely no? You won't?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2173",
+      "en": "Tch. You're no fun.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2174",
+      "en": "Well, let me know if you change your mind.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2175",
+      "en": "Hey, hey, hey! Listen, listen, listen!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2176",
+      "en": "There's this amazing rumor! It's legendary!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2177",
+      "en": "There's an ancient liquor cellar somewhere in @6rDiemen@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2178",
+      "en": "There might still be fine liquor from hundreds of years ago inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2179",
+      "en": "That's the rumor!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2180",
+      "en": "If it's been stored properly, it's bound to be good!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2181",
+      "en": "So will you help me look for it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2182",
+      "en": "I'll pay you well. Please? Please? Please?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2183",
+      "en": "Please! I'm begging you! Come to the labyrinth with me!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2184",
+      "en": "You pick up the reward left on the counter.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2185",
+      "en": "You obtained three bottles of @3rRestorative@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2186",
+      "en": "A grimy box sits on the counter.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2187",
+      "en": "Something appears to be written on it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2188",
+      "en": "\"Please deposit ten bottles of @3rHealing Salve Concentrate@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2189",
+      "en": "You will be suitably rewarded.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2190",
+      "en": "Nothing else is written there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2191",
+      "en": "Put the @3rHealing Salve Concentrate@0r in the box?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2192",
+      "en": "When you put the @3rHealing Salve Concentrate@0r in the box,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2193",
+      "en": "you hear a sound, and the bottom of the box opens.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2194",
+      "en": "There are items inside. This must be your reward.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2195",
+      "en": "You decide to leave it alone.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2196",
+      "en": "Something is written on the bottom.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2197",
+      "en": "\"We look forward to your next visit.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2198",
+      "en": "You do not have enough @3rHealing Salve Concentrate@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2199",
+      "en": "You decide to ignore the box.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2200",
+      "en": "Welcome back. Did everything go well?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2201",
+      "en": "You explain that you found an exit leading to @2rRukin@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2202",
+      "en": "reporting your discovery to @7rBeatrix@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2203",
+      "en": "So there was another town beyond the seal.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2204",
+      "en": "It's good to have more bases for our explorations.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2205",
+      "en": "We can't move our base to @2rRukin@0r just yet,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2206",
+      "en": "but I'll start preparing so we can move whenever we need to.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2207",
+      "en": "This is a wonderful discovery, and a major step forward.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2208",
+      "en": "I'll begin researching @2rRukin@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2209",
+      "en": "In any case, well done.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2210",
+      "en": "Here's your reward. Please take it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2211",
+      "en": "From @7rBeatrix@0r, you received a reward of @3r5,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2212",
+      "en": "Is the survey going well?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2213",
+      "en": "I'd like you to make progress without taking too long.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2214",
+      "en": "Oh? Have you decided to do it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2215",
+      "en": "Making a map is a simple but important job.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2216",
+      "en": "Where does @6rStrage Labyrinth@0r lead?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2217",
+      "en": "That's what I need you to find out.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2218",
+      "en": "Will you do it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2219",
+      "en": "It might be an easy job for you,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2220",
+      "en": "but it's an unfamiliar labyrinth. Don't let your guard down.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2221",
+      "en": "As far as I know, no adventurer",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2222",
+      "en": "has ever entered it. Naturally, there are no maps.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2223",
+      "en": "Of course, adventurers from @7rChu Lu Gah's@0r time",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2224",
+      "en": "may have explored it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2225",
+      "en": "Well, take care.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2226",
+      "en": "You have accepted a request to find where @6rStrage Labyrinth@0r leads",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2227",
+      "en": "and draw a map of the route.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2228",
+      "en": "I see. You won't accept...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2229",
+      "en": "There's no one else I can ask,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2230",
+      "en": "so please come and see me if you change your mind.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2231",
+      "en": "I have a job I'd like you to do.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2232",
+      "en": "There's a rumor that @6rStrage Labyrinth@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2233",
+      "en": "has a passage leading out somewhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2234",
+      "en": "I'd like you to draw a map so we can verify it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2235",
+      "en": "You don't need to map the whole labyrinth.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2236",
+      "en": "I just need a map that tells us",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2237",
+      "en": "where that passage leads.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2238",
+      "en": "May I ask you to do it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2239",
+      "en": "Welcome back. Where have you been?",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "context": "Fiore describes the distillery; a self-service box exchanges supplies; Beatrix requests a survey of Strage.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

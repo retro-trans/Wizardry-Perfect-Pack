@@ -1,0 +1,495 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E1520",
+      "en": "We cannot tell whether it still retains",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1521",
+      "en": "its power today.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1522",
+      "en": "It would be cruel to raise their hopes",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1523",
+      "en": "only to disappoint them. @7rCarmine@0r in particular would make a great fuss.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1524",
+      "en": "With that in mind, will you take the job?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1525",
+      "en": "What are you doing?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1526",
+      "en": "You're the only ones we can rely on now.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1527",
+      "en": "Please...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1528",
+      "en": "We don't know what will happen if this seal is broken.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1529",
+      "en": "The seal on the ruins themselves may still hold,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1530",
+      "en": "or the world may come to an end.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1531",
+      "en": "Unless we stop @7rGate Keeper@0r and @7rKey Master's@0r plot,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1532",
+      "en": "@7rChu Lu Gah's@0r seal will be broken,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1533",
+      "en": "and I fear the whole world will vanish, not just this city.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1534",
+      "en": "I feel awkward presenting this as a request from me,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1535",
+      "en": "but please think of it as a request from everyone in this city.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1536",
+      "en": "Please defeat @7rGate Keeper@0r and @7rKey Master@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1537",
+      "en": "and stop their plot.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1538",
+      "en": "Should something this important really be entrusted to mere adventurers?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1539",
+      "en": "When you ask, @7rBeatrix@0r smiles.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1540",
+      "en": "This may be our last gamble,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1541",
+      "en": "but I entrust this city's fate to you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1542",
+      "en": "If you give it everything you have and still fail, I can accept that.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1543",
+      "en": "We aren't up to the task. As far as I know,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1544",
+      "en": "you're the only ones I can entrust it to... Do your best.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1545",
+      "en": "I'm asking you too.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1546",
+      "en": "I'm sure you can defeat @7rGate Keeper@0r and @7rKey Master@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1547",
+      "en": "Give it your best shot.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1548",
+      "en": "But please don't push yourselves too hard.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1549",
+      "en": "Is that too much to ask?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1550",
+      "en": "But, um, anyway, please do your best without overdoing it!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1551",
+      "en": "I wish I could help,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1552",
+      "en": "but I'd only get in your way in a fight.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1553",
+      "en": "Like @7rTanya@0r said, don't push yourselves too hard.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1554",
+      "en": "...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1789",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1555",
+      "en": "Don't get yourselves killed.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1556",
+      "en": "There is clearly no room to refuse.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1557",
+      "en": "You must defeat @7rGate Keeper@0r and @7rKey Master@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1558",
+      "en": "Your objective could not be clearer.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1559",
+      "en": "You set out to find the two monsters,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1560",
+      "en": "heading into the final labyrinth.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1561",
+      "en": "You received @3rCrimson Flash@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1562",
+      "en": "You look pale. What happened?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1563",
+      "en": "You tell @7rBeatrix@0r and the others",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1564",
+      "en": "what @7rLady Marbas@0r said.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1565",
+      "en": "@7rLady Marbas@0r just vanished like that?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1566",
+      "en": "Then... did she die?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1567",
+      "en": "Unable to speak, you lower your head.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1568",
+      "en": "I see. Thank you for this valuable information, at any rate.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1569",
+      "en": "To think the monsters are becoming more active...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1570",
+      "en": "From now on, let's focus on protecting the settlement",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1571",
+      "en": "and avoid venturing too far into the labyrinths.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1572",
+      "en": "You did defeat @7rGate Keeper@0r and @7rKey Master@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1573",
+      "en": "You should be proud of your skills.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1574",
+      "en": "And... if @7rLady Marbas@0r is dead,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1575",
+      "en": "don't waste the lives she saved...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1576",
+      "en": "Here's your reward. Please take it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1577",
+      "en": "From @7rBeatrix@0r, you received a reward of @3r200,000 G@0r and @3rCrimson Flash@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1578",
+      "en": "@7rBeatrix@0r is right.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1579",
+      "en": "You cannot waste the lives @7rLady Marbas@0r saved.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1580",
+      "en": "She said one final seal still remains...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1581",
+      "en": "But where is it? And can you reach it in time?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1582",
+      "en": "No, there is still time.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1583",
+      "en": "Holding on to that belief, you rise",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1584",
+      "en": "to prepare for the final battle.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1585",
+      "en": "From @7rBeatrix@0r, you received a reward of @3r200,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1586",
+      "en": "We don't have time to take things slowly.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1587",
+      "en": "I have a favor to ask. May I?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1588",
+      "en": "I'd like you to check whether @7rChu Lu Gah's@0r seal",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1589",
+      "en": "has truly been broken.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1590",
+      "en": "If it hasn't been broken completely,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1591",
+      "en": "we might still be able to restore it, wouldn't you say?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1592",
+      "en": "It won't hurt to make certain.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1593",
+      "en": "I'm counting on you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1594",
+      "en": "@7rBeatrix's@0r relentless demands leave you speechless,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1595",
+      "en": "but she does have a point.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1596",
+      "en": "If the seal has not been broken completely,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1597",
+      "en": "it might still be possible to repair and reinforce it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1598",
+      "en": "You hesitate at the thought of returning to the seal in the depths,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1599",
+      "en": "but this is no time to indulge your preferences.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "context": "The residents entrust the city's fate to the party; Beatrix reacts to Lady Marbas's disappearance and asks for a seal check.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

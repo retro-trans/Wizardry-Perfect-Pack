@@ -1,0 +1,490 @@
+{
+  "translations": [
+    {
+      "id": "E1360",
+      "en": "Walnoot is walnut, and Laurier is bay laurel.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1361",
+      "en": "So there are places or boxes with those names?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1362",
+      "en": "There might be.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1363",
+      "en": "In any case, let's investigate a little more.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1364",
+      "en": "All right, I'll leave it to you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1365",
+      "en": "Oh, I haven't given you your reward yet. Thanks.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1366",
+      "en": "From @7rCarmine@0r, you received a reward of @3r45,000 G@0r and",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1367",
+      "en": "@3rFairy Gloves@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1368",
+      "en": "Once we've figured this out, I'll have another job for you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1369",
+      "en": "From @7rCyrus@0r, you received @3r45,000 G@0r.",
+      "status": "review",
+      "note": "Source explicitly identifies Cyrus as the reward-giver despite surrounding Carmine dialogue. Kept that source identity; may be a source inconsistency."
+    },
+    {
+      "id": "E1370",
+      "en": "Come on, quit dawdling! Let's go!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1371",
+      "en": "Ready to do it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1372",
+      "en": "Since you've come to talk to me,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1373",
+      "en": "I'm expecting a yes!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1374",
+      "en": "\"A house the lion gazes upon\" is hardly a precise clue.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "en": "It is surprising that anyone would set out on so little.",
+      "status": "review",
+      "note": "The omitted subject may refer to Carmine or the player's willingness to accompany her. This impersonal construction preserves the ambiguity; adjacent rows do not conclusively settle it.",
+      "id": "E1375",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E1376",
+      "en": "Half exasperated, you nod and agree to accompany her.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1377",
+      "en": "Thanks!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1378",
+      "en": "We'll find that house the lion gazes upon,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1379",
+      "en": "and get the truth about @7rChu Lu Gah's@0r seal out of that monster!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1380",
+      "en": "The monster has \"@7rLady@0r\" in its name,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1381",
+      "en": "so I think it's probably female. A Vampire Queen",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1382",
+      "en": "or something like that. You'd better be ready!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1383",
+      "en": "Hey, hold on.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1384",
+      "en": "Don't tell me you're backing out after we've come this far.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1385",
+      "en": "You'll ruin my plans!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1386",
+      "en": "I told you you're our main fighting force, didn't I?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1387",
+      "en": "What, have you suddenly got cold feet?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1388",
+      "en": "Anyway, we can't get anywhere without you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1389",
+      "en": "I'll wait until you're available.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1390",
+      "en": "Just don't keep us waiting so long",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1391",
+      "en": "that the city's seal is broken before we get started!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1392",
+      "en": "Hey, listen.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1393",
+      "en": "Apparently, when @7rChu Lu Gah@0r sealed off this city,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1394",
+      "en": "a certain monster helped him.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1395",
+      "en": "It seems the monster warned @7rChu Lu Gah@0r and made a pact with him.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1396",
+      "en": "And since it's a monster, it could still be alive.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1397",
+      "en": "Now, @6rDiemen@0r must have somewhere that @7rChu Lu Gah@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1398",
+      "en": "lived, or at least used as a hideout.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1399",
+      "en": "There has to be a place like that.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1400",
+      "en": "So I looked, but the only mention of @6rDiemen@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1401",
+      "en": "in @7rChu Lu Gah's@0r records was in",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1402",
+      "en": "those papers we found the other day.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1403",
+      "en": "Apparently, this monster called @7rLady Marbas@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1404",
+      "en": "provided him with a hideout.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1405",
+      "en": "It says @7rMarbas@0r liked a house the lion gazes upon,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1406",
+      "en": "and made it her home.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1407",
+      "en": "So all we have to do is find that house!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1408",
+      "en": "Sorry to ask again,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1409",
+      "en": "but would you come along as my bodyguards?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1410",
+      "en": "@7rChu Lu Gah's@0r final hope was this @3rKey@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1411",
+      "en": "What could that mean?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1412",
+      "en": "This... wasn't made by @7rChu Lu Gah@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1413",
+      "en": "It's probably a key from an earlier age.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1414",
+      "en": "So it's the key to the ancient ruins?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "en": "So it was protected with a lock rather than a seal?",
+      "status": "translated",
+      "id": "E1415",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E1416",
+      "en": "In that case, it seems we can't use this key yet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1417",
+      "en": "It will be needed at the very end.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1418",
+      "en": "Then we must protect @7rChu Lu Gah's@0r seal ourselves.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1419",
+      "en": "Does that mean we have to defeat @7rGate Keeper@0r and @7rKey Master@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1420",
+      "en": "who are plotting to break it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1421",
+      "en": "It does. Our first priority is to stop them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1422",
+      "en": "Let's defeat @7rGate Keeper@0r and @7rKey Master@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1423",
+      "en": "We can take our time reinforcing the seal afterward.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1424",
+      "en": "I see...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1425",
+      "en": "I'm sorry I sent you on what seems to have been a wasted journey.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1426",
+      "en": "Here's your reward for this job.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1427",
+      "en": "From @7rBeatrix@0r, you received a reward of @3r150,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1428",
+      "en": "Please use this reward to improve your equipment and so forth.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1429",
+      "en": "I'm sure the battle with @7rGate Keeper@0r and @7rKey Master@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1430",
+      "en": "will begin very soon...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1431",
+      "en": "@7rCarmine@0r, let's investigate this key!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1432",
+      "en": "Right. It's about the only thing",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1433",
+      "en": "we can do now.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1434",
+      "en": "As @7rBeatrix@0r and the others hurry off to their research,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1435",
+      "en": "@7rAnselm@0r quietly whispers in your ear.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1436",
+      "en": "You must defeat them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1437",
+      "en": "You are our last hope.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1438",
+      "en": "Do you understand? You must.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1439",
+      "en": "He must have wanted to make absolutely certain you understood.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "context": "Carmine explains the lion-house clue and Lady Marbas; the party concludes Gate Keeper and Key Master must be defeated.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact.",
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

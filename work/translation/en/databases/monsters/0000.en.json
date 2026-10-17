@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "DM0000",
+      "en": "Imp",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0000",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0001",
+      "en": "A low-ranking demon.\n\nWith no more stamina, strength,\nor magical ability than a\nnovice Mage, imps are easily\nexterminated. But weak\ndemons tend to gather in\npacks. Imagine how much pain\na horde of imps could cause\nif they all hurled fireballs\nat once... and take\nprecautions accordingly.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0001",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0002",
+      "en": "Gargoyle",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0002",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0003",
+      "en": "Though not particularly large,\nits body and wings are perfectly\nsuited to flying freely through\nnarrow labyrinths. Its claws can\neasily tear through human flesh,\nmaking them a serious threat. It\nalso possesses the spell resistance\ncharacteristic of demons and\noften appears in groups, making\nit a dangerous opponent early\nin an adventurer's career.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0003",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0004",
+      "en": "Dark Rider",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0004",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0005",
+      "en": "Confounding Charge",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0005",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0006",
+      "en": "Knightly Grace",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0006",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0007",
+      "en": "A knight riding a dark horse that\noccasionally emerges from the\nworld of the dead, beheads\nadventurers, then departs. This\nis a low-ranking demon, and\nordinarily an adventurer with a\nreasonable amount of skill should\nhave little trouble defeating it.\n\nHowever, groups sometimes\nstride through the labyrinth\nlike an order of knights,\nso caution is required.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0007",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0008",
+      "en": "Alp",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0008",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0009",
+      "en": "Petrifying Gaze",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0009",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0010",
+      "en": "Ensnare",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0010",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0011",
+      "en": "Retaliatory Kick",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0011",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0012",
+      "en": "It appears disguised as various\nanimals, including cats and\nbirds. It has a hat that\nrenders its body invisible, so\nit sometimes appears unseen.\n\nBy extending its long tongue or\ntransforming into mist or a\nsnake, it enters a sleeping\nperson's body through their mouth\nand inflicts terrible agony.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0012",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0013",
+      "en": "Incubus",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0013",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0014",
+      "en": "Alluring Embrace",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0014",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0015",
+      "en": "Elegant Counterattack",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0015",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0016",
+      "en": "A mid-ranking demon that drains\nhuman vitality, or odic energy,\nbringing its victims to death.\n\nThis energy-draining ability also\nsteals the experience and abilities\npeople have accumulated throughout\ntheir lives. Losing that experience\nmakes their movements sluggish,\nwhile the loss of odic energy places\ntheir very life force in peril.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0016",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0017",
+      "en": "Succubus",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0017",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0018",
+      "en": "Last Shred of Pride",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0018",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0019",
+      "en": "A succubus seduces men\nwith her exquisite\nappearance, breath,\ngaze, and lewd whispers.\n\nShe possesses a special ability\ncalled Energy Drain, which steals\nboth a person's vitality and all\ntheir experience. In addition to\nthe spell resistance characteristic\nof demons, she can wield a\ncertain range of spells herself.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0019",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0020",
+      "en": "Lesser Demon",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0020",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0021",
+      "en": "Terror and Binding",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0021",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0022",
+      "en": "Violence of the Demon Realm",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0022",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0023",
+      "en": "When a huge red fireball appears\nin the labyrinth, a Lesser\nDemon will likely materialize\na moment later. Experienced\nadventurers can exterminate\nthese creatures easily, provided\nthey prevent their numbers\nfrom growing. They also often\nappear alongside the pale\nblue fireballs that bring\nGreater Demons into being.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0023",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0024",
+      "en": "Arch Demon",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0024",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0025",
+      "en": "Demon's Mighty Arm",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0025",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0026",
+      "en": "A demon of this rank remains\nan unparalleled threat to\nhumanity even with most of\nits abilities sealed away.\n\nIt can cast spells and has\nstrong spell resistance, making\nmagic less effective against it.\nEven in physical combat, only\nadventurers hardened by\ncountless battles can hope to\nleave so much as a scratch.\n",
+      "status": "translated",
+      "note": "Meaning review: source says spells have difficulty affecting it, not that it is immune to magic.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0026",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0027",
+      "en": "Greater Demon",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0027",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0028",
+      "en": "Feast of Souls",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0028",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0029",
+      "en": "An opponent that demands vigilance\nnot only from seasoned adventurers,\nbut even from class masters.\nIts powerful spell resistance\nand relentless barrage of\nhigh-level attack spells alone\nguarantee a difficult fight. Its\nskin, harder than steel, halves\nthe force of most attacks, and\na single blow from its sharp\nclaws can cause paralysis.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0029",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0030",
+      "en": "Baphomet",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0030",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0031",
+      "en": "Confounding Embrace",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0031",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0032",
+      "en": "Terrifying Gaze",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0032",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0033",
+      "en": "Before adventurers, Baphomet\nassumes the form of a beautiful\nman capable of charming even\nother men. Only after enchanting\nthem does it reveal its true\nform. The enormous scythe in\nits hand can easily sever the\nhead of even a powerful man,\nyet every severed head retains\nan expression of ecstasy.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0033",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0034",
+      "en": "Demon Lord",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0034",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0035",
+      "en": "Quiet Silence",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0035",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0036",
+      "en": "Merciless Roar",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0036",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0037",
+      "en": "Sweeping Strike",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0037",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0038",
+      "en": "One of the highest-ranking demons,\nordinarily a being equal to a\ngod. However, the seal called\nthe Prison of the Old Ones\nrestrains it, allowing adventurers\ntrained to the utmost limits to\ndefeat it. Besides waves of\nsword strikes and spells unleashed\nby its four arms, it possesses\nthe spell resistance\ncharacteristic of demons and a\nvariety of special abilities.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0038",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0039",
+      "en": "Undead Goblin",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0039",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0040",
+      "en": "Devotion to Allies",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0040",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0041",
+      "en": "A goblin brought back to\nlife through sorcery.\n\nUnlike a zombie, it\nretains a measure of\nawareness and attacks\nwith weapons.\n\nUntil their bodies rot away\ncompletely, these creatures make\nexcellent sentries. Their putrid\nstench can supposedly be detected\nfrom far away in the labyrinth.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0041",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0042",
+      "en": "Undead Kobold",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0042",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0043",
+      "en": "A monster created when a dead\nkobold becomes a zombie.\n\nIts former fighting instincts\nlead it to carry a weapon,\nbut it is more likely to\nbite or grapple with its\nenemies than to swing it.\n\nIt never flees or concerns itself\nwith its body's limits, attacking\nrelentlessly. Novices will\nfind it a formidable opponent.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0043",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0044",
+      "en": "Grave Mist",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0044",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0045",
+      "en": "If you see drifting,\npale blue smoke giving\noff a faint glow... it\nis probably Grave Mist.\n\nSaid to be the souls of\nthe buried dead, these\nspirits may once have been\nrenowned adventurers...\n\nPerhaps clinging to an obsession\nfrom life, they often attack\nfellow adventurers in an\nattempt to possess them.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0045",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0046",
+      "en": "Skeleton",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0046",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0047",
+      "en": "The remains of an adventurer\nwho fell in the labyrinth.\nA specter has possessed\nthe corpse, or an evil\nmage has resurrected\nit as a monster.\n\nLike zombies, skeletons no longer\nfeel human pain. Their joints\nhave an even wider range of\nmovement than a zombie's, allowing\nthem to launch strange attacks\nthat cannot be anticipated.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0047",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0048",
+      "en": "Zombie",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0048",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0049",
+      "en": "Zombies devour the bodies,\nbrains, and entrails of the\nliving, trying to infect\ntheir victims and turn them\ninto more of their kind.\nTheir rotting bodies become\nimmobile within three months\nat most. However, labyrinths\nnever lack fresh corpses,\nso their zombie\npopulations never die out.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0049",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0050",
+      "en": "Vampire Bat",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0050",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0051",
+      "en": "Pack Instinct",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0051",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0052",
+      "en": "It hunts humans, flying silently\ntoward their throats and devouring\nflesh and bone alike. Its\nenormous, sharp fangs seem almost\ntoo large for its mouth to close.\nIt constantly drinks its prey's\nblood and circulates it throughout\nits wings before taking flight.\nIf deprived of blood for a\nlong period, its wings\napparently lose their firmness,\nleaving it unable to fly.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0052",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0053",
+      "en": "Vampire",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0053",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0054",
+      "en": "Ultrasonic Wave",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0054",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0055",
+      "en": "Counterattack",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0055",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0056",
+      "en": "Vampires reign at the pinnacle\nof the undead that exist\nin this world. Unlike other\nundead, they possess great\nintelligence and a distinctive\nculture. Their abilities\ninclude spells, Energy\nDrain, spell resistance,\nspecial attacks that cause\nparalysis and other\nailments, and astonishing\npowers of regeneration.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0056",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0057",
+      "en": "Web Spinner",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0057",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0058",
+      "en": "Though it resembles a spider,\nthis is an undead spirit.\nIts abdomen holds a mass of\nyoung spiders, each the size\nof a thumb. Mother and\noffspring attack together,\nseeking vitality, flesh, and\nblood. These young spiders\nserve as a kind of feeding\norgan for the main body.\n\nIt also possesses a powerful\nEnergy Drain ability.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0058",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0059",
+      "en": "Shade",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0059",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0060",
+      "en": "Shades are beings that dwell\nin darkness, their true bodies\nsealed within the Prison of the\nOld Ones. The shades that appear\nare something like spiritual\nprojections. They seem to\ndrain adventurers' life force\nand send it back to their\ntrue bodies behind the seal.\n\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0060",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0061",
+      "en": "Banshee",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0061",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0062",
+      "en": "Lamenting Lullaby",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0062",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0063",
+      "en": "It is said that a banshee's\nblazing red eyes weep\nfor those about to die.\nApparently once a kind\nof fairy, she is now\nclassed among the undead,\nperhaps because of her\nhabit of calling the\ndead. Being touched by\none of these beings\ncauses Energy Drain.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0063",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0064",
+      "en": "Mummy",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0064",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0065",
+      "en": "Deadly Poison Breath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0065",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0066",
+      "en": "Hatred of Life",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0066",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0067",
+      "en": "A mummy's hardened bandages\ncan withstand a sword blow.\nIts body is better preserved\nthan a zombie's, granting\nit considerable strength.\nIt moves faster than an\ninferior zombie and sometimes\nuses Energy Drain against\nthe living. Mummies are not\nparticularly numerous, so\nencounters with them are\nrare even in the labyrinth.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0067",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0068",
+      "en": "Jamm",
+      "status": "review",
+      "note": "Jamm is a provisional romanization of this headless statue monster; confirm against an established Wizardry name index.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0068",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0069",
+      "en": "A stone statue that roams the labyrinth.\n\nThese statues have no heads.\nThey wander through the labyrinth\nlooking for human heads to\nattach to their own bodies.\n\nSome adventurers have been attacked\nduring their travels and lost\ntheir heads to these creatures.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0069",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0070",
+      "en": "Giant Zombie",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0070",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0071",
+      "en": "Putrid Breath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0071",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0072",
+      "en": "An enormous zombie created\nby stitching together countless\nhuman corpses. One blow from\nits massive arm crumples\nan iron shield like a scrap\nof paper. However fine the\narmor, the body inside\nbursts like a water balloon.\nIts foul, deadly poisonous\nbreath is powerful enough\nto wipe out an entire\nparty in an instant.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0072",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0073",
+      "en": "Dragon Zombie",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0073",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0074",
+      "en": "A dragon revived through\nforbidden resurrection magic.\nIn addition to its spellcasting\nability, it attacks beyond\nits body's natural limits\nand breathes a deadly poison\nthat rots anything it\ntouches. Becoming undead\nhas made it extraordinarily\nformidable. It habitually\nkills adventurers and embeds\nthem in its own body to\nreplace missing parts.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0074",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0075",
+      "en": "Life Stealer",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0075",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0076",
+      "en": "Also known as a wight. Its true\nbody lies sealed within the\nPrison of the Old Ones. It\npossesses the corpses of royalty\nand other noble people, using\nthem to interfere in this world.\nIt casts both Mage and Priest\nspells and also unleashes a\ndevastating Energy Drain.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0076",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0077",
+      "en": "Mora",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0077",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0078",
+      "en": "Alluring Smile",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0078",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0079",
+      "en": "Frenzied Dance",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0079",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

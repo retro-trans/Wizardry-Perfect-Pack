@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "X0960",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0960",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0961",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0961",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0962",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0962",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0963",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0963",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0964",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0964",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0965",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0965",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0966",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0966",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0967",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0967",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0968",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0968",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0969",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0969",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0970",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0970",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0971",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0971",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0972",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0972",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0973",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0973",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0974",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0974",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0975",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0975",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0976",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0976",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0977",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0977",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0978",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0978",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0979",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0979",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0980",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0980",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0981",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0981",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0982",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0982",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0983",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0983",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0984",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0984",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0985",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0985",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0986",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0986",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0987",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0987",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0988",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0988",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0989",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0989",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0990",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0990",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0991",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0991",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0992",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0992",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0993",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0993",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0994",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0994",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0995",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0995",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0996",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0996",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0997",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0997",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0998",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0998",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X0999",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X0999",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1000",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1000",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1001",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1001",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1002",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1002",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1003",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1003",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1004",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1004",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1005",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1005",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1006",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1006",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1007",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1007",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1008",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1008",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1009",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal numbered voice-test cue label, not spoken dialogue.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1009",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1010",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1010",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1011",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1011",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1012",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1012",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1013",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1013",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1014",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1014",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1015",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1015",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1016",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1016",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1017",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1017",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1018",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1018",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1019",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1019",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1020",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1020",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1021",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1021",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1022",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1022",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1023",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1023",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1024",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1024",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1025",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1025",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1026",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1026",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1027",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1027",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1028",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1028",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1029",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1029",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1030",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1030",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1031",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1031",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1032",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1032",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1033",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1033",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1034",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1034",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1035",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1035",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1036",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1036",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1037",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1037",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1038",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1038",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1039",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test sound-effect cue label, not player-facing text.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1039",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

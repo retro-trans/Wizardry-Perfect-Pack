@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "X1040",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1040",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1041",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1041",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1042",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1042",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1043",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1043",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1044",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1044",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1045",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1045",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1046",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1046",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1047",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1047",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1048",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1048",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1049",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1049",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1050",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1050",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1051",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1051",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1052",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1052",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1053",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1053",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1054",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1054",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1055",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1055",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1056",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1056",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1057",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1057",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1058",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1058",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1059",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1059",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1060",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1060",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1061",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1061",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1062",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1062",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1063",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1063",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1064",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1064",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1065",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1065",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1066",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1066",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1067",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1067",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1068",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1068",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1069",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1069",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1070",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1070",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1071",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1071",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1072",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1072",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1073",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1073",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1074",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1074",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1075",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1075",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1076",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1076",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1077",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1077",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1078",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1078",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1079",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1079",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1080",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1080",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1081",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1081",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1082",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1082",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1083",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1083",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1084",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1084",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1085",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1085",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1086",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1086",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1087",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1087",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1088",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1088",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1089",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1089",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1090",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1090",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1091",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1091",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1092",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1092",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1093",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1093",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1094",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1094",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1095",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1095",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1096",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1096",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1097",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1097",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1098",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1098",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1099",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1099",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1100",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1100",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1101",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1101",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1102",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1102",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1103",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1103",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1104",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1104",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1105",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1105",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1106",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1106",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1107",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1107",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1108",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1108",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1109",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1109",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1110",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1110",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1111",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1111",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1112",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1112",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1113",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1113",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1114",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1114",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1115",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1115",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1116",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1116",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1117",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1117",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1118",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1118",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1119",
+      "en": null,
+      "status": "exclude",
+      "note": "Internal sound-test effect/ambience cue label describing sound-production settings.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1119",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "rows_in_slice": 54,
+  "rows_examined": 54,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "en": "Cartographer of the Labyrinth",
+      "status": "translated",
+      "id": "A02DQ0000",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "id": "A02DQ0001",
+      "en": "Beatrix",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0021",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I want you to find out\nwhat lies beyond that labyrinth.",
+      "status": "translated",
+      "id": "A02DQ0002",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find out\nwhat lies beyond Strage.",
+      "status": "translated",
+      "id": "A02DQ0003",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "A Use for the Key",
+      "status": "translated",
+      "id": "A02DQ0004",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "It sounds like Tanya needs something.\nPlease go and help her.",
+      "status": "translated",
+      "id": "A02DQ0005",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Ask Tanya what the job involves.",
+      "status": "translated",
+      "id": "A02DQ0006",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "A Use for the Key (Continued)",
+      "status": "translated",
+      "id": "A02DQ0007",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "id": "A02DQ0008",
+      "en": "Tanya",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0009",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I have a favor to ask. I want you to help me.",
+      "status": "translated",
+      "id": "A02DQ0009",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Head to Strage with Tanya.",
+      "status": "translated",
+      "id": "A02DQ0010",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Lady Marbas's Request",
+      "status": "translated",
+      "id": "A02DQ0011",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "id": "A02DQ0012",
+      "en": "Carmine",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0005",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I've got a request asking for you by name.\nInterested?",
+      "status": "translated",
+      "id": "A02DQ0013",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find the Jewelry Box in Graham Rootze\nand give it to Lady Marbas.",
+      "status": "translated",
+      "id": "A02DQ0014",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "The Right Way to Use the Key",
+      "status": "translated",
+      "id": "A02DQ0015",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "I want to find an ancient temple and retrieve something.\nWould you act as my escort?",
+      "status": "translated",
+      "id": "A02DQ0016",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find the ancient temple\nsaid to be in Graham Rootze.",
+      "status": "translated",
+      "id": "A02DQ0017",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "To Save the City of Ghosts",
+      "status": "translated",
+      "id": "A02DQ0018",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "I'm planning to make a new weapon.\nI'd like you to gather the materials.",
+      "status": "translated",
+      "id": "A02DQ0019",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find Iron Ore, a Crystal Fragment, Steel, Fire Ore and\na Golden Branch in Upper Graham, then give them to Carmine.",
+      "status": "translated",
+      "id": "A02DQ0020",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "The Reward for Betrayal",
+      "status": "translated",
+      "id": "A02DQ0021",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "id": "A02DQ0022",
+      "en": "Anselm",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0017",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I want to renew the seal.\nI must hurry to the gate, so I need an escort.",
+      "status": "translated",
+      "id": "A02DQ0023",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Go to the Otherworld Gate,\nsaid to be on the lowest level of Graham.",
+      "status": "translated",
+      "id": "A02DQ0024",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "For Having Unleashed Everything.",
+      "status": "review",
+      "note": "Literal title; causal versus purposive nuance remains uncertain in the ending context.",
+      "id": "A02DQ0025",
+      "context": "Independent review of all 113 additional quest rows by events_last, with event scene comparisons. Correct fairy wing ingredient and retain unresolved ending-title nuance."
+    },
+    {
+      "en": "Guard us at the Otherworld Gate,\nthen defeat Gate Keeper and Key Master.",
+      "status": "translated",
+      "id": "A02DQ0026",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Defeat Gate Keeper and Key Master\non the lowest level of Graham.",
+      "status": "translated",
+      "id": "A02DQ0027",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Treasure Hunt",
+      "status": "translated",
+      "id": "A02DQ0028",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Let's hunt for treasure and strike it rich together!",
+      "status": "translated",
+      "id": "A02DQ0029",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find the treasure said to be in Strage.",
+      "status": "translated",
+      "id": "A02DQ0030",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "A Pink Rabbit Wanders the Labyrinth",
+      "status": "translated",
+      "id": "A02DQ0031",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "The pink bunny's gone missing!\nPlease help me look for it!",
+      "status": "translated",
+      "id": "A02DQ0032",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find the bunny thought to have fled\ninto Upper Graham Rootze.",
+      "status": "translated",
+      "id": "A02DQ0033",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Labyrinth Delivery Service",
+      "status": "translated",
+      "id": "A02DQ0034",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "id": "A02DQ0035",
+      "en": "Fiore",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0001",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I've started a delivery service.\nWould someone give me a hand?",
+      "status": "translated",
+      "id": "A02DQ0036",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Give healing items to the people awaiting rescue\nin Middle Graham Rootze.",
+      "status": "translated",
+      "id": "A02DQ0037",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find Their Weakness!",
+      "status": "translated",
+      "id": "A02DQ0038",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "id": "A02DQ0039",
+      "en": "Cyrus",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0013",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I want you to help me find an item\nthat demons can't stand.",
+      "status": "translated",
+      "id": "A02DQ0040",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find the item said to repel demons\nin Lower Graham Rootze.",
+      "status": "translated",
+      "id": "A02DQ0041",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "The Revenge Trap",
+      "status": "translated",
+      "id": "A02DQ0042",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Someone asked me to help with their revenge...\nI'm nervous. Would someone come with me?",
+      "status": "translated",
+      "id": "A02DQ0043",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Head to Strage with Tanya.",
+      "status": "translated",
+      "id": "A02DQ0044",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "The Reward for Danger",
+      "status": "translated",
+      "id": "A02DQ0045",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Fiore Delivery Service is back!\nWould someone lend me a hand again?",
+      "status": "translated",
+      "id": "A02DQ0046",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Deliver the item to the spellcaster\nin Upper Graham.",
+      "status": "translated",
+      "id": "A02DQ0047",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Let's Make a Charm",
+      "status": "translated",
+      "id": "A02DQ0048",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "I want to do what I can right now.\nPlease help me.",
+      "status": "translated",
+      "id": "A02DQ0049",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Obtain Fenodyree's Beard, The Pretty's Wing,\nHylde Moer's Tears and a Cockatrice Feather in Lower Graham,\nthen give them to Cyrus.",
+      "status": "translated",
+      "id": "A02DQ0050",
+      "context": "Independent review of all 113 additional quest rows by events_last, with event scene comparisons. Correct fairy wing ingredient and retain unresolved ending-title nuance."
+    },
+    {
+      "en": "Fiore the Savior!?",
+      "status": "translated",
+      "id": "A02DQ0051",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "I've heard about a jar that grants any wish!\nWould anyone like to go check it out with me?",
+      "status": "translated",
+      "id": "A02DQ0052",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    },
+    {
+      "en": "Find the demon god said to grant any wish\nin Upper Graham.",
+      "status": "translated",
+      "id": "A02DQ0053",
+      "context": "Scenario 3 quest titles, client requests and objectives checked with surrounding client/title fields and shared event terminology. Location layers, requested ingredients and recipient identities retained. Original line counts preserved."
+    }
+  ],
+  "context_note": "Independent review of all 113 additional quest rows by events_last, with event scene comparisons. Correct fairy wing ingredient and retain unresolved ending-title nuance."
+}

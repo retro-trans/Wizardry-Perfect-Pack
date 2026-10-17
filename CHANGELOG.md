@@ -1,0 +1,106 @@
+# Changelog
+
+## 0.1.10 — 2026-10-17
+
+- Add `v0.1.10` and `github.com/retro-trans` at the title screen's bottom right, using native text measurement, gray text and a black shadow. Preserve the copyright, title atlas and other menus.
+- Prepare the first public English patch for the Perfect Pack NPJB00162 install package. Map the translated executable to normal EBOOT.BIN for RPCS3 installation; preserve the separate game and all unselected package payloads.
+- Adopt the Macross Triangle Frontier repository/release layout: English-only sources, glossary, tools, MIT licence, contribution guide, release manifests, xdelta and full patch-round-trip verification through Retro Trans Tools.
+- Retain the subtitle opening, anonymous-narration wrapping and all prior UI fixes. This remains an early translation build with review flags and incomplete playthrough coverage; stock PS3 firmware is unsupported.
+
+## 0.1.9 — 2026-10-17 (local draft)
+
+- Fix intro narration still clipping after the previous dialogue changes. Empty/anonymous speaker commands branch to a separate Show call before the ordinary/typewriter wrapping hook, so the earlier helper never ran for these passages.
+- Hook the assembled anonymous-narration call at `0xa6084`. Reflow complete text within 896px and three lines per page, preserving its original centered `0xf0` flags, color controls and event-owned final acceptance. Wait only between extra pages; fitting passages retain the original native call.
+- Add regressions for the exact despair and labyrinth paragraphs and prove that the actual intro commands select the formerly unhooked branch. Execute the emitted bridge with hostile register/stack clobbers and check every guarded byte, the original fallback and final script wait.
+- Pass 14 host-native dialogue/narration cases, the 5,222-paragraph corpus audit, nine battle cases, eleven runtime regressions and three focused narration tests. Keep the subtitle opening and all previous UI fixes. Updated in-game wrapping remains pending.
+- Independently verify all 636 overlay files, the anonymous Show hook and unchanged final script wait. Atomically stage only the executable; all other test files match. Update the launcher without interrupting the active game, saves or controller settings. Restart is required to load the fix.
+
+## 0.1.8 — 2026-10-17 (local draft)
+
+- Replace the opening's black narration cards with bottom-aligned English subtitles at the user's request. Use white 36px text with a black outline and at most two lines; remove every narration plate and title mask so the original imagery, Japanese lettering and logo remain visible.
+- Split display text into 12 timed subtitle segments while preserving every word of the seven canonical narration/title translations. Export an SRT sidecar for inspection.
+- Check timing, safe bounds, full wording and that the subtitle painter changes no central artwork. Rebuild and independently verify the movie's complete decode, packet/frame timing and original audio/container preservation.
+- Keep all prior game text and layout fixes. Update the local test launcher after verifying the new overlay; in-game playback remains pending.
+- Independently verify the 636-file overlay and all 2,210 decoded video frames. Only the opening movie differs in the existing test copy; the launcher applies it after the current emulator session closes, preserving progress and controller settings.
+
+## 0.1.7 — 2026-10-17 (local draft)
+
+- Replace six burned-in Japanese opening narration cards with English cards and replace the subtitle beneath the Wizardry logo. Follow the existing name glossary; preserve the complete narration.
+- Preserve every original audio packet, container header, timestamp, access map, and video access-unit allocation. Restore compatible source VUI/HRD and timing SEI after encoding; use single-slice video to fit the smallest held pictures.
+- Check all seven English text bounds and visually inspect decoded narration/title frames. Independently decode all 2,210 pictures and require identical packet/frame timing, picture types and geometry, with no decode errors.
+- Include the verified movie in the local overlay and update the test launcher. Preserve the active emulator session, saves and controller settings; the movie applies when the previous test session closes. Updated in-game playback and listening remain pending.
+- Independently verify all 636 overlay files. The staging dry run finds only `USRDIR/movie/opening.pam` differs; all 635 existing overlay files already match, so the launcher will apply only the movie.
+
+## 0.1.6 — 2026-10-17 (local draft)
+
+- Wrap all 20 skill-description display copies within the 264px status panel at the existing 22px text size. Preserve every word and canonical translation; the longest needs five lines.
+- Fit complete inventory names within their list rows using native font measurements. Keep the original text height and reserve space for stacked-item quantities.
+- Restore the complete Unidentified label through late expansion after the native ten-byte source copy. Avoid changing the native buffer sizes or truncating English.
+- Save the two actual user screenshots and status/item geometry. Pass seven inventory tests including 84 instruction-executed cases and 1,716 corpus width cases, four skill tests, three spell regressions, ten runtime regressions and resolver checks for 19 copied labels plus three immediate labels.
+- Independently verify the 635-file overlay, all 20 stored skill descriptions and the guarded inventory call. Atomically stage only the executable and update the launcher while preserving saves and controller settings. Updated in-game visual acceptance remains pending.
+
+## 0.1.5 — 2026-10-17 (local draft)
+
+- Fit the full Summoner school label before the first MP number while keeping MP digits at their original size.
+- Reflow spell-description display copies to a 352px width. All 89 descriptions fit within six lines; 87 display copies change their line breaks. Use 24px horizontal / 22px vertical size and a 23px line pitch. Preserve every word and the canonical translations' authored newlines.
+- Align the quest header using “Level” and center Status over its column. Remove decorative brackets that overlap Accepted and restore complete status strings through late aliases for Complete and Not Accepted.
+- Move Slow 24px right in every selected/unselected settings path, preserving option text and colors.
+- Wrap the complete formatted battle reward inside the narrow message box. Expand item-name tokens before layout, preserve hard line breaks and colors, show at most three lines per page, and retain the original final-page wait. Use native waits only between additional pages; keep the final two words together where possible.
+- Pass ten runtime regressions, nine host-native battle cases, the eleven dialogue cases and 5,222-paragraph regression audit, three spell corpus/preservation tests, ten measured panel cases, and resolver checks for 18 copied labels plus three immediate labels.
+- Independently verify the 635-file overlay, all 94 stored spell-description fields, six panel instruction changes and the battle Show/Wait boundary. Atomically stage only the executable and update the launcher. Updated gameplay appearance remains pending.
+
+## 0.1.4 — 2026-10-17 (local draft)
+
+- Fix the reported item-screen overlaps. Fit full class, status, monster-type and bonus labels inside their existing cells using native measurement; retain cell centers, row spacing and selected colors. Use 22px height and reduce horizontal size only when required.
+- Move all four armor/accessory preview stat label/value pairs 80px right into their panel; preserve their vertical positions and the separate weapon/miscellaneous branches.
+- Extend late expansion to seven preview labels whose native byte copies omitted English terminators. Replace narrow item headings with “Slot” and “Effects” and the footer with “Organize”.
+- Recover and translate Hands, Feet and Head slot labels assembled from immediate UTF-8 bytes in code. Add three source rows, bringing the inventory to 11,387 rows / 16,638 occurrences and 10,796 English drafts.
+- Save the three actual screenshots and measured item UI geometry. Pass 53 item-layout checks, 58 previous menu checks, 17 runtime/guard unit tests including 84 instruction-executed sizing scenarios, and resolver checks for 16 copied labels plus three immediate labels.
+- Independently verify the 635-file overlay, seven fitting groups and four preview rows. Atomically stage only the changed executable and update the launcher; saves and controller settings are preserved. Updated in-game appearance remains pending.
+
+## 0.1.3 — 2026-10-17 (local draft)
+
+- Fix the reported registration, party and class overlaps with measured compact labels and class descriptions. Restore the full Samurai and Register labels. Correct the roster's inherited “Medium” alignment to “Neut.”.
+- Preserve original terminated bytes for nine labels copied by native fixed-size instructions; expand their English text at the final font boundary. This also fixes the equipment header reading the previous item's `030~` token suffix.
+- Authenticate and inventory all 14 protected dungeon archives. Translate 13 newly recovered location names, including Bofonkerk and Labyrinth of Lingering Souls. Use compact shared display names where the dungeon header must also fit an area number.
+- Redirect the verified dungeon pathname to ordinary ENC files. Preserve all floor records, binary metadata and background members; leave the original EDAT files intact.
+- Expand the inventory to 11,384 rows / 16,635 occurrences: 10,793 English drafts and 591 internal/parser exclusions, with 448 review-status entries.
+- Pass eight runtime-wrapper regressions, three dungeon authentication/loader regressions, 17 native resolver edge cases, nine original-sized label-copy cases, the reused equipment-buffer regression, and 58 font-width checks. Independently verify the 635-file overlay and unchanged non-text content.
+- Save the five actual user screenshots and measured UI geometry. Prepare the launcher to apply the 15 differing files after this project's emulator closes, preserving saves and controller settings. Updated in-game visual confirmation remains pending.
+
+## 0.1.2 — 2026-10-17 (local draft)
+
+- Reflow event dialogue and narration inside the standard message box using native font measurements at 32px and an 896px inner width. Keep three visible lines per page and use the native advance action for overflow pages.
+- Lay out the complete paragraph after actor substitutions; preserve source records, translation wording, event branches, color controls and typewriter behavior. Retain authored blank-line boundaries as page boundaries.
+- Guard the native 128-byte line slots and account for brackets expanded into color tags. Support two-digit color controls and UTF-8 boundaries.
+- Add a guarded event presenter bridge that preserves registers, linkage, condition flags and the original paths for fitting paragraphs.
+- Pass seven runtime-code regression tests, eleven native C layout cases and a 5,222-paragraph corpus audit. The audit reflows 1,143 groups without dropping or reordering text; both reported passages fit one three-line page.
+- Build and independently verify the 621-file overlay, then atomically update only the staged executable. Existing game sessions, controller settings and saves are preserved; restart is required. In-game visual confirmation remains pending.
+
+## 0.1.1 — 2026-10-17 (local draft)
+
+- Fix the New Game crash in the database text renderer hook. The positioned drawing function at `0x164ea4` receives its UTF-8 string in r6 and x/y coordinates in r4/r5; the old wrapper dereferenced x=107 as address `0x6b`. Correct the register mapping and add a regression against the original caller/callee instructions.
+- Build and independently verify the 621-file overlay, including 2,417 relocated database fields. Refresh the isolated test game while preserving its controller profile and save data.
+- Add the seven Perfect Pack bonus-item rows and their 12 stored text fields; include `ppdata.enc` in relocation and independent non-text preservation checks.
+- Apply independent context-review corrections to 15 event entries, four bestiary/item entries and two quest entries; retain uncertain readings as review items.
+- Complete decisions for 11,371 rows: 10,780 English drafts and 591 internal/parser exclusions. Record 448 review-status entries and 450 review notices.
+- Retain exact-source provenance for all 6,092 reused decisions, including the recovered station event. Newly authored decisions total 5,279.
+- Expand the source-backed database-name glossary to 524 entries. Add census, format, local-testing and translation-status documentation.
+- Extend the font audit to check all 96 codepoints used by the English drafts; all are present in the original font.
+- Save the actual English title screenshot and measured coordinates. Record that automated Start input also fails with the untouched original executable; menu/database runtime acceptance remains pending.
+- Add versioned local overlay verification, isolated staging refresh and CRC-checked local bundle tooling.
+- Add a double-click launcher for the existing staged 0.1.0 test checkpoint and separate play instructions from the unbuilt 0.1.1 workflow.
+
+## 0.1.0 — 2026-10-17 (local checkpoint)
+
+- Identify the supplied install disc as BLJM61008 and isolate its NPJB00162 Prisoners of the Lost City package; leave NPJB00163 unchanged.
+- Add a bounded ISO9660 reader supporting the package's two extents; extract originals only under ignored local source storage.
+- Inventory 613 event scripts including an authenticated protected station event, executable text, trophies, base databases and both additional-scenario databases.
+- Export 11,364 contextual rows and reuse 6,092 exact-source decisions from the neighboring project, retaining provenance and uncertainty.
+- Build an inherited/researched glossary with additional-scenario terms and 521 source-backed item, monster and spell name entries.
+- Draft additional-scenario dialogue, narration, choices, items, bestiary lore and quest text in English; preserve functional puzzle answers and mark localizations requiring runtime checks.
+- Port executable relocation and three renderer hooks to the Perfect Pack executable; support added database archives without changing IDs, record sizes or non-text fields.
+- Retain full English strings in relocated storage rather than truncating to Japanese byte slots.
+- Add local validation and reversible generation of graphics/metadata. Runtime layout, movie captions and full playthrough remain separate acceptance work.
+
+The 0.1.0 snapshot contains 620 overlay files and predates the bonus-item export and final review corrections. Final contents and outstanding issues belong in each build manifest and the translation status report.

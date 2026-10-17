@@ -1,0 +1,210 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 100,
+  "context": "Fiore's failed savior quest and tavern teasing; abandoned laboratory and Fiore's abduction. Adjacent E2870-E2879 and E2960-E2969 reviewed.",
+  "decisions": "Imported rows preserved. New rows retain sentence breaks, including E2880 and E2892-E2893. Balmar Guard follows provisional glossary spelling. The trapezoid clue preserves all shapes and counts.",
+  "provenance": "Eleven exact-match imported rows preserved; 69 new English translations from Japanese source with adjacent context reviewed.",
+  "translations": [
+{"id":"E2880","en":"and I do feel sorry for her, but business is business.","status":"translated"},
+{"id":"E2881","en":"You have to pay what you owe.","status":"translated"},
+{"id":"E2882","en":"Waaaaaaaah!","status":"translated"},
+{"id":"E2883","en":"Talk about adding insult to injury!","status":"translated"},
+{"id":"E2884","en":"I'm never dreaming of being the savior again!","status":"translated"},
+{"id":"E2885","en":"As your reward, @7rFiore@0r reluctantly handed you @3r8,801 G@0r and","status":"translated"},
+{"id":"E2886","en":"a @3rBalmar Guard@0r.","status":"translated"},
+{"id":"E2887","en":"From now on, I'll work hard and earn an honest living!","status":"translated"},
+{"id":"E2888","en":"No chance. Tomorrow you'll be dreaming of getting rich quick again.","status":"translated"},
+{"id":"E2889","en":"Am I doomed to be a loser forever?!","status":"translated"},
+{"id":"E2890","en":"Why was I born under such an unlucky star?!","status":"translated"},
+{"id":"E2891","en":"Somebody heeeeelp me!","status":"translated"},
+{"id":"E2892","en":"As your reward, @7rFiore@0r gave you @3r8,801 G@0r,","status":"translated"},
+{"id":"E2893","en":"though she was very reluctant to hand it over.","status":"translated"},
+{"id":"E2894","en":"Anyway, let's find that trapezoid tablet in upper @6rGraham Labyrinth@0r!","status":"translated"},
+{"id":"E2895","en":"Come on, get to work for your future savior!","status":"translated"},
+{"id":"E2896","en":"You coward!","status":"translated"},
+{"id":"E2897","en":"Are you that unhappy about me becoming the savior?","status":"translated"},
+{"id":"E2898","en":"Or have you changed your mind about helping?","status":"translated"},
+{"id":"E2899","en":"You have, haven't you? Right? Right? Riiiight?","status":"translated"},
+{"id":"E2900","en":"See? Those who believe shall be saved!","status":"translated"},
+{"id":"E2901","en":"@7rCarmine@0r and the others who didn't believe","status":"translated"},
+{"id":"E2902","en":"will go down in history as fools who doubted the savior.","status":"translated"},
+{"id":"E2903","en":"Who's supposed to be the savior?!","status":"translated"},
+{"id":"E2904","en":"M-E!","status":"translated"},
+{"id":"E2905","en":"Don't come crying to me later!","status":"translated"},
+{"id":"E2906","en":"Anyway, here's the rumor I heard.","status":"translated"},
+{"id":"E2907","en":"\"Break the trapezoid tablet in the upper levels of @6rGraham Labyrinth@0r","status":"translated"},
+{"id":"E2908","en":"to make three triangles and one large triangle.\"","status":"translated"},
+{"id":"E2909","en":"Anyway, let's find that tablet in @6rGraham@0r Labyrinth!","status":"translated"},
+{"id":"E2910","en":"Oh, come on! A hero can't be so reluctant!","status":"translated"},
+{"id":"E2911","en":"Please? Please? Pleeease?! Let's have an adventure!","status":"translated"},
+{"id":"E2912","en":"Come on, it'll be fine!","status":"translated"},
+{"id":"E2913","en":"We might be able to save the world, you know!","status":"translated"},
+{"id":"E2914","en":"Let's try anything that has a chance of working! Okay?","status":"translated"},
+{"id":"E2915","en":"No? Seriously? You're really saying no?","status":"translated"},
+{"id":"E2916","en":"It's no, no, no, is it?! Honestly!","status":"translated"},
+{"id":"E2917","en":"When you failed to give her the answer she wanted,","status":"translated"},
+{"id":"E2918","en":"@7rFiore@0r stomped off in a huff.","status":"translated"},
+{"id":"E2919","en":"Hey, hey, hey! Listen! Listen to me already!","status":"translated"},
+{"id":"E2920","en":"I've found another way to save this town!","status":"translated"},
+{"id":"E2921","en":"Another way to save the town?","status":"translated"},
+{"id":"E2922","en":"At those words, everyone present suddenly perked up.","status":"translated"},
+{"id":"E2923","en":"Deep in @6rGraham Labyrinth@0r, there's a sealed jar","status":"translated"},
+{"id":"E2924","en":"that's supposed to grant any wish!","status":"translated"},
+{"id":"E2925","en":"Oh, that old story.","status":"translated"},
+{"id":"E2926","en":"People have been saying that for ages,","status":"translated"},
+{"id":"E2927","en":"but wasn't it supposed to be pretty dubious?","status":"translated"},
+{"id":"E2928","en":"Yes. There aren't any concrete clues or anything.","status":"translated"},
+{"id":"E2929","en":"Even I know that!","status":"translated"},
+{"id":"E2930","en":"But what if I told you I'd got hold of that crucial information?","status":"translated"},
+{"id":"E2931","en":"...What would you say?","status":"translated"},
+{"id":"E2932","en":"Don't worry. That information's dubious too...","status":"translated"},
+{"id":"E2933","en":"What?! You didn't even hesitate!","status":"translated"},
+{"id":"E2934","en":"It's not dubious, I tell you!","status":"translated"},
+{"id":"E2935","en":"It's worth investigating! Right? Right? Come on!","status":"translated"},
+{"id":"E2936","en":"Hey, you believe me, don't you?","status":"translated"},
+{"id":"E2937","en":"Come and investigate it with me!","status":"translated"},
+{"id":"E2938","en":"At times like this, you're supposed to clutch at straws, right?!","status":"translated"},
+{"id":"E2939","en":"Anyway, let's find that tablet in @6rGraham@0r Labyrinth!!","status":"translated"},
+{"id":"E2951","en":"Aaaaah! What do you think you're doing?!","status":"translated"},
+{"id":"E2952","en":"Go away! Get away from me! Stay baaaaack!","status":"translated"},
+{"id":"E2953","en":"H-hey! Watch where you're touching me!","status":"translated"},
+{"id":"E2954","en":"You turned at the piercing screams","status":"translated"},
+{"id":"E2955","en":"to see a group carrying a bound @7rFiore@0r","status":"translated"},
+{"id":"E2956","en":"as they hurried into the darkness of the ruins.","status":"translated"},
+{"id":"E2957","en":"Oh, no! Oh, no!","status":"translated"},
+{"id":"E2958","en":"This time it's a real kidnapping!","status":"translated"},
+{"id":"E2959","en":"They've taken @7rFiore@0r away!","status":"translated"},
+    {
+      "id": "E2940",
+      "en": "Compared to the other abandoned houses you have seen,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1072",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2941",
+      "en": "the contents of this building are relatively well preserved.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1073",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2942",
+      "en": "This seems to be the research facility you are looking for.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1074",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2943",
+      "en": "Strange equipment and measuring cups that show their age",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1075",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2944",
+      "en": "lie scattered everywhere.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1076",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2945",
+      "en": "Is this really @7rChu Lu Gah's@0r laboratory?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1077",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2946",
+      "en": "There is nothing anywhere that would prove it for certain.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1078",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2947",
+      "en": "The only clue to its age",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1079",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2948",
+      "en": "is the staggering amount of dust piled over everything.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1080",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2949",
+      "en": "If you carelessly stir it up,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1081",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E2950",
+      "en": "it would probably become impossible to see anything at all.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1082",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

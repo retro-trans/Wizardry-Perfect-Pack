@@ -1,0 +1,489 @@
+{
+  "translations": [
+    {
+      "id": "E2560",
+      "en": "You can't? Really?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2561",
+      "en": "I see... That's a little disappointing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2562",
+      "en": "It can't be helped. I'll wait until you have time.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2563",
+      "en": "It's all right.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2564",
+      "en": "I won't get in your way, so don't worry about me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2565",
+      "en": "I'll just keep waiting.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2566",
+      "en": "There's something I'd like to talk about.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2567",
+      "en": "Will you listen?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2568",
+      "en": "@7rTanya@0r sounds unusually formal,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2569",
+      "en": "and you find yourself nodding before you can help it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2570",
+      "en": "You see, I heard a rumor about some treasure.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2571",
+      "en": "I looked into it carefully,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2572",
+      "en": "and I found the place where I think it must be.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2573",
+      "en": "So, if you don't mind,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2574",
+      "en": "I'd like you to go treasure hunting with me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2575",
+      "en": "I'll give you half the treasure we find,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2576",
+      "en": "so please help me look for it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2577",
+      "en": "I'll tell you where the treasure is right away.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2578",
+      "en": "Good work!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2579",
+      "en": "And thank you for saving the bunny!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2580",
+      "en": "Here's your reward! It isn't much, but please take it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2581",
+      "en": "From @7rTanya@0r, you received a reward of @3r68,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2582",
+      "en": "If you ever find a bunny in trouble in the labyrinth again,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2583",
+      "en": "please help it! I'm counting on you!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2584",
+      "en": "Hurry! There might be",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2585",
+      "en": "a bunny in trouble in the labyrinth!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2586",
+      "en": "Have you decided to help the pink bunny?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2587",
+      "en": "Please! Come with me",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2588",
+      "en": "and help the missing bunny!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2589",
+      "en": "Then let's hurry and save it!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2590",
+      "en": "We're heading for @6rGraham Rootze@0r!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2591",
+      "en": "Whaaat?! Why won't you?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2592",
+      "en": "You won't help me?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2593",
+      "en": "You really can't?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2594",
+      "en": "Hmm...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2595",
+      "en": "I don't know what to do...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2596",
+      "en": "Please, please! Listen to me!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2597",
+      "en": "@7rTanya@0r is unusually worked up,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2598",
+      "en": "her expression desperate.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2599",
+      "en": "The Heart Bunny you caught for me before",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2600",
+      "en": "has gone missing!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2601",
+      "en": "I asked around, and someone said it went into @6rGraham Rootze@0r!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2602",
+      "en": "Please! Help me look for it!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2603",
+      "en": "Wasn't the pink bunny @7rTanya@0r had",
+      "status": "translated",
+      "note": "Narrator describes the earlier pink bunny as a stuffed toy made from Heart Bunny fur. Preserve source continuity and humor; do not silently make it a living pet."
+    },
+    {
+      "id": "E2604",
+      "en": "a stuffed toy made from",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2605",
+      "en": "a Heart Bunny's fur?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2606",
+      "en": "And that went into the labyrinth?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2607",
+      "en": "You find the situation rather difficult to understand.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2608",
+      "en": "Please! Help the bunny!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2609",
+      "en": "You received the @3rGospel Vestments@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2610",
+      "en": "Whew! I'm exhausted!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2611",
+      "en": "You must be worn out too!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2612",
+      "en": "Still, this delivery service",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2613",
+      "en": "isn't much of a money-maker, is it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2614",
+      "en": "I started it thinking of all the business I'd get,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2615",
+      "en": "but it feels like it's run aground right from the start.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2616",
+      "en": "I'll have to think about whether I want to keep doing this.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2617",
+      "en": "Anyway, thanks for escorting me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "en": "From @7rFiore@0r, you received the @3rGospel Vestments@0r as a reward.",
+      "status": "translated",
+      "id": "E2618",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E2619",
+      "en": "I'll be counting on you if anything else comes up!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2620",
+      "en": "Ready? Then let's hurry to @6rGraham Rootze@0r!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2621",
+      "en": "Someone's waiting to be rescued on the middle levels!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2622",
+      "en": "Have you reconsidered?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2623",
+      "en": "Will you take the escort job?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2624",
+      "en": "I'm really in trouble!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2625",
+      "en": "Help a frail young maiden out, won't you?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2626",
+      "en": "Yes! Lucky me!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2627",
+      "en": "I knew you'd understand!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2628",
+      "en": "Then let's head straight for @6rGraham Rootze@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2629",
+      "en": "and make our way to the middle levels.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2630",
+      "en": "We'll find them quickly and start building a reputation!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2631",
+      "en": "And so begins a search for stranded people, with no leads at all.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2632",
+      "en": "Why, why, why, why, why?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2633",
+      "en": "You won't help a frail young maiden in distress?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2634",
+      "en": "You'll never be a hero like that!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2635",
+      "en": "Please help me!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2636",
+      "en": "Come on, please? I'll pay you well! Won't you reconsider?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2637",
+      "en": "Hey, hey, hey, hey! Just the people I wanted to seeeee!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2638",
+      "en": "In her usual manner, @7rFiore@0r calls out to you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2639",
+      "en": "You see, I've started a business.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "context": "Tanya searches for the stuffed Heart Bunny; Fiore seeks an escort for her delivery service; all player requests address the adventuring party.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact.",
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

@@ -1,0 +1,28 @@
+{
+  "coordinate_system": "window-relative pixels, including window chrome",
+  "captures": [
+    {
+      "id": "title_0_1_0",
+      "file": "title-0.1.0.jpg",
+      "kind": "actual emulator screenshot",
+      "build": "0.1.0",
+      "game": "NPJB00162",
+      "window_size": [1282, 752],
+      "game_viewport": [1, 31, 1280, 720],
+      "elements": [
+        {"id": "english_subtitle", "rect": [409, 304, 465, 45], "text": "Prisoners of the Lost City"},
+        {"id": "scenario", "rect": [598, 359, 100, 24], "text": "Scenario3"},
+        {"id": "start_prompt", "rect": [461, 467, 367, 33], "text": "PRESS START BUTTON"}
+      ],
+      "observed": "English title renders and the original movie returns to this screen.",
+      "limitations": "The automated keyboard test did not advance the Start prompt; the same issue reproduced with the untouched original executable. Menu and database renderer acceptance is pending."
+    },
+    {
+      "id": "help_contact_preview",
+      "file": "help-contact.png",
+      "kind": "generated texture preview; not an in-game capture",
+      "pages": 8,
+      "translated_regions": 116
+    }
+  ]
+}

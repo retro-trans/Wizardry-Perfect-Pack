@@ -1,0 +1,20 @@
+{
+  "screen": "Prisoners of the Lost City title screen",
+  "version": "0.1.10",
+  "canvas": [1280, 720],
+  "right_edge": 1256,
+  "lines": [
+    {"text": "v0.1.10", "y": 646, "font_size": 18},
+    {"text": "github.com/retro-trans", "y": 670, "font_size": 20}
+  ],
+  "alignment": "right; measured with the native font",
+  "foreground": "0xffdddddd",
+  "shadow": {"color": "0xb0000000", "offset": [1, 1]},
+  "implementation": "tools/title_branding.py; title callback tail at 0xe5d80",
+  "verification": {
+    "guarded_original_code": true,
+    "register_preservation_tests": true,
+    "installed_in_build": true,
+    "updated_ingame_capture": false
+  }
+}

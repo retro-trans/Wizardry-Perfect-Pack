@@ -1,0 +1,516 @@
+{
+  "translations": [
+    {
+      "id": "E5760",
+      "en": "Beneath the sign were letters that looked as though a knife had carved them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5761",
+      "en": "\"This is only a warning!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5762",
+      "en": "Only those who believe in themselves succeed.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5763",
+      "en": "Many other words were carved there,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5764",
+      "en": "but they were too weathered to read easily.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5765",
+      "en": "There was a broken staircase leading down.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5766",
+      "en": "Go down",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5767",
+      "en": "Leave it",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5768",
+      "en": "It began crumbling on the very first step.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5769",
+      "en": "You narrowly escaped being buried alive.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5770",
+      "en": "You ignored the stairs.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5771",
+      "en": "The bottom of the staircase had already collapsed,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5772",
+      "en": "and it seemed utterly unusable.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5773",
+      "en": "You ignored the broken staircase.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5774",
+      "en": "There was a pile of fallen rocks.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5775",
+      "en": "Will you examine it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5776",
+      "en": "You searched around the fallen rocks.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5777",
+      "en": "Between them, you spotted equipment",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5778",
+      "en": "that seemed to have belonged to some unfortunate adventurer.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5779",
+      "en": "Will you try to retrieve it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5780",
+      "en": "To reach the equipment,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5781",
+      "en": "you tried to move a rock aside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5782",
+      "en": "But the rocks came tumbling down!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5783",
+      "en": "The equipment between the rocks",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5784",
+      "en": "was no longer visible.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5785",
+      "en": "You ignored the pile of rocks.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5786",
+      "en": "But something resembling a purse rolled out.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5787",
+      "en": "You obtained @3r20,000G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5788",
+      "en": "A blue pillar of flame, seemingly an electrical discharge, rose from the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5789",
+      "en": "Was it a monster's attack?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5790",
+      "en": "A charred board lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5791",
+      "en": "Something appeared to be written on it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5792",
+      "en": "\"Ahead, electri...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5793",
+      "en": "Another notice had been attached as well.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5794",
+      "en": "\"Installation in progress. Danger. Keep away.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5795",
+      "en": "The switch did not seem to be working.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5796",
+      "en": "There was a treasure chest before you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5797",
+      "en": "Suddenly, it opened its mouth and attacked!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5798",
+      "en": "It seemed extremely hungry!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5799",
+      "en": "There was a burning smell.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5800",
+      "en": "It smelled like iron being heated.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5801",
+      "en": "You could also hear faint breathing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5802",
+      "en": "From straight ahead, you sensed something like intense malice,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5803",
+      "en": "so strong that you could not ignore it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5804",
+      "en": "An indescribably sweet scent drifted from the spring ahead.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5805",
+      "en": "It was a luscious, inviting fragrance.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5806",
+      "en": "All sorts of materials were piled up.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5807",
+      "en": "Familiar-looking levers and other parts lay scattered about,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5808",
+      "en": "perhaps materials for building some kind of mechanism.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5809",
+      "en": "There were unfinished control switches.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5810",
+      "en": "Had someone intended to make a great many of them?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5811",
+      "en": "There were signs of an orderly assembly line.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5812",
+      "en": "Finished control switches stood in rows.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5813",
+      "en": "Boxlike objects were stacked nearby.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5814",
+      "en": "Had someone been packing them in this cramped space?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5815",
+      "en": "Boxes were stacked in every available space.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5816",
+      "en": "A label was attached to a box.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5817",
+      "en": "\"Destination: Kranrutze.",
+      "status": "review",
+      "note": "Shipment destination uses the glossary-approved provisional romanization Kranrutze; no external spelling was found."
+    },
+    {
+      "id": "E5818",
+      "en": "Contents: Switches (outstanding delivery).\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5819",
+      "en": "These seemed to be switches",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5820",
+      "en": "that had been left here without being shipped.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5821",
+      "en": "Large letters were written on the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5822",
+      "en": "Were they some kind of directions?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5823",
+      "en": "\"Transport Route A.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5824",
+      "en": "The wall bore illustrations showing the process",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5825",
+      "en": "for making what appeared to be a switch.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5826",
+      "en": "There was also something like a keyhole.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5827",
+      "en": "The process for making a switch was depicted in meticulous detail,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5828",
+      "en": "suggesting how much labor and expense went into these devices.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5829",
+      "en": "Still, it was surprising",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5830",
+      "en": "to learn that switches were made in such a way.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5831",
+      "en": "You filed the method away in your memory.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5832",
+      "en": "An inscribed tablet was set into the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5833",
+      "en": "\"Here we leave the possibility of eternal existence.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5834",
+      "en": "Was it referring to the spring before you?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "en": "\"People must not drink.\"",
+      "status": "translated",
+      "id": "E5835",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "en": "That presumably includes you.",
+      "status": "review",
+      "note": "Source word can mean people generally or the Human race. A mixed-race party makes a literal player-race assertion unsafe; modal uncertainty retained.",
+      "id": "E5836",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E5837",
+      "en": "\"If you drink from this side...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5838",
+      "en": "The last part had been scraped away.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5839",
+      "en": "Important information never seemed to survive.",
+      "status": "review",
+      "note": "Source wording appears typographically malformed. Context is a scraped-away warning; interpreted as a complaint that important information rarely survives. Meaning requires in-game review."
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5763",
+    "E5764",
+    "E5771",
+    "E5772",
+    "E5777",
+    "E5778",
+    "E5780",
+    "E5781",
+    "E5783",
+    "E5784",
+    "E5802",
+    "E5803",
+    "E5807",
+    "E5808",
+    "E5819",
+    "E5820",
+    "E5824",
+    "E5825",
+    "E5827",
+    "E5828",
+    "E5829",
+    "E5830"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80,
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

@@ -1,0 +1,512 @@
+{
+  "translations": [
+    {
+      "id": "E5440",
+      "en": "I shall use the last of my magic to heal the entire party.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5441",
+      "en": "As for getting back to town, I can rely on the sorcerer.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5442",
+      "en": "\"Where has everyone gone?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5443",
+      "en": "I turned around, and there was no one there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5444",
+      "en": "Only darkness stretched before me.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5445",
+      "en": "\"That person read this. Ahaha.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5446",
+      "en": "\"I did it! At last, I have conquered this labyrinth!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5447",
+      "en": "Without anyone's help! All by myself! My magic is spent, but who cares!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5448",
+      "en": "I, the ver-\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5449",
+      "en": "...Beyond that point, dried blackish liquid",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5450",
+      "en": "made the writing impossible to read.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5451",
+      "en": "Something like a child's scribbling covered the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5452",
+      "en": "\"Play          with",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5453",
+      "en": "                 me.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5454",
+      "en": "Something was written on the wall in feeble letters.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5455",
+      "en": "\"It's dark. I'm scared.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5456",
+      "en": "A stone broke loose and fell from overhead.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5457",
+      "en": "If it had struck you, you would not have escaped unscathed.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5458",
+      "en": "As you breathed a sigh of relief,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5459",
+      "en": "you heard something like a click of the tongue beside your ear.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5460",
+      "en": "Something was written on the floor in feeble letters.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5461",
+      "en": "\"It hurts. I'm scared.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5462",
+      "en": "A light sound came from somewhere, like a ball bouncing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5463",
+      "en": "Could a child be playing in a place like this?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5464",
+      "en": "Could someone be here besides your party?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5465",
+      "en": "You could hear high-pitched laughter.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5466",
+      "en": "You could hear something.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5467",
+      "en": "............",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5468",
+      "en": "A dragging, slithering sound, as though someone were walking",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5469",
+      "en": "while trailing soaking wet clothes behind them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5470",
+      "en": "Your foot caught in the mud,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5471",
+      "en": "and you fell.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5472",
+      "en": "A sticky, lukewarm liquid",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5473",
+      "en": "soaked into your clothes.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5474",
+      "en": "There was a strange smell.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5475",
+      "en": "Rather than a stench, it was a familiar smell,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5476",
+      "en": "something you had smelled somewhere before.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5477",
+      "en": "You had smelled the same thing after the last battle.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5478",
+      "en": "\"What is this place? It's scary as hell.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "en": "\"Oh, crap. I'm changing classes to a priest or cleric.\"",
+      "status": "translated",
+      "id": "E5479",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E5480",
+      "en": "Something lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5481",
+      "en": "It was a teddy bear.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5482",
+      "en": "It was terribly battered, with an arm torn off",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5483",
+      "en": "and one eye barely hanging on by a thread.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5484",
+      "en": "Something lay at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5485",
+      "en": "It seemed to be a small child's shoe.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5486",
+      "en": "It was terribly worn and filthy.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5487",
+      "en": "Something like an old letter lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5488",
+      "en": "\"I'm going to the holiday house with Daddy soon.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5489",
+      "en": "I hope I get to play lots with all kinds of children.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5490",
+      "en": "In a photograph tucked inside, a little girl",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5491",
+      "en": "was smiling happily.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5492",
+      "en": "Someone seemed to be knocking on a door.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5493",
+      "en": "Something lay on the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5494",
+      "en": "It appeared to be a family photograph.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5495",
+      "en": "A girl in the middle was smiling happily.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5496",
+      "en": "Something was written on the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5497",
+      "en": "\"I'm going to get farther, even if it kills me.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5498",
+      "en": "You could hear faint little footsteps.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5499",
+      "en": "When you stopped, the footsteps seemed to stop too.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5500",
+      "en": "You could hear singing from somewhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5501",
+      "en": "It was a beautiful voice.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5502",
+      "en": "But who could be singing so deep inside this labyrinth?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5503",
+      "en": "There was a pleasant smell.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5504",
+      "en": "It smelled like something simmering.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5505",
+      "en": "The light cast a shadow.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5506",
+      "en": "What could be casting that shadow?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5507",
+      "en": "Something cold touched the back of your neck.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5508",
+      "en": "You touched it, but there was nothing there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5509",
+      "en": "It did not seem to have been a drop of water.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5510",
+      "en": "Something was written on the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5511",
+      "en": "Was that red crayon?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5512",
+      "en": "\"Won't you play with me?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5513",
+      "en": "You could hear someone sobbing somewhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5514",
+      "en": "The moment you listened closely, a girl's voice whispered in your ear.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5515",
+      "en": "\"Why are you leaving me alone?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5516",
+      "en": "You tripped over something.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5517",
+      "en": "Looking back, you saw something like a knife, rusted dark red,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5518",
+      "en": "lying on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5519",
+      "en": "Letters had been scratched into the wall with something hard.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5449",
+    "E5450",
+    "E5452",
+    "E5458",
+    "E5459",
+    "E5468",
+    "E5469",
+    "E5470",
+    "E5471",
+    "E5472",
+    "E5473",
+    "E5475",
+    "E5476",
+    "E5482",
+    "E5483",
+    "E5490",
+    "E5491",
+    "E5517",
+    "E5518"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80,
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

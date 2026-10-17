@@ -1,0 +1,49 @@
+{
+  "translations": [
+    {
+      "en": "Lingering Souls Map 1F",
+      "status": "translated",
+      "id": "PPDI0000",
+      "context": "Perfect Pack-exclusive map items in ppdata.enc, three 436-byte records with the same leading-ID item schema as additional scenarios. Preserve floor numbers and two-line descriptions."
+    },
+    {
+      "en": "Scroll",
+      "status": "translated",
+      "id": "PPDI0001",
+      "context": "Perfect Pack-exclusive map items in ppdata.enc, three 436-byte records with the same leading-ID item schema as additional scenarios. Preserve floor numbers and two-line descriptions."
+    },
+    {
+      "en": "Labyrinth of Lingering Souls - 1F\nDisplays explored areas.",
+      "status": "translated",
+      "id": "PPDI0002",
+      "context": "Perfect Pack-exclusive map items in ppdata.enc, three 436-byte records with the same leading-ID item schema as additional scenarios. Preserve floor numbers and two-line descriptions."
+    },
+    {
+      "en": "Lingering Souls Map 2F",
+      "status": "translated",
+      "id": "PPDI0003",
+      "context": "Perfect Pack-exclusive map items in ppdata.enc, three 436-byte records with the same leading-ID item schema as additional scenarios. Preserve floor numbers and two-line descriptions."
+    },
+    {
+      "en": "Labyrinth of Lingering Souls - 2F\nDisplays explored areas.",
+      "status": "translated",
+      "id": "PPDI0004",
+      "context": "Perfect Pack-exclusive map items in ppdata.enc, three 436-byte records with the same leading-ID item schema as additional scenarios. Preserve floor numbers and two-line descriptions."
+    },
+    {
+      "en": "Lingering Souls Map 3F",
+      "status": "translated",
+      "id": "PPDI0005",
+      "context": "Perfect Pack-exclusive map items in ppdata.enc, three 436-byte records with the same leading-ID item schema as additional scenarios. Preserve floor numbers and two-line descriptions."
+    },
+    {
+      "en": "Labyrinth of Lingering Souls - 3F\nDisplays explored areas.",
+      "status": "translated",
+      "id": "PPDI0006",
+      "context": "Perfect Pack-exclusive map items in ppdata.enc, three 436-byte records with the same leading-ID item schema as additional scenarios. Preserve floor numbers and two-line descriptions."
+    }
+  ],
+  "rows_examined": 7,
+  "rows_in_slice": 7,
+  "context_note": "Perfect Pack-exclusive map items in ppdata.enc, three 436-byte records with the same leading-ID item schema as additional scenarios. Preserve floor numbers and two-line descriptions."
+}

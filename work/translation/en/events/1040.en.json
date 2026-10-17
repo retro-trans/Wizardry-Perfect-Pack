@@ -1,0 +1,681 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 137,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E1040",
+      "en": "You open the envelope and read the letter inside.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1040",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1041",
+      "en": "To all novice adventurers playing the trial version:",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1041",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1042",
+      "en": "The trial version has the following restrictions.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1042",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1043",
+      "en": "Please take note of them.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1043",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1044",
+      "en": "Characters can advance only as far as level 5.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1044",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1045",
+      "en": "Exploration is limited to Area 1 of @6rBofonkerk@0r.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1045",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1046",
+      "en": "PlayStation@RStore is unavailable.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1046",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1047",
+      "en": "The ranking board is also unavailable.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1047",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1048",
+      "en": "Those are the restrictions.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1048",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1049",
+      "en": "However, if you purchase a license,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1049",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1050",
+      "en": "you can continue using your current save data",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1050",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1051",
+      "en": "with all trial restrictions removed.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1051",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1052",
+      "en": "Please keep this in mind as you continue your adventures.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1052",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1053",
+      "en": "You put the letter back in its envelope",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1053",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1054",
+      "en": "and place it on the counter.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1054",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1055",
+      "en": "You decide not to read the letter",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1055",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1056",
+      "en": "and put the envelope back.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1056",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1057",
+      "en": "There is a large menu on the counter.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1057",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1058",
+      "en": "\"@2rReceive Items (Online)@0r\" is written on the cover.",
+      "status": "review",
+      "note": "Receive Items (Online) is a provisional menu label requiring executable consistency.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1058",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1059",
+      "en": "Open the menu and read it?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1059",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1060",
+      "en": "If you purchase items from @2rPlayStation@RStore@0r,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1060",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1061",
+      "en": "you must use \"@2rReceive Items (Online)@0r\" at the inn",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1061",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1062",
+      "en": "to collect them.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1062",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1063",
+      "en": "After purchase, your items are delivered to \"@2rReceive Items (Online)@0r.\"",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1063",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1064",
+      "en": "They will not be sent directly to the adventurers.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1064",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1065",
+      "en": "Please keep this in mind.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1065",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1066",
+      "en": "However, items such as \"@2rFruit of Growth@0r\" that cannot be placed under \"@2rItems@0r\"",
+      "status": "review",
+      "note": "Fruit of Growth is a provisional downloadable item name.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1066",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1067",
+      "en": "are delivered directly and take effect where they can be used.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1067",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1068",
+      "en": "You put the menu back where it was.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1068",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1069",
+      "en": "The menu remains on the counter, so you can",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1069",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1070",
+      "en": "read it as often as you like.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1070",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1071",
+      "en": "You decide to ignore the menu.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1071",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1072",
+      "en": "You received a @3rGreatsword@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1073",
+      "en": "Good work. I'd say we found something worthwhile.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1074",
+      "en": "I'll get to work deciphering this.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1075",
+      "en": "We went through a lot to get it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1076",
+      "en": "so I can't afford to overlook anything.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1077",
+      "en": "Thanks for helping me search.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1078",
+      "en": "Here's something for your trouble. Take it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1079",
+      "en": "From @7rCarmine@0r, you received @3r15,000 G@0r and a @3rGreatsword@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1080",
+      "en": "See you around.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1081",
+      "en": "From @7rCarmine@0r, you received @3r15,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1082",
+      "en": "I'm ready to go,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1083",
+      "en": "so let's get moving. We're wasting time.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1084",
+      "en": "Will you join the expedition to find @7rChu Lu Gah's@0r house",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1085",
+      "en": "and help me look for it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1086",
+      "en": "You're looking for information too, aren't you?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1087",
+      "en": "I'd really like your help. What do you say?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1088",
+      "en": "You hesitate, feeling as though you are weighing @7rCarmine@0r against @7rBeatrix@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1089",
+      "en": "but solving this mystery is bound to require",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1090",
+      "en": "all kinds of information.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1091",
+      "en": "Since you need to gather information now,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1092",
+      "en": "you realize you cannot afford to be choosy,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1093",
+      "en": "and decide to accept the request.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1094",
+      "en": "Thanks for agreeing to help.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1095",
+      "en": "Let's find out everything we can about @7rChu Lu Gah@0r!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1096",
+      "en": "We'll explore the newly discovered ruins too,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1097",
+      "en": "but if this was where he lived, I doubt it would be",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1098",
+      "en": "somewhere inconvenient, far from the city.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1099",
+      "en": "When @7rBeatrix@0r found the name of the new ruined city, @6rBahelmeja@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1100",
+      "en": "she said @7rChu Lu Gah's@0r diary",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1101",
+      "en": "had mentioned a similar name.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1102",
+      "en": "The legends about @7rChu Lu Gah@0r mention @6rBahelmeja@0r too.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1103",
+      "en": "I don't know if it's connected,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1104",
+      "en": "but there's also a place called Kulgar Straat.",
+      "status": "translated",
+      "note": "Kulgar Straat is an editorial romanization; retain the same display wording on street signs."
+    },
+    {
+      "id": "E1105",
+      "en": "Hey, @7rCyrus@0r, you've got some good information yourself.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1106",
+      "en": "I also dug up the name",
+      "status": "translated",
+      "note": "Dulong Straat is an editorial romanization; retain the same display wording on street signs."
+    },
+    {
+      "id": "E1107",
+      "en": "Dulong Straat. Those two names are our key.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1108",
+      "en": "Straat meant \"street\" in the language of that time.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1109",
+      "en": "If we can find a sign or something, we should be able to locate them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1110",
+      "en": "I know it's a lot to ask with so little to go on,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1111",
+      "en": "but we won't get anywhere unless we try.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1112",
+      "en": "Let's give it our best shot!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1113",
+      "en": "No, huh? Is it because you don't trust me...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1114",
+      "en": "or is it something else?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1115",
+      "en": "Well, after that whole business with the seal, I can't blame you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1116",
+      "en": "But I really can't carry out this search without your help.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1117",
+      "en": "Adventurers with your skills aren't easy to find.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1118",
+      "en": "I'll be waiting for you to say yes,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1119",
+      "en": "so please think it over.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "context": "Carmine requests an expedition to Chu Lu Gah's home; Cyrus contributes street clues. Existing base-game import rows retained.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

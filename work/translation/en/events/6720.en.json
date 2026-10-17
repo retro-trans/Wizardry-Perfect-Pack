@@ -1,0 +1,532 @@
+{
+  "translations": [
+    {
+      "id": "E6720",
+      "en": "you remained in the town.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6721",
+      "en": "There was no longer any need to think of fleeing in haste.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6722",
+      "en": "Now you could go wherever you liked, whenever you liked.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6723",
+      "en": "Above all, there were still many adventures left here.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6724",
+      "en": "You there, adventurer.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6725",
+      "en": "I have a job that calls for your skills.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6726",
+      "en": "Would you take it on?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6727",
+      "en": "It's a bit of a problem.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6728",
+      "en": "There may be another labyrinth waiting to be discovered.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6729",
+      "en": "If you're interested, would you at least hear me out?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6730",
+      "en": "Ah, such fine adventurers.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6731",
+      "en": "I have a feeling you can handle this.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6732",
+      "en": "Would you hear what @7rBeatrix@0r has to say",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6733",
+      "en": "and lend her a hand?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6734",
+      "en": "I'm counting on you too.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6735",
+      "en": "The adventure surrounding @7rChu Lu Gah@0r's imprisoning curse was over,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6736",
+      "en": "but a new adventure was about to begin.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6737",
+      "en": "What new adventure",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6738",
+      "en": "awaited you next?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6739",
+      "en": "That was a story for another time...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6740",
+      "en": "It looks like all the regulars are here.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6741",
+      "en": "The tavern's bustling again today.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6742",
+      "en": "You looked up at her words. In their usual places sat",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6743",
+      "en": "@7rCarmine@0r, @7rCyrus@0r, @7rTanya@0r, @7rAnselm@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6744",
+      "en": "and @7rFiore@0r, each making themselves comfortable.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6745",
+      "en": "Since that strange incident with the light,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6746",
+      "en": "the grudges that had set them against one another had vanished,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6747",
+      "en": "and everyone had united around one goal: saving the town.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6748",
+      "en": "That strange light",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6749",
+      "en": "seems to have been visible to the people of this imprisoned town too.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6750",
+      "en": "Honestly, I don't know what to do now.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6751",
+      "en": "But we have to do something.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6752",
+      "en": "This has already become more than just this town's problem...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6753",
+      "en": "Yes. If the true story of @7rChu Lu Gah@0r is right,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6754",
+      "en": "the demon god that destroyed the town will turn on the outside world next.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6755",
+      "en": "Indeed, what enveloped this town was no curse,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6756",
+      "en": "but a seal to reinforce the ancient imprisonment of something.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6757",
+      "en": "And now that seal was beginning to break.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6758",
+      "en": "I'm counting on your help.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6759",
+      "en": "You've already gotten yourself this deeply involved,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6760",
+      "en": "so I doubt you'll suddenly decide to run away now.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6761",
+      "en": "When the time comes, I'll work you hard, so be ready.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6762",
+      "en": "Hm? Hellooo!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6763",
+      "en": "Has there been any progress?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6764",
+      "en": "Well? Well?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6765",
+      "en": "Sigh... @7rFiore@0r. If we'd made any progress",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6766",
+      "en": "or come even one step closer to solving this,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6767",
+      "en": "I wouldn't look like this.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6768",
+      "en": "Oh. Well, I suppose that's true.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6769",
+      "en": "Anyway, give me a job if anything comes up!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6770",
+      "en": "Yes, yes. As I said earlier,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6771",
+      "en": "I'm counting on you and @7rFiore@0r if anything happens.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6772",
+      "en": "Or is there something you want to ask?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6773",
+      "en": "Something to ask...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6774",
+      "en": "Her words brought a question to mind.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6775",
+      "en": "About the light",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6776",
+      "en": "The sealed demon god",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6777",
+      "en": "When you asked if there was any more information about the light,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6778",
+      "en": "@7rBeatrix@0r shook her head regretfully.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6779",
+      "en": "What was that light we saw?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6780",
+      "en": "Honestly, we haven't figured it out either.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6781",
+      "en": "I thought the light might have appeared",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6782",
+      "en": "because the seal had broken, but it seems the seal is still there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6783",
+      "en": "To be frank, I'm completely baffled.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6784",
+      "en": "One possibility is that there are several seals, and one broke,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6785",
+      "en": "causing that strange light.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6786",
+      "en": "Or perhaps, at the moment it broke, a small gap opened in the seal,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6787",
+      "en": "and a tiny bit of something leaked out...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6788",
+      "en": "As for the demon god rumored to have been sealed away,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6789",
+      "en": "we don't know anything specific about it either.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6790",
+      "en": "\"Demon god\" is a term people use",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6791",
+      "en": "to make it easier for everyone to understand what was sealed away.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6792",
+      "en": "It could actually have been something else.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6793",
+      "en": "Even if it was something else, I imagine it would be as dangerous as a demon god,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6794",
+      "en": "or perhaps worse...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6795",
+      "en": "Once we've made some progress investigating it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6796",
+      "en": "I'll explain it properly.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6797",
+      "en": "Apart from that, the only new thing we've learned",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6798",
+      "en": "is that the ruins of another town have been found.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6799",
+      "en": "Whether that was also caused by the light is still a mystery.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E6720",
+    "E6732",
+    "E6733",
+    "E6735",
+    "E6736",
+    "E6737",
+    "E6738",
+    "E6742",
+    "E6743",
+    "E6744",
+    "E6745",
+    "E6746",
+    "E6747",
+    "E6748",
+    "E6749",
+    "E6753",
+    "E6754",
+    "E6755",
+    "E6756",
+    "E6759",
+    "E6760",
+    "E6765",
+    "E6766",
+    "E6770",
+    "E6777",
+    "E6781",
+    "E6782",
+    "E6784",
+    "E6785",
+    "E6786",
+    "E6787",
+    "E6788",
+    "E6789",
+    "E6790",
+    "E6791",
+    "E6793",
+    "E6794",
+    "E6795",
+    "E6797",
+    "E6798"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80
+}

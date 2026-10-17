@@ -1,0 +1,101 @@
+{
+  "version": "0.1.8",
+  "asset": "USRDIR/movie/opening.pam",
+  "source_sha256": "a6873df0b1e506b4afd29e2f6fb603957410bf8f4d44aa0c6432f7f7c7d423bd",
+  "status": "Bottom subtitles built; software decode and container verified; in-game playback pending",
+  "timing_basis": "Seconds from first decoded video frame. English subtitle segments follow narration transitions and progressive source lines; first caption starts at display frame 213.",
+  "source_transcription": "Japanese is baked into the source movie pixels; source imagery remains local and is omitted from this English asset.",
+  "style": {
+    "font": "Segoe UI Semibold",
+    "font_file": "C:/Windows/Fonts/seguisb.ttf",
+    "font_size": 36,
+    "text_color": "#FFFFFF",
+    "outline_color": "#000000",
+    "outline_width": 3,
+    "line_spacing": 8,
+    "bottom": 672,
+    "safe_bounds": [80, 568, 1120, 104],
+    "maximum_lines": 2,
+    "cover": "None. Preserve the original imagery and Japanese lettering; add outlined English at the bottom."
+  },
+  "cues": [
+    {
+      "id": "OP000",
+      "start": 7.1,
+      "end": 14.2,
+      "en": "In Dimento, legend tells of a city cursed\nby the ancient archmage Chu Lu Gah...",
+      "note": "Narrator establishes a local legend, not a verified historical account."
+    },
+    {
+      "id": "OP001",
+      "start": 14.2,
+      "end": 21.7,
+      "en": "Long ago, Chu Lu Gah lost his way in this forest\nand was attacked by monsters. He reached the city\nhalf-dead, but its people offered him no aid."
+    },
+    {
+      "id": "OP002",
+      "start": 21.7,
+      "end": 27.7,
+      "en": "Tormented by unbearable loneliness and despair,\nChu Lu Gah cried out with his dying breath..."
+    },
+    {
+      "id": "OP003",
+      "start": 27.7,
+      "end": 33.5,
+      "en": "\"Let every last one of you taste my suffering!\"",
+      "note": "Keep the full force of his curse."
+    },
+    {
+      "id": "OP004",
+      "start": 33.5,
+      "end": 46.6,
+      "en": "Mist shrouded the city. The surrounding forest,\ntwisted by the curse, became a bewildering barrier\nthat cut the city off from the world.\nIt drew monsters in and became a vast labyrinth."
+    },
+    {
+      "id": "OP005",
+      "start": 46.6,
+      "end": 57.0,
+      "en": "Some tried to find the city trapped by this curse.\nBut in time, interest faded. It came to be spoken of\nas an ancient city, existing only in legend...",
+      "note": "Includes the final progressive source line appearing around 53 seconds."
+    },
+    {
+      "id": "OP006",
+      "start": 66.0,
+      "end": 71.7,
+      "en": "Prisoners of the Lost City",
+      "kind": "title",
+      "note": "Use the shared English game title. Preserve the complete original logo and Japanese subtitle; show English at the bottom from 67.1 to 71.3 seconds.",
+      "text_start": 67.1
+    }
+  ],
+  "subtitle_segments": [
+    {"id": "OP000a", "source_id": "OP000", "start": 7.1, "end": 14.2, "en": "In Dimento, legend tells of a city cursed\nby the ancient archmage Chu Lu Gah..."},
+    {"id": "OP001a", "source_id": "OP001", "start": 14.2, "end": 17.6, "en": "Long ago, Chu Lu Gah lost his way in this forest\nand was attacked by monsters."},
+    {"id": "OP001b", "source_id": "OP001", "start": 17.6, "end": 21.7, "en": "He reached the city half-dead,\nbut its people offered him no aid."},
+    {"id": "OP002a", "source_id": "OP002", "start": 21.7, "end": 27.7, "en": "Tormented by unbearable loneliness and despair,\nChu Lu Gah cried out with his dying breath..."},
+    {"id": "OP003a", "source_id": "OP003", "start": 27.7, "end": 33.5, "en": "\"Let every last one of you taste my suffering!\""},
+    {"id": "OP004a", "source_id": "OP004", "start": 33.5, "end": 38.0, "en": "Mist shrouded the city.\nThe surrounding forest, twisted by the curse,"},
+    {"id": "OP004b", "source_id": "OP004", "start": 38.0, "end": 42.0, "en": "became a bewildering barrier\nthat cut the city off from the world."},
+    {"id": "OP004c", "source_id": "OP004", "start": 42.0, "end": 46.6, "en": "It drew monsters in\nand became a vast labyrinth."},
+    {"id": "OP005a", "source_id": "OP005", "start": 46.6, "end": 50.0, "en": "Some tried to find the city trapped by this curse."},
+    {"id": "OP005b", "source_id": "OP005", "start": 50.0, "end": 53.0, "en": "But in time, interest faded."},
+    {"id": "OP005c", "source_id": "OP005", "start": 53.0, "end": 57.0, "en": "It came to be spoken of as an ancient city,\nexisting only in legend..."},
+    {"id": "OP006a", "source_id": "OP006", "start": 67.1, "end": 71.3, "en": "Prisoners of the Lost City"}
+  ],
+  "validation": {
+    "original_untouched": true,
+    "ps3_playback_verified": false,
+    "audio_preservation_verified": true,
+    "container_rebuilt": true,
+    "software_decode_verified": true,
+    "decoded_frames": 2210,
+    "packet_and_frame_timing_match": true,
+    "canonical_words_preserved": true,
+    "subtitle_segments": 12,
+    "maximum_lines": 2
+  },
+  "technical_sources": [
+    "https://github.com/RPCS3/rpcs3/blob/master/rpcs3/Emu/Cell/Modules/cellPamf.h",
+    "https://github.com/RPCS3/rpcs3/blob/master/rpcs3/Emu/Cell/Modules/cellDmuxPamf.cpp"
+  ]
+}

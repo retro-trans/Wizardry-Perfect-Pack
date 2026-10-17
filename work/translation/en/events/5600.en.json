@@ -1,0 +1,512 @@
+{
+  "translations": [
+    {
+      "id": "E5600",
+      "en": "It seemed to be fawning on you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5601",
+      "en": "On the other hand, it could also look frightened.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5602",
+      "en": "Its remarkably small wings caught your eye.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5603",
+      "en": "A bird was carved into the door.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5604",
+      "en": "A small carving occupied the center.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5605",
+      "en": "A large carving occupied the center.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5606",
+      "en": "A small bird and a large bird were carved side by side.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5607",
+      "en": "An enormous bird...?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5608",
+      "en": "An eerie winged creature, clearly unlike any bird,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5609",
+      "en": "was carved into the door.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5610",
+      "en": "There was a statue of something",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5611",
+      "en": "that might have been an enormous dragon.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5612",
+      "en": "Will you touch it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5613",
+      "en": "It was a finely crafted statue.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5614",
+      "en": "If you could take it home, it would be worth a fortune.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5615",
+      "en": "You ignored the statue.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5616",
+      "en": "There was a decaying treasure chest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5617",
+      "en": "Will you open the lid?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5618",
+      "en": "The bottom had fallen out of the chest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5619",
+      "en": "You ignored the treasure chest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5620",
+      "en": "There was a statue of a small dog.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5621",
+      "en": "It was an adorable dog with round, innocent eyes.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5622",
+      "en": "Yet countless kick marks covered its pedestal.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5623",
+      "en": "Statues of adorable dogs were packed tightly together.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5624",
+      "en": "There were so many that the sight felt uncanny.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5625",
+      "en": "They almost seemed to form some kind of magic circle.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5626",
+      "en": "A notice had been posted.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5627",
+      "en": "\"Beware of the do...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5628",
+      "en": "The last part was too faded to read.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5629",
+      "en": "A chain was tied to an old stake.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5630",
+      "en": "Its other end seemed to be buried in the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5631",
+      "en": "Will you pull out the chain?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5632",
+      "en": "You tried to pull the chain free,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5633",
+      "en": "but something extremely heavy seemed to be attached.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5634",
+      "en": "When you pulled harder,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5635",
+      "en": "a rotting human face emerged, attached to a collar.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5636",
+      "en": "The rotting figure crawled the rest of the way out",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5637",
+      "en": "and attacked you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5638",
+      "en": "You decided to ignore the chain.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5639",
+      "en": "The power of a spell seemed to be blocking the way.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5640",
+      "en": "Going any farther would be dangerous.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5641",
+      "en": "It seemed you would have to dispel the magic somewhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5642",
+      "en": "You decided to turn back.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5643",
+      "en": "There was an extremely ornate switch.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5644",
+      "en": "You could no longer sense any magic from it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5645",
+      "en": "It looked dangerous, and you could feel its magic.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5646",
+      "en": "Will you activate the switch?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5647",
+      "en": "The switch activated with a loud noise.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5648",
+      "en": "A powerful surge of magic shot from the switch!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5649",
+      "en": "You saw it streak through the air toward Area 6.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5650",
+      "en": "You decided to ignore the switch.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5651",
+      "en": "A mass of magical energy burst toward you!!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5652",
+      "en": "A large stone tablet stood there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5653",
+      "en": "\"Exit this way.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5654",
+      "en": "Jars and plates lay scattered around the tablet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5655",
+      "en": "There was a large, broken stone tablet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5656",
+      "en": "Something seemed to have been written on it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5657",
+      "en": "but you could not read it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5658",
+      "en": "You noticed a musty smell.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5659",
+      "en": "But it soon disappeared.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5660",
+      "en": "The room was filled with the smell of mold.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5661",
+      "en": "Yet it seemed to be only a musty smell,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5662",
+      "en": "with no particular danger to your health.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5663",
+      "en": "A large pile of what appeared to have been scrolls lay abandoned.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5664",
+      "en": "They all seemed ancient and had almost completely lost their shape.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5665",
+      "en": "You examined the pile",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5666",
+      "en": "of what looked like scrolls.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5667",
+      "en": "All you seemed to accomplish was disturbing",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5668",
+      "en": "the insects that had made their home there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5669",
+      "en": "You found nothing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5670",
+      "en": "You decided to ignore it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5671",
+      "en": "You found a \"Teleport Scroll\" that still held magic.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5672",
+      "en": "You obtained a @3rTeleport Scroll@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5673",
+      "en": "A musty smell came from the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5674",
+      "en": "Could there be a gap somewhere?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5675",
+      "en": "There was an old treasure chest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5676",
+      "en": "But before you could examine it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5677",
+      "en": "you saw strange tentacles extending from a gap in the chest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5678",
+      "en": "You sensed a fight coming.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5679",
+      "en": "Words were carved into a large rock.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5608",
+    "E5609",
+    "E5610",
+    "E5611",
+    "E5632",
+    "E5633",
+    "E5634",
+    "E5635",
+    "E5636",
+    "E5637",
+    "E5656",
+    "E5657",
+    "E5661",
+    "E5662",
+    "E5665",
+    "E5666",
+    "E5667",
+    "E5668",
+    "E5676",
+    "E5677"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80
+}

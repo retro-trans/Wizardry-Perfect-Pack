@@ -1,0 +1,488 @@
+{
+  "translations": [
+    {
+      "id": "E2000",
+      "en": "I don't know the details!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2001",
+      "en": "Anyway, all we need to do is head into the labyrinth.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2002",
+      "en": "Let's go and see!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2003",
+      "en": "You are now to explore the labyrinth with only vague clues to guide you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2004",
+      "en": "For now, you have no choice but to search using the words Inktvis, Garnalen, Zalm,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2005",
+      "en": "Tong, and Schol as your guide.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2006",
+      "en": "Whaaat?! It's treasure hunting! Treasure hunting!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2007",
+      "en": "Doesn't that set your heart on fire? Where's your sense of romance?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2008",
+      "en": "Oh, come on! Come on, come on, come on!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2009",
+      "en": "Honestly! How can you call yourself an adventurer?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2010",
+      "en": "It's adventure! Adventure means romance, doesn't it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2011",
+      "en": "And treasure hunting is the most romantic adventure of all!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2012",
+      "en": "Honestly! I mean, honestly, honestly!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2013",
+      "en": "You're no fun! But I can't go alone...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2014",
+      "en": "Come and talk to me if you change your mind.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2015",
+      "en": "Hey, hey! Listen to this!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2016",
+      "en": "I've heard where there's treasure. Want in?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2017",
+      "en": "No maps were left behind,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2018",
+      "en": "so rumor has it there's still plenty there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2019",
+      "en": "They say there are enchanted items too,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2020",
+      "en": "so I bet there's some really good stuff!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2021",
+      "en": "And apparently, there are five different spots!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2022",
+      "en": "Don't you think it's worth looking?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2023",
+      "en": "You received an @3rElemental Wand@0r and ten bottles of @3rRestorative@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2024",
+      "en": "I'm sorry about this...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2025",
+      "en": "I didn't research it thoroughly enough, and I wasted your time.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2026",
+      "en": "I'll be more careful next time.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2027",
+      "en": "But there's one thing that bothers me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2028",
+      "en": "If this seal breaks, will everyone on this side",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2029",
+      "en": "turn undead?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2030",
+      "en": "Suppose... just suppose, all right?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2031",
+      "en": "When @7rChu Lu Gah@0r made the seal, the warrior died fighting the demon god.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2032",
+      "en": "Then, because the demon god had attacked the warrior, the warrior turned undead.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2033",
+      "en": "The account mentions miasma,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2034",
+      "en": "so maybe even breathing in its exhalations would be enough.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2035",
+      "en": "If that's true, what can we do?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2036",
+      "en": "Isn't there some way to counter it...?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2037",
+      "en": "Watching @7rCyrus@0r fold his arms in thought,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2038",
+      "en": "you feel that he has finally begun considering",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2039",
+      "en": "something other than escape.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2040",
+      "en": "Oh. Here's your reward for this time.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2041",
+      "en": "It might not be much, so please use these items too.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2042",
+      "en": "From @7rCyrus@0r, you received a reward of @3r100,000@0r and",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2043",
+      "en": "an @3rElemental Wand@0r and ten bottles of @3rRestorative@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2044",
+      "en": "I hope this hasn't put you off taking jobs for me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2045",
+      "en": "I'll research the next one properly.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2046",
+      "en": "From @7rCyrus@0r, you received @3r100,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2047",
+      "en": "Come on, hurry and get ready.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2048",
+      "en": "We don't have time to stand around!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2049",
+      "en": "Have you reconsidered?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2050",
+      "en": "You don't have to trust me completely.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2051",
+      "en": "Think of it as giving me a chance to prove myself.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2052",
+      "en": "Will you take this job for me?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2053",
+      "en": "Thank goodness. I think this will be a very difficult place to reach,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2054",
+      "en": "and you're the only ones I can rely on now.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2055",
+      "en": "Apparently, when @7rChu Lu Gah@0r created the seal,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2056",
+      "en": "a warrior helped him.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2057",
+      "en": "Of course, that warrior is dead now.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2058",
+      "en": "But if there was a warrior, doesn't that mean",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2059",
+      "en": "there might be a way to fight the monster sealed away?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2060",
+      "en": "Of course, maybe the warrior couldn't fight it and was only there for protection.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2061",
+      "en": "Even so, we might learn something about defending ourselves.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2062",
+      "en": "To find out, I want to investigate @6rWatering Labyrinth@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2063",
+      "en": "where the warrior's grave is supposed to be.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2064",
+      "en": "Even I know it's wrong",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2065",
+      "en": "to disturb a hero's grave. But this is an emergency.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2066",
+      "en": "We can't afford to worry about that. I think the warrior would forgive us.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2067",
+      "en": "A clue to the grave was left by a thief who accompanied @7rChu Lu Gah@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2068",
+      "en": "and survived to write a journal.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2069",
+      "en": "Um... Oh, here it is. Listen.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2070",
+      "en": "My friend @7rRyud@0r was tainted by the monster's miasma.",
+      "status": "review",
+      "note": "Ryud is a provisional historical warrior name. Source gender remains unconfirmed; the surrounding account uses neutral wording."
+    },
+    {
+      "id": "E2071",
+      "en": "Revival seemed impossible. Thus, here in @6rWatering@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2072",
+      "en": "I will lay my friend to rest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2073",
+      "en": "A broken statue on Leiden Street marks the grave.",
+      "status": "translated",
+      "note": "Leiden Street is editorial Dutch place-name orthography; the broken statue is the actual grave landmark."
+    },
+    {
+      "id": "E2074",
+      "en": "Sadly, that was the only place suitable for a burial.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2075",
+      "en": "I can carry back only those belongings that fit in my pockets.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2076",
+      "en": "Without our dependable warriors or @7rChu Lu Gah@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2077",
+      "en": "only an ill-matched pair remains: me, a thief, and a priest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2078",
+      "en": "Forgive me for bringing back so few mementos.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2079",
+      "en": "That's how the account ends.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "context": "Fiore supplies five fish-name place clues; Cyrus investigates an ancient warrior's grave using a surviving thief's account.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

@@ -1,0 +1,411 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 100,
+  "provenance": "New English translation; E2790-E2799 and E2880-E2889 reviewed alongside the owned source slice.",
+  "context": "Fiore requests delivery protection; Cyrus crafts a protective charm; Fiore returns from an unsuccessful attempt to become the savior.",
+  "decisions": "Cross-row sentences retain source breaks. Item and monster names follow glossary; Balmar Guard is a provisional item spelling. E2879 continues into E2880.",
+  "translations": [
+    {
+      "id": "E2800",
+      "en": "But the monsters kept interfering,",
+      "status": "translated"
+    },
+    {
+      "id": "E2801",
+      "en": "and a crucial item needed to finish the circle got broken.",
+      "status": "translated"
+    },
+    {
+      "id": "E2802",
+      "en": "So the request to deliver a replacement",
+      "status": "translated"
+    },
+    {
+      "id": "E2803",
+      "en": "ended up coming to me.",
+      "status": "translated"
+    },
+    {
+      "id": "E2804",
+      "en": "As long as I'm carrying this item,",
+      "status": "translated"
+    },
+    {
+      "id": "E2805",
+      "en": "I think the monsters are more likely to come after me.",
+      "status": "translated"
+    },
+    {
+      "id": "E2806",
+      "en": "So I need you to protect me with everything you've got!",
+      "status": "translated"
+    },
+    {
+      "id": "E2807",
+      "en": "Whaaat? Why, why, why?!",
+      "status": "translated"
+    },
+    {
+      "id": "E2808",
+      "en": "Have you lost your nerve already?",
+      "status": "translated"
+    },
+    {
+      "id": "E2809",
+      "en": "Honestly! Now I'm in a fix.",
+      "status": "translated"
+    },
+    {
+      "id": "E2810",
+      "en": "What am I going to do?!",
+      "status": "translated"
+    },
+    {
+      "id": "E2811",
+      "en": "Hello, hello! @7rFiore Delivery Service@0r",
+      "status": "translated"
+    },
+    {
+      "id": "E2812",
+      "en": "has a job for you!",
+      "status": "translated"
+    },
+    {
+      "id": "E2813",
+      "en": "Is she still doing that?",
+      "status": "translated"
+    },
+    {
+      "id": "E2814",
+      "en": "Didn't she say she was thinking of quitting?",
+      "status": "translated"
+    },
+    {
+      "id": "E2815",
+      "en": "Ignoring your silent grumbling, @7rFiore@0r continued.",
+      "status": "translated"
+    },
+    {
+      "id": "E2816",
+      "en": "This time, the job pays really well.",
+      "status": "translated"
+    },
+    {
+      "id": "E2817",
+      "en": "It's a delivery to someone exploring @6rGraham Labyrinth@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E2818",
+      "en": "The item's valuable, so I'd like you to guard me.",
+      "status": "translated"
+    },
+    {
+      "id": "E2819",
+      "en": "The package is for an adventurer who seems to want",
+      "status": "translated"
+    },
+    {
+      "id": "E2820",
+      "en": "to do something about this town, just like you.",
+      "status": "translated"
+    },
+    {
+      "id": "E2821",
+      "en": "Fellow sufferers should stick together, right? Huh? Is that not a saying?",
+      "status": "translated"
+    },
+    {
+      "id": "E2822",
+      "en": "Oh, well. Anyway, it's bound to be dangerous,",
+      "status": "translated"
+    },
+    {
+      "id": "E2823",
+      "en": "so I really, really want you to be my escort!",
+      "status": "translated"
+    },
+    {
+      "id": "E2824",
+      "en": "Stop copying the way I talk!",
+      "status": "translated"
+    },
+    {
+      "id": "E2825",
+      "en": "Oh, come on. It's not costing you anything.",
+      "status": "translated"
+    },
+    {
+      "id": "E2826",
+      "en": "Anyway, that's the escort job. What do you say?",
+      "status": "translated"
+    },
+    {
+      "id": "E2827",
+      "en": "Did my @7rTanya@0r impression actually work?",
+      "status": "translated"
+    },
+    {
+      "id": "E2828",
+      "en": "You received @3rDemon's Contract@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E2829",
+      "en": "Welcome back.",
+      "status": "translated"
+    },
+    {
+      "id": "E2830",
+      "en": "If you're back, I guess everything went well.",
+      "status": "translated"
+    },
+    {
+      "id": "E2831",
+      "en": "Let's get right to it. Give me the materials.",
+      "status": "translated"
+    },
+    {
+      "id": "E2832",
+      "en": "You handed all the requested materials to @7rCyrus@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E2833",
+      "en": "Just a moment. These are all I need to finish it.",
+      "status": "translated"
+    },
+    {
+      "id": "E2834",
+      "en": "There we go.",
+      "status": "translated"
+    },
+    {
+      "id": "E2835",
+      "en": "Here, this is your reward.",
+      "status": "translated"
+    },
+    {
+      "id": "E2836",
+      "en": "As your reward, @7rCyrus@0r gave you",
+      "status": "translated"
+    },
+    {
+      "id": "E2837",
+      "en": "a @7rDemon's Contract@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E2838",
+      "en": "It might not be very powerful,",
+      "status": "translated"
+    },
+    {
+      "id": "E2839",
+      "en": "but it's a charm that softens attacks from demons a little.",
+      "status": "translated"
+    },
+    {
+      "id": "E2840",
+      "en": "The demons put a bounty on you, right?",
+      "status": "translated"
+    },
+    {
+      "id": "E2841",
+      "en": "I think it'll help protect you.",
+      "status": "translated"
+    },
+    {
+      "id": "E2842",
+      "en": "This is about all I can do.",
+      "status": "translated"
+    },
+    {
+      "id": "E2843",
+      "en": "I just made it so you can keep fighting.",
+      "status": "translated"
+    },
+    {
+      "id": "E2844",
+      "en": "I've caused you plenty of trouble, after all.",
+      "status": "translated"
+    },
+    {
+      "id": "E2845",
+      "en": "Besides, if you don't keep fighting for us,",
+      "status": "translated"
+    },
+    {
+      "id": "E2846",
+      "en": "we won't have a future. Don't let them beat you.",
+      "status": "translated"
+    },
+    {
+      "id": "E2847",
+      "en": "With that, @7rCyrus@0r smiled bashfully.",
+      "status": "translated"
+    },
+    {
+      "id": "E2848",
+      "en": "Did you get the materials?",
+      "status": "translated"
+    },
+    {
+      "id": "E2849",
+      "en": "Oh, not yet...",
+      "status": "translated"
+    },
+    {
+      "id": "E2850",
+      "en": "I know it's tough, but please keep at it.",
+      "status": "translated"
+    },
+    {
+      "id": "E2851",
+      "en": "I have a really important favor to ask.",
+      "status": "translated"
+    },
+    {
+      "id": "E2852",
+      "en": "So please don't refuse. In fact, you absolutely have to go.",
+      "status": "translated"
+    },
+    {
+      "id": "E2853",
+      "en": "The seriousness in @7rCyrus's@0r voice made you listen closely.",
+      "status": "translated"
+    },
+    {
+      "id": "E2854",
+      "en": "I'm thinking of making a charm.",
+      "status": "translated"
+    },
+    {
+      "id": "E2855",
+      "en": "I'd like you to collect the materials for it.",
+      "status": "translated"
+    },
+    {
+      "id": "E2856",
+      "en": "There are four things I need:",
+      "status": "translated"
+    },
+    {
+      "id": "E2857",
+      "en": "a @3rCockatrice Feather@0r, @3rHylde Moer's Tears@0r,",
+      "status": "translated"
+    },
+    {
+      "en": "@3rThe Pretty's Wing@0r, and @3rFenodyree's Beard@0r.",
+      "status": "translated",
+      "id": "E2858",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E2859",
+      "en": "I've heard you can get them in the lower levels of @6rGraham@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E2860",
+      "en": "Of course, whatever's waiting down there could be strong.",
+      "status": "translated"
+    },
+    {
+      "id": "E2861",
+      "en": "Do your best out there.",
+      "status": "translated"
+    },
+    {
+      "id": "E2862",
+      "en": "Since he began by saying you couldn't refuse,",
+      "status": "translated"
+    },
+    {
+      "id": "E2863",
+      "en": "this probably has something to do with the seal.",
+      "status": "translated"
+    },
+    {
+      "id": "E2864",
+      "en": "It seems you'll have to steel yourself and gather the materials.",
+      "status": "translated"
+    },
+    {
+      "id": "E2865",
+      "en": "You received a @3rBalmar Guard@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E2866",
+      "en": "Ahh, seriously, thanks for all your hard work.",
+      "status": "translated"
+    },
+    {
+      "id": "E2867",
+      "en": "Well, oh mighty savior @7rFiore@0r? Think you can save the world?",
+      "status": "translated"
+    },
+    {
+      "id": "E2868",
+      "en": "How should I know?!",
+      "status": "translated"
+    },
+    {
+      "id": "E2869",
+      "en": "One thing's for sure: the savior isn't ME!",
+      "status": "translated"
+    },
+    {
+      "id": "E2870",
+      "en": "Well, the monster really was there,",
+      "status": "translated"
+    },
+    {
+      "id": "E2871",
+      "en": "and you managed to defeat it. Couldn't that be enough?",
+      "status": "translated"
+    },
+    {
+      "id": "E2872",
+      "en": "Sure, but... Huh? What's that outstretched hand for?",
+      "status": "translated"
+    },
+    {
+      "id": "E2873",
+      "en": "When you asked to be paid for this adventure,",
+      "status": "translated"
+    },
+    {
+      "id": "E2874",
+      "en": "@7rFiore@0r looked ready to burst into tears.",
+      "status": "translated"
+    },
+    {
+      "id": "E2875",
+      "en": "D-don't tell me you're demanding payment from a poor maiden",
+      "status": "translated"
+    },
+    {
+      "id": "E2876",
+      "en": "who's crushed because she failed to become the savior?!",
+      "status": "translated"
+    },
+    {
+      "id": "E2877",
+      "en": "Well, what did you expect?",
+      "status": "translated"
+    },
+    {
+      "id": "E2878",
+      "en": "Helping with @7rFiore's@0r grand adventure was a job, after all.",
+      "status": "translated"
+    },
+    {
+      "id": "E2879",
+      "en": "Exactly. Fiore may be a pitiful would-be savior,",
+      "status": "translated"
+    }
+  ],
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

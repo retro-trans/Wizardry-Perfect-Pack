@@ -1,0 +1,517 @@
+{
+  "translations": [
+    {
+      "id": "E6400",
+      "en": "\"You still mean to go farther?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6401",
+      "en": "Unless you can answer my questions,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6402",
+      "en": "that wish cannot be granted.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6403",
+      "en": "\"Give me your answer...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6404",
+      "en": "\"A trickster has stolen the treasure from a treasure chest.",
+      "status": "review",
+      "note": "Localized the language-specific trickster/chest wordplay so the empty-chest answer remains solvable in English. E0680.evt branches verified: choice 3 succeeds; order and branch indices unchanged. Requires in-game functional review."
+    },
+    {
+      "id": "E6405",
+      "en": "What is left inside that chest...?\"",
+      "status": "review",
+      "note": "Continuation of the localized riddle in E6404. Empty chest remains correct choice 3, verified in E0680.evt bytecode."
+    },
+    {
+      "id": "E6406",
+      "en": "A spinning top",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6407",
+      "en": "A hobby",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6408",
+      "en": "Nothing inside",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6409",
+      "en": "\"You fool...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6410",
+      "en": "I cannot let you go farther.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6411",
+      "en": "\"That is correct...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6412",
+      "en": "Proceed.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6413",
+      "en": "\"The one who buys it does not enter it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6414",
+      "en": "but the one who does not buy it does.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6415",
+      "en": "What is it...?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6416",
+      "en": "A coffin",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6417",
+      "en": "A manor",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6418",
+      "en": "A mansion",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6419",
+      "en": "\"It has four legs and a back,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6420",
+      "en": "but no body.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6421",
+      "en": "A table",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6422",
+      "en": "A chair",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6423",
+      "en": "A sweet bun",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6424",
+      "en": "A voice echoed inside your head.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6425",
+      "en": "The familiar voice",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6426",
+      "en": "began to speak.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6427",
+      "en": "\"You still refuse to give up...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6428",
+      "en": "Then prepare yourself for the consequences.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6429",
+      "en": "Answer my question.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6430",
+      "en": "\"Among this labyrinth's many doors,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6431",
+      "en": "which kind was more common:",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6432",
+      "en": "push doors or pull doors?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6433",
+      "en": "Push doors",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6434",
+      "en": "Pull doors",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6435",
+      "en": "Neither",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6436",
+      "en": "I don't know!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6437",
+      "en": "\"Incorrect...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6438",
+      "en": "You have shown me your resolve.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6439",
+      "en": "\"You may proceed.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6440",
+      "en": "That is correct...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6441",
+      "en": "\"Those with poor sight can see through it,",
+      "status": "translated",
+      "note": "Riddle concerns corrective glasses: poor sight becomes clear while normal sight blurs. E0684.evt bytecode confirms Glasses succeeds at choice 3. No answer order or branch changes."
+    },
+    {
+      "id": "E6442",
+      "en": "but those with clear sight cannot.",
+      "status": "translated",
+      "note": "Riddle concerns corrective glasses: poor sight becomes clear while normal sight blurs. E0684.evt bytecode confirms Glasses succeeds at choice 3. No answer order or branch changes."
+    },
+    {
+      "id": "E6443",
+      "en": "What is it...?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6444",
+      "en": "Tomorrow",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6445",
+      "en": "A cuckoo",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6446",
+      "en": "Glasses",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6447",
+      "en": "\"One creature can turn into something that sprays water",
+      "status": "review",
+      "note": "Localized water-spitting wordplay as HORSE minus R equals HOSE. E0685.evt bytecode confirms Horse is correct choice 1. Answer order and branch indices unchanged; requires in-game functional review."
+    },
+    {
+      "id": "E6448",
+      "en": "when you remove the letter R from its English name.",
+      "status": "review",
+      "note": "Continuation of E6447 English letter-removal clue. Horse remains correct choice 1; existing shared question ending follows in the event."
+    },
+    {
+      "id": "E6449",
+      "en": "A horse",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6450",
+      "en": "A deer",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6451",
+      "en": "A sprout",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6452",
+      "en": "A moth",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6453",
+      "en": "\"What feeling appears if you replace TOM in TOMORROW with S...?\"",
+      "status": "review",
+      "note": "Localized the Japanese vowel-order wordplay as TOMORROW minus TOM plus S equals SORROW. E0686.evt bytecode confirms Sorrow is correct choice 3. Answer order and branch indices unchanged; requires in-game functional review."
+    },
+    {
+      "id": "E6454",
+      "en": "Joy",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6455",
+      "en": "Anger",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6456",
+      "en": "Sorrow",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6457",
+      "en": "Pleasure",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6458",
+      "en": "\"That is correct...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6459",
+      "en": "\"Beyond here lies a place",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6460",
+      "en": "that we could never reach",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6461",
+      "en": "while we yet lived.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6462",
+      "en": "\"Bitter though it is,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6463",
+      "en": "you seem to possess the qualities",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6464",
+      "en": "needed to reach it...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6465",
+      "en": "\"Proceed.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6466",
+      "en": "You found a battered, dust-covered sack!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6467",
+      "en": "You picked it up and beat off the dust.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6468",
+      "en": "When you undid the tightly tied opening,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6469",
+      "en": "you found a Restorative inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6470",
+      "en": "You obtained a Restorative!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6471",
+      "en": "An iron treasure chest stood there...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6472",
+      "en": "It was so badly rusted that none of its original sheen remained.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6473",
+      "en": "When you quietly opened the chest,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6474",
+      "en": "you found an Elixir inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6475",
+      "en": "You obtained an Elixir!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6476",
+      "en": "You found a recess in the wall!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6477",
+      "en": "It looked unnatural, as though someone had made it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6478",
+      "en": "You reached inside, grasped what was there, and pulled it out...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6479",
+      "en": "It was a Teleport Scroll.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E6401",
+    "E6402",
+    "E6413",
+    "E6414",
+    "E6419",
+    "E6420",
+    "E6425",
+    "E6426",
+    "E6430",
+    "E6431",
+    "E6432",
+    "E6441",
+    "E6442",
+    "E6447",
+    "E6448",
+    "E6459",
+    "E6460",
+    "E6461",
+    "E6462",
+    "E6463",
+    "E6464",
+    "E6468",
+    "E6469",
+    "E6473",
+    "E6474"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80
+}

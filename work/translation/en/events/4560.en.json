@@ -1,0 +1,210 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 100,
+  "context": "Ancient street signs and crafting materials; Anselm, Beatrix and Carmine begin a ritual while party defends them. E4550-E4559 and E4640-E4649 reviewed.",
+  "decisions": "Imported Araha'wi rows preserved. Signs retain glossary spellings. Three casters confirmed at E4629. Cross-row clauses retain boundaries.",
+  "provenance": "Eleven exact-match imported rows preserved; 69 new English translations from Japanese source with adjacent context reviewed.",
+  "translations": [
+{"id":"E4571","en":"Something like a rotting sign lay on the ground.","status":"translated"},
+{"id":"E4572","en":"The letters were faded and difficult to read,","status":"translated"},
+{"id":"E4573","en":"but they appeared to say \"Kulgar Straat.\"","status":"translated"},
+{"id":"E4574","en":"There was something like an ancient signpost.","status":"translated"},
+{"id":"E4575","en":"It was decaying and difficult to read,","status":"translated"},
+{"id":"E4576","en":"but it appeared to say \"Dulong Straat.\"","status":"translated"},
+{"id":"E4577","en":"Could it be an old sign of some sort?","status":"translated"},
+{"id":"E4578","en":"Something was nailed to the wall.","status":"translated"},
+{"id":"E4579","en":"It was badly rusted and difficult to read,","status":"translated"},
+{"id":"E4580","en":"but it appeared to say \"Kayuken.\"","status":"translated"},
+{"id":"E4581","en":"Something like letters was carved into the wall.","status":"translated"},
+{"id":"E4582","en":"They were weathered and difficult to read,","status":"translated"},
+{"id":"E4583","en":"but they appeared to say \"Skua.\"","status":"translated"},
+{"id":"E4584","en":"An old stone tablet lay at your feet.","status":"translated"},
+{"id":"E4585","en":"It appeared to be a sign of some sort.","status":"translated"},
+{"id":"E4586","en":"It was dirty, but a gentle wipe","status":"translated"},
+{"id":"E4587","en":"revealed the word \"Kaipers.\"","status":"translated"},
+{"id":"E4588","en":"In a corner lay a mineral, gleaming faintly in the light.","status":"translated"},
+{"id":"E4589","en":"It was slightly chipped, but that should be no problem.","status":"translated"},
+{"id":"E4590","en":"You obtained a @3rCrystal Fragment@0r.","status":"translated"},
+{"id":"E4591","en":"You put the @3rCrystal Fragment@0r at the bottom of your bag.","status":"translated"},
+{"id":"E4592","en":"It had some weight to it, but you could manage.","status":"translated"},
+{"id":"E4593","en":"You now had all the materials.","status":"translated"},
+{"id":"E4594","en":"You should return to @7rCarmine@0r.","status":"translated"},
+{"id":"E4595","en":"A hard stone lay at your feet.","status":"translated"},
+{"id":"E4596","en":"Its glossy surface shone brightly enough to reflect your face.","status":"translated"},
+{"id":"E4597","en":"It seemed so hard that even a sword could not scratch it.","status":"translated"},
+{"id":"E4598","en":"You obtained @3rSteel@0r.","status":"translated"},
+{"id":"E4599","en":"You put the @3rSteel@0r at the bottom of your bag.","status":"translated"},
+{"id":"E4600","en":"It was very heavy, but not enough to hinder your movements.","status":"translated"},
+{"id":"E4601","en":"An ore glowed faintly red in a crack in the wall.","status":"translated"},
+{"id":"E4602","en":"It was slightly warm to the touch.","status":"translated"},
+{"id":"E4603","en":"You obtained @3rFire Ore@0r.","status":"translated"},
+{"id":"E4604","en":"You put the @3rFire Ore@0r at the bottom of your bag.","status":"translated"},
+{"id":"E4605","en":"Something like a plant was growing there.","status":"translated"},
+{"id":"E4606","en":"Looking closely, you saw what seemed to be a branch shining gold.","status":"translated"},
+{"id":"E4607","en":"You obtained a @3rGolden Branch@0r.","status":"translated"},
+{"id":"E4608","en":"Taking care not to snap it, you gently placed the @3rGolden Branch@0r","status":"translated"},
+{"id":"E4609","en":"in your bag.","status":"translated"},
+{"id":"E4610","en":"It was an eerie door.","status":"translated"},
+{"id":"E4611","en":"At first glance, it looked like an ordinary gate found anywhere.","status":"translated"},
+{"id":"E4612","en":"But the air spilling from it was like a sinister aura,","status":"translated"},
+{"id":"E4613","en":"spreading something unnatural into its surroundings.","status":"translated"},
+{"id":"E4614","en":"Could this be the gate to the other realm?","status":"translated"},
+{"id":"E4615","en":"This is the otherworldly gate.","status":"translated"},
+{"id":"E4616","en":"It is just as my master, @7rChu Lu Gah@0r, once described it.","status":"translated"},
+{"id":"E4617","en":"It is said that @6rGraham Labyrinth@0r itself was originally","status":"translated"},
+{"id":"E4618","en":"one of the devices built to seal this gate.","status":"translated"},
+{"id":"E4619","en":"Thus, the same materials used in @6rGraham Labyrinth@0r","status":"translated"},
+{"id":"E4620","en":"are said to have been used to make the gate.","status":"translated"},
+{"id":"E4621","en":"Now, let us begin the ritual.","status":"translated"},
+{"id":"E4622","en":"Please protect us until it is complete.","status":"translated"},
+{"id":"E4623","en":"Holding the magic-circle activation texts that @7rAnselm@0r had given them,","status":"translated"},
+{"id":"E4624","en":"@7rBeatrix@0r and @7rCarmine@0r began chanting.","status":"translated"},
+{"id":"E4625","en":"Then, perhaps drawn by the words of the chant,","status":"translated"},
+{"id":"E4626","en":"monsters appeared from every direction.","status":"translated"},
+{"id":"E4627","en":"You could not let this ritual be interrupted.","status":"translated"},
+{"id":"E4628","en":"You readied your weapons and prepared for battle.","status":"translated"},
+{"id":"E4629","en":"The three were still chanting to activate the magic circle.","status":"translated"},
+{"id":"E4630","en":"Perhaps their chant drew the monsters:","status":"translated"},
+{"id":"E4631","en":"one after another appeared and attacked, giving you no time to breathe.","status":"translated"},
+{"id":"E4632","en":"They've come...","status":"translated"},
+{"id":"E4633","en":"They've come! They're here!","status":"translated"},
+{"id":"E4634","en":"What had come?","status":"translated"},
+{"id":"E4635","en":"At those words, you looked up","status":"translated"},
+{"id":"E4636","en":"and saw familiar, sinister figures before you.","status":"translated"},
+{"id":"E4637","en":"Hee hee hee hee hee hee hee!","status":"translated"},
+{"id":"E4638","en":"It's been a while! I've waited for this day","status":"translated"},
+{"id":"E4639","en":"down in the depths of hell!","status":"translated"},
+    {
+      "id": "E4560",
+      "en": "a Sorcerer's magic takes effect with tremendous power.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1613",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4561",
+      "en": "Honing techniques to fight through the fires of battle barehanded,",
+      "status": "review",
+      "note": "Advanced class Monk provisional.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1614",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4562",
+      "en": "without a weapon, is the aim of the \"@2rMonk@0r\".",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1615",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4563",
+      "en": "And believing that survival matters above all else",
+      "status": "review",
+      "note": "Advanced class Ranger provisional.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1616",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4564",
+      "en": "is the way of the \"@2rRanger@0r\".",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1617",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4565",
+      "en": "They all have such unusual goals, don't they? Heh heh heh.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1618",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4566",
+      "en": "The corners of @7rAraha'wi@0r's lips curl into a fearless smile.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1619",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4567",
+      "en": "Ah... Yes, yes. That's right... That's right.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1620",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4568",
+      "en": "\"@2rSummoners@0r.\" I suggest you stay away from those people.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1621",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4569",
+      "en": "With those final words, the corners of @7rAraha'wi@0r's lips",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1622",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4570",
+      "en": "curl into a fearless smile, and the figure vanishes beyond the mist.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1623",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

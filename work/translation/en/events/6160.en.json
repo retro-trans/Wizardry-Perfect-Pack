@@ -1,0 +1,516 @@
+{
+  "translations": [
+    {
+      "id": "E6160",
+      "en": "A sheet of paper was attached to the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6161",
+      "en": "Its condition showed that it was old.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6162",
+      "en": "To help adventurers who come after me,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6163",
+      "en": "I record the features of this labyrinth here.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6164",
+      "en": "That was the only sentence written on it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6165",
+      "en": "leaving a large expanse of blank space...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6166",
+      "en": "Large letters were written on the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6167",
+      "en": "\"To the east...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6168",
+      "en": "The end of the message had been gouged away by a powerful spell.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6169",
+      "en": "A message was written in large letters on a sign.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6170",
+      "en": "\"If you think it's dangerous, turn back!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6171",
+      "en": "You kicked something!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6172",
+      "en": "The Healing Salve you had kicked rolled around your feet...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6173",
+      "en": "You obtained Healing Salve!",
+      "status": "translated",
+      "note": "Healing Salve follows database DI0192."
+    },
+    {
+      "id": "E6174",
+      "en": "Your inventory is full!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6175",
+      "en": "Something lay on the floor...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6176",
+      "en": "You found a Magic Torch!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6177",
+      "en": "You obtained a Magic Torch!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6178",
+      "en": "Something was hidden in a recess in the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6179",
+      "en": "You gently took it out.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6180",
+      "en": "It was Smelling Salts.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6181",
+      "en": "You obtained Smelling Salts!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6182",
+      "en": "Something suddenly darted past your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6183",
+      "en": "It was hard to tell in the darkness,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6184",
+      "en": "but it seemed to be a small animal.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6185",
+      "en": "It disappeared somewhere with astonishing speed.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6186",
+      "en": "Looking down, you noticed a scrap of paper.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6187",
+      "en": "It read:",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6188",
+      "en": "\"I ate the bread and drank the milk I was supposed to buy.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6189",
+      "en": "There's nothing useful left in my bag.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6190",
+      "en": "\"I was only supposed to tag along for a little while.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6191",
+      "en": "How did it come to this...?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6192",
+      "en": "The scrap of paper bore feeble handwriting.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6193",
+      "en": "You noticed your footsteps sounded different and looked down.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6194",
+      "en": "You were stepping on a scrap of paper.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6195",
+      "en": "\"We've been in this labyrinth longer than I expected.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6196",
+      "en": "I no longer even know",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6197",
+      "en": "how much time has passed.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6198",
+      "en": "A scrap of paper lay on the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6199",
+      "en": "You picked it up and read the words.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6200",
+      "en": "\"I'm getting too tired even to open my mouth.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6201",
+      "en": "My companion still looks full of energy,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6202",
+      "en": "but I wonder.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6203",
+      "en": "A small scrap of paper lay beside the path...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6204",
+      "en": "\"We've been wandering this labyrinth for a long time.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6205",
+      "en": "We've run out of bread to eat.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6206",
+      "en": "When I told my companion, the answer was...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6207",
+      "en": "\"If there's no bread, just eat cake.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6208",
+      "en": "You found a scrap of paper lying in the passage.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6209",
+      "en": "\"I'm thirsty.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6210",
+      "en": "\"I thought we'd be back aboveground in no time,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6211",
+      "en": "so the only drinking water we have",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6212",
+      "en": "is in the little flask I had with me.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6213",
+      "en": "\"And even that water is about to run...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6214",
+      "en": "The rest was too faded to read.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6215",
+      "en": "Something was written in neat handwriting",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6216",
+      "en": "on the door before you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6217",
+      "en": "\"Nobody's Here.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6218",
+      "en": "\"I should have asked the party we met earlier",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6219",
+      "en": "if they could at least spare",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6220",
+      "en": "some drinking water.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6221",
+      "en": "\"In a labyrinth like this, who knows if we'll meet anyone else...?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6222",
+      "en": "The hurried-looking handwriting stood out.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6223",
+      "en": "It looked as though the words had been scrawled in anger.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6224",
+      "en": "\"I'm hungry!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6225",
+      "en": "A complicated pattern covered the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6226",
+      "en": "It seemed to be a map of this labyrinth,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6227",
+      "en": "but it did not look particularly reliable...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6228",
+      "en": "A mysterious voice came from nowhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6229",
+      "en": "\"Isn't it time you tried turning back?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6230",
+      "en": "Is there really any need to hurry...?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6231",
+      "en": "A solemn voice reached your ears from nowhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6232",
+      "en": "\"Know the limits of your abilities...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6233",
+      "en": "When the voice faded,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6234",
+      "en": "silence settled over the surroundings.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6235",
+      "en": "Nearby, you found bleached human bones.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6236",
+      "en": "The skeleton still held its human shape perfectly.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6237",
+      "en": "You could speak to it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6238",
+      "en": "but of course there would be no reply.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6239",
+      "en": "There was a battered door...",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E6162",
+    "E6164",
+    "E6165",
+    "E6183",
+    "E6184",
+    "E6187",
+    "E6196",
+    "E6197",
+    "E6201",
+    "E6202",
+    "E6210",
+    "E6211",
+    "E6212",
+    "E6215",
+    "E6216",
+    "E6218",
+    "E6219",
+    "E6220",
+    "E6226",
+    "E6227",
+    "E6233",
+    "E6234",
+    "E6237",
+    "E6238"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80
+}

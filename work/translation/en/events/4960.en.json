@@ -1,0 +1,526 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E4960",
+      "en": "What should you do?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2011",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E4961",
+      "en": "Should you attack without a word, or try talking?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4962",
+      "en": "Fight",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4963",
+      "en": "Explain why you came",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4964",
+      "en": "There was no time to waste here.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4965",
+      "en": "You drew your weapon without another word.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4966",
+      "en": "Hmph. You barbarian...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4967",
+      "en": "You cut the beard",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4968",
+      "en": "from the fallen Fenodyree.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4969",
+      "en": "You obtained the \"@3rFenodyree's Beard@0r.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4970",
+      "en": "You honestly explained why you had come.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4971",
+      "en": "Ha ha ha ha ha!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4972",
+      "en": "So you need my beard to sew another protective charm?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4973",
+      "en": "Very well. You may have it. Here!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4974",
+      "en": "Fenodyree gave you the \"@3rFenodyree's Beard@0r.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4975",
+      "en": "Fighting is not the only way, you know.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4976",
+      "en": "You had obtained every item @7rCyrus@0r requested.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4977",
+      "en": "It was time to take them back to @7rCyrus@0r at once.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4978",
+      "en": "You spotted a box fixed to the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4979",
+      "en": "A small fairy sat before it, looking bored.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4980",
+      "en": "Something about the fairy reminded you of @7rLady Marbas@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4981",
+      "en": "The Pretty",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4982",
+      "en": "Good afternoon. Or is it good evening?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4983",
+      "en": "Oh, either will do.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4984",
+      "en": "I've been stuck here so long, I'm bored.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4985",
+      "en": "So very, very bored. And there's nothing to eat.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4986",
+      "en": "You've come at just the right time. Let me sip your soul.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4987",
+      "en": "You cut the wings from The Pretty's fallen body.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4988",
+      "en": "You obtained the \"@3rThe Pretty's Wing@0r.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4989",
+      "en": "An old man stood before it with a furious expression.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4990",
+      "en": "Hylde Moer",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4991",
+      "en": "It's because of you... This is all your fault!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4992",
+      "en": "Why must I be kept here,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4993",
+      "en": "all because of you people?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4994",
+      "en": "After losing the battle, Hylde Moer",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4995",
+      "en": "seemed to lose all trace of that furious expression",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4996",
+      "en": "and collapsed on the spot, sobbing uncontrollably.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4997",
+      "en": "You obtained the \"@3rHylde Moer's Tears@0r.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4998",
+      "en": "You spotted a box fixed to the floor. Beside it, an enormous rooster",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E4999",
+      "en": "with a snake's tail and gleaming scales glared at you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5000",
+      "en": "It was a cockatrice!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5001",
+      "en": "From the fallen cockatrice,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5002",
+      "en": "you plucked several feathers.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5003",
+      "en": "You obtained the \"@3rCockatrice Feather@0r.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5004",
+      "en": "Where is this stone tablet supposed to be, anyway?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5005",
+      "en": "@7rFiore@0r had begun to grumble.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5006",
+      "en": "Sure enough, nothing resembling a stone tablet was anywhere in sight.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5007",
+      "en": "Had it all been just a rumor after all?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5008",
+      "en": "A stone tablet... Hm? Aaaah!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5009",
+      "en": "There it is! Over there!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5010",
+      "en": "Where @7rFiore@0r pointed,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5011",
+      "en": "a golem with a trapezoidal tablet attached to its chest",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5012",
+      "en": "was just awakening, its eyes beginning to glow.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5013",
+      "en": "The impact of the golem's fall",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5014",
+      "en": "broke the tablet into three neat triangles.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5015",
+      "en": "Well, it broke.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5016",
+      "en": "Huh? There's something written where the tablet came off!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5017",
+      "en": "It says, \"Into the triangular recess in the eastern wall,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5018",
+      "en": "fit one large triangle and three small triangles.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5019",
+      "en": "Besides these three triangles, is there a big one somewhere?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5020",
+      "en": "That was your only real clue.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5021",
+      "en": "For now, you should search the eastern wall for a triangular recess.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5022",
+      "en": "Huh? There's a big triangular hole here!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5023",
+      "en": "Just as @7rFiore@0r said, there was a large triangular recess.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5024",
+      "en": "But the recess was only about",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5025",
+      "en": "as deep as the three triangular tablets were thick.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5026",
+      "en": "There were no other recesses for the small triangular tablets.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5027",
+      "en": "Each side of the triangular recess",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5028",
+      "en": "was roughly twice the length of a side of the three triangles you held.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5029",
+      "en": "Faint, spindly letters were carved into the recess.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5030",
+      "en": "\"Match the corners.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5031",
+      "en": "What could that mean?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5032",
+      "en": "Place one above and two below",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5033",
+      "en": "Stack all three and push them in",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5034",
+      "en": "Try biting a triangle",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5035",
+      "en": "You placed one of the small triangles at the top,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5036",
+      "en": "then arranged the other two triangles beneath it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5037",
+      "en": "Matching the tips of those two triangles",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5038",
+      "en": "to the two bottom corners of the upper triangle",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5039",
+      "en": "formed one large triangle with an inverted triangular hole in the middle.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E4967",
+    "E4968",
+    "E4992",
+    "E4993",
+    "E4994",
+    "E4995",
+    "E4996",
+    "E4998",
+    "E4999",
+    "E5001",
+    "E5002",
+    "E5010",
+    "E5011",
+    "E5012",
+    "E5013",
+    "E5014",
+    "E5017",
+    "E5018",
+    "E5024",
+    "E5025",
+    "E5027",
+    "E5028",
+    "E5035",
+    "E5036",
+    "E5037",
+    "E5038",
+    "E5039"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 79
+}

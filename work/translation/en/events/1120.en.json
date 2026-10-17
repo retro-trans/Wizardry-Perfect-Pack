@@ -1,0 +1,488 @@
+{
+  "translations": [
+    {
+      "id": "E1120",
+      "en": "You expected her to be more persistent,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1121",
+      "en": "but @7rCarmine@0r seems to back down surprisingly easily.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1122",
+      "en": "Still, you are certain",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1123",
+      "en": "that she sincerely needs your help.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1124",
+      "en": "Sorry to bother you when you've only just arrived,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1125",
+      "en": "but could you hear me out?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1126",
+      "en": "You're trying to find a way to save this city too, right?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1127",
+      "en": "You can work with @7rBeatrix@0r and still help me out.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1128",
+      "en": "That's how an adventurer gets by, isn't it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1129",
+      "en": "Even I don't think @7rBeatrix@0r is to blame for everything.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1130",
+      "en": "But there's something about that woman I just can't trust.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1131",
+      "en": "Come on, @7rCyrus@0r. You think so too, don't you?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1132",
+      "en": "H-hey...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1133",
+      "en": "Y-yeah. I do.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1134",
+      "en": "@7rCarmine@0r still seems to treat @7rCyrus@0r as a friend,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1135",
+      "en": "even though she knows he was planning",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1136",
+      "en": "to escape the city on his own.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1137",
+      "en": "@7rCyrus@0r must feel uncomfortable after betraying her,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1138",
+      "en": "but this is @7rCarmine's@0r way of showing kindness.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1139",
+      "en": "If he stays and helps from now on, things should work out.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1140",
+      "en": "Anyway, we still don't know what caused that strange light and rumbling.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1141",
+      "en": "After such a huge, ominous flash and roar,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1142",
+      "en": "nothing seems to have changed.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1143",
+      "en": "That's not true.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1144",
+      "en": "The city's been acting strange,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1145",
+      "en": "and the monsters are much more active.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1146",
+      "en": "Above all, new ruins have been discovered in the city...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1147",
+      "en": "Right. Did you hear they found a new district after that incident?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1148",
+      "en": "I get the feeling @7rBeatrix@0r knew",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1149",
+      "en": "that district existed long before this happened.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1150",
+      "en": "That's why I don't trust her completely.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1151",
+      "en": "Our goal's the same, but I'll be doing my own investigating.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1152",
+      "en": "I hope you understand.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1153",
+      "en": "As for the job this time, I want to investigate the new district.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1154",
+      "en": "Every place we've found connected to @7rChu Lu Gah@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1155",
+      "en": "has been a research facility. We haven't found anywhere he lived.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1156",
+      "en": "That means @7rChu Lu Gah's@0r house must be out there somewhere.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1157",
+      "en": "I want to find it, somehow, and uncover @7rChu Lu Gah's@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1158",
+      "en": "true nature.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1159",
+      "en": "Once we know what @7rChu Lu Gah@0r was really like,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1160",
+      "en": "I think we'll find a lead to solving this whole mystery.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1161",
+      "en": "I'd like you to come along as my bodyguards.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1162",
+      "en": "What do you say? Will you do it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1163",
+      "en": "You received a @3rHealing Ring@0r and a @3rThief's Toolkit@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1164",
+      "en": "You found it for me?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1165",
+      "en": "Thank you sooo much!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1166",
+      "en": "Hurry, let me see!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1167",
+      "en": "You hand your delighted, beaming companion",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1168",
+      "en": "@7rTanya@0r the @3rAncient Coin@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1169",
+      "en": "Wow! I've never seen money like this before!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1170",
+      "en": "It must be really old.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1171",
+      "en": "Thank you so much!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1172",
+      "en": "I'm so happy!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1173",
+      "en": "Here, you can have these as a thank-you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1174",
+      "en": "From @7rTanya@0r, you received a @3rMagic Coin@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1175",
+      "en": "a @3rHealing Ring@0r, a @3rThief's Toolkit@0r, and @3r10,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1176",
+      "en": "The coin's surface is covered in hieroglyphs,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1177",
+      "en": "with a red gemstone set in its center.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1178",
+      "en": "I found that a long time ago,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1179",
+      "en": "when I secretly went exploring in the ruins.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1180",
+      "en": "When I gave it to Grandma, she said it was enchanted",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1181",
+      "en": "and that @7rTanya@0r should treasure it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1182",
+      "en": "But I thought it might make a good good-luck charm,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1183",
+      "en": "so I want you to have it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1184",
+      "en": "I'm not like @7rBeatrix@0r or @7rCarmine@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1185",
+      "en": "I don't understand all that complicated stuff, so whenever you go adventuring,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1186",
+      "en": "I always pray that you'll come back safe.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1187",
+      "en": "So please do your best!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1188",
+      "en": "Well, I'm going to take this money to Grandma.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1189",
+      "en": "See you!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1190",
+      "en": "You received @3r10,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1191",
+      "en": "I can't wait to see how happy Grandma will be.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1192",
+      "en": "She worked so hard to raise me,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1193",
+      "en": "and I love seeing her happy.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1194",
+      "en": "So please try your best to find them!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1195",
+      "en": "I'm counting on you!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1196",
+      "en": "Huh? Have you decided",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1197",
+      "en": "to look for that old money for me?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1198",
+      "en": "I'd be really happy if you did...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1199",
+      "en": "I'll give you my enchanted treasure as a thank-you,",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 137,
+  "context": "Carmine explains her mistrust of Beatrix and seeks escort; Tanya later receives coins and offers her enchanted keepsake.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

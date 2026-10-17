@@ -1,0 +1,907 @@
+{
+  "rows_in_slice": 75,
+  "rows_examined": 75,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "DM0400",
+      "en": "Peluda",
+      "status": "review",
+      "note": "Peluda is the usual name of the French dragon corresponding to the source phonetics; game-specific spelling is unverified.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0400",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0401",
+      "en": "Law of the Ancient Pact",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0401",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0402",
+      "en": "Karma Unleashed",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0402",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0403",
+      "en": "One of the oldest dragon\nspecies, and one rarely\nseen. Because encounters\nare so uncommon, little\ninformation exists and rumors\nhave outpaced the facts.\n\nSome say it has survived since ancient\ntimes, so it seems unlikely to be weak.\nStill, there is reason to question\nwhether its reputation is exaggerated.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0403",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0404",
+      "en": "Duende",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0404",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0405",
+      "en": "A monster classified\namong the undead.\n\nSaid to be made from the body\nof a child unfortunate enough\nto have left this world. Though\nphysically weak, it can inflict\ngreat harm on anyone who\nunderestimates its speed.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0405",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0406",
+      "en": "Melophagoi",
+      "status": "review",
+      "note": "Melophagoi is a provisional classical-style romanization.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0406",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0407",
+      "en": "Confounding Gaze",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0407",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0408",
+      "en": "Staring at its grotesque\nappearance can cause almost\nphysical discomfort. Like orcs,\nit is a demi-human, but even\ngreedier by nature. It seems\nparticularly drawn to shiny\nobjects. Anyone other than an\nadventurer might escape by\nusing valuables as bait.\nAdventurers who flee by\nsacrificing their valuables\nshould remember why they became\nadventurers in the first place.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0408",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0409",
+      "en": "The Pretty",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0409",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0410",
+      "en": "A member of the fairy race.\nLike other fairies, it is\ncapricious, but it seems to\ndiffer in having a strong\nindividual desire to show off.\n\nMany reports tell of\nadventurers who followed\none deep into a labyrinth\nand never returned. This\nhas led to speculation\nthat it possesses a\npower of enchantment.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0410",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0411",
+      "en": "Fenodyree",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0411",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0412",
+      "en": "A kind of fairy, like pixies\nand trolls. Keenly interested\nin humans, it often appears\nnear villages, where it has\nreportedly been seen imitating\nthe work of tilling fields.\n\nFrom that alone, it sounds\nendearing. Adventurers, however,\ndescribe it as a slow-footed,\nrough-mannered plunderer.\n\nIt appears to possess the heart and\nintelligence to change its behavior\naccording to the human it encounters.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0412",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0413",
+      "en": "Muki",
+      "status": "review",
+      "note": "Muki is provisional.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0413",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0414",
+      "en": "Soothing Breath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0414",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0415",
+      "en": "A monster said to exist\nin mountains and mines.\nIts disposition is so\npeaceful that some doubt\nit could survive in a\ndangerous labyrinth, and\nquestion whether it is\nreally there at all. If you\nhappen to meet one amid\nyour endless battles, by\nall means treat it gently.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0415",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0416",
+      "en": "Dust Crawler",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0416",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0417",
+      "en": "A slime-like monster that\nserves as the labyrinth's\nscavenger. Slime creatures\nare usually slow, but this\none becomes extremely quick\nonly when attacking, extending\nand retracting its tentacles\nat blinding speed.\n\nIt moves just as slowly as other\nslimes, yet the unexpected speed\nof its tentacles has apparently\ninjured many adventurers.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0417",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0418",
+      "en": "Sabnock",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0418",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0419",
+      "en": "Pitch-Black Mist",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0419",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0420",
+      "en": "Frenzied Assault of Despair",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0420",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0421",
+      "en": "Recorded as a demon drawn forth\nand manifested through summoning\nrituals or summoning gates.\n\nAncient writings single out\nits ability to summon its\nown past and future selves\nto its present self, but\napparently no one has\nconfirmed such an event.\n\nThe latest information is\nan extremely vague report\nstating that being enveloped\nin blue mist is hopeless.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0421",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0422",
+      "en": "Bifros",
+      "status": "review",
+      "note": "Bifros preserves the source without an n; relationship to the established demon name Bifrons needs verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0422",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0423",
+      "en": "Breath of Despair",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0423",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0424",
+      "en": "A high-ranking demon. Its\nattacks exploit weaknesses\nin the heart and can kill\neven thoroughly trained\nadventurers in an instant.\nHowever, most of its abilities\nare sealed, preventing it from\nunleashing its true power.\n\nThose who have seen its\ntrue form lose their\nsanity even if they\nsurvive, leaving no reliable\ninformation about it.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0424",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0425",
+      "en": "Aerady",
+      "status": "review",
+      "note": "Aerady is provisional.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0425",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0426",
+      "en": "Lingering Resentment",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0426",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0427",
+      "en": "Few people could truly\ngrasp what malicious\nair means, but this\nmonster makes that\nsensation tangible.\n\nThe truth awaits investigation.\nOne leading theory is that it was\nan elemental that became a demon.\n\nThe sight of a being combining an elemental's\npower with a demon's menace will surely\nleave anyone who encounters it speechless.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0427",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0428",
+      "en": "Thunder Giant",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0428",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0429",
+      "en": "A giant that governs thunder.\n\nBelieved to carry\nthe blood of the\nOdin clan, once the\nmost powerful group\namong the giants.\n\nBesides possessing knowledge\nbeyond humans and highly advanced\nmagical techniques, it also has\nthe enormous body and attack power\ncharacteristic of giants. A\ndifficult battle is inevitable.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0429",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0430",
+      "en": "Ranger",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0430",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0431",
+      "en": "Skilled at surviving the harshest\nenvironments, these people\nregard adventurers as no more\nthan another kind of prey.\nThey favor long-range weapons\nand sometimes launch direct\nattacks on the back row.\n\nNeglect the back row's defense,\nand the front row will be wiped\nout next. That is so basic it\nscarcely needs to be written here.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0431",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0432",
+      "en": "Swordmaster",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0432",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0433",
+      "en": "Hellfire Sword Flash",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0433",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0434",
+      "en": "A renowned Kensei wandering\nin pursuit of greater\nswordsmanship... That\nsounds admirable enough.\n\nIn truth, a Kensei consumed\nby the sword and obsessed\nonly with cutting people\ndown becomes a terrifying\nenemy beyond all persuasion.\nWhen confronting one who\nsilently readies a blade,\nadventurers should be\nprepared even for death.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0434",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0435",
+      "en": "Hylde Moer",
+      "status": "review",
+      "note": "Hylde Moer is a provisional folklore-name identification matching the forest-spirit lore.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0435",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0436",
+      "en": "A spirit that protects\nthe forest. Naturally,\nit retaliates when the\nforest is attacked. Its\nretaliation apparently\nfalls on everyone it sees,\nregardless of whether\nthey were responsible.\n\nConsumed by anger, it\nwill not listen to\nattempts at persuasion.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0436",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0437",
+      "en": "Boogeyman",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0437",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0438",
+      "en": "In certain regions, this\nmonster features in\nwarnings used to discipline\nchildren. Those actually\nencountered in labyrinths\nare cruel bands of\nmurderers far worse than\nany ogre from a fairy\ntale. Remember that\ntheir comical appearance\nis only a deception.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0438",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0439",
+      "en": "Magic Tree",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0439",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0440",
+      "en": "To Those Who Perish",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0440",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0441",
+      "en": "A tree that roams the\nlabyrinth through sorcery.\nIts hollows may resemble\na face, but apparently\ndo not function as one.\n\nIt uses its roots to turn captured\nprey into nourishment. In the end,\nit is only a tree and is slow and\nponderous. A patient battle\nshould present no great problem.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0441",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0442",
+      "en": "Swarm of Dancing Long Swords",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0442",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0443",
+      "en": "Dancing Terror",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0443",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0444",
+      "en": "Swords controlled by magic\nfly in swarms, drawing the\nswords of their slain victims\ninto their own ranks.\n\nFloating in the air and\ndifficult to strike, they are\ntroublesome enemies. However,\nvaluable blades sometimes\nlie among them, so many\nadventurers actively hunt the\nswarms. Many others, however,\nend up contributing their\nown swords to the group.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0444",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0445",
+      "en": "Luxuria Anguis",
+      "status": "review",
+      "note": "Luxuria Anguis is the likely Latin spelling; needs official game-name verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0445",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0446",
+      "en": "Witch's Lament",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0446",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0447",
+      "en": "Breath of the Abyss",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0447",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0448",
+      "en": "The Great Serpent Dances!",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0448",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0449",
+      "en": "A pitiful witch transformed\ninto a monster. Shiin's love\ngrew distorted, and the\npursuit of a forbidden wish\nled an evil serpent to possess\nher. Feeding on the dark\nlust buried deep in her\nheart, the serpent multiplied\nwithin her body in an\ninstant, leaving masses of\nserpentine bodies exposed.",
+      "status": "review",
+      "note": "The source explicitly calls the transformed figure a witch, supporting female pronouns; the relation to Shiin is retained without importing external plot assumptions.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0449",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0450",
+      "en": "Tempestus Rex",
+      "status": "review",
+      "note": "Tempestas Rex is the likely Latin spelling; needs official game-name verification.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0450",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0451",
+      "en": "Bewildering Battle Cry",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0451",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0452",
+      "en": "Tyrant's Mighty Arm",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0452",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0453",
+      "en": "Magnificent Slash",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0453",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0454",
+      "en": "Said to be the form of a ruler\nwhose ambition and inner darkness\ngrew until they absorbed a\ndragon, allowing dark power to\ndominate both body and mind.\n\nAn incarnation of the desire for\ndestruction, this being believes\nthe entire world belongs to\nthem and has no intention of\nsharing it with anyone. It is\nsaid to destroy the world in\norder to make it theirs alone.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0454",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0455",
+      "en": "Ala Cabra",
+      "status": "review",
+      "note": "Ara Cabra is a provisional spelling.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0455",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0456",
+      "en": "Dance of Violence",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0456",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0457",
+      "en": "Desperate Measures!",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0457",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0458",
+      "en": "The form gained by sacrificing\nbody and soul to the inhuman gods\nin which this being believes.\n\nIt bears the wings of an accursed\ncrow. In its four hands it carries\nenormous cleavers, dispensing\npunishment on behalf of the chaos\nit worships to anyone who would\nuphold order. It dreams of creating\na world consumed by chaos.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0458",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0459",
+      "en": "Shiin",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0459",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0460",
+      "en": "Harmony between people\nand nature is important.\nExcessive actions\nand feelings bring\nmisery to the world.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0460",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0461",
+      "en": "Dimento V",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0461",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0462",
+      "en": "A foolish king who made\nno plans for governing\nhis many subjects.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0462",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0463",
+      "en": "Gregor",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0463",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0464",
+      "en": "They schemed until they\nlost themselves, and\nmet a tragic end.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0464",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0465",
+      "en": "Fiore",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0465",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0466",
+      "en": "Echoing Utsusemi",
+      "status": "review",
+      "note": "Utsusemi retained for the culturally specific body-decoy technique; ability name is provisional.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0466",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0467",
+      "en": "Tanya",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0467",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0468",
+      "en": "Cyrus",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0468",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0469",
+      "en": "Carmine",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0469",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0470",
+      "en": "Hundred Flowers in Bloom",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0470",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0471",
+      "en": "Anselm",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0471",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0472",
+      "en": "Void Ice Mirror",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0472",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0473",
+      "en": "Beatrix",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0473",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0474",
+      "en": "Hellfire Flash",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0474",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "translations": [
+    {
+      "id": "E5680",
+      "en": "\"All paths connect,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5681",
+      "en": "but not all lead to the answer.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5682",
+      "en": "Was it some kind of charm?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5683",
+      "en": "Words were carved into an impressive stone monument.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5684",
+      "en": "\"There are other paths.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5685",
+      "en": "Other paths seldom lead to the answer.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5686",
+      "en": "Though the monument was splendid, it appeared",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5687",
+      "en": "not to have been tended for many years.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5688",
+      "en": "The switch was already activated.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5689",
+      "en": "You saw it streak through the air toward Area 4.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5690",
+      "en": "An old book lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5691",
+      "en": "Its cover bore letters you had never seen before.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5692",
+      "en": "That seemed to be the only noteworthy thing about it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5693",
+      "en": "Some kind of pattern marked the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5694",
+      "en": "On closer inspection, it was only a stain.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5695",
+      "en": "Strangely, parts of it looked like human faces.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5696",
+      "en": "Something like bloodstains marked the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5697",
+      "en": "There were no bodies nearby, but the blood looked fresh.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5698",
+      "en": "Considering who had made them, perhaps you should be careful.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5699",
+      "en": "Words were written in blood on the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5700",
+      "en": "\"Challenge yourself before challenging your enemy!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5701",
+      "en": "There was a sign on the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5702",
+      "en": "\"Experimental Teleportation Circle.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5703",
+      "en": "Under development. Do not open.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5704",
+      "en": "It was a very old sign.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5705",
+      "en": "Had development already finished?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5706",
+      "en": "There was a treasure chest. Will you examine it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5707",
+      "en": "The treasure chest suddenly opened!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5708",
+      "en": "Powerful magic poured out from inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5709",
+      "en": "You were sent flying.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5710",
+      "en": "You decided to ignore the chest and leave.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5711",
+      "en": "Leave slowly",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5712",
+      "en": "Leave quickly",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5713",
+      "en": "You hurried away.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5714",
+      "en": "Water was flowing from a crack in a small rock.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5715",
+      "en": "Perhaps it was groundwater.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5716",
+      "en": "It flowed clear and unstagnant, its reflected light soothing your heart.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5717",
+      "en": "Clear water flowed across the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5718",
+      "en": "There were probably creatures that depended on this water to survive.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5719",
+      "en": "It looked extremely cold,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5720",
+      "en": "but it might be delicious to drink.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5721",
+      "en": "A sign hung on the door.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5722",
+      "en": "\"Junk Storage.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5723",
+      "en": "There was a broken pickaxe.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5724",
+      "en": "Could someone really have built this labyrinth with it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5725",
+      "en": "There were marks on the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5726",
+      "en": "There seemed to be more than ten of them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5727",
+      "en": "Why had someone made these marks?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5728",
+      "en": "There were about three marks.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5729",
+      "en": "Only the third mark was carved unusually deep.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5730",
+      "en": "There was only one mark.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5731",
+      "en": "It was extremely large.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5732",
+      "en": "You sensed something terribly desperate in it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5733",
+      "en": "Words were carved into the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5734",
+      "en": "\"I found sooo much treasure!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5735",
+      "en": "I'm so happy, I just had to scribble something!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5736",
+      "en": "Was it a woman's handwriting?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5737",
+      "en": "Even so, you sensed something like hatred in it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5738",
+      "en": "There were torn sleeping bags and the charred remains of torches.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5739",
+      "en": "They were relatively new and seemed to have been used recently.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5740",
+      "en": "Nothing else of interest was in sight.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5741",
+      "en": "An open wooden crate lay on its side.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5742",
+      "en": "Along its side were marks that seemed to have been made",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5743",
+      "en": "by someone kicking it repeatedly and violently.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5744",
+      "en": "Unsurprisingly, the box was empty.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5745",
+      "en": "There were many footprints.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5746",
+      "en": "They pointed every which way.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5747",
+      "en": "Yet none of the footprints led south.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5748",
+      "en": "Yet none of the footprints led west.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5749",
+      "en": "The footprints pointed in a jumble of directions.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5750",
+      "en": "There seemed to be fewer leading north.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5751",
+      "en": "There was a switch.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5752",
+      "en": "Powerful magic shot from the switch",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5753",
+      "en": "and burst toward you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5754",
+      "en": "There was a sign.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5755",
+      "en": "\"Beware of the dog. Keep away.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5756",
+      "en": "Was it some kind of warning?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5757",
+      "en": "Words were carved on the door.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5758",
+      "en": "\"I commend your courage in proceeding.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5759",
+      "en": "I condemn your decision to try.\"",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5680",
+    "E5681",
+    "E5686",
+    "E5687",
+    "E5719",
+    "E5720",
+    "E5742",
+    "E5743",
+    "E5752",
+    "E5753"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80
+}

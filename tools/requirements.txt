@@ -1,0 +1,9 @@
+cryptography
+fonttools
+capstone>=4
+pyelftools>=0.27
+Pillow>=12
+lzokay>=2; python_version >= '3.10'
+ziglang>=0.16; python_version >= '3.10'
+av>=19; python_version >= '3.12'
+numpy>=1.26; python_version >= '3.12'

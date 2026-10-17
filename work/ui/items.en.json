@@ -1,0 +1,371 @@
+{
+  "reference_resolution": [
+    1280,
+    720
+  ],
+  "captures": [
+    {
+      "file": "items-before-0.1.3-inventory.png",
+      "kind": "actual user in-game screenshot"
+    },
+    {
+      "file": "items-before-0.1.3-gloves.png",
+      "kind": "actual user in-game screenshot"
+    },
+    {
+      "file": "items-before-0.1.3-ring.png",
+      "kind": "actual user in-game screenshot"
+    }
+  ],
+  "popup": [
+    160,
+    106,
+    960,
+    534
+  ],
+  "preview_stat_panel": [
+    706,
+    452,
+    251,
+    129
+  ],
+  "static_fit_cases": [
+    {
+      "id": "X0014",
+      "font_size": 22,
+      "available_width": 129
+    },
+    {
+      "id": "X0240",
+      "font_size": 26,
+      "available_width": 190
+    },
+    {
+      "id": "X0248",
+      "font_size": 26,
+      "available_width": 400
+    },
+    {
+      "id": "U0000",
+      "font_size": 26,
+      "available_width": 250
+    },
+    {
+      "id": "U0001",
+      "font_size": 26,
+      "available_width": 250
+    },
+    {
+      "id": "U0002",
+      "font_size": 26,
+      "available_width": 250
+    }
+  ],
+  "cell_fit_cases": [
+    {
+      "id": "X0184",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0017",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0018",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0185",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0186",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0176",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0187",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0188",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0189",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0190",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0191",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0192",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0019",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0198",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0113",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0114",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0115",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0116",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0117",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0118",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0119",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0120",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0121",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0122",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0123",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0124",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0089",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0090",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0091",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0092",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0093",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0094",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0096",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "id": "X0251",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "text": "STR",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "text": "INT",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "text": "PIE",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "text": "VIT",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "text": "AGI",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    },
+    {
+      "text": "LUC",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22
+    }
+  ],
+  "class_cell_pitch": 80,
+  "right_cell_pitch": 112,
+  "minimum_horizontal_gap": 8,
+  "verification": "Reported before-fix screenshots; updated in-game capture pending.",
+  "preview_stat_origin_x": 680,
+  "preview_stat_anchor_x": 820,
+  "preview_value_visible_x": 844,
+  "preview_stat_rows": [
+    {
+      "id": "X1420",
+      "font_size": 24
+    },
+    {
+      "id": "X1417",
+      "font_size": 24
+    },
+    {
+      "id": "X1421",
+      "font_size": 24
+    },
+    {
+      "id": "X1419",
+      "font_size": 24
+    }
+  ]
+}

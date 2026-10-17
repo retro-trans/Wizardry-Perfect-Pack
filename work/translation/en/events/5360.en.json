@@ -1,0 +1,531 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E5360",
+      "en": "A crumpled note lay at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5361",
+      "en": "\"My sense of balance...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5362",
+      "en": "Shaky letters were written on the wall.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5363",
+      "en": "\"Where... am I...?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5364",
+      "en": "\"There is more than one key.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5365",
+      "en": "Rough letters were carved into the floor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5366",
+      "en": "\"Our caster's magic is completely gone!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5367",
+      "en": "We're doooooomed!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5368",
+      "en": "A small piece of paper lay at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5369",
+      "en": "\"And now, let the hell of endless doors begin!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5370",
+      "en": "A breeze seemed to be blowing from nearby.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5371",
+      "en": "Yet it was also flowing toward the northeast.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5372",
+      "en": "A thick book lay at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5373",
+      "en": "\"There is more than one way forward.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5374",
+      "en": "Rough lettering covered the door,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5375",
+      "en": "as though scratched into it with a sword.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5376",
+      "en": "\"These doors are so damn annoying!!!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5377",
+      "en": "A tattered note lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5378",
+      "en": "\"I'm not lost. I just don't know which way to go.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5379",
+      "en": "A scrap of paper lies on the ground.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1821",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5380",
+      "en": "\"Where was I going next, again?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5381",
+      "en": "Something like a battered journal",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5382",
+      "en": "lay at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5383",
+      "en": "You opened it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5384",
+      "en": "but all its pages had fallen out.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5385",
+      "en": "Something like a scrap from a notebook lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5386",
+      "en": "\"The season of... Cloudy.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5387",
+      "en": "We departed from town, determined that today",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5388",
+      "en": "we would finally finish exploring this labyrinth.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5389",
+      "en": "\"Our party consists of myself, a priest, two fighters, a lord,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5390",
+      "en": "a skilled ninja, and a sorcerer.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5391",
+      "en": "With this party, we should have no trouble.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5392",
+      "en": "\"I suppose this is to be expected of unexplored territory.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5393",
+      "en": "Even the monsters we encounter are unlike those we have seen before.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5394",
+      "en": "Still, creatures of this caliber are no match for us.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5395",
+      "en": "\"Ah, it must be their fur.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5396",
+      "en": "I am terribly envious. Next time I come here,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5397",
+      "en": "I shall wear a thicker robe.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5398",
+      "en": "\"It is a little cold. Perhaps I should have dressed more warmly.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5399",
+      "en": "Why do the Felpurr feel no chill,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5400",
+      "en": "despite wearing so little?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5401",
+      "en": "\"The dwarf woman is an exceptionally reliable fighter.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5402",
+      "en": "Her youthful appearance puzzled me at first,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5403",
+      "en": "but her tremendous strength is truly something to behold.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5404",
+      "en": "\"When I learned that the lord and fighter were parent and child,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5405",
+      "en": "I was surprised, but it also made sense.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5406",
+      "en": "\"The enemies seem to be getting a little stronger.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5407",
+      "en": "I would like to conserve my magic as well.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5408",
+      "en": "I cannot afford to waste a single spell.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5409",
+      "en": "\"Whenever we find a treasure chest, our Porklu companion",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5410",
+      "en": "always disarms its traps.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5411",
+      "en": "He is not suited to fighting, but he is useful at times like these.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5412",
+      "en": "Monsters are not the only things that can kill us.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5413",
+      "en": "\"During the last battle, my hat got caught high overhead.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5414",
+      "en": "But our male fighter retrieved it and returned with ease.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5415",
+      "en": "Perhaps that splendid agility comes naturally to his race.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5416",
+      "en": "\"My party has equal numbers of men and women.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5417",
+      "en": "It feels rather embarrassing at times,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5418",
+      "en": "but everyone has their strengths and weaknesses.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5419",
+      "en": "\"The fairy crashed into a pillar and was left seeing stars.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5420",
+      "en": "I have warned them so many times",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5421",
+      "en": "not to look away while flying.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5422",
+      "en": "Something is written on the wall.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1819",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5423",
+      "en": "\"I can't stop thinking about that person.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5424",
+      "en": "\"I found that person's house.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5425",
+      "en": "Something was written on the wall in shaky letters.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5426",
+      "en": "\"I found out what that person likes.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5427",
+      "en": "\"Damn it. One of the dwarves has been badly wounded.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5428",
+      "en": "Letting our guard down was our undoing. I am our only healer.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5429",
+      "en": "I cannot afford to cast a spell here yet.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5430",
+      "en": "\"By now, nearly everyone in the party is battered and bruised.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5431",
+      "en": "But according to the old writings, we should be",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5432",
+      "en": "very close to reaching the end of this labyrinth...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5433",
+      "en": "\"We cannot go on. The wounded woman fighter is being carried by the lord.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5434",
+      "en": "And yet we must be close, so very close.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5435",
+      "en": "I want to know what lies ahead!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5436",
+      "en": "\"I cannot contain my excitement.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5437",
+      "en": "This place that no one has ever explored to the end! I, of all people,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5438",
+      "en": "will be the first to discover its secrets!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5439",
+      "en": "\"I persuaded everyone that we should press on.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5374",
+    "E5375",
+    "E5381",
+    "E5382",
+    "E5383",
+    "E5384",
+    "E5387",
+    "E5388",
+    "E5389",
+    "E5390",
+    "E5396",
+    "E5399",
+    "E5400",
+    "E5402",
+    "E5403",
+    "E5404",
+    "E5409",
+    "E5410",
+    "E5417",
+    "E5418",
+    "E5420",
+    "E5421",
+    "E5431",
+    "E5432",
+    "E5437",
+    "E5438"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 78
+}

@@ -1,0 +1,582 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E5200",
+      "en": "Lit from behind, the temple cast a faint shadow toward you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5201",
+      "en": "Beyond that, there were not even any pillars around it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5202",
+      "en": "What was the clue pointing to?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5203",
+      "en": "\"Honor the god and take three steps back\"...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5204",
+      "en": "Use the key on the shadow at your feet",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5205",
+      "en": "Insert the key into the temple",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5206",
+      "en": "Put your head on the floor and spin",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5207",
+      "en": "You paid your respects to the god and took three steps back,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5208",
+      "en": "then timidly tried inserting the key",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5209",
+      "en": "into the temple's shadow at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5210",
+      "en": "The shadow stretched across the rubble-strewn ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5211",
+      "en": "A keyhole lay hidden within it,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5212",
+      "en": "quietly waiting for a key to turn.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5213",
+      "en": "You slowly tried turning the key.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5214",
+      "en": "It turned with your hand",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5215",
+      "en": "and made a clicking sound.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5216",
+      "en": "It opened?! What was hidden inside?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5217",
+      "en": "From the box that opened within the shadow,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5218",
+      "en": "you retrieved a bronze @3rfrog statue@0r and a sheet of parchment.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5219",
+      "en": "That's all...? W-wait. Let me see that parchment.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5220",
+      "en": "You handed the parchment to @7rBeatrix@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5221",
+      "en": "who stared intently at it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5222",
+      "en": "Close the gate. Let it not be opened.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5223",
+      "en": "Should the gate nevertheless be thrown open, afterward",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5224",
+      "en": "use this seal to close it. Seal the gate fast and firm.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5225",
+      "en": "What... Afterward...? Then this is...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5226",
+      "en": "We're meant to use it after the last seal is broken...?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5227",
+      "en": "But if the seal is broken, it'll all be pointless...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5228",
+      "en": "Her hands trembling, @7rBeatrix@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5229",
+      "en": "sank to the ground in disbelief.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5230",
+      "en": "The seal could not be repaired until it had first been broken.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5231",
+      "en": "Given that revelation, her reaction was only natural.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5232",
+      "en": "B-but we've found a safeguard in case the seal is broken.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5233",
+      "en": "That's how we should think of it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5234",
+      "en": "Though @7rBeatrix@0r still looked anxious,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5235",
+      "en": "she spoke as if trying to encourage you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5236",
+      "en": "Come on. Let's go back.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5237",
+      "en": "I'll pay your reward once we reach the tavern.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5238",
+      "en": "Nothing about the temple had changed.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5239",
+      "en": "That must have been the wrong approach.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5240",
+      "en": "You needed to think about what the clue meant.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5241",
+      "en": "The only thing resembling a box around the temple",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5242",
+      "en": "was the long shadow it cast.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5243",
+      "en": "Presumably, doing something to that shadow would open a box.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5244",
+      "en": "If so, you ought to try various things",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5245",
+      "en": "before this glowing phenomenon settled down.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5246",
+      "en": "Now, what was the right way to unlock it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5247",
+      "en": "You could see dark, metallic ore gleaming between the walls.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5248",
+      "en": "When you took hold of the ore,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5249",
+      "en": "it came free more easily than you expected.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5250",
+      "en": "You obtained @3rIron Ore@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5251",
+      "en": "You put the @3rIron Ore@0r in the bottom of your bag.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5252",
+      "en": "It was rather heavy, but you would manage.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5253",
+      "en": "When the mist cleared, an item lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5254",
+      "en": "You obtained the @3rClaw Wind@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5255",
+      "en": "Your inventory was full,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5256",
+      "en": "so you decided to leave the item behind.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5257",
+      "en": "You have come quite far inside.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1861",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5258",
+      "en": "You should explore the area currently accessible to you a little more.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1862",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5259",
+      "en": "At your feet lay a piece of finely carved rubble,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5260",
+      "en": "perhaps once part of a temple pillar.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5261",
+      "en": "Though it might have been reduced to little more than debris,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5262",
+      "en": "there could be the ruins of a temple nearby.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5263",
+      "en": "This looks like part of an old temple.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5264",
+      "en": "Let's search the area.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5265",
+      "en": "You feel the mysterious force that had blocked your way",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1624",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5266",
+      "en": "gradually fade away.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1625",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5267",
+      "en": "@2rThank you for purchasing Scenario 2.@0r",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1626",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5268",
+      "en": "@2rYour purchase allows you to continue onward.@0r",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1627",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5269",
+      "en": "A mysterious force prevents you from going any farther.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1628",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5270",
+      "en": "@1rTo continue beyond this point,@0r",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1629",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5271",
+      "en": "@1rpurchase the additional scenario from PlayStation@RStore.@0r",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1630",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5272",
+      "en": "Some small bones lay scattered at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5273",
+      "en": "...?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1763",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E5274",
+      "en": "You could hear what sounded like an animal's cry.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5275",
+      "en": "You could smell a beast.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5276",
+      "en": "There was something at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5277",
+      "en": "They seemed to be the tracks of a large beast.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5278",
+      "en": "The tracks of a large beast continued far into the depths.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E5279",
+      "en": "Something lay on the ground at your feet.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E5207",
+    "E5208",
+    "E5209",
+    "E5211",
+    "E5212",
+    "E5214",
+    "E5215",
+    "E5217",
+    "E5218",
+    "E5220",
+    "E5221",
+    "E5223",
+    "E5224",
+    "E5228",
+    "E5229",
+    "E5234",
+    "E5235",
+    "E5241",
+    "E5242",
+    "E5244",
+    "E5245",
+    "E5248",
+    "E5249",
+    "E5255",
+    "E5256",
+    "E5259",
+    "E5260",
+    "E5261",
+    "E5262"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 70
+}

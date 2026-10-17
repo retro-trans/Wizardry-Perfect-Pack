@@ -1,0 +1,488 @@
+{
+  "translations": [
+    {
+      "id": "E2080",
+      "en": "Insect damage means we can't tell which floor it was on,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2081",
+      "en": "but we have two clues: Leiden Street and a broken statue.",
+      "status": "translated",
+      "note": "Both Leiden Street and the broken statue are required clues; insect damage hides the floor number."
+    },
+    {
+      "id": "E2082",
+      "en": "I think it'll be quite a difficult search,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2083",
+      "en": "but I want you to protect me and take me there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2084",
+      "en": "No, then...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2085",
+      "en": "I thought you might say that.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2086",
+      "en": "You can't trust me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2087",
+      "en": "Even I wouldn't accept a request from me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2088",
+      "en": "But there really might be a weapon that can defeat our enemy!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2089",
+      "en": "Can't you please reconsider?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2090",
+      "en": "I'd appreciate it if you'd think of this as one last chance for me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2091",
+      "en": "I don't want to be a coward",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2092",
+      "en": "who thinks of nothing but running away!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2093",
+      "en": "So if you decide to give me another chance,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2094",
+      "en": "come and talk to me anytime.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2095",
+      "en": "Um... There's something I'd really like to ask you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2096",
+      "en": "I've been researching @7rChu Lu Gah@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2097",
+      "en": "and I found some information that caught my attention.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2098",
+      "en": "I'd like you to come with me to investigate it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2099",
+      "en": "I'm not trying to run away again.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2100",
+      "en": "After everything I've done, you might not believe me,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2101",
+      "en": "but this time I really was researching for the people of this city.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2102",
+      "en": "It isn't information about escaping.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2103",
+      "en": "We might actually be able to fight the sealed monster.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2104",
+      "en": "That's what I want to investigate. Will you come with me?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2105",
+      "en": "@7rCyrus@0r usually avoids your gaze,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2106",
+      "en": "but today he looks you straight in the eye",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2107",
+      "en": "as he makes his request. What should you do?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2108",
+      "en": "You received a @3rCrimson Dress@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2109",
+      "en": "Let's drink right away! Cheers!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2110",
+      "en": "Gulp, gulp, gulp...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2111",
+      "en": "Deeeelicious!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2112",
+      "en": "Three hundred years",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2113",
+      "en": "can make a drink taste this good?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2114",
+      "en": "I wondered what all the fuss was about. Three-hundred-year-old liquor?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2115",
+      "en": "You did well to realize it had to be in a glass bottle.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2116",
+      "en": "Why a glass bottle?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2117",
+      "en": "Barrels give liquor color and flavor.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2118",
+      "en": "But what do you think happens if it gets too much of those?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2119",
+      "en": "What do you mean?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2120",
+      "en": "What happens if you keep pouring salt into a stew?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2121",
+      "en": "Say, three hundred grams, or even three kilograms?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2122",
+      "en": "It gets so salty you can't eat it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2123",
+      "en": "Oh, I see what you mean.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2124",
+      "en": "After aging it in a barrel for the right amount of time,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2125",
+      "en": "you let it mature quietly in a glass or ceramic bottle.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2126",
+      "en": "I see!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2127",
+      "en": "Oh, right. I haven't paid you yet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2128",
+      "en": "Thanks for the delicious liquor!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2129",
+      "en": "From @7rFiore@0r, you received a reward of @3r100,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2130",
+      "en": "And you can have this too!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2131",
+      "en": "From @7rFiore@0r, you received a @3rCrimson Dress@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2132",
+      "en": "Tonight, we're drinking till dawn!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2133",
+      "en": "You received @3rWork Clothes@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2134",
+      "en": "Gaaaaaaaaah!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2135",
+      "en": "What?! What on earth is wrong?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2136",
+      "en": "Th-the three-hundred-year-old liquor from the barrel...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2137",
+      "en": "Tastes HOOOOORRIBLE!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2138",
+      "en": "A barrel? Of course it does!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2139",
+      "en": "Tannins and things have seeped out of the wood.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2140",
+      "en": "That isn't liquor anymore!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2141",
+      "en": "Whaaaat?! Really?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2142",
+      "en": "You fool. It depends on the drink, but liquor can only age in a barrel",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2143",
+      "en": "for twenty to sixty years at most. After that,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2144",
+      "en": "it has to be stored in glass or ceramic bottles.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2145",
+      "en": "Bleeeeeurgh.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2146",
+      "en": "So that's why it was such a thick, weird liquid that reeked of wood.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2147",
+      "en": "Oh... So this is what a wasted effort feels like...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2148",
+      "en": "And paying your reward is going to leave my purse empty...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2149",
+      "en": "@7rFiore@0r reluctantly hands you your @3r50,000 G@0r reward.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2150",
+      "en": "That's a pretty meager reward, isn't it...?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2151",
+      "en": "You've been through a lot, so I'll give you this item too!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2152",
+      "en": "From @7rFiore@0r, you received @3rWork Clothes@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2153",
+      "en": "Oh, to hell with it! I'm drowning my sorrows tonight!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2154",
+      "en": "Come on, let's get going!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2155",
+      "en": "Liquor like you've never seen before is waiting for us!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2156",
+      "en": "Have you changed your mind?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2157",
+      "en": "It'd really help me if you have.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2158",
+      "en": "What do you say? Will you help me out?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2159",
+      "en": "I'll pay you properly!",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "context": "Cyrus seeks redemption through the grave investigation; Fiore's liquor quest branches into bottled success or spoiled barrel contents.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

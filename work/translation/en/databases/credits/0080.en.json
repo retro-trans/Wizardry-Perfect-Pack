@@ -1,0 +1,149 @@
+{
+  "rows_in_slice": 13,
+  "rows_examined": 13,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "en": "Sales Hiromichi Watanabe",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0080",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "PR Shiho Togashi",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0081",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Web Yoshiko Takahashi",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0082",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "id": "DC0083",
+      "en": "Fontworks Inc.",
+      "status": "translated",
+      "note": "Official Fontworks company account confirms English company styling.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0073",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0084",
+      "en": "This software uses fonts provided by Fontworks Inc.",
+      "status": "translated",
+      "note": "Translate the legal notice without changing its attribution.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0074",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0085",
+      "en": "The Fontworks company name and the names of its fonts",
+      "status": "translated",
+      "note": "Sentence continues in DC0076.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0075",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0086",
+      "en": "are trademarks or registered trademarks of Fontworks Inc.",
+      "status": "translated",
+      "note": "Completes trademark sentence from DC0075.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0076",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0087",
+      "en": "Pole To Win Co., Ltd.",
+      "status": "translated",
+      "note": "Historical corporate name as credited; not a claim about the company's current branding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0077",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0088",
+      "en": "Artpresto Co., Ltd.",
+      "status": "translated",
+      "note": "Corporate name as shown by matching game-credit list.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0078",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0089",
+      "en": "Takuma Endo",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0079",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0090",
+      "en": "...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0080",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0091",
+      "en": "Have you forgotten something?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0081",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0092",
+      "en": "Please continue to enjoy exploring the labyrinth.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0082",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ],
+  "context_note": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+}

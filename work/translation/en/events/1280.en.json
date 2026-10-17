@@ -1,0 +1,488 @@
+{
+  "translations": [
+    {
+      "id": "E1280",
+      "en": "I know it belongs to you now,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1281",
+      "en": "but could you check whether it's the key to the library?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1282",
+      "en": "Of course, I wouldn't ask you to work for free.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1283",
+      "en": "I'll pay you properly. What do you say?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1284",
+      "en": "You would return to the ruins of @7rChu Lu Gah's@0r house",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1285",
+      "en": "and see whether this key opens the hidden door you found there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1286",
+      "en": "It seems like a simple enough job.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1287",
+      "en": "Did you have @7rAnselm@0r appraise it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1288",
+      "en": "...Oh, not yet, I see.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1289",
+      "en": "@7rAnselm@0r is in town too.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1290",
+      "en": "Please find him and have him appraise it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1291",
+      "en": "I heard from @7rCarmine@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1292",
+      "en": "You found @7rChu Lu Gah's@0r house, didn't you?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1293",
+      "en": "I went to see it myself,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1294",
+      "en": "but there's one door that simply won't open.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1295",
+      "en": "Judging by the layout, I think it's a library,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1296",
+      "en": "but I can't find the key that opens it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1297",
+      "en": "It should be something round, like a coin...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1298",
+      "en": "If it's a library, there might be books inside",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1299",
+      "en": "about the demon god sealed away there, wouldn't you think?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1300",
+      "en": "Our documents so far leave so much unanswered.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1301",
+      "en": "I'd like you to find it somehow...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1302",
+      "en": "One particular object comes to mind.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1303",
+      "en": "The more @7rBeatrix@0r describes its precise size,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1304",
+      "en": "the more certain you are that it must be the one.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1305",
+      "en": "This... where on earth did you get it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1306",
+      "en": "@7rTanya@0r gave it to you...?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1307",
+      "en": "Where did that girl find something like this?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1308",
+      "en": "Did somebody call me?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1309",
+      "en": "Oh, perfect timing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1310",
+      "en": "Where did you get this coin?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1311",
+      "en": "Um, I... picked it up a little while ago,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1312",
+      "en": "when I went to @6rBahelmeja@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1313",
+      "en": "Grandma collects coins,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1314",
+      "en": "so I thought it would make a nice present.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1315",
+      "en": "But she said it was magical and gave it back.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1316",
+      "en": "I thought it might make a good luck charm,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1317",
+      "en": "so I gave it to this adventurer as thanks for finding old money for me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1318",
+      "en": "Was that... wrong?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1319",
+      "en": "No. You did very well, @7rTanya@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1320",
+      "en": "Please take this to @7rAnselm@0r for an appraisal right away.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1321",
+      "en": "He should be able to tell us whether it's the key.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1322",
+      "en": "It seems the object @7rTanya@0r found",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1323",
+      "en": "may hold an important key.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1324",
+      "en": "You should follow @7rBeatrix's@0r advice",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1325",
+      "en": "and ask @7rAnselm@0r to appraise it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1326",
+      "en": "What can I do for you?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1327",
+      "en": "When you hold out the coin,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1328",
+      "en": "@7rAnselm@0r peers at it with interest.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1329",
+      "en": "This is... a furniture key of a kind used in the distant past.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1330",
+      "en": "It's enchanted, too. Quite potent.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1331",
+      "en": "You'd like me to appraise it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1332",
+      "en": "Hmm. There's an inscription in an ancient language.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1333",
+      "en": "It says, \"God created words.\"",
+      "status": "review",
+      "note": "Puzzle clue retained literally. Confirm this wording against the library solution in game."
+    },
+    {
+      "id": "E1334",
+      "en": "Some sort of code, perhaps?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1335",
+      "en": "At any rate, as well as being a key to unlock furniture,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1336",
+      "en": "it's a charm to keep one's possessions safe.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1337",
+      "en": "You've found quite a nice little thing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1338",
+      "en": "It's an ancient charm bearing a wish that things won't go missing,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1339",
+      "en": "so I expect it has some effect.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1340",
+      "en": "You still do not know whether it opens @7rChu Lu Gah's@0r library,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1341",
+      "en": "but it is certainly a furniture key from long ago.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1342",
+      "en": "With its mysterious message and enchantment,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1343",
+      "en": "it seems very likely to be the key you need.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1344",
+      "en": "For now, you should report to @7rBeatrix@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1345",
+      "en": "You received @3rFairy Gloves@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1346",
+      "en": "Now, let's have a look at the @3rPsalm@0r you brought back!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1347",
+      "en": "Everyone, including @7rAnselm@0r and @7rBeatrix@0r, turns to look",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1348",
+      "en": "as @7rCarmine@0r spreads the @3rLast Psalm@0r out on the table.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1349",
+      "en": "What lies deep within the box? The stone says it is hope.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1350",
+      "en": "Where is the final hope? Everyone says Watering.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1351",
+      "en": "In Watering, nuts abound.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1352",
+      "en": "Gather three nuts, then bake a sweet to offer up.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1353",
+      "en": "Which nuts should you choose? Cocosnoot,",
+      "status": "translated",
+      "note": "Cocosnoot is a Dutch nut-name clue and display place name; do not replace it with coconut here."
+    },
+    {
+      "id": "E1354",
+      "en": "Amandel, and Walnoot will do.",
+      "status": "translated",
+      "note": "Amandel and Walnoot are Dutch clue/place names; explanation follows in E1359-E1360."
+    },
+    {
+      "id": "E1355",
+      "en": "Once your sweet is baked, offer it to Laurier.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1356",
+      "en": "In exchange for your sweet, Laurier gives you hope.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1357",
+      "en": "The final hope shall be yours.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1358",
+      "en": "What is this @3rPsalm@0r? A song about offering up sweets?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1359",
+      "en": "Cocosnoot means coconut. Amandel means almond.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "context": "Beatrix questions Tanya about the coin; Anselm appraises it; the party reads the Last Psalm together.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "X1280",
+      "en": "Jasmina's Riddle",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1280",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1281",
+      "en": "I really want all of you to visit Jasmina, so here's a huge hint!\nIn the family in this question, the elder brother\nis always in the middle. You get it now, right?\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1281",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1282",
+      "en": "Question                                (Input: Hiragana)\n  A father and mother get along well, and everyone in the family\n  likes the father. The mother gets along with the eldest son,\n  but not the eldest daughter or the younger son.\n  What does this family represent?\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1282",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1283",
+      "en": null,
+      "status": "exclude",
+      "note": "Accepted riddle-answer tokens consumed by the game; preserve until input localization is implemented.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1283",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1284",
+      "en": "Hooray! From today on, you're administrators just like me.\nWe're practically family now. So take good care\nof Jasmina, okay? Don't hate me. Never leave me.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1284",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1285",
+      "en": "Answer: A Hand\nExplanation\n  In Japanese, the thumb is the father, the index finger the mother,\n  the middle finger the eldest son, the ring finger the daughter,\n  and the little finger the younger son. The thumb touches them all.\n  The index finger lies flush against the middle finger, but not the others.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1285",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1286",
+      "en": "Fatima's Riddle",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1286",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1287",
+      "en": "This riddle doesn't matter. No one needs a heart.\nNot me, my friends, mothers, or children.\nThey should die. Everyone should die. I hate this world.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1287",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1288",
+      "en": "Question                                (Input: Kanji)\n  A human normally has one heart, yet some people have two\n  or even three. In ordinary circumstances,\n  what kind of person could this be?\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1288",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1289",
+      "en": null,
+      "status": "exclude",
+      "note": "Accepted riddle-answer tokens consumed by the game; preserve until input localization is implemented.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1289",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1290",
+      "en": "Why do you try so hard? You and that cat samurai are strange.\nGetting it right changes nothing. It only makes me want to die.\nFine, then. I'll die over and over until I can finally stay dead.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1290",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1291",
+      "en": "Answer: A Pregnant Woman / A Mother\nExplanation\n  The mother and the baby in her womb have two hearts in all.\n  With twins, there would be three.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1291",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1292",
+      "en": "Milia's Riddle",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1292",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1293",
+      "en": "This cemetery's guard dog is the best in the world.\nToday's riddle is about its opposite: an incredibly stupid dog.\nYou're probably just as stupid, so you'll never solve it.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1293",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1294",
+      "en": "Question                                (Input: Numbers)\n  The Mifune family's guard dog barks for three minutes\n  whenever someone passes the gate. What is the minimum\n  number of people needed to make it bark for sixty minutes?\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1294",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1295",
+      "en": null,
+      "status": "exclude",
+      "note": "Accepted riddle-answer tokens consumed by the game; preserve until input localization is implemented.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1295",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1296",
+      "en": "Oh, you got it right? You must have stayed up all night studying.\nAll that studying, and this is all you can manage. How pathetic.\nWhy don't you just quit school?\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1296",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1297",
+      "en": "Answer: 1\nExplanation\n  \"Someone\" does not have to mean a different person each time.\n  One person could keep walking back and forth by the gate\n  for sixty minutes, and the dog would keep barking. The question\n  asks for the minimum number, so the answer is one person.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1297",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1298",
+      "en": "Melissa's Riddle",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1298",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1299",
+      "en": "I'll never make the people who took Sujin down into temporary\nadministrators. Even if you solve the riddle and get inside,\nI'll simply slaughter you all... Yes, every last one of you!\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1299",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1300",
+      "en": "Question                                (Input: Letters)\n  [?] is one thousand times [??]. Which single letter\n  belongs in all three question marks?\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1300",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1301",
+      "en": "Hmph! Of course you solved a riddle like that.\nCome on, then. I'll kill you.\nI'll make you suffer more than you can imagine before you die!\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1301",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1302",
+      "en": "Answer: m\nExplanation\n  [m] is one thousand times [mm].\n  In other words, a meter is one thousand millimeters.\n  The units differ by a factor of one thousand.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1302",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1303",
+      "en": "Shireen's Riddle",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1303",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1304",
+      "en": "I could easily strip you of your five senses.\nBut relax. I don't intend to take away your power to think.\nYou're so inferior that there's no need.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1304",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1305",
+      "en": "Question                                (Input: Kanji)\n  The following four phrases each conceal something\n  of the same kind. What are they hiding?\n\n          USUNORO MITA    RAIFU\n          ISURAMU        KOI PINKU GURIN\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1305",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1306",
+      "en": null,
+      "status": "exclude",
+      "note": "Accepted riddle-answer tokens consumed by the game; preserve until input localization is implemented.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1306",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1307",
+      "en": "Congratulations on getting it right. But do you realize\nthat you've just signed your own execution order?\nInferior creatures like you are fools, whatever you do.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1307",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1308",
+      "en": "Answer: Enemies\nExplanation\n  Rearranging the Japanese syllables produces monster names:\n  USUNORO MITA becomes MINOTAUROS, ISURAMU becomes SLIME,\n  RAIFU becomes FLY, and KOI PINKU GURIN becomes CREEPING COIN.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1308",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1309",
+      "en": "Sierra's Riddle",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1309",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1310",
+      "en": "Hehe! Sierra's got a riddle for you! If you can't solve it,\ntry pounding your head with a hammer until there's a hole in it!\nStanding on your head works too. It really sparks ideas!\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1310",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1311",
+      "en": "Question                                (Input: Numbers)\n  A fuel truck carrying Demon Army OIL was attacked\n  by the Crusade army and overturned.\n  How many liters of oil were spilled?\n  The answer is hidden in the question.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1311",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1312",
+      "en": null,
+      "status": "exclude",
+      "note": "Accepted riddle-answer tokens consumed by the game; preserve until input localization is implemented.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1312",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1313",
+      "en": "Nice one! I thought you were a bunch of stiff old geezers\nand old hags, but I guess I was wrong. I like you!\nI could almost treat you to some sweets as a reward.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1313",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1314",
+      "en": "Answer: 710\nExplanation\n  Turn the letters OIL upside down,\n  and they become the number 710.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1314",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1315",
+      "en": "Dolt's Riddle",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1315",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1316",
+      "en": "I'm... not good at speaking. But I like conveying things\nin writing like this. If I could give one hint for this riddle,\nit would be... think about what happens to a candle's flame.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1316",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1317",
+      "en": "Question                                (Input: Numbers)\n  Ten candles were burning. A gust of wind blew\n  seven of them out. Three of those were relit,\n  and the window was closed to keep the wind away.\n  After that, no more candles blew out.\n  How many candles remained at the very end?\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1317",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1318",
+      "en": null,
+      "status": "exclude",
+      "note": "Accepted riddle-answer tokens consumed by the game; preserve until input localization is implemented.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1318",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1319",
+      "en": "Oh, I'm glad. Now you're administrators too.\nBut it's a shame. Even if we meet, I probably won't say anything.\nI used to be called cheerful, but my voice and heart are dead now.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1319",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1320",
+      "en": "Answer: 4\nExplanation\n  Lit candles eventually burn away.\n  Only the candles left unlit will remain at the end.\n  In this case, four of the seven blown-out candles\n  were never relit, so those four remain.\n",
+      "status": "review",
+      "note": "Apparent inherited-game riddle content. Verify reachability and character-name spellings. Japanese-input constraints or syllable/kanji wordplay need functional localization, not only English prose.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1320",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1321",
+      "en": "The item could not be returned...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1321",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1322",
+      "en": "Give Up",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1322",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1323",
+      "en": "Alchemy Item",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1323",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1324",
+      "en": "Combine",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1324",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1325",
+      "en": "Enhance",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1325",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1326",
+      "en": "Disassemble",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1326",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1327",
+      "en": "Alchemy Results",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1327",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1328",
+      "en": " Alchemy Results ",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1328",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1329",
+      "en": "Expel",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1329",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1330",
+      "en": "Quit",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1330",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1331",
+      "en": "Damage:",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1331",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1332",
+      "en": "Status:",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1332",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1333",
+      "en": "Accuracy:",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1333",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1334",
+      "en": "Defense:",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1334",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1335",
+      "en": "Evasion:",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1335",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1336",
+      "en": "Weapons",
+      "status": "translated",
+      "note": "UI wording checked against the reported registration, party or class panel; runtime expansion preserves full labels.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1336",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1337",
+      "en": "M:",
+      "status": "translated",
+      "note": "UI wording checked against the reported registration, party or class panel; runtime expansion preserves full labels.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1337",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1338",
+      "en": "S:",
+      "status": "translated",
+      "note": "UI wording checked against the reported registration, party or class panel; runtime expansion preserves full labels.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1338",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1339",
+      "en": "Race:",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1339",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1340",
+      "en": "Gold",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1340",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1341",
+      "en": "Skills",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1341",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1342",
+      "en": "Attributes",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1342",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1343",
+      "en": "Enemies Defeated",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1343",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1344",
+      "en": null,
+      "status": "exclude",
+      "note": "Nonexistent spell command diagnostic.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1344",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1345",
+      "en": "Delete %s's registration?",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1345",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1346",
+      "en": null,
+      "status": "exclude",
+      "note": "Nonexistent tag diagnostic.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1346",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1347",
+      "en": "Give",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1347",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1348",
+      "en": "Discard",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1348",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1349",
+      "en": "Identify",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1349",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1350",
+      "en": "Alchemy",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1350",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1351",
+      "en": "Remove",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1351",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1352",
+      "en": "Invoke Special Power",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1352",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1353",
+      "en": null,
+      "status": "exclude",
+      "note": "Attempt to release SP power on item without SP effect; programmer diagnostic.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1353",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1354",
+      "en": "Give Item",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1354",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1355",
+      "en": "Skill Details",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1355",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1356",
+      "en": "Delete Adventurer",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1356",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1357",
+      "en": "Pool Gold",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1357",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1358",
+      "en": "Divide Gold",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1358",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "X1359",
+      "en": "Forget Spells",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "X1359",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E6480",
+      "en": "A new sign stood before you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6481",
+      "en": "One step ahead of this spot, I shall place a \"trial.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6482",
+      "en": "Please make full use of it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6483",
+      "en": "Behind the sign lay an indescribably strange magic circle.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6484",
+      "en": "It was so obviously dangerous that anyone in their right mind would stay out...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6485",
+      "en": "You could see a magic circle emitting an extremely murky aura.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6486",
+      "en": "There was a crack in the wall, with something like parchment",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6487",
+      "en": "wedged inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6488",
+      "en": "You were able to retrieve the parchment easily.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6489",
+      "en": "You obtained a map.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6490",
+      "en": "Your item bag seemed to be full.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6491",
+      "en": "You returned the parchment to its original place.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6492",
+      "en": "There was a crack in the rock, with something like parchment",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6493",
+      "en": "The adventurers have been wiped out.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1870",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6494",
+      "en": "The party has been wiped out.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1871",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6495",
+      "en": "The adventurers have fallen.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1872",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6496",
+      "en": "A heavy, oppressive atmosphere blanketed the world.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6497",
+      "en": "Something that had been sealed away had revived.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6498",
+      "en": "Or perhaps its seal was beginning to break...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6499",
+      "en": "Had those vague reports reached",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6500",
+      "en": "the people of this cursed town?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6501",
+      "en": "Or could they sense the danger in the air",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6502",
+      "en": "and feel uneasy?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6503",
+      "en": "Whatever the reason, the people feared what was to come,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6504",
+      "en": "yet continued their daily lives in dread.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6505",
+      "en": "This was the legendary town trapped by a curse.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6506",
+      "en": "The curse of the ancient archmage @7rChu Lu Gah@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6507",
+      "en": "had made it a forgotten town, cut off from the outside world.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6508",
+      "en": "But you knew there was a truth",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6509",
+      "en": "different from the legend of that curse.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6510",
+      "en": "After all, you yourself had played a part",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6511",
+      "en": "in uncovering that truth...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6512",
+      "en": "And today, once more,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6513",
+      "en": "your work in that role was about to begin.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6514",
+      "en": "Hey, hey! Do you know where the new town is?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6515",
+      "en": "You don't?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6516",
+      "en": "Then @7rTanya@0r will tell you!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6517",
+      "en": "I know everything!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6518",
+      "en": "You see, you can get to the new town from @6rMachinetohet@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6519",
+      "en": "Huh? Where exactly?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6520",
+      "en": "U-um, well...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6521",
+      "en": "Y-you should look for it yourself!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6522",
+      "en": "@7rTanya@0r knows, but I'm not telling!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6523",
+      "en": "See you later!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6524",
+      "en": "A dull, oppressive sky...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1873",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6525",
+      "en": "And a city steeped in an equally oppressive atmosphere.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1874",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6526",
+      "en": "There is little of the bustle one might call lively,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1875",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6527",
+      "en": "but people apparently live ordinary lives here...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1876",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6528",
+      "en": "A legend passed down in Dimento tells the tale.",
+      "status": "review",
+      "note": "Dimento regional spelling requires shared glossary confirmation.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1877",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6529",
+      "en": "The ancient great mage @7rChu Lu Gah@0r placed a curse",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1878",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6530",
+      "en": "upon this city...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1879",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6531",
+      "en": "Long ago, @7rChu Lu Gah@0r lost his way in this forest and was attacked by monsters.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1880",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6532",
+      "en": "When he reached this city, more dead than alive, its people",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1881",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6533",
+      "en": "refused to offer him a helping hand.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1882",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6534",
+      "en": "Tormented by the loneliness of being forsaken, @7rChu Lu Gah@0r despaired,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1883",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6535",
+      "en": "and with his dying breath, he is said to have cried...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1884",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6536",
+      "en": "\"Let every last one of you taste my suffering!\"",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1885",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6537",
+      "en": "Then mist enveloped the city, and the surrounding forest warped beneath his curse,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1886",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6538",
+      "en": "becoming a bewildering enclosure that cut the city off from the world.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1887",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6539",
+      "en": "Monsters were drawn in, and the city became a vast labyrinth.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1888",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6540",
+      "en": "Some tried to find the city imprisoned by this curse,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1889",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6541",
+      "en": "but in time, people's interest faded, and it came to be spoken of",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1890",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6542",
+      "en": "only as an ancient city that existed in legend...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1891",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6543",
+      "en": "Having lost your way in the forest, you find a city spread before you",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1892",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6544",
+      "en": "that seems to be the very one described in the legend...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1893",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6545",
+      "en": "Gloomy though it is, the city is clearly inhabited,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1894",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6546",
+      "en": "and you can see its residents going about their lives here and there.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1895",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6547",
+      "en": "Close by stands a rather run-down building",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1896",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6548",
+      "en": "that appears to be a tavern.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1897",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6549",
+      "en": "You should gather information first...",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1898",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6550",
+      "en": "With that decision made, you open the tavern door.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1899",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6551",
+      "en": "Hey, you... Don't get too carried away by @7rBeatrix@0r's",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1900",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6552",
+      "en": "sweet talk.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1901",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6553",
+      "en": "Let her lead you around, and you might end up in the next world.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1902",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6554",
+      "en": "The sharp-eyed woman whispers this to you",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1903",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6555",
+      "en": "while glaring toward the counter.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1904",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6556",
+      "en": "Me? I'm @7rCarmine@0r. Nice to meet you.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1905",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6557",
+      "en": "I'm not badmouthing @7rBeatrix@0r without good reason.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1906",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6558",
+      "en": "@7rBeatrix@0r and her father know a route to the outside world,",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1907",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E6559",
+      "en": "and use it to smuggle supplies into this city.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E1908",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ],
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E6486",
+    "E6487",
+    "E6492",
+    "E6499",
+    "E6500",
+    "E6501",
+    "E6502",
+    "E6503",
+    "E6504",
+    "E6506",
+    "E6507",
+    "E6508",
+    "E6509",
+    "E6510",
+    "E6511",
+    "E6512",
+    "E6513"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 41
+}

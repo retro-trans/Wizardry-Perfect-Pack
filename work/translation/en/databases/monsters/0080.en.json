@@ -1,0 +1,967 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "DM0080",
+      "en": "Counter-Kick",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0080",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0081",
+      "en": "A vampire subspecies said to\nsuffocate sleeping humans, tear\nout their hearts, and drink\nblood directly from them.\nDespite these cruel acts, she\nlooks like a sweet young girl,\nmaking the contrast all the\nmore terrifying. An undead\ncreature utterly devoid of\nemotion, she is likely a more\ndifficult opponent than a\nvampire that still has feelings.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0081",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0082",
+      "en": "Arcimboldo",
+      "status": "review",
+      "note": "Arcimboldo is the standard spelling of the painter-like name, but an established game-specific English spelling remains unverified.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0082",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0083",
+      "en": "Spreading Terror",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0083",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0084",
+      "en": "Rumble Scissors",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0084",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0085",
+      "en": "Karmic Retribution",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0085",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0086",
+      "en": "This monster's true body cannot\nescape the sealed Prison of the\nOld Ones, so it will never be\nencountered in this world. However,\nit can apparently project its\nspirit here. It interferes with\nhumanity in a grotesque fashion,\ncollecting human corpses and\narranging them into the shape of\nits own face. Even if the piled-up\nbodies are blown apart, its\nlack of a physical form prevents\nits destruction. A country\nwhere it appears will become\na land of the dead overnight.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0086",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0087",
+      "en": "Vampire Queen",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0087",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0088",
+      "en": "Terrifying Laughter",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0088",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0089",
+      "en": "Silence the Witnesses",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0089",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0090",
+      "en": "Cry of Ecstasy",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0090",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0091",
+      "en": "Deadly Blow",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0091",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0092",
+      "en": "The queen who reigns at the\npinnacle of vampirekind. Few\nadventurers can resist her\nbeckoning; far more willingly\noffer her their throats. Even\na warrior strong enough to\nresist will find their\nattacks evaded at blinding\nspeed, then face strength\nso monstrous that one blow\nfrom her slender arm can leave\ntheir armor half destroyed.",
+      "status": "translated",
+      "note": "Meaning review: the source says half-destroyed armor, not nearly complete destruction.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0092",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0093",
+      "en": "Vampire Lord",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0093",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0094",
+      "en": "Clinging Bodily Fluids",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0094",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0095",
+      "en": "Reigning above all vampires,\nhe is feared as the king\nof the undead inhabiting\nthis world. He commands\nevery undead monster and\nis said to be impossible\nto kill by any means. He\ndoes not seek prosperity\nfor vampirekind, preferring\ninstead to spend\neternity watching the\nworld sink into decay.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0095",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0096",
+      "en": "His Unholiness",
+      "status": "review",
+      "note": "His Unholiness interprets the phonetic name as a deliberate inversion of His Holiness, supported by the corrupt high-cleric lore.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0096",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0097",
+      "en": "Poison Needle Dance",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0097",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0098",
+      "en": "Final Blow",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0098",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0099",
+      "en": "The ghost of a high-ranking cleric\nwho opposed the pontiff of the\nQuopati Legal Academy and sought\nto seize his authority and\ncontrol. Various spirits, drawn\nto that greed, now bind his soul,\nmaking him something akin to a\ncollective of the dead. Formerly\na high-ranking Bishop, he\nwields every kind of magic. As\na ghost, he is also highly\nresistant to death and spells.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0099",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0100",
+      "en": "Reaper",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0100",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0101",
+      "en": "Scythe of Mockery",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0101",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0102",
+      "en": "With green skin, exposed red\nmuscle, and an enormous scythe,\nit severs human heads and\nharvests souls. It sometimes\nbreathes poisonous mist potent\nenough to dissolve human skin.\nIts true nature is unknown,\nbut it returns to life\nrepeatedly. This repeated\nresurrection is why it is\nclassified as an undead monster.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0102",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0103",
+      "en": "Lee-Yi",
+      "status": "review",
+      "note": "Lee-Yi is a provisional romanization of the named mage; needs authoritative name lookup.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0103",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0104",
+      "en": "Silent Stone Melody",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0104",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0105",
+      "en": "Embrace of Despair",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0105",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0106",
+      "en": "Among a cult that sought\neternal life, a\nhigh-ranking mage named\nLee-Yi discovered a\nmethod of turning himself\ninto an undead being.\n\nRetaining the awareness he\nhad as a human, he attacks\npeople with overwhelming\npower, wielding an immortal\nbody and formidable spells.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0106",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0107",
+      "en": "Ogre",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0107",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0108",
+      "en": "Living Missile",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0108",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0109",
+      "en": "An ogre is a male,\ndemon-like giant. Violent\nand cruel, it eats raw\nhuman flesh. It possesses\nalmost no intelligence\nor wisdom, so humans do\nnot find it particularly\ndifficult to defeat.\n\nIt has also lost the regenerative ability\ncharacteristic of giants. Even so, a\nmoment's carelessness may allow it to\ncrush your head with a single blow.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0109",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0110",
+      "en": "Earth Giant",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0110",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0111",
+      "en": "A giant strongly influenced\nby the element of earth. By\nnature, these beings are\nnot hostile to humans;\nindeed, they are rather\ngentle. However... perhaps\npoisoned by the labyrinth's\nmagical essence, they now\nattack indiscriminately more\noften than not. Their skin\nis solid rock, and an\nordinary adventurer cannot\nleave even a scratch on it.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0111",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0112",
+      "en": "Air Giant",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0112",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0113",
+      "en": "Terrifying Battle Cry",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0113",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0114",
+      "en": "A giant strongly influenced by\nthe element of wind. It uses\nblasts of air to slice through\nadventurers and blow them away.\n\nDefeating a being clad in\narmor of wind is no easy feat.\nIt will prove a formidable\nopponent even among giants.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0114",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0115",
+      "en": "Fire Giant",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0115",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0116",
+      "en": "Roar of Purgatory",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0116",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0117",
+      "en": "A giant strongly influenced\nby the element of fire.\nExtremely warlike, these giants\nare covered in flames hot\nenough to melt rock. One blow\ncan instantly dissolve armor\nand shields. Without magically\nenhanced equipment, adventurers\nare unlikely to stand\na chance against them.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0117",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0118",
+      "en": "Frost Giant",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0118",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0119",
+      "en": "Frigid Breath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0119",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0120",
+      "en": "Freezing Breath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0120",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0121",
+      "en": "A giant strongly influenced\nby the element of water. Its\nbreath is cold enough to\nfreeze the air. If the air\ngrows strangely chilly deep\nin a labyrinth, where\ngeothermal heat should make\nit hot, this signals its\napproach. Beware of frostbite\nwhen fighting one, or your\nskin may already be dead\nby the time you notice.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0121",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0122",
+      "en": "Cyclops",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0122",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0123",
+      "en": "Ironclad Stance",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0123",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0124",
+      "en": "Giants are beings closer to the\nrealm of gods than monsters.\nThe cyclops, however, is more\naptly called the giant closest\nto being a monster. It is not\ninfluenced by any element.\nPerhaps because its huge body\ngives it absolute confidence,\nit is exceptionally ferocious.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0124",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0125",
+      "en": "Poison Giant",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0125",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0126",
+      "en": "Originally a giant strongly\nimbued with the earth element.\nAfter absorbing excessive toxins\nfrom the earth, however, its\nskin, sweat, blood, and saliva...\neverything about it became\nlethally poisonous to humans.\nIt is agile for a giant, and\nits poisonous breath can supposedly\ntake even a mighty adventurer's\nlife in a single blast.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0126",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0127",
+      "en": "Wererat",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0127",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0128",
+      "en": "Among the weakest kinds\nof lycanthrope, but it\nis quick and has sharp\nfangs. If bitten, adventurers\nmust also beware of\nthe germs it carries.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0128",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0129",
+      "en": "Werewolf",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0129",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0130",
+      "en": "A wolfman that transforms into a\nwolflike shape beneath the full moon...\nIn labyrinths, the influence of\nmagical essence apparently lets it\ntransform without seeing the moon.\n\nIt is swift enough to kick off walls\nand ceilings and leap through the\nair. Combined with its tremendous\nstrength, this can deal fatal wounds\nto adventurers only just growing\naccustomed to the labyrinth.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0130",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0131",
+      "en": "Weretiger",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0131",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0132",
+      "en": "A weretiger is a tiger-man.\nIts blows are heavier than\na werewolf's, allowing it to\nsurvive in labyrinths without\njoining a pack. Its hooked\nclaws destroy wooden shields\nin a single stroke, while\nits tough fur blocks simple\nspells. It easily evades\nfeeble sword attacks.\n\nSometimes vampires keep them\nalongside werewolves and send\nthem out to hunt humans.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0132",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0133",
+      "en": "Chimera",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0133",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0134",
+      "en": "Hellfire Roar",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0134",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0135",
+      "en": "Also called Chimaera,\nKimera, Kaimera,\nor Chimere.\n\nIts many names could be seen\nas evidence of sightings\naround the world. An\nartificial creature made by\nthe Dragoon race in the age\nwhen they ruled the world.\nIt is hermaphroditic and\nreproduces by itself. As\nit breeds in summer, chimera\nhunts have become a\nseasonal summer tradition.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0135",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0136",
+      "en": "Lamia",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0136",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0137",
+      "en": "A monster whose existence has\nbeen recorded since the age\nof Dragoon civilization.\n\nAn artificial life-form with a\nwoman's upper body and a snake's\nlower body. It carries both\nparalyzing and ordinary poison.\nOnce it catches a victim, it\ndrains every last drop of\nblood. Its torso and tail are\ncovered in silvery-gray scales,\nand it can move its snakelike\nhair to capture prey.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0137",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0138",
+      "en": "Gorgon",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0138",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0139",
+      "en": "Hypnotic Gas",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0139",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0140",
+      "en": "Retaliatory Footwork",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0140",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0141",
+      "en": "A black bull with golden\nwings, brass claws, and\ntusks like a boar's. Said\nto be a composite creature\nmade by the Dragoon race,\nit instantly petrifies\nanyone caught in its gaze.\n\nGorgon heads have long\nbeen used to ward off evil.\nEven today, rural households\noften hang ornaments\nshaped like a bull's head\nbeneath their eaves.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0141",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0142",
+      "en": "Ifrit",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0142",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0143",
+      "en": "Self-Sacrifice",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0143",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0144",
+      "en": "One of the spirits born from the\nelement that governs flame. It\ncommands many forms of magic and\npossesses powers humans lack,\nincluding shapeshifting. It is\nalso surprisingly intelligent.\n\nIts mastery over fire is\nparticularly terrifying. Within\nits own barrier, it can produce\ntemperatures exceeding even\nthe boiling point of rock.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0144",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0145",
+      "en": "Spirit",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0145",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0146",
+      "en": "A mid-ranking elemental. It is\nsaid to be a human soul that,\nthrough some twist of fate, left\nthe cycle of reincarnation and\nbecame a spirit. It shifts unstably\nbetween this world and another\ndimension, making attacks difficult\nto land and sometimes nullifying\nspells. It attacks with poison\nand magic, and possesses a limited\nregenerative ability that\ninstantly restores damaged parts.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0146",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0147",
+      "en": "Soul Eater",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0147",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0148",
+      "en": "A spirit of souls. It harvests\nsouls and devours them,\ndenying them reincarnation.\nIn truth, it is a noble\nbeing that preserves the\nworld's balance by destroying\nthe excess souls that\ncontinue to multiply.\n\nFor some reason, it is now running\nwild. It seeks not only wandering\nsouls, but also kills the\nliving to steal their souls.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0148",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0149",
+      "en": "Will-o'-the-Wisp",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0149",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0150",
+      "en": "Banquet of Silence",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0150",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0151",
+      "en": "Known as ghost fire, it is\noften thought to be a dead\nperson's soul, but is actually\na high-ranking elemental.\n\nAlmost entirely incorporeal, it\nis barely affected by sword\nstrikes, blows, or spells of any\nkind. In return, it strikes with\na flash of light resembling an\nelectric shock. It is said to\nbelong to the element of the soul.\n",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0151",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0152",
+      "en": "Djinn",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0152",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0153",
+      "en": "A spirit of wind. Famous as a\nspirit of the lamp, its\nsupernatural power creates\nmiracles great enough to threaten\nthe very laws of this world.\n\nOrdinarily it works to\npreserve the world's balance.\nWithout a master, however,\nit seems to have run wild,\nattacking adventurers and\ntravelers as it pleases.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0153",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0154",
+      "en": "Fire Drake",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0154",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0155",
+      "en": "Infernal Hellfire",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0155",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0156",
+      "en": "Purgatorial Blow",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0156",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0157",
+      "en": "A kind of fire elemental with\nthe shape of a dinosaur.\n\nUnlike ifrits and other humanoid\nelementals that show signs of\nintelligence, it has no human\nform and cannot be communicated\nwith. It has greater fighting\npower than an ifrit and\nremains true to the essential\nnature of an elemental.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0157",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0158",
+      "en": "Killer Wolf",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0158",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DM0159",
+      "en": "In ancient religions, wolves\nwere revered as mountain gods.\nThe largest were supposedly\nable to carry three people\non their backs with ease.\nKiller Wolves are no such\nexalted beings, merely wolves\nthat have developed a taste\nfor human flesh. Skilled at\nfighting in groups, their\ncoordinated hunts can easily\ndevour novice adventurers.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0159",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

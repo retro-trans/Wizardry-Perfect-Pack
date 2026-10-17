@@ -1,0 +1,250 @@
+{
+  "source": "NPJB00162 Perfect Pack standalone PNGs",
+  "coordinate_format": "[x,y,width,height], original-image pixels, origin at upper left",
+  "assets_examined": 6,
+  "text_regions": 5,
+  "assets": [
+    {
+      "source_file": "work/source/NPJB00162/ICON0.PNG",
+      "package_path": "ICON0.PNG",
+      "width": 320,
+      "height": 176,
+      "mode": "RGBA",
+      "sha256": "8f193fafac4f50b60726039e427f8ecdfcb64999a51f2e9be00b22b732cceb9d",
+      "regions": [
+        {
+          "id": "subtitle",
+          "rect": [
+            51,
+            104,
+            222,
+            42
+          ],
+          "source_reading_description": "Japanese subtitle below the Wizardry wordmark.",
+          "en": "Prisoners of the Lost City",
+          "status": "translated"
+        },
+        {
+          "id": "edition",
+          "rect": [
+            20,
+            128,
+            280,
+            24
+          ],
+          "en": "Perfect Pack",
+          "status": "translated"
+        }
+      ],
+      "edit_rect": [
+        0,
+        20,
+        320,
+        150
+      ],
+      "wordmark_rect": [
+        7,
+        28,
+        307,
+        53
+      ],
+      "fog_rect": [
+        0,
+        70,
+        320,
+        57
+      ],
+      "english_rect": [
+        8,
+        88,
+        304,
+        32
+      ],
+      "font_size": 22,
+      "render_status": "review",
+      "render_note": "Edition-specific source pixels inspected; preserves outside edit rectangle. No trial-version label in this edition.",
+      "footer_rect": [
+        20,
+        128,
+        280,
+        24
+      ],
+      "footer": "Perfect Pack"
+    },
+    {
+      "source_file": "work/source/NPJB00162/PIC0.PNG",
+      "package_path": "PIC0.PNG",
+      "width": 1000,
+      "height": 560,
+      "mode": "RGBA",
+      "sha256": "038e627162e1ed7ca08c80d8f2ba577edb816415709b175f3904b504a8233e0d",
+      "regions": [
+        {
+          "id": "subtitle",
+          "rect": [
+            342,
+            307,
+            304,
+            57
+          ],
+          "source_reading_description": "Japanese subtitle over blue fog below the Wizardry wordmark.",
+          "en": "Prisoners of the Lost City",
+          "status": "translated"
+        }
+      ],
+      "edit_rect": [
+        32,
+        140,
+        936,
+        300
+      ],
+      "wordmark_rect": [
+        76,
+        192,
+        848,
+        145
+      ],
+      "fog_rect": [
+        250,
+        310,
+        500,
+        80
+      ],
+      "english_rect": [
+        225,
+        342,
+        550,
+        46
+      ],
+      "font_size": 36,
+      "render_status": "review",
+      "render_note": "Edition-specific source pixels inspected; preserves outside edit rectangle. No trial-version label in this edition."
+    },
+    {
+      "source_file": "work/source/NPJB00162/PIC1.PNG",
+      "package_path": "PIC1.PNG",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGB",
+      "sha256": "debca56df91b2ae4c1e917734515f32f775311ee1d583ecb3add4c5d4ae0cc4d",
+      "regions": [],
+      "status": "no_text",
+      "note": "Character portrait montage. Full-resolution visual inspection found no legible Japanese text. Preserve unchanged.",
+      "render_note": "Edition-specific source pixels inspected; preserves outside edit rectangle. No trial-version label in this edition."
+    },
+    {
+      "source_file": "work/source/NPJB00162/PIC2.PNG",
+      "package_path": "PIC2.PNG",
+      "width": 310,
+      "height": 250,
+      "mode": "RGBA",
+      "sha256": "97cf2c2cdf833743bfb4e4f98a02090340b48a179f7f10da3be0039e17d0bca8",
+      "regions": [
+        {
+          "id": "subtitle",
+          "rect": [
+            101,
+            131,
+            104,
+            24
+          ],
+          "source_reading_description": "Small Japanese subtitle beneath the Wizardry wordmark.",
+          "en": "Prisoners of the Lost City",
+          "status": "translated"
+        }
+      ],
+      "edit_rect": [
+        0,
+        80,
+        310,
+        112
+      ],
+      "wordmark_rect": [
+        15,
+        97,
+        280,
+        48
+      ],
+      "fog_rect": [
+        62,
+        134,
+        186,
+        28
+      ],
+      "english_rect": [
+        30,
+        143,
+        250,
+        22
+      ],
+      "font_size": 16,
+      "render_status": "review",
+      "render_note": "Edition-specific source pixels inspected; preserves outside edit rectangle. No trial-version label in this edition."
+    },
+    {
+      "source_file": "work/source/NPJB00162/USRDIR/data/ICON0.PNG",
+      "package_path": "USRDIR/data/ICON0.PNG",
+      "width": 320,
+      "height": 176,
+      "mode": "RGBA",
+      "sha256": "c9c090e11eedf896fb5c6be59b5bd1bbe9ab27e4cb7c45d5ba533a67d7824618",
+      "regions": [
+        {
+          "id": "subtitle",
+          "rect": [
+            51,
+            104,
+            222,
+            42
+          ],
+          "source_reading_description": "Japanese subtitle below the Wizardry wordmark.",
+          "en": "Prisoners of the Lost City",
+          "status": "translated"
+        }
+      ],
+      "edit_rect": [
+        0,
+        45,
+        320,
+        121
+      ],
+      "wordmark_rect": [
+        7,
+        49,
+        307,
+        53
+      ],
+      "fog_rect": [
+        0,
+        100,
+        320,
+        57
+      ],
+      "english_rect": [
+        8,
+        115,
+        304,
+        35
+      ],
+      "font_size": 22,
+      "render_status": "review",
+      "render_note": "Edition-specific source pixels inspected; preserves outside edit rectangle. No trial-version label in this edition."
+    },
+    {
+      "source_file": "work/source/NPJB00162/USRDIR/data/PIC1.PNG",
+      "package_path": "USRDIR/data/PIC1.PNG",
+      "width": 1000,
+      "height": 560,
+      "mode": "RGB",
+      "sha256": "876edad777c507d4677e366ae5e4f00657ca06001a8e9d8f9d2a5032159b1f8d",
+      "regions": [],
+      "status": "no_text",
+      "note": "Character portrait montage. Full-resolution visual inspection found no legible Japanese text. Preserve unchanged.",
+      "render_note": "Edition-specific source pixels inspected; preserves outside edit rectangle. No trial-version label in this edition."
+    }
+  ],
+  "decisions": [
+    "No demo label is present.",
+    "Only existing game-specific PNGs are selected; other game package is outside scope."
+  ]
+}

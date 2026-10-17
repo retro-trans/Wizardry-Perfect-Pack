@@ -1,0 +1,121 @@
+{
+  "reference_resolution": [
+    1280,
+    720
+  ],
+  "captures": [
+    {
+      "file": "panels-before-0.1.4-spells.png",
+      "kind": "actual user in-game screenshot"
+    },
+    {
+      "file": "panels-before-0.1.4-quests.png",
+      "kind": "actual user in-game screenshot"
+    },
+    {
+      "file": "panels-before-0.1.4-settings.png",
+      "kind": "actual user in-game screenshot"
+    },
+    {
+      "file": "panels-before-0.1.4-rewards.png",
+      "kind": "actual user in-game screenshot"
+    }
+  ],
+  "spell_summary": {
+    "bounds": [
+      450,
+      197,
+      508,
+      127
+    ],
+    "label_x": 464,
+    "available_label_width": 108,
+    "horizontal_size": 22,
+    "vertical_size": 32,
+    "first_mp_x": 580,
+    "school_ids": [
+      "X0017",
+      "X0018",
+      "X0019"
+    ]
+  },
+  "spell_description": {
+    "bounds": [
+      578,
+      507,
+      382,
+      158
+    ],
+    "text_origin": [
+      590,
+      519
+    ],
+    "inner_width": 352,
+    "horizontal_size": 24,
+    "vertical_size": 22,
+    "line_pitch": 23,
+    "maximum_lines": 6
+  },
+  "quest_header": {
+    "bounds": [
+      304,
+      144,
+      671,
+      43
+    ],
+    "text_x": 320,
+    "font_size": 24,
+    "source_id": "X1221"
+  },
+  "quest_status": {
+    "center_x": 890,
+    "left": 808,
+    "right": 972,
+    "font_size": 24,
+    "source_ids": [
+      "X1224",
+      "X1225",
+      "X0792"
+    ],
+    "decorative_brackets_removed": true
+  },
+  "settings": {
+    "bounds": [
+      320,
+      211,
+      638,
+      316
+    ],
+    "font_size": 32,
+    "options": [
+      {
+        "id": "X2329",
+        "x": 640
+      },
+      {
+        "id": "X2330",
+        "x": 740
+      },
+      {
+        "id": "X2331",
+        "x": 864
+      }
+    ],
+    "minimum_gap": 12
+  },
+  "battle_reward": {
+    "bounds": [
+      288,
+      507,
+      704,
+      158
+    ],
+    "inner_width": 640,
+    "font_size": 32,
+    "line_pitch": 32,
+    "lines_per_page": 3,
+    "native_show_flags": "0xd1",
+    "final_wait": "unchanged caller"
+  },
+  "verification": "Metric and native-host checks; updated in-game screenshots pending."
+}

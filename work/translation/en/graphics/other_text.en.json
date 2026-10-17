@@ -1,0 +1,88 @@
+{
+  "format_version": 1,
+  "language": "en",
+  "status": "Translation and region draft; source image pixels unchanged",
+  "coordinate_format": "rect = [x, y, width, height] in decoded source pixels, upper-left origin",
+  "assets": [
+    {
+      "source_file": "USRDIR/data/texture/title.enc",
+      "member": 0,
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "company_name",
+          "rect": [465,410,312,36],
+          "reading_description": "Japanese corporate name below the existing ACQUIRE logo",
+          "en": "ACQUIRE Corp.",
+          "status": "translated",
+          "note": "Preserve the large ACQUIRE wordmark and registered-trademark mark. Translate only the small corporate-name line."
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/title.enc",
+      "member": 3,
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "subtitle",
+          "rect": [462,231,358,71],
+          "reading_description": "Japanese game subtitle below Wizardry wordmark",
+          "en": "Prisoners of the Lost City",
+          "status": "translated",
+          "note": "Use the project's established English game name. Preserve the Wizardry wordmark and independent fog strips beneath the subtitle. The rectangle encloses the original lettering; an English subtitle may need a wider verified region and matching alpha treatment."
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/ending.enc",
+      "member": 0,
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "subtitle",
+          "rect": [455,262,355,69],
+          "reading_description": "Japanese game subtitle beneath the ending Wizardry logo",
+          "en": "Prisoners of the Lost City",
+          "status": "translated",
+          "note": "Preserve the Wizardry wordmark, sword and fog. The subtitle fog overlaps the original lettering and requires careful alpha-aware replacement; a flat opaque box is not equivalent."
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/cmntex.enc",
+      "member": 0,
+      "width": 1024,
+      "height": 512,
+      "regions": [
+        {
+          "id": "tiny_atlas_strip",
+          "rect": [257,339,63,9],
+          "reading_description": "Extremely small light text-like strip beneath controller glyphs; exact characters cannot be reliably read",
+          "en": null,
+          "status": "review",
+          "note": "Inspected at native resolution and with nearest-neighbor enlargement. The source pixels do not support a reliable transcription, and even identifying the writing as Japanese remains uncertain. Do not invent a translation. Trace atlas UV usage or obtain an in-game enlargement before deciding whether this strip is player-facing text."
+        }
+      ]
+    }
+  ],
+  "contact_sheet_review": {
+    "sheets_examined": ["contact-000.jpg","contact-001.jpg","contact-002.jpg","contact-003.jpg","contact-004.jpg","contact-005.jpg","contact-006.jpg","contact-007.jpg","contact-008.jpg","contact-009.jpg","contact-010.jpg","contact-011.jpg","contact-012.jpg","contact-013.jpg","contact-014.jpg"],
+    "method": "Viewed all fifteen contact sheets. Inspected all eight title2 pages, cmntex member 0, title members 0 and 3, and ending member 0 at full resolution. Also viewed town01 member 7 at full resolution to assess decorative writing.",
+    "findings": [
+      "All readily legible Japanese interface text in these sheets is concentrated in title2 help/warning pages plus the title, ending and small company-name graphics listed here.",
+      "The cmntex member 0 atlas contains a tiny text-like strip that remains unreadable and unconfirmed as Japanese.",
+      "Town tavern backgrounds contain tiny decorative notices and bottles with indistinct, stylized writing. The full-resolution town01 member 7 artwork does not yield reliable natural-language transcription. Do not invent readable poster text.",
+      "Enemy portraits, character portraits, dungeon material textures and chest/map artwork showed no additional legible Japanese prose in the contact-sheet review. This is visual triage, not OCR or an exhaustive claim about every pixel in every source asset."
+    ]
+  },
+  "verification_required": [
+    "Compare every replacement at native resolution and in the actual game.",
+    "Preserve source image dimensions, channels, alpha behavior, texture format and archive member identity.",
+    "Verify texture atlas UV rectangles before changing cmntex; no translation is authorized for the unreadable strip without further evidence.",
+    "Inspect independent package graphics and movie frames separately; they are outside this contact-sheet review."
+  ]
+}

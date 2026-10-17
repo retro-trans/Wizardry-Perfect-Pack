@@ -1,0 +1,38 @@
+{
+  "rows_in_slice": 4,
+  "rows_examined": 4,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "en": "Even among the many varieties\nof goblin, those monsters\nmost like humans, this is\nan unusual specimen. The\n\"nightmare\" in its name comes\nfrom its poisonous breath.\nPerhaps those who dismissed\nit as a mere goblin found that\nbreath gave them nightmares.\nOnce you know how it attacks,\nhowever, it should not be a\nparticularly dangerous opponent.\n",
+      "status": "translated",
+      "id": "A01DM0080",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Lord of the Mist",
+      "status": "translated",
+      "id": "A01DM0081",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0082",
+      "en": "Corrosive Mist of Malice",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0373",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "It is said to be the mist\nsurrounding the city mingled\nwith the hatred of the dead.\nNothing human remains of\nit. It has even forgotten to\nresent its fleeting fate,\nand seeks only to draw the\nliving over to its side.\nPerhaps it is a tragic\ncreature that could only\nhave arisen in this city.\nDwell on sympathy, however,\nand you will become the\nmaterial for the next monster.\n",
+      "status": "translated",
+      "id": "A01DM0083",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    }
+  ],
+  "context_note": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+}

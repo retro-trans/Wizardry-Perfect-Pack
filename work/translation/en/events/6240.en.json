@@ -1,0 +1,533 @@
+{
+  "translations": [
+    {
+      "id": "E6240",
+      "en": "On the door hung a sign with",
+      "status": "translated",
+      "note": "Source sentence continues through an intervening fullwidth CLOSED label at E0643.evt record 6, then finishes in E6241."
+    },
+    {
+      "id": "E6241",
+      "en": "written on it.",
+      "status": "translated",
+      "note": "Sentence fragment matches source boundary after the intervening fullwidth CLOSED label at E0643.evt record 6. Raw bytecode verified; no missing shop name is assumed."
+    },
+    {
+      "id": "E6242",
+      "en": "Had there once been some kind of shop here...?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6243",
+      "en": "You found a treasure chest!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6244",
+      "en": "On closer inspection, it was unlocked.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6245",
+      "en": "You carefully opened the chest's lid.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6246",
+      "en": "A scrap of paper lay inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6247",
+      "en": "\"You're number 100!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6248",
+      "en": "A sword and shield in good condition lay carelessly in the passage.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6249",
+      "en": "When you picked them up,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6250",
+      "en": "you found dried blood on them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6251",
+      "en": "Sensing something ominous,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6252",
+      "en": "you left without doing anything further.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6253",
+      "en": "You could hear a mysterious voice...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6254",
+      "en": "\"The most dangerous moment is when you begin to feel accustomed to things.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6255",
+      "en": "That is when greater care is needed.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6256",
+      "en": "A sign hung from the ceiling.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6257",
+      "en": "\"Not only will this day never return,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6258",
+      "en": "but neither will this very moment.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6259",
+      "en": "The sign creaked as it swayed,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6260",
+      "en": "looking somehow forlorn...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6261",
+      "en": "\"God does not play dice.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6262",
+      "en": "A rotting wooden sign stood there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6263",
+      "en": "\"Not everything you see",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6264",
+      "en": "is necessarily the truth.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6265",
+      "en": "The sign simply stood in silence.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6266",
+      "en": "Words were carved into a stone monument.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6267",
+      "en": "\"A person you will never meet again,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6268",
+      "en": "even if still alive,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6269",
+      "en": "is no different from the dead...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6270",
+      "en": "Words were written on the floor...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6271",
+      "en": "\"Courage is needed not only to go forward,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6272",
+      "en": "but also to turn back.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6273",
+      "en": "A bandage lay on the ground.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6274",
+      "en": "The blood soaked into it had already turned blackish,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6275",
+      "en": "and the whole thing was covered in sand.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6276",
+      "en": "When you looked at one end of the bandage,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6277",
+      "en": "you could see that it had been torn off.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6278",
+      "en": "Had a wounded adventurer",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6279",
+      "en": "been attacked by monsters?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6280",
+      "en": "\"You hold a sword in your right hand,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6281",
+      "en": "but what do you hold in your left?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6282",
+      "en": "A bottle lay at your feet.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6283",
+      "en": "It was beautifully clear glass.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6284",
+      "en": "You could see a rolled-up scrap of paper inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6285",
+      "en": "You pulled out the cork sealing the bottle",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6286",
+      "en": "and took out the paper.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6287",
+      "en": "\"I send this letter to someone",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6288",
+      "en": "in a foreign land across the sea.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6289",
+      "en": "I pray that this bottle reaches you safely...\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6290",
+      "en": "There was no explaining why this letter",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6291",
+      "en": "lay in the labyrinth...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6292",
+      "en": "\"Always prepare for the worst.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6293",
+      "en": "\"There is no guarantee that tomorrow will come.\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6294",
+      "en": "\"Hey there!\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6295",
+      "en": "You turned at the unexpected greeting",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6296",
+      "en": "to find an unfamiliar adventurer.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6297",
+      "en": "The young man, of average height and somewhat muscular build,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6298",
+      "en": "spoke to you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6299",
+      "en": "\"Exploring the labyrinth too, are you?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6300",
+      "en": "I found an Antidote earlier, but I don't need it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6301",
+      "en": "Would you take it off my hands?\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6302",
+      "en": "You obtained an Antidote!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6303",
+      "en": "Tap!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6304",
+      "en": "Something like a pebble fell onto your head.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6305",
+      "en": "The ceiling seemed to be crumbling.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6306",
+      "en": "Thud!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6307",
+      "en": "This time, something a little larger fell onto your head.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6308",
+      "en": "When it landed on the ground, you saw it was a Teleport Scroll.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6309",
+      "en": "You obtained a Teleport Scroll!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6310",
+      "en": "You found a crude wooden box!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6311",
+      "en": "The box was just the right size",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6312",
+      "en": "for storing supplies.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6313",
+      "en": "When you opened the lid of the shabby box,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6314",
+      "en": "a Teleport Scroll lay inside.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6315",
+      "en": "Though you had driven back the enemy,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6316",
+      "en": "the magic circle's murky aura showed no sign of weakening.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6317",
+      "en": "Would this magic circle keep pouring out its power forever?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6318",
+      "en": "\"Even my companion has finally stopped writing on the walls.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E6319",
+      "en": "There is little conversation now, and every step is heavy.\"",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 88,
+  "context": "Reviewed the consecutive source slice plus adjacent rows and event file/record references. Imported translations preserved.",
+  "decisions": "Subjects and verbs restored where context identifies them; sentence fragments retained only across source row boundaries or deliberate ellipses. Unknown people use neutral pronouns. Exact runtime controls preserved. New rows translated in context without a byte budget.",
+  "source_boundary_fragment_ids": [
+    "E6240",
+    "E6241",
+    "E6249",
+    "E6250",
+    "E6251",
+    "E6252",
+    "E6257",
+    "E6258",
+    "E6259",
+    "E6260",
+    "E6263",
+    "E6264",
+    "E6267",
+    "E6268",
+    "E6269",
+    "E6271",
+    "E6272",
+    "E6274",
+    "E6275",
+    "E6276",
+    "E6277",
+    "E6278",
+    "E6279",
+    "E6280",
+    "E6281",
+    "E6285",
+    "E6286",
+    "E6287",
+    "E6288",
+    "E6290",
+    "E6291",
+    "E6295",
+    "E6296",
+    "E6297",
+    "E6298",
+    "E6311",
+    "E6312",
+    "E6313",
+    "E6314",
+    "E6315",
+    "E6316"
+  ],
+  "fragment_policy": "Listed rows preserve an unfinished source sentence across adjacent event records, an intervening label, or a deliberate interruption. Ordinary complete sentences restore the contextual subject and verb; unknown people remain gender-neutral.",
+  "new_rows_translated": 80
+}

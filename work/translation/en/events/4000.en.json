@@ -1,0 +1,412 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 100,
+  "provenance": "New source translation; E3990-E3999 and E4080-E4089 reviewed.",
+  "context": "Defeated fiends promise resurrection and torture. Party captures a pink Vorpal Bunny, retrieves Anselm's book from Riz, then finds Fiore unharmed.",
+  "decisions": "Fiends' threats retain force. Riz female established elsewhere; source uses mage title. Deliberate interrupted clauses and row continuations preserved.",
+  "translations": [
+    {
+      "en": "Had the fairy driven off the monsters with that white light, then died doing it?",
+      "status": "translated",
+      "id": "E4000",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E4001",
+      "en": "@7rLady Marbas@0r was dead?",
+      "status": "translated"
+    },
+    {
+      "id": "E4002",
+      "en": "Had @7rLady Marbas@0r exhausted her magic with that burst of light",
+      "status": "translated"
+    },
+    {
+      "id": "E4003",
+      "en": "and died to protect you?",
+      "status": "translated"
+    },
+    {
+      "id": "E4004",
+      "en": "No matter. If the fairy is dead, I'll drag out that soul",
+      "status": "translated"
+    },
+    {
+      "id": "E4005",
+      "en": "and torment it until I tire of the sport.",
+      "status": "translated"
+    },
+    {
+      "id": "E4006",
+      "en": "Rather than fall into your \"Prison of Souls,\"",
+      "status": "translated"
+    },
+    {
+      "id": "E4007",
+      "en": "I'd sooner fall into the \"Prison of the Old Ones\"... hell itself.",
+      "status": "translated"
+    },
+    {
+      "id": "E4008",
+      "en": "Ha ha ha ha ha...",
+      "status": "translated"
+    },
+    {
+      "id": "E4009",
+      "en": "You're only humans, but shall I cast you down there together?",
+      "status": "translated"
+    },
+    {
+      "id": "E4010",
+      "en": "Keep each other company as my playthings in the Prison of Souls!",
+      "status": "translated"
+    },
+    {
+      "id": "E4011",
+      "en": "Gwaaaaagh!",
+      "status": "translated"
+    },
+    {
+      "id": "E4012",
+      "en": "I misjudged you! To think you were this strong!",
+      "status": "translated"
+    },
+    {
+      "id": "E4013",
+      "en": "Hee hee hee... Fine entertainment indeed.",
+      "status": "translated"
+    },
+    {
+      "id": "E4014",
+      "en": "So someone could take my life after all!",
+      "status": "translated"
+    },
+    {
+      "id": "E4015",
+      "en": "But let me tell you something!",
+      "status": "translated"
+    },
+    {
+      "id": "E4016",
+      "en": "We are mere lackeys! Even if you defeat us,",
+      "status": "translated"
+    },
+    {
+      "id": "E4017",
+      "en": "countless others are working to fulfill our deepest wish!",
+      "status": "translated"
+    },
+    {
+      "id": "E4018",
+      "en": "Ha ha ha ha... Precisely.",
+      "status": "translated"
+    },
+    {
+      "id": "E4019",
+      "en": "Defeating us cannot stop this seal from being broken!",
+      "status": "translated"
+    },
+    {
+      "id": "E4020",
+      "en": "The demon realm is destined to become this world!",
+      "status": "translated"
+    },
+    {
+      "id": "E4021",
+      "en": "Struggle all you like until that day of judgment comes!",
+      "status": "translated"
+    },
+    {
+      "id": "E4022",
+      "en": "We are eternal. In time, we shall regain our bodies",
+      "status": "translated"
+    },
+    {
+      "id": "E4023",
+      "en": "and return to kill you!",
+      "status": "translated"
+    },
+    {
+      "id": "E4024",
+      "en": "And it may not be a moonlit night when we do!",
+      "status": "translated"
+    },
+    {
+      "id": "E4025",
+      "en": "Live in fear of darkness and shadows! When that time comes,",
+      "status": "translated"
+    },
+    {
+      "id": "E4026",
+      "en": "we'll be waiting there to take your lives!",
+      "status": "translated"
+    },
+    {
+      "id": "E4027",
+      "en": "Heee hee hee hee! Heee hee hee hee...",
+      "status": "translated"
+    },
+    {
+      "id": "E4028",
+      "en": "We will return to kill you! You can be certain of that!",
+      "status": "translated"
+    },
+    {
+      "id": "E4029",
+      "en": "With those curses and eerie laughter,",
+      "status": "translated"
+    },
+    {
+      "id": "E4030",
+      "en": "@7rGate Keeper@0r and @7rKey Master@0r turned to pitch-black smoke",
+      "status": "translated"
+    },
+    {
+      "id": "E4031",
+      "en": "and vanished...",
+      "status": "translated"
+    },
+    {
+      "id": "E4032",
+      "en": "After the smoke cleared, only silence remained.",
+      "status": "translated"
+    },
+    {
+      "id": "E4033",
+      "en": "If their words were true,",
+      "status": "translated"
+    },
+    {
+      "id": "E4034",
+      "en": "they might return someday.",
+      "status": "translated"
+    },
+    {
+      "id": "E4035",
+      "en": "And somewhere, other monsters might also be trying",
+      "status": "translated"
+    },
+    {
+      "id": "E4036",
+      "en": "to break the seal...",
+      "status": "translated"
+    },
+    {
+      "id": "E4037",
+      "en": "In any case, to pass on @7rLady Marbas's@0r words,",
+      "status": "translated"
+    },
+    {
+      "id": "E4038",
+      "en": "you should return to the inn.",
+      "status": "translated"
+    },
+    {
+      "id": "E4039",
+      "en": "True to its name, the @3rKigashira Mushroom@0r had a cap",
+      "status": "translated"
+    },
+    {
+      "id": "E4040",
+      "en": "shaped just like a tree stump.",
+      "status": "translated"
+    },
+    {
+      "id": "E4041",
+      "en": "It apparently wasn't poisonous to humans,",
+      "status": "translated"
+    },
+    {
+      "id": "E4042",
+      "en": "but its appearance did little to whet your appetite.",
+      "status": "translated"
+    },
+    {
+      "id": "E4043",
+      "en": "Just as you were about to take it back,",
+      "status": "translated"
+    },
+    {
+      "id": "E4044",
+      "en": "you sensed something like murderous intent behind you.",
+      "status": "translated"
+    },
+    {
+      "id": "E4045",
+      "en": "You turned slowly, and there...",
+      "status": "translated"
+    },
+    {
+      "id": "E4046",
+      "en": "was a bizarre creature with pink fur, looking for all the world",
+      "status": "translated"
+    },
+    {
+      "id": "E4047",
+      "en": "like a fluffy stuffed toy, but with a dangerous gleam in its eyes",
+      "status": "translated"
+    },
+    {
+      "id": "E4048",
+      "en": "as it stared straight at you.",
+      "status": "translated"
+    },
+    {
+      "id": "E4049",
+      "en": "You captured the pink Vorpal Bunny.",
+      "status": "translated"
+    },
+    {
+      "id": "E4050",
+      "en": "It seemed to have lost the will to fight,",
+      "status": "translated"
+    },
+    {
+      "id": "E4051",
+      "en": "but there was no telling when it might attack again.",
+      "status": "translated"
+    },
+    {
+      "id": "E4052",
+      "en": "You decided to put it in a sturdy leather sack",
+      "status": "translated"
+    },
+    {
+      "id": "E4053",
+      "en": "and carry it back.",
+      "status": "translated"
+    },
+    {
+      "id": "E4054",
+      "en": "In front of a ruined house, several mages had laid out antiques",
+      "status": "translated"
+    },
+    {
+      "id": "E4055",
+      "en": "they appeared to have recovered and were appraising them.",
+      "status": "translated"
+    },
+    {
+      "id": "E4056",
+      "en": "Oh... Hello. I'm @7rRiz@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E4057",
+      "en": "I'm a mage who makes a living as an adventurer.",
+      "status": "translated"
+    },
+    {
+      "id": "E4058",
+      "en": "Have you found anything interesting?",
+      "status": "translated"
+    },
+    {
+      "id": "E4059",
+      "en": "Apparently, this was the @7rRiz@0r you were looking for.",
+      "status": "translated"
+    },
+    {
+      "id": "E4060",
+      "en": "When you explained why you had come,",
+      "status": "translated"
+    },
+    {
+      "id": "E4061",
+      "en": "@7rRiz@0r seemed extremely surprised.",
+      "status": "translated"
+    },
+    {
+      "id": "E4062",
+      "en": "Riz",
+      "status": "translated"
+    },
+    {
+      "id": "E4063",
+      "en": "Oh, my goodness...",
+      "status": "translated"
+    },
+    {
+      "id": "E4064",
+      "en": "I borrowed it without realizing it was so important.",
+      "status": "translated"
+    },
+    {
+      "id": "E4065",
+      "en": "I'm terribly sorry...",
+      "status": "translated"
+    },
+    {
+      "id": "E4066",
+      "en": "You explained that @7rAnselm@0r needed it for research,",
+      "status": "translated"
+    },
+    {
+      "id": "E4067",
+      "en": "but perhaps she mistook that for some momentous investigation:",
+      "status": "translated"
+    },
+    {
+      "id": "E4068",
+      "en": "the mage was flustered beyond all reason.",
+      "status": "translated"
+    },
+    {
+      "id": "E4069",
+      "en": "Here, I'll return it to you.",
+      "status": "translated"
+    },
+    {
+      "id": "E4070",
+      "en": "You received @7rAnselm's@0r @3rSpellbook@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E4071",
+      "en": "Taking the book, you placed it in the bag",
+      "status": "translated"
+    },
+    {
+      "id": "E4072",
+      "en": "where you kept your valuables.",
+      "status": "translated"
+    },
+    {
+      "id": "E4073",
+      "en": "That was one thing you could stop worrying about.",
+      "status": "translated"
+    },
+    {
+      "en": "Now you should return to town, where @7rAnselm@0r was waiting.",
+      "status": "translated",
+      "id": "E4074",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E4075",
+      "en": "Huh? What's going on?",
+      "status": "translated"
+    },
+    {
+      "id": "E4076",
+      "en": "You all look so serious. If you keep making faces like that,",
+      "status": "translated"
+    },
+    {
+      "id": "E4077",
+      "en": "you'll bring bad luck on yourselves, you know?",
+      "status": "translated"
+    },
+    {
+      "id": "E4078",
+      "en": "You could only stare blankly as she looked back at you in puzzlement.",
+      "status": "translated"
+    },
+    {
+      "id": "E4079",
+      "en": "Those were the first words @7rFiore@0r",
+      "status": "translated"
+    }
+  ],
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

@@ -1,0 +1,21 @@
+{
+  "reference_resolution": [1280, 720],
+  "captures": [
+    {"file": "narration-before-0.1.9-despair.png", "kind": "actual user in-game screenshot", "source_ids": ["E6534", "E6535"]},
+    {"file": "narration-before-0.1.9-labyrinth.png", "kind": "actual user in-game screenshot", "source_ids": ["E6537", "E6538", "E6539"]}
+  ],
+  "bounds": [160, 507, 960, 158],
+  "inner_width": 896,
+  "font_size": 32,
+  "lines_per_page": 3,
+  "script": "USRDIR/data/event/station/S0102.evt",
+  "source_records": [[171, 172], [176, 177, 178]],
+  "previously_bypassed_hook": "0xa5e94",
+  "anonymous_branch": "0xa5e58 -> 0xa607c",
+  "new_show_hook": "0xa6084",
+  "native_show_flags": "0xf0",
+  "final_wait": "event opcode 0x50 -> 0xa5b48",
+  "expected_pages": {"despair": 1, "labyrinth": 2},
+  "canonical_words_preserved": true,
+  "in_game_verified": false
+}

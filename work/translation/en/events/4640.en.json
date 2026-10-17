@@ -1,0 +1,411 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 100,
+  "provenance": "New source translation; E4630-E4639 and E4720-E4729 reviewed.",
+  "context": "Anselm betrays the party, despairing over centuries of imprisonment; Beatrix rejects his reasoning. Later Cyrus replaces Anselm for the fiends' summoning ritual.",
+  "decisions": "Adoptive relationship explicit; father address naturalized to Father. Anselm's fatalism and Beatrix's anger preserved. Unknown voices use neutral wording. Cross-row sentences retain breaks.",
+  "translations": [
+    {
+      "id": "E4640",
+      "en": "The figures that appeared",
+      "status": "translated"
+    },
+    {
+      "en": "were @7rGate Keeper@0r and @7rKey Master@0r, whom you thought you had defeated.",
+      "status": "translated",
+      "id": "E4641",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E4642",
+      "en": "We told you we would return, didn't we?",
+      "status": "translated"
+    },
+    {
+      "id": "E4643",
+      "en": "Father, why...?",
+      "status": "translated"
+    },
+    {
+      "id": "E4644",
+      "en": "@7rBeatrix@0r. My daughter.",
+      "status": "translated"
+    },
+    {
+      "id": "E4645",
+      "en": "Forgive me... I'm truly sorry...",
+      "status": "translated"
+    },
+    {
+      "id": "E4646",
+      "en": "But you must understand... the bitterness in my heart!",
+      "status": "translated"
+    },
+    {
+      "id": "E4647",
+      "en": "My master shut me in here so that this town could survive.",
+      "status": "translated"
+    },
+    {
+      "id": "E4648",
+      "en": "He made me a prisoner of this town!",
+      "status": "translated"
+    },
+    {
+      "id": "E4649",
+      "en": "If it had helped the town, I could have borne it.",
+      "status": "translated"
+    },
+    {
+      "id": "E4650",
+      "en": "But in the end, all my master accomplished",
+      "status": "translated"
+    },
+    {
+      "id": "E4651",
+      "en": "was to bring a slow death upon it.",
+      "status": "translated"
+    },
+    {
+      "id": "E4652",
+      "en": "The gate will open, and this town will vanish anyway!",
+      "status": "translated"
+    },
+    {
+      "id": "E4653",
+      "en": "If it was to vanish regardless,",
+      "status": "translated"
+    },
+    {
+      "id": "E4654",
+      "en": "I wanted at least to destroy it with my own hands.",
+      "status": "translated"
+    },
+    {
+      "id": "E4655",
+      "en": "For keeping me imprisoned here for nothing,",
+      "status": "translated"
+    },
+    {
+      "id": "E4656",
+      "en": "I wanted to be the one who decided to destroy this town!",
+      "status": "translated"
+    },
+    {
+      "id": "E4657",
+      "en": "Go now, @7rGate Keeper@0r and @7rKey Master@0r!",
+      "status": "translated"
+    },
+    {
+      "id": "E4658",
+      "en": "I will not let them follow!",
+      "status": "translated"
+    },
+    {
+      "id": "E4659",
+      "en": "At that instant, the door opened,",
+      "status": "translated"
+    },
+    {
+      "id": "E4660",
+      "en": "and countless monsters stood in your way, as if protecting @7rAnselm@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E4661",
+      "en": "Hurry! @7rBeatrix@0r, seal it, quickly!",
+      "status": "translated"
+    },
+    {
+      "id": "E4662",
+      "en": "Together with @7rCarmine@0r, you pushed against the open door",
+      "status": "translated"
+    },
+    {
+      "id": "E4663",
+      "en": "and forced it shut again. But even a moment's lapse",
+      "status": "translated"
+    },
+    {
+      "id": "E4664",
+      "en": "would let the pressure from the other side blow you away.",
+      "status": "translated"
+    },
+    {
+      "id": "E4665",
+      "en": "Something's wrong!",
+      "status": "translated"
+    },
+    {
+      "id": "E4666",
+      "en": "This bronze ornament isn't reacting at all!",
+      "status": "translated"
+    },
+    {
+      "id": "E4667",
+      "en": "Does that mean the magic circle's broken?!",
+      "status": "translated"
+    },
+    {
+      "id": "E4668",
+      "en": "Something... Something is missing!",
+      "status": "translated"
+    },
+    {
+      "id": "E4669",
+      "en": "Stop... this futile effort.",
+      "status": "translated"
+    },
+    {
+      "id": "E4670",
+      "en": "This town and the world... were destined for destruction.",
+      "status": "translated"
+    },
+    {
+      "id": "E4671",
+      "en": "We merely delayed it...",
+      "status": "translated"
+    },
+    {
+      "id": "E4672",
+      "en": "That's not true!",
+      "status": "translated"
+    },
+    {
+      "id": "E4673",
+      "en": "Nothing we've done has been in vain!",
+      "status": "translated"
+    },
+    {
+      "id": "E4674",
+      "en": "You cannot defy fate.",
+      "status": "translated"
+    },
+    {
+      "id": "E4675",
+      "en": "I have undone every seal on this town.",
+      "status": "translated"
+    },
+    {
+      "id": "E4676",
+      "en": "You can choose to leave the town and live as you please.",
+      "status": "translated"
+    },
+    {
+      "id": "E4677",
+      "en": "Only until the world ends, of course,",
+      "status": "translated"
+    },
+    {
+      "id": "E4678",
+      "en": "but even so, you could taste freedom.",
+      "status": "translated"
+    },
+    {
+      "id": "E4679",
+      "en": "Father...",
+      "status": "translated"
+    },
+    {
+      "id": "E4680",
+      "en": "You've been thinking about that...?",
+      "status": "translated"
+    },
+    {
+      "id": "E4681",
+      "en": "By adopting you, I condemned you to a life without freedom.",
+      "status": "translated"
+    },
+    {
+      "id": "E4682",
+      "en": "I'm sorry...",
+      "status": "translated"
+    },
+    {
+      "id": "E4683",
+      "en": "How... How could you...",
+      "status": "translated"
+    },
+    {
+      "id": "E4684",
+      "en": "You destroyed the seal because of that selfish assumption?!",
+      "status": "translated"
+    },
+    {
+      "id": "E4685",
+      "en": "I wanted to protect this town with all my heart!!",
+      "status": "translated"
+    },
+    {
+      "id": "E4686",
+      "en": "We have to fall back! We can't seal it while we're here.",
+      "status": "translated"
+    },
+    {
+      "id": "E4687",
+      "en": "We need to find out how to use the bronze ornament!",
+      "status": "translated"
+    },
+    {
+      "id": "E4688",
+      "en": "Back to town, now!!",
+      "status": "translated"
+    },
+    {
+      "id": "E4689",
+      "en": "Indeed, retreat was your only option for now.",
+      "status": "translated"
+    },
+    {
+      "id": "E4690",
+      "en": "You decided to follow @7rCarmine's@0r advice.",
+      "status": "translated"
+    },
+    {
+      "id": "E4691",
+      "en": "We'll construct a circle to summon @7rGate Keeper@0r and @7rKey Master@0r.",
+      "status": "translated"
+    },
+    {
+      "id": "E4692",
+      "en": "So I get worked to the bone in the end too...",
+      "status": "translated"
+    },
+    {
+      "id": "E4693",
+      "en": "I'm sorry. We need three mages to construct the circle.",
+      "status": "translated"
+    },
+    {
+      "id": "E4694",
+      "en": "It's fine. At least this means I'm not a coward anymore.",
+      "status": "translated"
+    },
+    {
+      "id": "E4695",
+      "en": "No one's calling you a coward!",
+      "status": "translated"
+    },
+    {
+      "id": "E4696",
+      "en": "After that brief exchange, the three began chanting for the circle.",
+      "status": "translated"
+    },
+    {
+      "id": "E4697",
+      "en": "Demons swarmed toward you as if to interfere.",
+      "status": "translated"
+    },
+    {
+      "id": "E4698",
+      "en": "At the center of the circle @7rBeatrix@0r and the others had constructed,",
+      "status": "translated"
+    },
+    {
+      "id": "E4699",
+      "en": "the air wavered. Shadows gradually began taking shape.",
+      "status": "translated"
+    },
+    {
+      "id": "E4700",
+      "en": "I summon thee!",
+      "status": "translated"
+    },
+    {
+      "id": "E4701",
+      "en": "@7rGate Keeper@0r! @7rKey Master@0r!",
+      "status": "translated"
+    },
+    {
+      "id": "E4702",
+      "en": "Heed my command and appear!!",
+      "status": "translated"
+    },
+    {
+      "id": "E4703",
+      "en": "@7rBeatrix's@0r chanting cry rang out clearly.",
+      "status": "translated"
+    },
+    {
+      "id": "E4704",
+      "en": "As her words completed the circle, two figures appeared,",
+      "status": "translated"
+    },
+    {
+      "id": "E4705",
+      "en": "@7rGate Keeper@0r and @7rKey Master@0r, their bloodshot eyes fixed on you.",
+      "status": "translated"
+    },
+    {
+      "id": "E4706",
+      "en": "You little girls... Have you finally gone mad?!",
+      "status": "translated"
+    },
+    {
+      "id": "E4707",
+      "en": "You summon me because you wish to die today?!",
+      "status": "translated"
+    },
+    {
+      "id": "E4708",
+      "en": "Hee hee hee. Stupid creatures.",
+      "status": "translated"
+    },
+    {
+      "id": "E4709",
+      "en": "What do you hope to accomplish?",
+      "status": "translated"
+    },
+    {
+      "id": "E4710",
+      "en": "You've done nothing but come here to die!",
+      "status": "translated"
+    },
+    {
+      "id": "E4711",
+      "en": "Heh heh heh. Do you think summoning us means you can win?",
+      "status": "translated"
+    },
+    {
+      "id": "E4712",
+      "en": "But... hee hee hee... how convenient.",
+      "status": "translated"
+    },
+    {
+      "id": "E4713",
+      "en": "We've been wanting to test our strength...",
+      "status": "translated"
+    },
+    {
+      "id": "E4714",
+      "en": "You seem stronger, but did you think we hadn't changed?",
+      "status": "translated"
+    },
+    {
+      "id": "E4715",
+      "en": "No matter. First, we'll settle the score from last time!",
+      "status": "translated"
+    },
+    {
+      "id": "E4716",
+      "en": "Hee hee hee hee... Hee hee hee hee.",
+      "status": "translated"
+    },
+    {
+      "id": "E4717",
+      "en": "Your corpses shall be the offerings at tonight's feast!",
+      "status": "translated"
+    },
+    {
+      "id": "E4718",
+      "en": "The moment you defeated @7rGate Keeper@0r and @7rKey Master@0r,",
+      "status": "translated"
+    },
+    {
+      "id": "E4719",
+      "en": "rainbow light began spilling from the bronze statue in @7rBeatrix's@0r hands",
+      "status": "translated"
+    }
+  ],
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

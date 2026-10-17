@@ -1,0 +1,14 @@
+{
+  "language": "en",
+  "scope": "Narrow registration, party and class panels",
+  "terms": [
+    {"concept": "Alignment", "display": "Align.", "source_id": "X0245"},
+    {"concept": "Appearance", "display": "Look", "source_id": "X2556"},
+    {"concept": "Neutral alignment", "display": "Neut.", "source_id": "X2363", "evidence": "Both source occurrences are index 2 in Good/Neutral/Evil bitmask arrays; Medium was an inherited mistranslation."},
+    {"concept": "Front row", "display": "Front", "source_id": "X0291"},
+    {"concept": "Back row", "display": "Rear", "source_id": "X0292"},
+    {"concept": "Main hand", "display": "M:", "source_id": "X1337"},
+    {"concept": "Sub hand", "display": "S:", "source_id": "X1338"}
+  ],
+  "note": "Compact display labels preserve the established full terminology in dialogue and descriptions."
+}

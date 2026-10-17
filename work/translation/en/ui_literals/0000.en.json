@@ -1,0 +1,24 @@
+{
+  "rows_in_slice": 3,
+  "rows_examined": 3,
+  "translations": [
+    {
+      "id": "U0000",
+      "en": "Hands",
+      "status": "translated",
+      "note": "Equipment-slot value emitted as three immediate UTF-8 bytes; expanded after native construction."
+    },
+    {
+      "id": "U0001",
+      "en": "Feet",
+      "status": "translated",
+      "note": "Equipment-slot value emitted as three immediate UTF-8 bytes; expanded after native construction."
+    },
+    {
+      "id": "U0002",
+      "en": "Head",
+      "status": "translated",
+      "note": "Equipment-slot value emitted as three immediate UTF-8 bytes; expanded after native construction."
+    }
+  ]
+}

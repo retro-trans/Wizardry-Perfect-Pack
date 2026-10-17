@@ -1,0 +1,643 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "DC0000",
+      "en": "Takayuki Harakami",
+      "status": "translated",
+      "note": "Name reading checked against harakami_profile; character-role genders come from explicit role labels, not actor names.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0000",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0001",
+      "en": "Naoya Matsuda",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0001",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0002",
+      "en": "Hirokazu Noto",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0002",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Yukio Yoshida Akira Murata",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0003",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "id": "DC0004",
+      "en": "Tomohiro Kaneko",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0005",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Chiaki Kasuga Kentaro Isobe",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0005",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Hiroyasu Ikeda Naoya Matsuda",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0006",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Kazuaki Tsuchiya Risa Noguchi Misaki Furuyama",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0007",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Chiaki Kasuga Naoya Matsuda",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0008",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Kazunori Kurihara Hiromasa Suzuki",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0009",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Sayaka Ito Satomi Aono Atsushi Sato",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0010",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Yasumasa Kato Hiroyasu Ikeda Yoshimasa Nakai",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0011",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Keiichi Kawakami Ryu Yoshida",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0012",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "id": "DC0013",
+      "en": "Yuuki Hayabusa",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0021",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0014",
+      "en": "Masaya Matsumoto",
+      "status": "review",
+      "note": "Provisional Masaya Matsumoto. Matching credit list leaves this name in Japanese. Search results included an unrelated person with the same kanji; that is not identity evidence.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0022",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0015",
+      "en": "Astrovision Co., Ltd.",
+      "status": "translated",
+      "note": "English company form corroborated by the game-credit list.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0023",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Jun Suemi",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0016",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Masaki Ikeda / tomatika / Kenichi Orito",
+      "status": "review",
+      "note": "New illustrator names: provisional readings pending primary identity confirmation.",
+      "id": "DC0017",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Miho Midorikawa / Tsukasa Kado / yocky",
+      "status": "review",
+      "note": "New illustrator names: provisional readings pending primary identity confirmation.",
+      "id": "DC0018",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Hitoshi Yoneda / Yuko Tsukishiro / Toru Watanuki",
+      "status": "review",
+      "note": "New illustrator names: provisional readings pending primary identity confirmation.",
+      "id": "DC0019",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "TOHRU / Yoshio Watanabe / Saiko Takagi",
+      "status": "review",
+      "note": "New illustrator names: provisional readings pending primary identity confirmation, especially the last pen name.",
+      "id": "DC0020",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Hiroyuki Soejima / Akihiro Honma / Astrovision Co., Ltd.",
+      "status": "review",
+      "note": "New staff name readings provisional; company form follows inherited credit research.",
+      "id": "DC0021",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Tooru Zekuu (Axia Co., Ltd.)",
+      "status": "review",
+      "note": "Pen name and corporate styling provisional pending primary confirmation.",
+      "id": "DC0022",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "id": "DC0023",
+      "en": "Toshiko Tasaki",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0024",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0024",
+      "en": "Yuya Iwaki (allblue)",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0025",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0025",
+      "en": "Daiki Shirakawa",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0026",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0026",
+      "en": "Toshiaki Hoshino",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0027",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0027",
+      "en": "Ryota Miyabayashi",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0028",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0028",
+      "en": "Hiroto Morishita (Kanon)",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0029",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Human (Male) 1: Manabu Sakamaki",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0029",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Human (Male) 2: Shinobu Matsumoto",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0030",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Human (Female) 1: Rei Furukawa",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0031",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Human (Female) 2: Seiko Yoshida",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0032",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Elf (Male) 1: Daisuke Matsuo",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0033",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Elf (Male) 2: Manabu Sakamaki",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0034",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Elf (Female) 1: Juri Mizuno",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0035",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Elf (Female) 2: Ayano Miura",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0036",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Dwarf (Male) 1: Hidenori Takahashi",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0037",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Dwarf (Male) 2: Shinobu Matsumoto",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0038",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Dwarf (Female) 1: Seiko Yoshida",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0039",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Dwarf (Female) 2: Ayano Miura",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0040",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Gnome (Male) 1: Shinobu Matsumoto",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0041",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Gnome (Male) 2: Hidenori Takahashi",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0042",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Gnome (Female) 1: Momoko Ohara",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0043",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Gnome (Female) 2: Juri Mizuno",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0044",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Porklu (Male) 1: Daisuke Matsuo",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0045",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Porklu (Male) 2: Hidenori Takahashi",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0046",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Porklu (Female) 1: Ayano Miura",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0047",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Porklu (Female) 2: Seiko Yoshida",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0048",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Felpurr (Male) 1: Daisuke Matsuo",
+      "status": "translated",
+      "id": "DC0049",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Felpurr (Male) 2: Manabu Sakamaki",
+      "status": "translated",
+      "id": "DC0050",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Felpurr (Female) 1: Rei Furukawa",
+      "status": "translated",
+      "id": "DC0051",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Felpurr (Female) 2: Ayano Miura",
+      "status": "translated",
+      "id": "DC0052",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Fairy (Male) 1: Momoko Ohara",
+      "status": "translated",
+      "id": "DC0053",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Fairy (Male) 2: Seiko Yoshida",
+      "status": "translated",
+      "id": "DC0054",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Fairy (Female) 1: Ayano Yamamoto",
+      "status": "translated",
+      "id": "DC0055",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Fairy (Female) 2: Juri Mizuno",
+      "status": "translated",
+      "id": "DC0056",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Beatrix Seiko Yoshida",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0057",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Carmine Rei Furukawa",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0058",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Anselm Shinobu Matsumoto",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0059",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Cyrus Momoko Ohara",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0060",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Tanya Ayano Yamamoto",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0061",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Lady Marbas: Mayuki Makiguchi",
+      "status": "translated",
+      "id": "DC0062",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Gate Keeper / Cock Robin / Demon / Others",
+      "status": "translated",
+      "id": "DC0063",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Masahiro Okazaki",
+      "status": "translated",
+      "id": "DC0064",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Key Master / Old Mage / Pluton / Others",
+      "status": "translated",
+      "id": "DC0065",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Kensuke Tamura",
+      "status": "translated",
+      "id": "DC0066",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Riz / Chests, Statues and Other Traps: Rumi Okubo",
+      "status": "translated",
+      "id": "DC0067",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Anneberg: Momoko Ohara",
+      "status": "translated",
+      "id": "DC0068",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Fiore Juri Mizuno",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0069",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Scenario Misao Sayama(Office 20th Heart)",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0070",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "id": "DC0071",
+      "en": "Yuki Hishino (JamJamHouse)",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0063",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0072",
+      "en": "Keishi Iwahara",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0064",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0073",
+      "en": "IPM Inc.",
+      "status": "translated",
+      "note": "Corporate label; preserve IPM acronym.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0065",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "DC0074",
+      "en": "Jun Suemi",
+      "status": "review",
+      "note": "Romanization corroborated by the matching secondary game-credit list; primary name-reading confirmation remains outstanding.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0066",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Hiroyuki Soejima / Akihiro Honma",
+      "status": "review",
+      "note": "New staff name readings provisional; same people as DC0021.",
+      "id": "DC0075",
+      "context": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+    },
+    {
+      "en": "Jun Suemi",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0076",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "id": "DC0077",
+      "en": "Kenji Ito",
+      "status": "translated",
+      "note": "Name reading checked against ito_publisher; character-role genders come from explicit role labels, not actor names.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DC0067",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Producer Junichirow Tamura",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0078",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    },
+    {
+      "en": "Sales Manager Akio Shimojo",
+      "status": "review",
+      "note": "Composed from matching researched credit names; inherited reading uncertainties remain. Edition-specific grouping preserved.",
+      "id": "DC0079",
+      "context": "Edition credit grouping; previously researched exact staff-name fragments reused. Primary reading uncertainty retained."
+    }
+  ],
+  "context_note": "Perfect Pack credits: new character labels follow glossary; repeated cast names match inherited credits. New illustrator/staff readings are provisional and explicitly marked for primary-source confirmation. Performer gender is never used as character evidence."
+}

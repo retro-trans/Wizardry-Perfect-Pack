@@ -1,0 +1,404 @@
+{
+  "rows_in_slice": 59,
+  "rows_examined": 59,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "en": "The Truth About Chu Lu Gah",
+      "status": "translated",
+      "id": "A01DQ0000",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "id": "A01DQ0001",
+      "en": "Carmine",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0005",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I want you to help me\nfind Chu Lu Gah's home.",
+      "status": "translated",
+      "id": "A01DQ0002",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find Chu Lu Gah's home,\nsaid to be in Bahelmeja.",
+      "status": "translated",
+      "id": "A01DQ0003",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Coin Collection",
+      "status": "translated",
+      "id": "A01DQ0004",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "id": "A01DQ0005",
+      "en": "Tanya",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0009",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I want some old money.\nDoes anyone have any?",
+      "status": "translated",
+      "id": "A01DQ0006",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Obtain the Ancient Coin said to be in Staatsen\nand bring it to Tanya.",
+      "status": "translated",
+      "id": "A01DQ0007",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Proof of the Demon God",
+      "status": "translated",
+      "id": "A01DQ0008",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "id": "A01DQ0009",
+      "en": "Beatrix",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0021",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "I want you to find the key\nto Chu Lu Gah's library.",
+      "status": "translated",
+      "id": "A01DQ0010",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "After having the key appraised, visit Chu Lu Gah's\nmansion and check whether it fits.",
+      "status": "translated",
+      "id": "A01DQ0011",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Proof of the Demon God (Continued)",
+      "status": "translated",
+      "id": "A01DQ0012",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "id": "A01DQ0013",
+      "en": "Anselm",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0017",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Is there something you need from me?\n* Feel free to ask me for advice.",
+      "status": "translated",
+      "id": "A01DQ0014",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "A Deal with Lady Marbas",
+      "status": "translated",
+      "id": "A01DQ0015",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I want you to find\nChu Lu Gah's other hideout.",
+      "status": "translated",
+      "id": "A01DQ0016",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find Chu Lu Gah's hideout,\nsaid to be in Diemen.",
+      "status": "translated",
+      "id": "A01DQ0017",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "The Psalm's Mystery",
+      "status": "translated",
+      "id": "A01DQ0018",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I want you to help me unravel the psalm's mystery.",
+      "status": "translated",
+      "id": "A01DQ0019",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Go to Watering\nand solve the psalm's mystery.",
+      "status": "translated",
+      "id": "A01DQ0020",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Something Suspicious",
+      "status": "translated",
+      "id": "A01DQ0021",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I want you to find the descendant of a thief\nwho knew Chu Lu Gah.",
+      "status": "translated",
+      "id": "A01DQ0022",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find the thief somewhere in Diemen\nand receive the item.",
+      "status": "translated",
+      "id": "A01DQ0023",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "The Seal's Location",
+      "status": "translated",
+      "id": "A01DQ0024",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I want you to stop Gate Keeper\nand Key Master's plot.",
+      "status": "translated",
+      "id": "A01DQ0025",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Go to Lower Watering\nand stop Gate Keeper and Key Master's plot.",
+      "status": "translated",
+      "id": "A01DQ0026",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "The Beginning of the End",
+      "status": "translated",
+      "id": "A01DQ0027",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I want you to check whether\nChu Lu Gah's seal really has broken.",
+      "status": "translated",
+      "id": "A01DQ0028",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Go to the lowest level of Watering\nand check whether the seal has broken.",
+      "status": "translated",
+      "id": "A01DQ0029",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find the Elusive Bunny!",
+      "status": "translated",
+      "id": "A01DQ0030",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I want to find a pink bunny!\nI'm looking for someone to help me.",
+      "status": "translated",
+      "id": "A01DQ0031",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Catch a pink Vorpal Bunny in Bahelmeja\nand give it to Tanya.",
+      "status": "translated",
+      "id": "A01DQ0032",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find That Person",
+      "status": "translated",
+      "id": "A01DQ0033",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find the mage in the ruins\nand get the book back.",
+      "status": "translated",
+      "id": "A01DQ0034",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Get the book back from the mage said to be in Staatsen\nand give it to Anselm.",
+      "status": "translated",
+      "id": "A01DQ0035",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Rescue Fiore",
+      "status": "translated",
+      "id": "A01DQ0036",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Fiore's been kidnapped!\nPlease help her!!",
+      "status": "translated",
+      "id": "A01DQ0037",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Go rescue Fiore,\nwho was reportedly kidnapped and taken to Staatsen.",
+      "status": "translated",
+      "id": "A01DQ0038",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Looking for a Way Out",
+      "status": "translated",
+      "id": "A01DQ0039",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "id": "A01DQ0040",
+      "en": "Cyrus",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0013",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "It looks like there's another way to escape this city.\nWould someone help me investigate...?",
+      "status": "translated",
+      "id": "A01DQ0041",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Obtain the Purple Potion and Red Elixir\nin Diemen.",
+      "status": "translated",
+      "id": "A01DQ0042",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Catch the Thief",
+      "status": "translated",
+      "id": "A01DQ0043",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "id": "A01DQ0044",
+      "en": "Fiore",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0001",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Someone stole my precious bag!\nCould someone get it back for me?",
+      "status": "translated",
+      "id": "A01DQ0045",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Follow the thief who fled to Diemen\nand recover Fiore's bag.",
+      "status": "translated",
+      "id": "A01DQ0046",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Where's the Treasure?",
+      "status": "translated",
+      "id": "A01DQ0047",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I've heard where there's some treasure.\nWould anyone like to look for it with me?",
+      "status": "translated",
+      "id": "A01DQ0048",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Search five locations in Upper Watering\nfor treasure.",
+      "status": "translated",
+      "id": "A01DQ0049",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I Don't Want to Be a Coward!",
+      "status": "translated",
+      "id": "A01DQ0050",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "I'm looking for someone\nto help me investigate Chu Lu Gah.",
+      "status": "translated",
+      "id": "A01DQ0051",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find the warrior's grave\nsaid to be in Watering.",
+      "status": "translated",
+      "id": "A01DQ0052",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find the Legendary Liquor",
+      "status": "translated",
+      "id": "A01DQ0053",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "It sounds like there's an ancient liquor cellar!\nCould someone help me find it?",
+      "status": "translated",
+      "id": "A01DQ0054",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "Find the liquor cellar somewhere in Diemen\nand bring back the liquor.",
+      "status": "translated",
+      "id": "A01DQ0055",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "en": "A Strange Box",
+      "status": "translated",
+      "id": "A01DQ0056",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    },
+    {
+      "id": "A01DQ0057",
+      "en": "None",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DQ0066",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "A grimy box sits on the counter.",
+      "status": "translated",
+      "id": "A01DQ0058",
+      "context": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+    }
+  ],
+  "context_note": "Scenario 2 quest titles, client requests and objectives; names and story checked against adjacent fields and event translation terminology. Source line counts preserved; no byte-budget shortening."
+}

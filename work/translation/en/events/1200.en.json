@@ -1,0 +1,495 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "E1200",
+      "en": "so please do your best!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1201",
+      "en": "You are to find some old coins at @7rTanya's@0r request.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1202",
+      "en": "If you explore the ruined city,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1203",
+      "en": "you should find old coins soon enough.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1204",
+      "en": "It should not be a difficult job.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1205",
+      "en": "You only need to find what @7rTanya@0r wants: the @3rAncient Coin@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1206",
+      "en": "Without giving it much thought,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1207",
+      "en": "you decide to accept @7rTanya's@0r request.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1208",
+      "en": "I don't know if this will help,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1209",
+      "en": "but old money often turns up",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1210",
+      "en": "in places marked Skua.",
+      "status": "review",
+      "note": "Skua is provisional place-name orthography. Requires agreement with sign text."
+    },
+    {
+      "id": "E1211",
+      "en": "And... in a place called Kayuken, too.",
+      "status": "review",
+      "note": "Kayuken is provisional place-name orthography. Requires agreement with sign text."
+    },
+    {
+      "id": "E1212",
+      "en": "If you find any signs, please have a good look around!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1213",
+      "en": "I'm counting on you!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1214",
+      "en": "You can't?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1215",
+      "en": "That's a real shame...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1216",
+      "en": "But I guess it can't be helped.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1217",
+      "en": "If you change your mind, come and talk to me anytime!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1218",
+      "en": "Hello.",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "E2127",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "E1219",
+      "en": "Have you all been doing well?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1220",
+      "en": "@7rTanya's@0r doing great, as always!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1221",
+      "en": "@7rTanya@0r is smiling as cheerfully as ever.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1222",
+      "en": "You ask whether anything has changed",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1223",
+      "en": "since the incident.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1224",
+      "en": "Ever since that big light and the earthquake,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1225",
+      "en": "people in town seem really frightened.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1226",
+      "en": "That legendary wizard, Chu, Chu... what was his name?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1227",
+      "en": "Well, anyway. People say that legendary wizard's curse",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1228",
+      "en": "has grown even stronger.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1229",
+      "en": "And ever since the earthquake, the ruins around town",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1230",
+      "en": "have been full of monsters, so it's dangerous now.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1231",
+      "en": "@7rBeatrix@0r says the seal has weakened,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1232",
+      "en": "and monsters are coming through the gaps.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1233",
+      "en": "But the earthquake knocked down walls and things,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1234",
+      "en": "and people found new ruins. I think that's where",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1235",
+      "en": "the monsters are coming from. That's what @7rTanya@0r thinks!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1236",
+      "en": "Oh, speaking of the new ruins!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1237",
+      "en": "I've got a favor to ask. Will you help me?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1238",
+      "en": "My grandma likes collecting old money.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1239",
+      "en": "@7rBeatrix@0r says",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1240",
+      "en": "the ruins they found used to be a city,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1241",
+      "en": "so I bet there's old money there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1242",
+      "en": "If you find any, could you bring it to me?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1243",
+      "en": "Please?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1244",
+      "en": "You received a @3rKramer Hat@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1245",
+      "en": "Thank goodness. We made it back to civilization safely.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1246",
+      "en": "I'll devote myself to deciphering this memorandum.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1247",
+      "en": "That should tell us what those attackers were after,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1248",
+      "en": "and perhaps who this sealed demon god is.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1249",
+      "en": "Thank you for today, at any rate.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1250",
+      "en": "Here's the reward I promised.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1251",
+      "en": "From @7rBeatrix@0r, you received @3r25,000 G@0r and",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1252",
+      "en": "Once I've deciphered it, I may have another request.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1253",
+      "en": "I'll be counting on you then.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1254",
+      "en": "From @7rBeatrix@0r, you received @3r25,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1255",
+      "en": "If you're ready, let's be on our way.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1256",
+      "en": "We're going to @6rBahelmeja@0r, to the site of @7rChu Lu Gah's@0r house.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1257",
+      "en": "Have you decided to check whether it's the key to the library?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1258",
+      "en": "I'd be delighted if you have.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1259",
+      "en": "Thank you. I don't want to make two trips,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1260",
+      "en": "so I'll accompany you. Please keep me safe.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1261",
+      "en": "I'll pay you extra in return.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1262",
+      "en": "Is that all right?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1263",
+      "en": "Whether it is or not, having already agreed,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1264",
+      "en": "you cannot very well refuse just because @7rBeatrix@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1265",
+      "en": "is coming along.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1266",
+      "en": "You nod reluctantly,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1267",
+      "en": "while @7rBeatrix@0r beams back at you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1268",
+      "en": "It's easier than checking the library key and then",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1269",
+      "en": "having to escort me all the way back there afterward, isn't it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1270",
+      "en": "No, then?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1271",
+      "en": "Well, we don't know for certain that the coin is the key,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1272",
+      "en": "and it's yours, after all. I can't make you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1273",
+      "en": "But if you change your mind, come and see me anytime.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1274",
+      "en": "Even a one percent chance is worth trying, I think.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1275",
+      "en": "Did you have it appraised? What did you find out?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1276",
+      "en": "When you explain the details to @7rBeatrix@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1277",
+      "en": "she frowns slightly and hides her mouth behind her iron fan.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1278",
+      "en": "So we still don't know whether it's the library key.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1279",
+      "en": "But it is the right size...",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "context": "Tanya asks for old coins for her grandmother; Beatrix later offers an escort job to investigate the locked library.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

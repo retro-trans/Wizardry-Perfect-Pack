@@ -1,0 +1,627 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 80,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "en": "Lady Marbas",
+      "status": "translated",
+      "id": "A01DM0000",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Beguiling Illusion",
+      "status": "translated",
+      "id": "A01DM0001",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Gate Keeper",
+      "status": "translated",
+      "id": "A01DM0002",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0003",
+      "en": "Pitch-Black Mist",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0419",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0004",
+      "en": "Frenzied Assault of Despair",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0420",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Key Master",
+      "status": "translated",
+      "id": "A01DM0005",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Cock Robin",
+      "status": "translated",
+      "id": "A01DM0006",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Riz (Mage)",
+      "status": "translated",
+      "id": "A01DM0007",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Old Mage",
+      "status": "translated",
+      "id": "A01DM0008",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Thief",
+      "status": "translated",
+      "id": "A01DM0009",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Corpse Tree",
+      "status": "translated",
+      "id": "A01DM0010",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Luring Mist",
+      "status": "translated",
+      "id": "A01DM0011",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Paralyzing Smoke",
+      "status": "translated",
+      "id": "A01DM0012",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0013",
+      "en": "To Those Who Perish",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0440",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "At first glance it is\nmerely a dead tree, but it\nis actually a tree monster\nanimated by sorcery. It\nattacks people and decorates\nitself with their bones as\nthough they were medals.\nPerhaps because it was once\na tree, it moves sluggishly,\nso you should have no trouble\ndefeating it. Anyone who\nloses will simply become\nits newest accessory.",
+      "status": "translated",
+      "id": "A01DM0014",
+      "context": "Independent source-to-English meaning review by events_first; fixes applied by parent. Full content and original line/blank-line structure retained; no cosmetic rewriting."
+    },
+    {
+      "en": "Spirit of Radiance",
+      "status": "translated",
+      "id": "A01DM0015",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0016",
+      "en": "Lingering Resentment",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0426",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "\"All I could feel was\ndespair.\" Every adventurer\nwho has encountered one\nsays the same thing.\n\nIf you meet one in a\nlabyrinth, its menace\nwill leave you trembling.\nIf escape is possible,\nwe recommend fleeing\nbefore it kills you\nor turns you to stone.",
+      "status": "translated",
+      "id": "A01DM0017",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Heart Bunny",
+      "status": "translated",
+      "id": "A01DM0018",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0019",
+      "en": "Headlong Rush",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0165",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Many adventurers approach\nit thinking it is merely a\nstuffed toy, but it seems\nto be a variant of the\nVorpal Bunny. Its appearance\nmakes it all too easy to\nlower your guard, even\nin battle. Those who do\nwill fall victim to its\ncharacteristic decapitating\nattack. Perhaps this is a good\nexample of how exceptional\ncuteness can sometimes\nbe a formidable weapon.",
+      "status": "translated",
+      "id": "A01DM0020",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Blazing Grudge Dragon",
+      "status": "translated",
+      "id": "A01DM0021",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0022",
+      "en": "Deep Darkness and Slumber",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0205",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Dragon's Breath",
+      "status": "translated",
+      "id": "A01DM0023",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0024",
+      "en": "Dragon's Fury",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0202",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0025",
+      "en": "Savage Tail",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0206",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0026",
+      "en": "Winged Purge",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0198",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "This dragon is\nrecognized as a variant\nwreathed in flames.\n\nSaid to have lived amid\nfire since birth, it has\nextremely hard scales that\nmake dull weapons a hopeless\nproposition. Even spell\nattacks from a distance are\nmet with its powerful breath.\n\nLearn where these dragons\nlive and take every precaution\nto avoid encountering them.",
+      "status": "translated",
+      "id": "A01DM0027",
+      "context": "Independent source-to-English meaning review by events_first; fixes applied by parent. Full content and original line/blank-line structure retained; no cosmetic rewriting."
+    },
+    {
+      "en": "Iron Scorpion",
+      "status": "translated",
+      "id": "A01DM0028",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "A variant of scorpion\nwith a shell as\nhard as steel.\n\nAn irritant thought to\nbe venom drips from its\ngleaming golden tail. Its\nfoul stench is enough to\nmake you turn away. It is\nstill only a bug, however,\nand should be no match\nfor a seasoned adventurer.",
+      "status": "translated",
+      "id": "A01DM0029",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Siberian Wolf",
+      "status": "translated",
+      "id": "A01DM0030",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Its body evolved to survive\nin lands of extreme cold,\nmaking it more dangerous\nto adventurers than\nan ordinary werewolf.\n\nIt does more than simply\nattack. Reports describe a\ncruel habit of paralyzing\nits victims and tormenting\nthem once they cannot move.\n\nIf you face one, end\nthe fight before it\nstarts enjoying itself.\nAfter all, you are not\nplaying a game with it.",
+      "status": "translated",
+      "id": "A01DM0031",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Wererat Cyclone",
+      "status": "translated",
+      "id": "A01DM0032",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Like other wererats, it\nis frail but extremely\nnimble. True to its\nname, a pack attack\ncould leave everything\nas devastated as the\naftermath of a cyclone.\n\nTake particular care against\nits swift movements. Its\nsharp teeth and claws\nalso harbor many germs and\npathogens. As with any wererat,\nwounds it inflicts must\nbe thoroughly disinfected.",
+      "status": "translated",
+      "id": "A01DM0033",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Crystal Chimera",
+      "status": "translated",
+      "id": "A01DM0034",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0035",
+      "en": "Hellfire Roar",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0134",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "It is beautiful enough\nto be mistaken for a\nstatue, but that lovely\nappearance is merely\na deception. Reports\nfrequently describe it\nposing as a statue to\nambush passing adventurers.\n\nMany adventurers have suffered\ngrievous injuries from a breath attack\nlaunched in just such an ambush.",
+      "status": "translated",
+      "id": "A01DM0036",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Herald of Darkness",
+      "status": "translated",
+      "id": "A01DM0037",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0038",
+      "en": "Menacing Breath",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0181",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0039",
+      "en": "Dragon's Cry",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0185",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0040",
+      "en": "Charge",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0186",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0041",
+      "en": "Take the Blow",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0187",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "It has a jet-black body, gleaming golden\neyes, sharp red claws and a tail stinger that\nlook as though they were stained with blood.\n\nThis is a monster that warrants\na higher level of caution\nduring your adventures.\n\nPerhaps its name comes from\nthe many parties it has\nwiped out, bursting from the\ndarkness before they could\neven make out its shape.",
+      "status": "translated",
+      "id": "A01DM0042",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Ogre Burst",
+      "status": "translated",
+      "id": "A01DM0043",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0044",
+      "en": "Living Missile",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0108",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "An ogre variant whose skin\nis said to have turned\nbright red from anger. Like\nan ordinary ogre, it has\nno intelligence and attacks\nindiscriminately. The force\nof its charge is astonishing.\n\nHowever, an adventurer of\naverage ability need not fear\nit, provided they remain calm in\nthe face of its reckless rush.",
+      "status": "translated",
+      "id": "A01DM0045",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Cunning Djinn",
+      "status": "translated",
+      "id": "A01DM0046",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0047",
+      "en": "Deadly Blow",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0091",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0048",
+      "en": "Counterattack",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0055",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "It appears to be a relative\nof the djinn, and seems\nto attack humans for sheer\nenjoyment. It is also\nfrequently seen draining energy.\n\nReports describe it tormenting\nadventurers and then abandoning\nthem. This is only speculation,\nbut perhaps it is merely\n\"playing\" with adventurers\nrather than fighting them.",
+      "status": "translated",
+      "id": "A01DM0049",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Returner",
+      "status": "translated",
+      "id": "A01DM0050",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0051",
+      "en": "Self-Sacrifice",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0143",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "It is said to be the wretched\nremains of a soul that\nwandered into the labyrinth.\n\nIt seems to strengthen\nitself by absorbing\nother souls. Presumably,\nit attacks adventurers\nin search of more.\n\nPerhaps drawing on the souls it\nhas absorbed, it is a formidable\nenemy that employs magic and a\nwide range of special attacks.",
+      "status": "translated",
+      "id": "A01DM0052",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Mist Cloud",
+      "status": "translated",
+      "id": "A01DM0053",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0054",
+      "en": "Poisonous Smoke",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0254",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0055",
+      "en": "Numbing Smoke",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0255",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "A magical creature a mage fashioned\nfrom the mist surrounding the\ncity. It looks so fragile that\na wave of air might disperse\nit, yet it attacks by releasing\nvarious kinds of smoke. Its\nappearance often causes people\nto underestimate it. Let\nyour guard down, however, and\nyou will never return alive,\ninstead joining those who\nwander the labyrinth forever.",
+      "status": "translated",
+      "id": "A01DM0056",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Wandering Armor",
+      "status": "translated",
+      "id": "A01DM0057",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "A magical creature a mage\ncreated by further strengthening\nLiving Armor to serve as a\nbodyguard. Its master's orders\nare absolute. Even now, with\nits master gone, it attacks\nadventurers in an effort to\ncarry out those commands.\nOne wishes its creator had\nat least included a condition\nunder which it should retreat.",
+      "status": "translated",
+      "id": "A01DM0058",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Recovery Golem",
+      "status": "translated",
+      "id": "A01DM0059",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "A golem said to have\nbeen made during the age\nwhen the Dragoons ruled.\n\nIts material remains unidentified.\nIts body is so sturdy that anyone\ntrying to collect a sample will\nfind dull weapons and spells\nwholly inadequate to defeat it.\n\nIts blows are powerful\nenough to crush a\nhuman head with ease.",
+      "status": "translated",
+      "id": "A01DM0060",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Interceptor",
+      "status": "review",
+      "note": "Source name is a shortened transliteration; lore explicitly calls it one who blocks the way.",
+      "id": "A01DM0061",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0062",
+      "en": "Confounding Charge",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0005",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "A01DM0063",
+      "en": "Knightly Grace",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0006",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "A demon whose name means\n\"one who blocks the way.\"\nIt is said to have been\na knight consumed by a\ndemon. Another theory\nholds that it made a pact\nwith a demon to gain\ngreater power for its\nlord. Either way, it is\nthe ruin of a human who\nsought power. Beware of\nfocusing all your attention\non defeating the mounted\nknight: its horse can also\nattack with its breath.",
+      "status": "translated",
+      "id": "A01DM0064",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Bifrons the Mocking",
+      "status": "translated",
+      "id": "A01DM0065",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Blissful Slumber",
+      "status": "translated",
+      "id": "A01DM0066",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A01DM0067",
+      "en": "Breath of Despair",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DM0423",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "It is said that once\nyou hear its mocking\nlaughter, even your soul\nwill be tortured and\nsucked away. Like other\ndemons, it delights only\nin tormenting humans,\nunleashing different attacks\nto enjoy their reactions.\n\nAlthough its original power\nis sealed, there can be little\ndoubt that it remains a greater\nthreat than other demons.",
+      "status": "translated",
+      "id": "A01DM0068",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Silent Gargoyle",
+      "status": "translated",
+      "id": "A01DM0069",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Law of Silence",
+      "status": "translated",
+      "id": "A01DM0070",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "As its name suggests, many\nof its attacks seal spells,\nmaking it an especially bad\nopponent for spellcasters.\n\nIt likes to toy with its\nprey after sealing their\nmagic, almost as if it\nfeeds on their fear. Even\nif you win, escaping the\nlabyrinth will be hopeless\nunless you can restore\nyour sealed spells.",
+      "status": "translated",
+      "id": "A01DM0071",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Treasure Crawler",
+      "status": "translated",
+      "id": "A01DM0072",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "A monster that seems clad in\narmor made of precious metal.\nIt cannot resist shiny objects,\nand has reportedly attacked\nadventurers to steal even\nthe things they are wearing.\n\nAlthough it mainly crawls\nalong the ground, it moves\nquickly. It also attacks\nwith the precious objects\nit has collected. The\npower within those objects\nappears to increase the\nforce of its attacks.\n",
+      "status": "translated",
+      "id": "A01DM0073",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Burning Slime",
+      "status": "translated",
+      "id": "A01DM0074",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Gushing Flame",
+      "status": "translated",
+      "id": "A01DM0075",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Tradition claims this\nslime is mutated lava.\nWhether that is true is\nuncertain, but it is\nalways wrapped in searing\nflames and certainly\nresembles moving lava.\nBubbles also rise from\nits body, supposedly\nreleasing a foul smell\nwhen they burst. It is\nnot particularly strong,\nbeing only a slime\nvariant, but the gas it\nreleases calls for caution.",
+      "status": "translated",
+      "id": "A01DM0076",
+      "context": "Scenario 2 bestiary prose translated in full against each source entry and its monster name/abilities. Authored English paragraphs are balanced over original line and blank-line counts without changing words. Runtime clipping remains unverified."
+    },
+    {
+      "en": "Goblin Nightmare",
+      "status": "translated",
+      "id": "A01DM0077",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Poison Mist",
+      "status": "translated",
+      "id": "A01DM0078",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Unexpected Counterattack",
+      "status": "translated",
+      "id": "A01DM0079",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    }
+  ],
+  "context_note": "Independent source-to-English meaning review by events_first; fixes applied by parent. Full content and original line/blank-line structure retained; no cosmetic rewriting."
+}

@@ -1,0 +1,372 @@
+{
+  "rows_in_slice": 52,
+  "rows_examined": 52,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "en": "Strage Labyrinth Map",
+      "status": "translated",
+      "id": "A02DI0000",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A02DI0001",
+      "en": "Scroll",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DI0201",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Strage Labyrinth\nDisplays explored areas.",
+      "status": "translated",
+      "id": "A02DI0002",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Upper Graham Rootze Map",
+      "status": "translated",
+      "id": "A02DI0003",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Upper Graham Rootze\nDisplays explored areas.",
+      "status": "translated",
+      "id": "A02DI0004",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Lower Graham Rootze Map",
+      "status": "translated",
+      "id": "A02DI0005",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Lower Graham Rootze\nDisplays explored areas.",
+      "status": "translated",
+      "id": "A02DI0006",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Upper Graham Labyrinth Map",
+      "status": "translated",
+      "id": "A02DI0007",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Upper Graham Labyrinth\nDisplays explored areas.",
+      "status": "translated",
+      "id": "A02DI0008",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Middle Graham Labyrinth Map",
+      "status": "translated",
+      "id": "A02DI0009",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Middle Graham Labyrinth\nDisplays explored areas.",
+      "status": "translated",
+      "id": "A02DI0010",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Lower Graham Labyrinth Map",
+      "status": "translated",
+      "id": "A02DI0011",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Lower Graham Labyrinth\nDisplays explored areas.",
+      "status": "translated",
+      "id": "A02DI0012",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Demon's Contract",
+      "status": "translated",
+      "id": "A02DI0013",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A02DI0014",
+      "en": "Strange Object",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DI0101",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Tyrfing",
+      "status": "translated",
+      "id": "A02DI0015",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A02DI0016",
+      "en": "Sword-like Object",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DI0014",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Comet Staff",
+      "status": "translated",
+      "id": "A02DI0017",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A02DI0018",
+      "en": "Staff-like Object",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DI0049",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Flame Emperor's Hammer",
+      "status": "translated",
+      "id": "A02DI0019",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A02DI0020",
+      "en": "Hammer-like Object",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DI0071",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Secret Weapon",
+      "status": "translated",
+      "id": "A02DI0021",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Mark of Radiance",
+      "status": "translated",
+      "id": "A02DI0022",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Basara",
+      "status": "translated",
+      "id": "A02DI0023",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Nature Gloves",
+      "status": "translated",
+      "id": "A02DI0024",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Something Like Gloves",
+      "status": "translated",
+      "id": "A02DI0025",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Claw Wind",
+      "status": "translated",
+      "id": "A02DI0026",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Staff of Judgment",
+      "status": "translated",
+      "id": "A02DI0027",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Escape Wand",
+      "status": "translated",
+      "id": "A02DI0028",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Paragraph Weapon",
+      "status": "translated",
+      "id": "A02DI0029",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Arondight",
+      "status": "translated",
+      "id": "A02DI0030",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Azukimaru",
+      "status": "translated",
+      "id": "A02DI0031",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Wild Mail",
+      "status": "translated",
+      "id": "A02DI0032",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A02DI0033",
+      "en": "Armor-like Object",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DI0110",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Nature Buckler",
+      "status": "translated",
+      "id": "A02DI0034",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Something Like a Shield",
+      "status": "translated",
+      "id": "A02DI0035",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Fairy Robe",
+      "status": "translated",
+      "id": "A02DI0036",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Blue Robe",
+      "status": "translated",
+      "id": "A02DI0037",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A02DI0038",
+      "en": "Protective Gear-like Object",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DI0094",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Red Robe",
+      "status": "translated",
+      "id": "A02DI0039",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Gospel Vestments",
+      "status": "translated",
+      "id": "A02DI0040",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Boar Shield",
+      "status": "translated",
+      "id": "A02DI0041",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Balmar Guard",
+      "status": "review",
+      "note": "Provisional transliteration; no published English spelling found.",
+      "id": "A02DI0042",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Ein Reflect",
+      "status": "review",
+      "note": "Provisional transliteration; no published English spelling found.",
+      "id": "A02DI0043",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Strange Hat",
+      "status": "translated",
+      "id": "A02DI0044",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Warlord's Helm",
+      "status": "translated",
+      "id": "A02DI0045",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Chup Rera",
+      "status": "review",
+      "note": "Provisional transliteration; no published English spelling found.",
+      "id": "A02DI0046",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Melpome Shoes",
+      "status": "review",
+      "note": "Provisional transliteration; no published English spelling found.",
+      "id": "A02DI0047",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "id": "A02DI0048",
+      "en": "Shoes",
+      "status": "translated",
+      "note": "",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "DI0162",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "en": "Drake Boots",
+      "status": "translated",
+      "id": "A02DI0049",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Wave-Cutting Sandals",
+      "status": "translated",
+      "id": "A02DI0050",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    },
+    {
+      "en": "Shoes",
+      "status": "translated",
+      "id": "A02DI0051",
+      "context": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+    }
+  ],
+  "context_note": "Additional-scenario item and monster names reviewed against record contexts and the shared glossary. Provisional transliterations retain review status. Map descriptions preserve their two source lines."
+}

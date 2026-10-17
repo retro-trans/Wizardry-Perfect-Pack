@@ -1,0 +1,411 @@
+{
+  "rows_in_slice": 80,
+  "rows_examined": 100,
+  "provenance": "New source translation; E3910-E3919 and E4000-E4009 reviewed.",
+  "context": "Gate Keeper and Key Master trick party into killing the seal guardian. Monsters strengthen; Lady Marbas heals and warns the party before the two fiends return.",
+  "decisions": "Cruel taunts preserved. Marbas's apparent death is a question, not a confirmed event. Sentences continue across corresponding rows.",
+  "translations": [
+    {
+      "id": "E3920",
+      "en": "will pour through in hordes.",
+      "status": "translated"
+    },
+    {
+      "id": "E3921",
+      "en": "What will you do? What will you do? Hee hee hee hee!",
+      "status": "translated"
+    },
+    {
+      "id": "E3922",
+      "en": "First, we'll undo @7rChu Lu Gah's@0r troublesome seal.",
+      "status": "translated"
+    },
+    {
+      "id": "E3923",
+      "en": "Then we'll break the ancient seal and throw open the otherworldly gate.",
+      "status": "translated"
+    },
+    {
+      "id": "E3924",
+      "en": "Hee hee hee hee hee!",
+      "status": "translated"
+    },
+    {
+      "id": "E3925",
+      "en": "Come on, then! Can you stop us?",
+      "status": "translated"
+    },
+    {
+      "id": "E3926",
+      "en": "Come forth, Guardian!",
+      "status": "translated"
+    },
+    {
+      "id": "E3927",
+      "en": "Hee hee hee hee hee hee...",
+      "status": "translated"
+    },
+    {
+      "id": "E3928",
+      "en": "You fell for it perfectly!",
+      "status": "translated"
+    },
+    {
+      "id": "E3929",
+      "en": "That guardian was placed here by @7rChu Lu Gah@0r",
+      "status": "translated"
+    },
+    {
+      "id": "E3930",
+      "en": "to protect the seal! It was made to attack",
+      "status": "translated"
+    },
+    {
+      "id": "E3931",
+      "en": "anyone who approached, whoever they might be.",
+      "status": "translated"
+    },
+    {
+      "id": "E3932",
+      "en": "Hee hee hee hee hee hee!",
+      "status": "translated"
+    },
+    {
+      "id": "E3933",
+      "en": "And the key to destroying this seal of @7rChu Lu Gah's@0r",
+      "status": "translated"
+    },
+    {
+      "id": "E3934",
+      "en": "is defeating that very guardian!",
+      "status": "translated"
+    },
+    {
+      "id": "E3935",
+      "en": "We've waited hundreds of years for our deepest wish to come true.",
+      "status": "translated"
+    },
+    {
+      "id": "E3936",
+      "en": "Now it shall! You have our thanks, foolish adventurers!",
+      "status": "translated"
+    },
+    {
+      "en": "Hee hee hee hee. I'll tell you one last useful thing.",
+      "status": "translated",
+      "id": "E3937",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E3938",
+      "en": "We aren't the only ones who want that gate opened.",
+      "status": "translated"
+    },
+    {
+      "id": "E3939",
+      "en": "Someone else has already begun moving to break the final seal!",
+      "status": "translated"
+    },
+    {
+      "id": "E3940",
+      "en": "Farewell, adventurers! Enjoy what little time remains",
+      "status": "translated"
+    },
+    {
+      "id": "E3941",
+      "en": "for your human world!",
+      "status": "translated"
+    },
+    {
+      "id": "E3942",
+      "en": "Leaving only their roaring laughter behind, the two monsters",
+      "status": "translated"
+    },
+    {
+      "id": "E3943",
+      "en": "vanished into the darkness.",
+      "status": "translated"
+    },
+    {
+      "id": "E3944",
+      "en": "Immediately afterward, a furious rumbling and an earthquake",
+      "status": "translated"
+    },
+    {
+      "id": "E3945",
+      "en": "shook the world so violently you could not stand.",
+      "status": "translated"
+    },
+    {
+      "id": "E3946",
+      "en": "Then only darkness remained...",
+      "status": "translated"
+    },
+    {
+      "id": "E3947",
+      "en": "A monster was lurking inside the box!",
+      "status": "translated"
+    },
+    {
+      "id": "E3948",
+      "en": "You had fought so many monsters that you began wondering",
+      "status": "translated"
+    },
+    {
+      "id": "E3949",
+      "en": "why so much fighting was necessary.",
+      "status": "translated"
+    },
+    {
+      "id": "E3950",
+      "en": "There were simply too many of them.",
+      "status": "translated"
+    },
+    {
+      "id": "E3951",
+      "en": "Was the strange stench and sinister aura caused by the sheer number",
+      "status": "translated"
+    },
+    {
+      "id": "E3952",
+      "en": "of monsters lurking in the labyrinth's darkness?",
+      "status": "translated"
+    },
+    {
+      "id": "E3953",
+      "en": "Above all, the monsters seemed unnaturally strong.",
+      "status": "translated"
+    },
+    {
+      "id": "E3954",
+      "en": "You could not shake that feeling.",
+      "status": "translated"
+    },
+    {
+      "id": "E3955",
+      "en": "Was it because the seal had broken?",
+      "status": "translated"
+    },
+    {
+      "id": "E3956",
+      "en": "With these thoughts in mind,",
+      "status": "translated"
+    },
+    {
+      "id": "E3957",
+      "en": "you advanced one step... then another.",
+      "status": "translated"
+    },
+    {
+      "id": "E3958",
+      "en": "Another monster appeared before you.",
+      "status": "translated"
+    },
+    {
+      "id": "E3959",
+      "en": "An enormous dragon? The moment you glimpsed its silhouette,",
+      "status": "translated"
+    },
+    {
+      "id": "E3960",
+      "en": "white light engulfed you.",
+      "status": "translated"
+    },
+    {
+      "id": "E3961",
+      "en": "You fools!",
+      "status": "translated"
+    },
+    {
+      "id": "E3962",
+      "en": "If you keep going like this, you'll die!",
+      "status": "translated"
+    },
+    {
+      "id": "E3963",
+      "en": "Listen carefully!",
+      "status": "translated"
+    },
+    {
+      "id": "E3964",
+      "en": "Now that @7rChu Lu Gah's@0r seal has broken,",
+      "status": "translated"
+    },
+    {
+      "id": "E3965",
+      "en": "every monster infesting these ruins has grown more active.",
+      "status": "translated"
+    },
+    {
+      "id": "E3966",
+      "en": "Before you go any farther,",
+      "status": "translated"
+    },
+    {
+      "id": "E3967",
+      "en": "do something about those pitiful levels of yours!",
+      "status": "translated"
+    },
+    {
+      "id": "E3968",
+      "en": "Hone your skills! Become seasoned warriors!",
+      "status": "translated"
+    },
+    {
+      "id": "E3969",
+      "en": "Then you should be able to protect the final seal.",
+      "status": "translated"
+    },
+    {
+      "id": "E3970",
+      "en": "Damn it... That extra spell",
+      "status": "translated"
+    },
+    {
+      "id": "E3971",
+      "en": "has nearly drained my magic!",
+      "status": "translated"
+    },
+    {
+      "id": "E3972",
+      "en": "Understand? Do not doubt a word I've said...",
+      "status": "translated"
+    },
+    {
+      "id": "E3973",
+      "en": "We shall meet again.",
+      "status": "translated"
+    },
+    {
+      "id": "E3974",
+      "en": "With a grin that lingered before your eyes,",
+      "status": "translated"
+    },
+    {
+      "id": "E3975",
+      "en": "@7rLady Marbas@0r disappeared.",
+      "status": "translated"
+    },
+    {
+      "id": "E3976",
+      "en": "Your party's magic and health were fully restored.",
+      "status": "translated"
+    },
+    {
+      "id": "E3977",
+      "en": "Almost as soon as @7rLady Marbas@0r vanished,",
+      "status": "translated"
+    },
+    {
+      "id": "E3978",
+      "en": "the white light surrounding you faded too,",
+      "status": "translated"
+    },
+    {
+      "id": "E3979",
+      "en": "and the labyrinth returned to normal.",
+      "status": "translated"
+    },
+    {
+      "id": "E3980",
+      "en": "The dragon that should have been before you was gone.",
+      "status": "translated"
+    },
+    {
+      "id": "E3981",
+      "en": "But you sensed something approaching from the darkness:",
+      "status": "translated"
+    },
+    {
+      "id": "E3982",
+      "en": "two distinct presences.",
+      "status": "translated"
+    },
+    {
+      "id": "E3983",
+      "en": "Hmm. A smell, a smell. What could it be?",
+      "status": "translated"
+    },
+    {
+      "id": "E3984",
+      "en": "Hee hee hee hee...",
+      "status": "translated"
+    },
+    {
+      "id": "E3985",
+      "en": "Humans, surely? They're right there.",
+      "status": "translated"
+    },
+    {
+      "id": "E3986",
+      "en": "The adventurers foolish enough to fall for our scheme.",
+      "status": "translated"
+    },
+    {
+      "id": "E3987",
+      "en": "No, not that. Yes, it's the smell of a fairy.",
+      "status": "translated"
+    },
+    {
+      "id": "E3988",
+      "en": "Hee hee hee... It seems some foolish fairy",
+      "status": "translated"
+    },
+    {
+      "id": "E3989",
+      "en": "has been helping you.",
+      "status": "translated"
+    },
+    {
+      "id": "E3990",
+      "en": "A mere fairy siding with these creatures instead of us?",
+      "status": "translated"
+    },
+    {
+      "id": "E3991",
+      "en": "Let's squeeze the name out of them, shall we?",
+      "status": "translated"
+    },
+    {
+      "id": "E3992",
+      "en": "Heh heh heh heh heh...",
+      "status": "translated"
+    },
+    {
+      "id": "E3993",
+      "en": "A little entertainment, then,",
+      "status": "translated"
+    },
+    {
+      "id": "E3994",
+      "en": "while we wait for the final door to open?",
+      "status": "translated"
+    },
+    {
+      "id": "E3995",
+      "en": "Precisely.",
+      "status": "translated"
+    },
+    {
+      "id": "E3996",
+      "en": "Well? Aren't you going to run? You may if you like,",
+      "status": "translated"
+    },
+    {
+      "id": "E3997",
+      "en": "but we'll chase you. Hee hee hee hee...",
+      "status": "translated"
+    },
+    {
+      "id": "E3998",
+      "en": "But this presence...",
+      "status": "translated"
+    },
+    {
+      "id": "E3999",
+      "en": "Is the fairy weakened? I can't sense any magic.",
+      "status": "translated"
+    }
+  ],
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

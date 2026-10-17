@@ -1,0 +1,488 @@
+{
+  "translations": [
+    {
+      "id": "E1840",
+      "en": "so do it as a favor to me!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1841",
+      "en": "When you nod your agreement,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1842",
+      "en": "@7rCyrus's@0r face suddenly breaks into a broad smile.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1843",
+      "en": "Thank goodness. I knew you'd say yes!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1844",
+      "en": "Apparently, there's a way to fool the curse on this city,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1845",
+      "en": "but it requires a ritual.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1846",
+      "en": "The old mage told me exactly how to perform it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1847",
+      "en": "I just need you to gather the ingredients",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1848",
+      "en": "and take me to the right place.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1849",
+      "en": "Apparently, the ingredients can be found in @6rDiemen Labyrinth@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1850",
+      "en": "Um, give me a moment.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1851",
+      "en": "There's a fallen sign saying De Burcht,",
+      "status": "review",
+      "note": "De Burcht is editorial Dutch place-name orthography, pending in-game sign confirmation."
+    },
+    {
+      "id": "E1852",
+      "en": "in a place that seems to have been a medicine storehouse.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1853",
+      "en": "I need one @3rPurple Potion@0r from there.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1854",
+      "en": "And a @3rRed Elixir@0r from a place called Turf.",
+      "status": "translated",
+      "note": "Turf is editorial Dutch place-name orthography; Purple Potion and Red Elixir are distinct ingredients."
+    },
+    {
+      "id": "E1855",
+      "en": "Apparently, there's a sign or something saying Turf.",
+      "status": "translated",
+      "note": "Turf is editorial Dutch place-name orthography, pending in-game sign confirmation."
+    },
+    {
+      "id": "E1856",
+      "en": "Those are the two things we need.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1857",
+      "en": "Whatever @7rCyrus@0r may intend,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1858",
+      "en": "there should be no problem if you proceed cautiously.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1859",
+      "en": "Why not?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1860",
+      "en": "If people can escape this way,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1861",
+      "en": "what's the problem?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1862",
+      "en": "Why are you so suspicious of me?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1863",
+      "en": "Sure, you might not trust me much,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1864",
+      "en": "but I'm trying to do something about this too!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1865",
+      "en": "Damn it, why won't you understand?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1866",
+      "en": "After angrily ranting at you, @7rCyrus@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1867",
+      "en": "falls into a sullen silence.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1868",
+      "en": "There's a favor I'd like to ask. Is that all right?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1869",
+      "en": "Looking even more nervous than usual, @7rCyrus@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1870",
+      "en": "approaches you, glancing around warily.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1871",
+      "en": "Apparently, there's a way to escape this city",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1872",
+      "en": "without breaking the seal.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1873",
+      "en": "Surely there's nothing wrong",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1874",
+      "en": "with finding a way for us and the townspeople to escape,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1875",
+      "en": "just in case the worst happens?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1876",
+      "en": "I'd like your help... What do you say?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1877",
+      "en": "Judging by @7rCyrus's@0r nervous behavior,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1878",
+      "en": "there seems to be something he is not telling you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1879",
+      "en": "It really does sound like a good way out!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1880",
+      "en": "An old mage who's apparently been exploring",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1881",
+      "en": "near this settlement for a long time told me. It's true!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1882",
+      "en": "@7rCyrus@0r does not seem to be lying.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1883",
+      "en": "What should you do about this request?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1884",
+      "en": "Whatever @7rCyrus@0r is hiding,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1885",
+      "en": "securing an escape route from the sealed city",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1886",
+      "en": "does seem important.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1887",
+      "en": "Thank youuu!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1888",
+      "en": "I knew you'd get it back!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1889",
+      "en": "Here! This is to thank you!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1890",
+      "en": "From @7rFiore@0r, you received a reward of @3r60,000 G@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1891",
+      "en": "And this is for my drinks... Waaaah!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1892",
+      "en": "Once I pay my tab, I'll be broke again!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1893",
+      "en": "Huh? Oh, the @3rCoin@0r?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1894",
+      "en": "Here, this old @3rCoin@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1895",
+      "en": "@7rFiore@0r shows you the @3rCoin@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1896",
+      "en": "It certainly looks old and well worn.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1897",
+      "en": "It's not enchanted, either.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1898",
+      "en": "It wasn't worth much when I had it appraised,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1899",
+      "en": "so I guess it's just something they used in this city long ago.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1900",
+      "en": "Well, see you around.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1901",
+      "en": "I'd better get back to work myself.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1902",
+      "en": "Heeey... Huh? You got it back already?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1903",
+      "en": "That was fast... Hic.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1904",
+      "en": "Oh, not yet...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1905",
+      "en": "Ahahaha! Well, do your best to get it back... Hic.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1906",
+      "en": "Have you decided to take the job?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1907",
+      "en": "...Hic.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1908",
+      "en": "Please! Help me out,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1909",
+      "en": "and catch that bag thief for me!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1910",
+      "en": "At this rate, @7rBeatrix@0r is going to give me a beating!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1911",
+      "en": "Please, please, please! Say yes!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1912",
+      "en": "Yessss! That's an adventurer for you!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1913",
+      "en": "Always helping people in trouble!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1914",
+      "en": "Now, about the thief...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1915",
+      "en": "They headed toward @6rDiemen Labyrinth@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1916",
+      "en": "Oh, right. All my money's in that stolen bag,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1917",
+      "en": "so I can't pay you unless you find it!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1918",
+      "en": "Besides the money... I think there was an unusual @3rCoin@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E1919",
+      "en": "I don't think it was magical, though?",
+      "status": "review",
+      "note": "Negative recollection read as not magical, supported by ordinary coin in E1920 and no enchantment in E1897. Japanese question ending could be read differently in isolation."
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "context": "Cyrus requests two ritual ingredients and conceals an escape plan; intoxicated Fiore later requests her stolen bag.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact."
+}

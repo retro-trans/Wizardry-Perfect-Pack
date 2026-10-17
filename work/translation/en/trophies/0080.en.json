@@ -1,0 +1,319 @@
+{
+  "rows_in_slice": 26,
+  "rows_examined": 26,
+  "provenance": "Exact source matches imported; no new contextual review claimed",
+  "translations": [
+    {
+      "id": "T0080",
+      "en": "One Who Quiets the Sorrowful Ghosts",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0080",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0081",
+      "en": "Earn every story trophy for Scenario 2.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0081",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0082",
+      "en": "A Wanderer Who Conquered the Mist",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0082",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0083",
+      "en": "Explore the entire map of Diemen Labyrinth.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0083",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0084",
+      "en": "A Wanderer Who Repelled the Darkness",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0084",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0085",
+      "en": "Explore the entire map of Staatsen Labyrinth.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0085",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0086",
+      "en": "A Wanderer Who Lights the Way",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0086",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0087",
+      "en": "Explore the entire map of Watering.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0087",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0088",
+      "en": "Guardian of the Ghost City",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0088",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0089",
+      "en": "Earn every dungeon exploration trophy for Scenario 2.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0089",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0090",
+      "en": "One Who Speaks with the Inhuman",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0090",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0091",
+      "en": "Complete the quest Lady Marbas's Request.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0091",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0092",
+      "en": "One Who Cares for Companions",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0092",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0093",
+      "en": "Complete the quest To Save the Ghost City.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0093",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0094",
+      "en": "One Who Left the Abyss an Abyss",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0094",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0095",
+      "en": "Complete the quest Because Everything Was Set Free.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0095",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0096",
+      "en": "One Who Vanquished Evil and Upheld the Truth",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0096",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0097",
+      "en": "Earn every story trophy for Scenario 3.\n",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0097",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0098",
+      "en": "One Who Seeks a New Path",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0098",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0099",
+      "en": "Explore the entire map of Strage.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0099",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0100",
+      "en": "One Who Unveiled the Mist",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0100",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0101",
+      "en": "Explore the entire map of Graham Rootze.\n",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0101",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0102",
+      "en": "One Who Dispelled the Darkness",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0102",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0103",
+      "en": "Explore the entire map of Graham Labyrinth.\n",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0103",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0104",
+      "en": "One Who Knows All the Ghosts",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0104",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    },
+    {
+      "id": "T0105",
+      "en": "Earn every dungeon exploration trophy for Scenario 3.",
+      "status": "review",
+      "note": "Trophy title or condition. Quest titles and provisional place spellings require cross-corpus review.",
+      "provenance": {
+        "project": "Wizardry Prisoners of the Lost City",
+        "source_id": "T0105",
+        "match": "exact Japanese source text",
+        "context_review": "Inherited draft; edition-specific occurrences require review"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "reference_resolution": [1280, 720],
+  "captures": [
+    {"file": "opening-before-0.1.7.png", "kind": "actual user in-game screenshot"},
+    {"file": "opening-0.1.7-english-card.png", "kind": "decoded English movie frame; not an in-game capture"},
+    {"file": "opening-0.1.7-english-title.png", "kind": "decoded English movie frame; not an in-game capture"},
+    {"file": "opening-0.1.8-subtitles.png", "kind": "decoded subtitled movie frame; not an in-game capture"},
+    {"file": "opening-0.1.8-subtitle-title.png", "kind": "decoded subtitled movie frame; not an in-game capture"}
+  ],
+  "narration_plate": {"bounds": [190, 245, 900, 240], "font": "Georgia", "font_size": 32, "line_spacing": 12},
+  "title_mask": {"bounds": [370, 416, 496, 70], "font": "Georgia", "font_size": 27},
+  "caption_spec": "work/translation/en/graphics/opening.en.json",
+  "cards": 7,
+  "first_caption_display_frame": 213,
+  "current_version": "0.1.8",
+  "subtitle_style": {"font": "Segoe UI Semibold", "font_size": 36, "outline_width": 3, "safe_bounds": [80, 568, 1120, 104], "bottom_margin": 48, "maximum_lines": 2, "segments": 12, "black_cards": false, "title_mask": false},
+  "previous_plate_geometry_applies_to": "0.1.7 only",
+  "in_game_verified": false
+}

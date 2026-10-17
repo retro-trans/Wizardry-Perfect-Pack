@@ -1,0 +1,489 @@
+{
+  "translations": [
+    {
+      "id": "E2400",
+      "en": "I'll be happy if it gives you a bit more fighting power.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2401",
+      "en": "There isn't much else I can do.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2402",
+      "en": "Use this weapon and give it your best shot.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2403",
+      "en": "You are not sure this alone will let you stand against",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2404",
+      "en": "the monsters trying to break the seal, but it has certainly",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2405",
+      "en": "strengthened your fighting force.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2406",
+      "en": "When you thank her once more for making the weapon,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2407",
+      "en": "@7rCarmine@0r turns away as though hiding her embarrassment,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2408",
+      "en": "and quickly heads for the counter.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2409",
+      "en": "@7rCarmine@0r said she would give you a weapon.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2410",
+      "en": "You should make room in your inventory before speaking to her.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2411",
+      "en": "Now, hurry up and gather the materials.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2412",
+      "en": "I'll get everything ready for the alchemy while you're gone.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2413",
+      "en": "Changed your mind about making a weapon?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2414",
+      "en": "It makes no difference to me whether you make one or not,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2415",
+      "en": "but if you want to, I'll help.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2416",
+      "en": "That's more like it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2417",
+      "en": "Listen. I'll read out the ingredients, and you go gather them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2418",
+      "en": "@3rIron Ore@0r, a @3rCrystal Fragment@0r, @3rSteel@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2419",
+      "en": "a @3rFire Ore@0r, and a @3rGolden Branch@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2420",
+      "en": "Those are the five materials we need.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2421",
+      "en": "They're all supposed to be on the upper levels of @6rGraham Labyrinth@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2422",
+      "en": "so go and gather them.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2423",
+      "en": "You should head to @6rGraham Labyrinth@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2424",
+      "en": "and gather @3rIron Ore@0r, a @3rCrystal Fragment@0r, @3rSteel@0r, @3rFire Ore@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2425",
+      "en": "and a @3rGolden Branch@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2426",
+      "en": "Huh? You didn't want a weapon?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2427",
+      "en": "Well, that's fine, then.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2428",
+      "en": "Tell me anytime if you change your mind.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2429",
+      "en": "I'm thinking of making a powerful weapon. Interested?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2430",
+      "en": "Don't you think your current weapons are a little inadequate",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2431",
+      "en": "for fighting the demons guarding the gate to another world?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2432",
+      "en": "I found an alchemical device that makes weapons,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2433",
+      "en": "supposedly built by a mage long ago.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2434",
+      "en": "Apparently, it only has one use left.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2435",
+      "en": "I don't know whether it can really produce weapons",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2436",
+      "en": "as powerful as the instructions claim,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2437",
+      "en": "but I think it's worth trying.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2438",
+      "en": "If we got something like a @3rDemon Slayer@0r, we'd be doing very well.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2439",
+      "en": "All you have to do is gather the materials needed to make the weapon.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2440",
+      "en": "Want to give it a try?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2441",
+      "en": "You received the @3rStaff of Judgment@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2442",
+      "en": "By the time you reach the tavern,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2443",
+      "en": "@7rAnselm@0r has lost consciousness.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2444",
+      "en": "@7rBeatrix@0r shows no sign of losing heart,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2445",
+      "en": "and hands you your reward as soon as you arrive.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2446",
+      "en": "This is your reward for accompanying us to undo the seal.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2447",
+      "en": "It also includes an advance payment.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2448",
+      "en": "An advance? For what?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "en": "Now that @7rAnselm@0r has dispelled the magic circle, travel between this city",
+      "status": "translated",
+      "id": "E2449",
+      "context": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+    },
+    {
+      "id": "E2450",
+      "en": "and the outside world should now be unrestricted...",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2451",
+      "en": "I'll find a way to activate the magic circle that seals the otherworldly gate again.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2452",
+      "en": "I'd like you to escort me there for that final activation.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2453",
+      "en": "Even if the seal is gone and we can come and go freely,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2454",
+      "en": "the world will eventually end if the otherworldly gate stays open.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2455",
+      "en": "Then helping us seal it again wouldn't be such a bad idea, would it?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2456",
+      "en": "Her eyes glistening with tears, she holds herself bravely upright,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2457",
+      "en": "and @7rBeatrix@0r looks straight at you.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2458",
+      "en": "Meanwhile, with a challenging expression that seems to say, \"Go on, run if you like,\"",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2459",
+      "en": "@7rCarmine@0r watches you as well.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2460",
+      "en": "You cannot abandon these two as they struggle to fight",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2461",
+      "en": "to the very end and simply run away.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2462",
+      "en": "From @7rBeatrix@0r, as your reward and advance, you received @3r20,000 G@0r and",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2463",
+      "en": "I'll find a way to activate the sealing circle. I promise.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2464",
+      "en": "So trust me and wait.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2465",
+      "en": "As a reward and advance, @7rBeatrix@0r offers you @3r20,000 G@0r,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2466",
+      "en": "and you accept it.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2467",
+      "en": "What's the matter?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2468",
+      "en": "As soon as you're ready, let's head for the lowest level of @6rGraham@0r.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2469",
+      "en": "We're relying on your skills.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2470",
+      "en": "I was just about to tell you I needed a word.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2471",
+      "en": "Here is an item from a thief who entered this labyrinth with @7rChu Lu Gah@0r",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2472",
+      "en": "and helped create the seal. A descendant of that thief",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2473",
+      "en": "gave it to me.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2474",
+      "en": "An item from one of his party members?",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2475",
+      "en": "Where did you find something like that?!",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2476",
+      "en": "I haven't spent all this time sitting around doing nothing.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2477",
+      "en": "I've been conducting various investigations behind the scenes.",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2478",
+      "en": "Apparently, @7rChu Lu Gah@0r left this item as a precaution,",
+      "status": "translated",
+      "note": ""
+    },
+    {
+      "id": "E2479",
+      "en": "a secret means of sealing the gate anew.",
+      "status": "translated",
+      "note": ""
+    }
+  ],
+  "rows_in_slice": 80,
+  "rows_examined": 169,
+  "context": "Carmine lists alchemical ingredients; Anselm loses consciousness after undoing the seal; the party plans to seal the otherworldly gate again.",
+  "decisions": "Control tokens remain on their source rows and in their original sequence. Genuine sentence continuations retain row boundaries; other omitted subjects are restored from scene context. Unknown historical warrior gender stays neutral. Item names follow the shared glossary; established imported prose and provenance remain intact.",
+  "context_note": "Independent event meaning reviews: events_middle reviewed first range, events_last reviewed middle range; parent verified source/context before accepting. Preserve source controls and per-row boundaries."
+}

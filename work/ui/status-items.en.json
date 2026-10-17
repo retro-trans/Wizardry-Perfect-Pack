@@ -1,0 +1,43 @@
+{
+  "reference_resolution": [1280, 720],
+  "captures": [
+    {"file": "status-before-0.1.6-identify.png", "kind": "actual user in-game screenshot"},
+    {"file": "items-before-0.1.6-unidentified.png", "kind": "actual user in-game screenshot"}
+  ],
+  "skill_description": {
+    "resource_id": 16,
+    "native_dimensions": [288, 256],
+    "observed_bounds": [302, 238, 287, 254],
+    "native_text_offset": [12, 46],
+    "inner_width": 264,
+    "horizontal_size": 22,
+    "vertical_size": 22,
+    "line_pitch": 23,
+    "maximum_lines": 8,
+    "source_id_in_capture": "DS0023",
+    "native_accessor": "0x65aa8",
+    "native_draw": "0xb76c8"
+  },
+  "inventory_names": {
+    "observed_bounds": [334, 221, 318, 348],
+    "observed_text_x": 349,
+    "inner_width": 288,
+    "stackable_inner_width": 252,
+    "maximum_horizontal_size": 25,
+    "vertical_size": 32,
+    "quantity_limit": 99,
+    "minimum_name_quantity_gap": 8,
+    "native_draw": "0x26148",
+    "full_names_preserved": true,
+    "source_text_in_capture": "Protective Gear-like Object"
+  },
+  "unidentified_preview": {
+    "observed_bounds": [706, 452, 251, 129],
+    "source_id": "X0016",
+    "expected_text": "Unidentified",
+    "observed_text": "Unidentifi",
+    "native_copy_bytes_including_terminator": 10,
+    "fix": "Retain original terminated bytes through native copy; expand English at font boundary."
+  },
+  "verification": "Original screenshots saved; updated in-game visual acceptance pending."
+}

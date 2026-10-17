@@ -1,0 +1,2286 @@
+{
+  "format_version": 1,
+  "language": "en",
+  "source_group": "title2.enc help and warning pages",
+  "coordinate_format": "rect = [x, y, width, height], origin at upper left, in decoded source pixels",
+  "coordinate_method": "Manually measured enclosing edit regions against the full-resolution decoded images. Rectangles include small deliberate padding; they are not claimed to be OCR glyph contours.",
+  "status": "translation and region draft; image pixels have not been changed",
+  "rendering_notes": [
+    "Preserve original button icons, controller diagram, connecting lines, decorative borders, English copyright/trademark notices and background art.",
+    "Suggested font sizes are starting points, not fit verification. Reflow paragraphs only within verified free space and inspect every rendered page at native size.",
+    "Rectangles around mixed icon/text sentences require retaining or redrawing the exact original button icon; button_labels records its meaning.",
+    "Dimmed screenshot text is baked into these textures. Executable string replacement alone cannot translate it. Some background labels are occluded and need separate layer-aware handling.",
+    "Contact details are a faithful translation of historical game artwork, not a claim of current support availability."
+  ],
+  "assets": [
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 0,
+      "decoded_image": "work/output/graphics/USRDIR/data/texture/title2.enc/0000.png",
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "general_notice",
+          "rect": [
+            168,
+            260,
+            950,
+            195
+          ],
+          "reading_description": "Four-line opening software and console safety notice",
+          "en": "Before using this software, carefully read the precautions in its accompanying documentation and in the PlayStation®3 instruction manual, and use it correctly.\nParents or guardians should read these precautions for young children and ensure that they use the software safely.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 28
+          },
+          "button_labels": [],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 1,
+      "decoded_image": "work/output/graphics/USRDIR/data/texture/title2.enc/0001.png",
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "health_title",
+          "rect": [
+            70,
+            64,
+            280,
+            29
+          ],
+          "reading_description": "Health precautions heading",
+          "en": "Health Precautions",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 26
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "warning_heading",
+          "rect": [
+            102,
+            119,
+            150,
+            29
+          ],
+          "reading_description": "Warning text beside the existing warning triangle",
+          "en": "WARNING",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 26
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "seizure_heading",
+          "rect": [
+            70,
+            159,
+            650,
+            26
+          ],
+          "reading_description": "Heading about seizures caused by light stimulation",
+          "en": "Seizures Caused by Flashing Lights",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "seizure_body",
+          "rect": [
+            70,
+            190,
+            1145,
+            53
+          ],
+          "reading_description": "Photosensitive seizure symptoms and consultation before play",
+          "en": "Flashing screens and other visual stimuli may, in rare cases, cause eye pain, visual disturbances, migraines, convulsions, or impaired consciousness, including fainting (photosensitive seizures). If you have experienced these symptoms, consult a doctor before playing.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "caution_heading",
+          "rect": [
+            102,
+            268,
+            150,
+            28
+          ],
+          "reading_description": "Caution text beside the existing warning triangle",
+          "en": "CAUTION",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 26
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "stop_heading",
+          "rect": [
+            70,
+            307,
+            650,
+            26
+          ],
+          "reading_description": "Stop playing immediately under these circumstances",
+          "en": "Stop Playing Immediately If You Feel Unwell",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "stop_body",
+          "rect": [
+            70,
+            340,
+            1145,
+            50
+          ],
+          "reading_description": "Additional symptoms, discomfort in specified body areas, stopping and medical consultation",
+          "en": "In addition to the symptoms above, stop playing immediately if you experience headache, dizziness, nausea, fatigue, motion sickness, or discomfort or pain in your eyes, ears, hands, arms, feet, or any other part of your body. If symptoms persist after stopping, consult a doctor.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 17
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "vibration_heading",
+          "rect": [
+            70,
+            416,
+            800,
+            27
+          ],
+          "reading_description": "Heading for software supporting controller vibration",
+          "en": "Software That Supports Controller Vibration",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "vibration_body",
+          "rect": [
+            70,
+            451,
+            1140,
+            24
+          ],
+          "reading_description": "People with vibration-related disorders must not use vibration",
+          "en": "If you have a vibration-related medical condition, do not use the vibration function.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "vibration_setting",
+          "rect": [
+            70,
+            478,
+            1140,
+            24
+          ],
+          "reading_description": "Vibration can be toggled through the menu opened with the PS button",
+          "en": "You can turn vibration on or off in the menu displayed by pressing the controller's PS button.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [
+            "PS"
+          ],
+          "note": ""
+        },
+        {
+          "id": "bright_room",
+          "rect": [
+            97,
+            531,
+            1050,
+            27
+          ],
+          "reading_description": "First square bullet: bright room and distance from display",
+          "en": "Play in a well-lit room and sit as far from the screen as possible.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "fatigue",
+          "rect": [
+            97,
+            565,
+            1050,
+            26
+          ],
+          "reading_description": "Second square bullet: avoid play while tired or sleep-deprived",
+          "en": "Avoid playing when tired or short of sleep.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "breaks",
+          "rect": [
+            97,
+            598,
+            1080,
+            27
+          ],
+          "reading_description": "Third square bullet: about fifteen minutes per hour",
+          "en": "For your health, take a break of about 15 minutes every hour.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "illness",
+          "rect": [
+            97,
+            632,
+            1080,
+            27
+          ],
+          "reading_description": "Fourth square bullet: stop at once when unwell during play",
+          "en": "Stop playing immediately if you begin to feel unwell.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 2,
+      "decoded_image": "work/output/graphics/USRDIR/data/texture/title2.enc/0002.png",
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "usage_title",
+          "rect": [
+            68,
+            103,
+            400,
+            30
+          ],
+          "reading_description": "Usage precautions heading",
+          "en": "Usage Precautions",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 26
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "ps3_only",
+          "rect": [
+            95,
+            194,
+            1115,
+            29
+          ],
+          "reading_description": "First bullet: exclusive platform",
+          "en": "This software is for use only with PlayStation®3.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 24
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "burn_in",
+          "rect": [
+            95,
+            232,
+            1125,
+            99
+          ],
+          "reading_description": "Second bullet: plasma and non-LCD projection televisions, burn-in and static images",
+          "en": "Connecting PlayStation®3 to a plasma television or a non-LCD projection television may cause image burn-in (a lingering image). Burn-in is particularly likely if a still image is left on the screen for a long time.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 23
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "system_update",
+          "rect": [
+            95,
+            345,
+            1125,
+            31
+          ],
+          "reading_description": "Third bullet: keep console system software updated",
+          "en": "Always update your PlayStation®3 system software to the latest version.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 23
+          },
+          "button_labels": [],
+          "note": ""
+        }
+      ],
+      "preserve_regions": [
+        {
+          "rect": [
+            67,
+            618,
+            1150,
+            40
+          ],
+          "reason": "Existing English trademark and library-program notices, including logos, are already readable and must remain intact."
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 3,
+      "decoded_image": "work/output/graphics/USRDIR/data/texture/title2.enc/0003.png",
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "town_title",
+          "rect": [
+            483,
+            72,
+            319,
+            39
+          ],
+          "reading_description": "Town controls title",
+          "en": "Town Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 34
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "reset_title",
+          "rect": [
+            83,
+            178,
+            230,
+            24
+          ],
+          "reading_description": "Software reset heading",
+          "en": "Software Reset",
+          "status": "translated",
+          "style": {
+            "color": "gold",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "reset_chord",
+          "rect": [
+            286,
+            214,
+            72,
+            18
+          ],
+          "reading_description": "Text after L1 plus R1 plus SELECT plus START chord",
+          "en": "together",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 13
+          },
+          "button_labels": [
+            "L1",
+            "R1",
+            "SELECT",
+            "START"
+          ],
+          "note": "Keep all four existing button glyphs and plus signs; all four are pressed simultaneously."
+        },
+        {
+          "id": "reset_result",
+          "rect": [
+            82,
+            238,
+            278,
+            19
+          ],
+          "reading_description": "Reset returns to title at any time",
+          "en": "Return to the title screen at any time.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 15
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "reset_no_save",
+          "rect": [
+            82,
+            259,
+            281,
+            21
+          ],
+          "reading_description": "Reset warning: game is not saved",
+          "en": "Your game will NOT be saved.",
+          "status": "translated",
+          "style": {
+            "color": "red",
+            "suggested_font_px": 16
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "move_cursor",
+          "rect": [
+            84,
+            357,
+            141,
+            27
+          ],
+          "reading_description": "D-pad moves the cursor",
+          "en": "Move Cursor",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 21
+          },
+          "button_labels": [
+            "D-pad"
+          ],
+          "note": ""
+        },
+        {
+          "id": "square_shortcut",
+          "rect": [
+            84,
+            495,
+            137,
+            27
+          ],
+          "reading_description": "Square shortcut heading",
+          "en": "Shortcut",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Square"
+          ],
+          "note": ""
+        },
+        {
+          "id": "square_shortcut_body",
+          "rect": [
+            83,
+            532,
+            281,
+            43
+          ],
+          "reading_description": "Square shortcut differs by screen and shown icons indicate action",
+          "en": "The action varies by screen.\nCheck the on-screen icons.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "page",
+          "rect": [
+            913,
+            175,
+            100,
+            28
+          ],
+          "reading_description": "L2/R2 page navigation",
+          "en": "Page",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "L2",
+            "R2"
+          ],
+          "note": ""
+        },
+        {
+          "id": "page_body",
+          "rect": [
+            913,
+            214,
+            287,
+            23
+          ],
+          "reading_description": "Use page navigation on screens with many choices",
+          "en": "For screens with many options.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 17
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "shoulder_shortcut",
+          "rect": [
+            912,
+            287,
+            135,
+            25
+          ],
+          "reading_description": "L1/R1 shortcut heading",
+          "en": "Shortcuts",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "L1",
+            "R1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "shoulder_shortcut_body",
+          "rect": [
+            914,
+            324,
+            284,
+            44
+          ],
+          "reading_description": "Shoulder shortcut differs by screen; check displayed icons",
+          "en": "The action varies by screen.\nCheck the on-screen icons.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "camp",
+          "rect": [
+            913,
+            413,
+            181,
+            27
+          ],
+          "reading_description": "Triangle opens/closes camp screen",
+          "en": "Toggle Camp",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Triangle"
+          ],
+          "note": ""
+        },
+        {
+          "id": "confirm",
+          "rect": [
+            913,
+            486,
+            67,
+            28
+          ],
+          "reading_description": "Circle confirms selection",
+          "en": "Confirm",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 18
+          },
+          "button_labels": [
+            "Circle"
+          ],
+          "note": ""
+        },
+        {
+          "id": "cancel",
+          "rect": [
+            913,
+            558,
+            106,
+            27
+          ],
+          "reading_description": "Cross cancels",
+          "en": "Cancel",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": ""
+        },
+        {
+          "id": "previous",
+          "rect": [
+            311,
+            644,
+            229,
+            29
+          ],
+          "reading_description": "L1 navigation to support contact page",
+          "en": "Contact Information",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "L1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "return_title",
+          "rect": [
+            589,
+            644,
+            178,
+            29
+          ],
+          "reading_description": "Cross returns to title screen",
+          "en": "Title Screen",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": ""
+        },
+        {
+          "id": "next",
+          "rect": [
+            843,
+            644,
+            264,
+            29
+          ],
+          "reading_description": "R1 navigation to dungeon control help",
+          "en": "Dungeon Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "R1"
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 4,
+      "decoded_image": "work/output/graphics/USRDIR/data/texture/title2.enc/0004.png",
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "dungeon_title",
+          "rect": [
+            484,
+            71,
+            322,
+            42
+          ],
+          "reading_description": "Dungeon controls title",
+          "en": "Dungeon Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 34
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "auto_title",
+          "rect": [
+            83,
+            167,
+            220,
+            25
+          ],
+          "reading_description": "Auto battle heading",
+          "en": "Auto Battle",
+          "status": "translated",
+          "style": {
+            "color": "gold",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "auto_combo",
+          "rect": [
+            117,
+            196,
+            151,
+            20
+          ],
+          "reading_description": "Red left-stick-down instruction between stick icon and plus Circle",
+          "en": "(left stick down)",
+          "status": "translated",
+          "style": {
+            "color": "red",
+            "suggested_font_px": 14
+          },
+          "button_labels": [
+            "Left stick down",
+            "Circle"
+          ],
+          "note": "Existing plus and Circle glyph remain. The action requires left-stick-down input plus Circle, not L3."
+        },
+        {
+          "id": "auto_combo_suffix",
+          "rect": [
+            299,
+            197,
+            33,
+            18
+          ],
+          "reading_description": "Suffix after Circle in auto battle instruction",
+          "en": "to",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 14
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "auto_result",
+          "rect": [
+            83,
+            220,
+            282,
+            21
+          ],
+          "reading_description": "Auto battle automatically determines actions in battle",
+          "en": "Choose battle actions automatically.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 16
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "strafe_left",
+          "rect": [
+            83,
+            288,
+            128,
+            28
+          ],
+          "reading_description": "L1 moves sideways left",
+          "en": "Strafe Left",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 21
+          },
+          "button_labels": [
+            "L1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "cursor",
+          "rect": [
+            83,
+            360,
+            137,
+            27
+          ],
+          "reading_description": "D-pad moves cursor",
+          "en": "Move Cursor",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 21
+          },
+          "button_labels": [
+            "D-pad"
+          ],
+          "note": ""
+        },
+        {
+          "id": "dungeon_move",
+          "rect": [
+            83,
+            400,
+            219,
+            27
+          ],
+          "reading_description": "D-pad moves through dungeon and turns",
+          "en": "Move and Turn",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 21
+          },
+          "button_labels": [
+            "D-pad"
+          ],
+          "note": ""
+        },
+        {
+          "id": "window",
+          "rect": [
+            83,
+            469,
+            150,
+            27
+          ],
+          "reading_description": "L3 toggles window",
+          "en": "Toggle Window",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 20
+          },
+          "button_labels": [
+            "L3"
+          ],
+          "note": ""
+        },
+        {
+          "id": "l3_note",
+          "rect": [
+            266,
+            486,
+            100,
+            12
+          ],
+          "reading_description": "Small red note: push in left stick",
+          "en": "(press left stick)",
+          "status": "translated",
+          "style": {
+            "color": "red",
+            "suggested_font_px": 10
+          },
+          "button_labels": [
+            "L3"
+          ],
+          "note": ""
+        },
+        {
+          "id": "map",
+          "rect": [
+            83,
+            542,
+            174,
+            28
+          ],
+          "reading_description": "Square toggles automap",
+          "en": "Toggle Automap",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 21
+          },
+          "button_labels": [
+            "Square"
+          ],
+          "note": ""
+        },
+        {
+          "id": "map_requirement",
+          "rect": [
+            83,
+            579,
+            289,
+            23
+          ],
+          "reading_description": "Map works only while possessing a map or casting map spell",
+          "en": "Only with a map item or an active map spell.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 13
+          },
+          "button_labels": [],
+          "note": "Do not remove either alternative condition."
+        },
+        {
+          "id": "fast_forward_title",
+          "rect": [
+            914,
+            168,
+            220,
+            26
+          ],
+          "reading_description": "Battle fast-forward heading",
+          "en": "Fast-Forward Battle",
+          "status": "translated",
+          "style": {
+            "color": "gold",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "fast_forward_body",
+          "rect": [
+            914,
+            197,
+            275,
+            43
+          ],
+          "reading_description": "Hold Cross during battle to fast-forward",
+          "en": "Hold Cross during battle\nto fast-forward it.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": "Original inline Cross glyph at about x1001,y207 lies within this text block. Preserve or redraw that same glyph; this is hold, not tap."
+        },
+        {
+          "id": "strafe_right",
+          "rect": [
+            914,
+            289,
+            127,
+            28
+          ],
+          "reading_description": "R1 moves sideways right",
+          "en": "Strafe Right",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 21
+          },
+          "button_labels": [
+            "R1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "camp",
+          "rect": [
+            914,
+            383,
+            181,
+            27
+          ],
+          "reading_description": "Triangle toggles camp",
+          "en": "Toggle Camp",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Triangle"
+          ],
+          "note": ""
+        },
+        {
+          "id": "confirm",
+          "rect": [
+            914,
+            470,
+            67,
+            29
+          ],
+          "reading_description": "Circle confirms",
+          "en": "Confirm",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 18
+          },
+          "button_labels": [
+            "Circle"
+          ],
+          "note": ""
+        },
+        {
+          "id": "cancel",
+          "rect": [
+            914,
+            560,
+            106,
+            27
+          ],
+          "reading_description": "Cross cancels",
+          "en": "Cancel",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": ""
+        },
+        {
+          "id": "previous",
+          "rect": [
+            311,
+            644,
+            229,
+            29
+          ],
+          "reading_description": "L1 to town controls",
+          "en": "Town Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "L1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "return_title",
+          "rect": [
+            589,
+            644,
+            178,
+            29
+          ],
+          "reading_description": "Cross to title",
+          "en": "Title Screen",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": ""
+        },
+        {
+          "id": "next",
+          "rect": [
+            843,
+            644,
+            264,
+            29
+          ],
+          "reading_description": "R1 to ranking controls",
+          "en": "Ranking Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "R1"
+          ],
+          "note": ""
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 5,
+      "decoded_image": "work/output/graphics/USRDIR/data/texture/title2.enc/0005.png",
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "ranking_title",
+          "rect": [
+            472,
+            72,
+            354,
+            42
+          ],
+          "reading_description": "Ranking controls title",
+          "en": "Ranking Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 34
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "view_notice",
+          "rect": [
+            98,
+            168,
+            250,
+            25
+          ],
+          "reading_description": "Ranking access caution heading",
+          "en": "Before Viewing",
+          "status": "translated",
+          "style": {
+            "color": "gold",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "ranking_upload",
+          "rect": [
+            98,
+            197,
+            345,
+            39
+          ],
+          "reading_description": "Accessing ranking registers your data",
+          "en": "Accessing Rankings submits\nyour data to the rankings.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "ranking_delay",
+          "rect": [
+            98,
+            249,
+            345,
+            40
+          ],
+          "reading_description": "Registration is not immediate; may take five minutes",
+          "en": "Updates are not immediate.\nYou may need to wait about 5 minutes.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 17
+          },
+          "button_labels": [],
+          "note": "Keep first sentence white and five-minute waiting sentence red, matching the source emphasis."
+        },
+        {
+          "id": "cursor_heading",
+          "rect": [
+            98,
+            418,
+            200,
+            26
+          ],
+          "reading_description": "Cursor movement heading",
+          "en": "Move Cursor",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "up_down",
+          "rect": [
+            151,
+            452,
+            219,
+            23
+          ],
+          "reading_description": "Up/down move one row at a time",
+          "en": "= Move one row at a time.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 17
+          },
+          "button_labels": [
+            "D-pad up/down"
+          ],
+          "note": ""
+        },
+        {
+          "id": "left_right",
+          "rect": [
+            151,
+            492,
+            219,
+            23
+          ],
+          "reading_description": "Left/right change pages",
+          "en": "= Change pages.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 17
+          },
+          "button_labels": [
+            "D-pad left/right"
+          ],
+          "note": ""
+        },
+        {
+          "id": "own_rank",
+          "rect": [
+            914,
+            254,
+            192,
+            27
+          ],
+          "reading_description": "Triangle jumps to player rank",
+          "en": "Jump to Your Rank",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 19
+          },
+          "button_labels": [
+            "Triangle"
+          ],
+          "note": ""
+        },
+        {
+          "id": "top_ten",
+          "rect": [
+            914,
+            349,
+            251,
+            28
+          ],
+          "reading_description": "Circle confirms and moves to top ten",
+          "en": "Confirm (Go to Top 10)",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 17
+          },
+          "button_labels": [
+            "Circle"
+          ],
+          "note": ""
+        },
+        {
+          "id": "cancel",
+          "rect": [
+            914,
+            447,
+            106,
+            27
+          ],
+          "reading_description": "Cross cancels",
+          "en": "Cancel",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": ""
+        },
+        {
+          "id": "refresh",
+          "rect": [
+            914,
+            540,
+            200,
+            28
+          ],
+          "reading_description": "Square refreshes ranking data",
+          "en": "Refresh Rankings",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 20
+          },
+          "button_labels": [
+            "Square"
+          ],
+          "note": ""
+        },
+        {
+          "id": "previous",
+          "rect": [
+            311,
+            644,
+            229,
+            29
+          ],
+          "reading_description": "L1 to dungeon controls",
+          "en": "Dungeon Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "L1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "return_title",
+          "rect": [
+            589,
+            644,
+            178,
+            29
+          ],
+          "reading_description": "Cross to title",
+          "en": "Title Screen",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": ""
+        },
+        {
+          "id": "next",
+          "rect": [
+            843,
+            644,
+            282,
+            29
+          ],
+          "reading_description": "R1 to adventurer registration help",
+          "en": "Adventurer Registration",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 21
+          },
+          "button_labels": [
+            "R1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "background_notify",
+          "rect": [
+            921,
+            153,
+            143,
+            29
+          ],
+          "reading_description": "Dimmed background column heading: notification settings",
+          "en": "Notifications",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 23
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "background_wipes",
+          "rect": [
+            299,
+            300,
+            200,
+            27
+          ],
+          "reading_description": "Dimmed background ranking row: party wipe count",
+          "en": "Party Wipe Ranking",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": "Partly behind controller. Restrict redraw to visible left-side area and preserve the controller and cyan guide line."
+        },
+        {
+          "id": "background_deaths",
+          "rect": [
+            299,
+            328,
+            201,
+            27
+          ],
+          "reading_description": "Dimmed background ranking row: death count",
+          "en": "Death Count Ranking",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": "Partly occluded by controller."
+        },
+        {
+          "id": "background_lost",
+          "rect": [
+            299,
+            356,
+            201,
+            27
+          ],
+          "reading_description": "Dimmed background ranking row: lost character count",
+          "en": "Characters Lost Ranking",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 17
+          },
+          "button_labels": [],
+          "note": "Partly occluded by controller and guide line."
+        },
+        {
+          "id": "background_classes",
+          "rect": [
+            299,
+            384,
+            200,
+            27
+          ],
+          "reading_description": "Dimmed background ranking row: class-change count",
+          "en": "Class Changes Ranking",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 17
+          },
+          "button_labels": [],
+          "note": "Partly occluded by controller."
+        }
+      ],
+      "partially_occluded_text": [
+        {
+          "rect": [
+            390,
+            270,
+            127,
+            29
+          ],
+          "reading_description": "Tail of Total Play Time Ranking; beginning hidden by caution panel",
+          "en": "Total Play Time Ranking",
+          "status": "review",
+          "source_confirmation": "Executable X2691; row order continues with X2692 through X2699.",
+          "note": "Do not draw a complete label over the controller or caution panel. Only a fragment is visible."
+        },
+        {
+          "rect": [
+            390,
+            412,
+            143,
+            27
+          ],
+          "reading_description": "Tail of Treasure Chests Opened Ranking; beginning hidden by cursor panel",
+          "en": "Chests Opened Ranking",
+          "status": "review",
+          "source_confirmation": "Executable X2696 in sequential ranking list.",
+          "note": "Needs reconstruction of the underlying screenshot layer or a safe visible-fragment treatment."
+        },
+        {
+          "rect": [
+            390,
+            440,
+            143,
+            27
+          ],
+          "reading_description": "Tail of Total Items Ranking; beginning hidden by cursor panel",
+          "en": "Total Items Ranking",
+          "status": "review",
+          "source_confirmation": "Executable X2697 in sequential ranking list.",
+          "note": "Only a fragment is visible."
+        },
+        {
+          "rect": [
+            390,
+            468,
+            143,
+            27
+          ],
+          "reading_description": "Tail of Rare Items Ranking; beginning hidden by cursor panel",
+          "en": "Rare Items Ranking",
+          "status": "review",
+          "source_confirmation": "Executable X2698 in sequential ranking list.",
+          "note": "Only a fragment is visible."
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 6,
+      "decoded_image": "work/output/graphics/USRDIR/data/texture/title2.enc/0006.png",
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "registration_title",
+          "rect": [
+            469,
+            61,
+            355,
+            42
+          ],
+          "reading_description": "Adventurer registration explanation title",
+          "en": "Adventurer Registration",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 32
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "cursor_title",
+          "rect": [
+            175,
+            491,
+            182,
+            27
+          ],
+          "reading_description": "Cursor movement heading",
+          "en": "Move Cursor",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 22
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "up_down",
+          "rect": [
+            231,
+            528,
+            212,
+            22
+          ],
+          "reading_description": "Up/down selects a field",
+          "en": "= Select a field.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [
+            "D-pad up/down"
+          ],
+          "note": ""
+        },
+        {
+          "id": "left_right",
+          "rect": [
+            231,
+            564,
+            212,
+            22
+          ],
+          "reading_description": "Left/right changes field contents",
+          "en": "= Change the setting.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 18
+          },
+          "button_labels": [
+            "D-pad left/right"
+          ],
+          "note": ""
+        },
+        {
+          "id": "stat_heading",
+          "rect": [
+            905,
+            375,
+            222,
+            26
+          ],
+          "reading_description": "Heading for adventurer ability statistics",
+          "en": "Character Attributes",
+          "status": "translated",
+          "style": {
+            "color": "gold",
+            "suggested_font_px": 20
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "stat_strength",
+          "rect": [
+            926,
+            411,
+            176,
+            27
+          ],
+          "reading_description": "STR means physical strength",
+          "en": "STR = Strength",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "stat_intellect",
+          "rect": [
+            926,
+            440,
+            176,
+            27
+          ],
+          "reading_description": "INT means intellect",
+          "en": "INT = Intellect",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "stat_piety",
+          "rect": [
+            926,
+            469,
+            176,
+            27
+          ],
+          "reading_description": "PIE means piety",
+          "en": "PIE = Piety",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "stat_vitality",
+          "rect": [
+            926,
+            497,
+            176,
+            27
+          ],
+          "reading_description": "VIT means vitality or life force",
+          "en": "VIT = Vitality",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "stat_agility",
+          "rect": [
+            926,
+            525,
+            176,
+            27
+          ],
+          "reading_description": "AGI means agility",
+          "en": "AGI = Agility",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "stat_luck",
+          "rect": [
+            926,
+            553,
+            176,
+            27
+          ],
+          "reading_description": "LUC means luck",
+          "en": "LUC = Luck",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "previous",
+          "rect": [
+            311,
+            644,
+            229,
+            29
+          ],
+          "reading_description": "L1 to ranking controls",
+          "en": "Ranking Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "L1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "return_title",
+          "rect": [
+            589,
+            644,
+            178,
+            29
+          ],
+          "reading_description": "Cross to title",
+          "en": "Title Screen",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": ""
+        },
+        {
+          "id": "next",
+          "rect": [
+            843,
+            644,
+            264,
+            29
+          ],
+          "reading_description": "R1 to contact information",
+          "en": "Contact Information",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "R1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "background_name",
+          "rect": [
+            205,
+            211,
+            80,
+            33
+          ],
+          "reading_description": "Dimmed character field name",
+          "en": "Name",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 29
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "background_sex",
+          "rect": [
+            205,
+            259,
+            80,
+            33
+          ],
+          "reading_description": "Dimmed character field sex",
+          "en": "Sex",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 29
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "background_male",
+          "rect": [
+            401,
+            260,
+            81,
+            32
+          ],
+          "reading_description": "Dimmed selected sex: male",
+          "en": "Male",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 28
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "background_race",
+          "rect": [
+            205,
+            307,
+            80,
+            33
+          ],
+          "reading_description": "Dimmed character field race",
+          "en": "Race",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 29
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "background_human",
+          "rect": [
+            360,
+            308,
+            143,
+            32
+          ],
+          "reading_description": "Dimmed selected race: human",
+          "en": "Human",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 27
+          },
+          "button_labels": [],
+          "note": "Right edge approaches controller; mask controller pixels."
+        },
+        {
+          "id": "background_alignment",
+          "rect": [
+            205,
+            356,
+            80,
+            33
+          ],
+          "reading_description": "Dimmed character field alignment",
+          "en": "Alignment",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "background_neutral",
+          "rect": [
+            398,
+            357,
+            84,
+            32
+          ],
+          "reading_description": "Dimmed selected alignment: neutral",
+          "en": "Neutral",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 21
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "background_appearance",
+          "rect": [
+            205,
+            404,
+            80,
+            33
+          ],
+          "reading_description": "Dimmed character field appearance",
+          "en": "Appearance",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 16
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "background_pattern",
+          "rect": [
+            360,
+            405,
+            124,
+            32
+          ],
+          "reading_description": "Dimmed appearance selection: pattern",
+          "en": "Pattern",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 24
+          },
+          "button_labels": [],
+          "note": "Pattern number, if any, is occluded by controller; do not invent one."
+        },
+        {
+          "id": "background_register",
+          "rect": [
+            591,
+            610,
+            72,
+            33
+          ],
+          "reading_description": "Dimmed Register button at bottom of background screen",
+          "en": "Register",
+          "status": "translated",
+          "style": {
+            "color": "gray",
+            "suggested_font_px": 20
+          },
+          "button_labels": [],
+          "note": ""
+        }
+      ],
+      "partially_occluded_text": [
+        {
+          "rect": [
+            205,
+            469,
+            80,
+            9
+          ],
+          "reading_description": "Only top edge of Class field label remains visible above cursor-help panel",
+          "en": "Class",
+          "status": "review",
+          "note": "Most glyphs are behind the help panel. Do not write through its border or over its contents."
+        }
+      ]
+    },
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 7,
+      "decoded_image": "work/output/graphics/USRDIR/data/texture/title2.enc/0007.png",
+      "width": 1280,
+      "height": 720,
+      "regions": [
+        {
+          "id": "contact_title",
+          "rect": [
+            514,
+            110,
+            267,
+            40
+          ],
+          "reading_description": "Support contact heading",
+          "en": "Contact Information",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 32
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "support_line",
+          "rect": [
+            427,
+            246,
+            455,
+            30
+          ],
+          "reading_description": "Acquire user support telephone heading",
+          "en": "ACQUIRE User Support",
+          "status": "translated",
+          "style": {
+            "color": "gold",
+            "suggested_font_px": 25
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "phone",
+          "rect": [
+            550,
+            283,
+            238,
+            30
+          ],
+          "reading_description": "Historical Japanese domestic telephone number",
+          "en": "03-5297-2357",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 27
+          },
+          "button_labels": [],
+          "note": "Transcribe exactly as printed. Historical contact detail; current availability unverified."
+        },
+        {
+          "id": "hours_days",
+          "rect": [
+            388,
+            354,
+            535,
+            29
+          ],
+          "reading_description": "Reception Monday to Friday except holidays and company-designated days",
+          "en": "Monday–Friday (excluding holidays and company-designated days)",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 18
+          },
+          "button_labels": [],
+          "note": "Historical printed hours; current service unverified."
+        },
+        {
+          "id": "hours_time",
+          "rect": [
+            533,
+            391,
+            250,
+            30
+          ],
+          "reading_description": "Reception time ten to eighteen",
+          "en": "10:00–18:00",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 27
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "start_website",
+          "rect": [
+            256,
+            488,
+            800,
+            31
+          ],
+          "reading_description": "START opens the company support page on the Internet",
+          "en": "Press START to open our support page on the Internet.",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 24
+          },
+          "button_labels": [
+            "START"
+          ],
+          "note": ""
+        },
+        {
+          "id": "website_return",
+          "rect": [
+            448,
+            526,
+            418,
+            29
+          ],
+          "reading_description": "After displaying support page, return to title screen",
+          "en": "After it opens, you will return to the title screen.",
+          "status": "translated",
+          "style": {
+            "color": "cyan",
+            "suggested_font_px": 19
+          },
+          "button_labels": [],
+          "note": ""
+        },
+        {
+          "id": "previous",
+          "rect": [
+            311,
+            644,
+            229,
+            29
+          ],
+          "reading_description": "L1 to adventurer registration help",
+          "en": "Adventurer Registration",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 20
+          },
+          "button_labels": [
+            "L1"
+          ],
+          "note": ""
+        },
+        {
+          "id": "return_title",
+          "rect": [
+            589,
+            644,
+            178,
+            29
+          ],
+          "reading_description": "Cross to title",
+          "en": "Title Screen",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "Cross"
+          ],
+          "note": ""
+        },
+        {
+          "id": "next",
+          "rect": [
+            843,
+            644,
+            264,
+            29
+          ],
+          "reading_description": "R1 to town controls",
+          "en": "Town Controls",
+          "status": "translated",
+          "style": {
+            "color": "white",
+            "suggested_font_px": 22
+          },
+          "button_labels": [
+            "R1"
+          ],
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "unreadable_or_occluded": [
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 5,
+      "rect": [
+        205,
+        208,
+        310,
+        95
+      ],
+      "detail": "Several first ranking labels are completely or mostly hidden behind the caution panel/controller. Do not invent unseen pixels or add controls."
+    },
+    {
+      "source_file": "USRDIR/data/texture/title2.enc",
+      "member": 6,
+      "rect": [
+        205,
+        469,
+        80,
+        35
+      ],
+      "detail": "Class label is mostly hidden behind the cursor-help panel; visible top fragment can be identified, but complete glyphs are not present."
+    }
+  ]
+}

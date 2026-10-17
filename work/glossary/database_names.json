@@ -1,0 +1,4197 @@
+{
+  "scope": "Names/UI terms only; no dialogue or descriptions",
+  "entries": [
+    {
+      "ja": "悪魔の書",
+      "en": "Book of Demons",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0000",
+      "note": ""
+    },
+    {
+      "ja": "ゴールデンステッキ",
+      "en": "Golden Stick",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0003",
+      "note": ""
+    },
+    {
+      "ja": "パラライズダガー",
+      "en": "Paralysis Dagger",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0005",
+      "note": ""
+    },
+    {
+      "ja": "ローズウィップ",
+      "en": "Rose Whip",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0007",
+      "note": ""
+    },
+    {
+      "ja": "ドラゴンファング",
+      "en": "Dragon Fang",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0008",
+      "note": ""
+    },
+    {
+      "ja": "阿修羅",
+      "en": "Asura",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0010",
+      "note": ""
+    },
+    {
+      "ja": "エレメンタル・ワンド",
+      "en": "Elemental Wand",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0011",
+      "note": ""
+    },
+    {
+      "ja": "雷氷の杖",
+      "en": "Staff of Thunder and Ice",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0012",
+      "note": ""
+    },
+    {
+      "ja": "紅一閃",
+      "en": "Crimson Flash",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0013",
+      "note": ""
+    },
+    {
+      "ja": "真エクスカリバー",
+      "en": "True Excalibur",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0014",
+      "note": ""
+    },
+    {
+      "ja": "バーストソード",
+      "en": "Burst Sword",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0015",
+      "note": ""
+    },
+    {
+      "ja": "悪のメイス",
+      "en": "Evil Mace",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0017",
+      "note": ""
+    },
+    {
+      "ja": "極粉塵円月斬",
+      "en": "Ultimate Pulverizing Full-Moon Slash",
+      "status": "review",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0019",
+      "note": "Weapon-title interpretation is provisional. Preserves pulverization, full-moon and slash imagery; no official English spelling found."
+    },
+    {
+      "ja": "マジックプレート",
+      "en": "Magic Plate",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0020",
+      "note": ""
+    },
+    {
+      "ja": "クリムゾンドレス",
+      "en": "Crimson Dress",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0022",
+      "note": ""
+    },
+    {
+      "ja": "野良着",
+      "en": "Work Clothes",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0024",
+      "note": ""
+    },
+    {
+      "ja": "邪悪な鎧",
+      "en": "Evil Armor",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0025",
+      "note": ""
+    },
+    {
+      "ja": "ネイチャー・ガード",
+      "en": "Nature Guard",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0026",
+      "note": ""
+    },
+    {
+      "ja": "ダンシングプレート",
+      "en": "Dancing Plate",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0027",
+      "note": ""
+    },
+    {
+      "ja": "ワイバーンカイト",
+      "en": "Wyvern Kite Shield",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0028",
+      "note": ""
+    },
+    {
+      "ja": "フェニックスカイト",
+      "en": "Phoenix Kite Shield",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0030",
+      "note": ""
+    },
+    {
+      "ja": "ブラックハット",
+      "en": "Black Hat",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0031",
+      "note": ""
+    },
+    {
+      "ja": "虹の冠",
+      "en": "Rainbow Crown",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0032",
+      "note": ""
+    },
+    {
+      "ja": "イビルヘルム",
+      "en": "Evil Helm",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0033",
+      "note": ""
+    },
+    {
+      "ja": "マジックガード",
+      "en": "Magic Guard",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0034",
+      "note": ""
+    },
+    {
+      "ja": "賢者の手袋",
+      "en": "Sage's Gloves",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0036",
+      "note": ""
+    },
+    {
+      "ja": "癒しの靴",
+      "en": "Healing Shoes",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0037",
+      "note": ""
+    },
+    {
+      "ja": "邪悪なブーツ",
+      "en": "Evil Boots",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0038",
+      "note": ""
+    },
+    {
+      "ja": "バヘルメヤの地図",
+      "en": "Bahelmeja Map",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0040",
+      "note": ""
+    },
+    {
+      "ja": "スターツェン迷宮の地図",
+      "en": "Staatsen Labyrinth Map",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0043",
+      "note": ""
+    },
+    {
+      "ja": "ディースメン迷宮の地図",
+      "en": "Diemen Labyrinth Map",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0045",
+      "note": ""
+    },
+    {
+      "ja": "ウォーテリング上層の地図",
+      "en": "Upper Watering Map",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0047",
+      "note": ""
+    },
+    {
+      "ja": "ウォーテリング中層の地図",
+      "en": "Middle Watering Map",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0049",
+      "note": ""
+    },
+    {
+      "ja": "ウォーテリング下層の地図",
+      "en": "Lower Watering Map",
+      "status": "translated",
+      "source": "databases/addtable01_items",
+      "id": "A01DI0051",
+      "note": ""
+    },
+    {
+      "ja": "レディ・マルバス",
+      "en": "Lady Marbas",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0000",
+      "note": ""
+    },
+    {
+      "ja": "ゲートキーパー",
+      "en": "Gate Keeper",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0002",
+      "note": ""
+    },
+    {
+      "ja": "キーマスター",
+      "en": "Key Master",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0005",
+      "note": ""
+    },
+    {
+      "ja": "クックロビン",
+      "en": "Cock Robin",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0006",
+      "note": ""
+    },
+    {
+      "ja": "リズ（魔術士）",
+      "en": "Riz (Mage)",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0007",
+      "note": ""
+    },
+    {
+      "ja": "老魔術士",
+      "en": "Old Mage",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0008",
+      "note": ""
+    },
+    {
+      "ja": "盗賊",
+      "en": "Thief",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0009",
+      "note": ""
+    },
+    {
+      "ja": "コープスツリー",
+      "en": "Corpse Tree",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0010",
+      "note": ""
+    },
+    {
+      "ja": "閃光の精霊",
+      "en": "Spirit of Radiance",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0015",
+      "note": ""
+    },
+    {
+      "ja": "ハート・バニー",
+      "en": "Heart Bunny",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0018",
+      "note": ""
+    },
+    {
+      "ja": "灼熱の怨竜",
+      "en": "Blazing Grudge Dragon",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0021",
+      "note": ""
+    },
+    {
+      "ja": "アイアンスコーピオン",
+      "en": "Iron Scorpion",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0028",
+      "note": ""
+    },
+    {
+      "ja": "シベリアンウルフ",
+      "en": "Siberian Wolf",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0030",
+      "note": ""
+    },
+    {
+      "ja": "ワーラット・サイクロン",
+      "en": "Wererat Cyclone",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0032",
+      "note": ""
+    },
+    {
+      "ja": "クリスタル・キマイラ",
+      "en": "Crystal Chimera",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0034",
+      "note": ""
+    },
+    {
+      "ja": "闇を告げる者",
+      "en": "Herald of Darkness",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0037",
+      "note": ""
+    },
+    {
+      "ja": "オーガ・バースト",
+      "en": "Ogre Burst",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0043",
+      "note": ""
+    },
+    {
+      "ja": "狡猾なるジン",
+      "en": "Cunning Djinn",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0046",
+      "note": ""
+    },
+    {
+      "ja": "リターナー",
+      "en": "Returner",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0050",
+      "note": ""
+    },
+    {
+      "ja": "ミストクラウド",
+      "en": "Mist Cloud",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0053",
+      "note": ""
+    },
+    {
+      "ja": "ワンダリングアーマー",
+      "en": "Wandering Armor",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0057",
+      "note": ""
+    },
+    {
+      "ja": "リカバリーゴーレム",
+      "en": "Recovery Golem",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0059",
+      "note": ""
+    },
+    {
+      "ja": "インセプター",
+      "en": "Interceptor",
+      "status": "review",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0061",
+      "note": "Source name is a shortened transliteration; lore explicitly calls it one who blocks the way."
+    },
+    {
+      "ja": "嘲笑のビフロス",
+      "en": "Bifrons the Mocking",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0065",
+      "note": ""
+    },
+    {
+      "ja": "サイレントガーゴイル",
+      "en": "Silent Gargoyle",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0069",
+      "note": ""
+    },
+    {
+      "ja": "トレジャークローラ",
+      "en": "Treasure Crawler",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0072",
+      "note": ""
+    },
+    {
+      "ja": "バーニングスライム",
+      "en": "Burning Slime",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0074",
+      "note": ""
+    },
+    {
+      "ja": "ゴブリンナイトメア",
+      "en": "Goblin Nightmare",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0077",
+      "note": ""
+    },
+    {
+      "ja": "霧を総べる者",
+      "en": "Lord of the Mist",
+      "status": "translated",
+      "source": "databases/addtable01_monsters",
+      "id": "A01DM0081",
+      "note": ""
+    },
+    {
+      "ja": "ストラージュ迷宮地図",
+      "en": "Strage Labyrinth Map",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0000",
+      "note": ""
+    },
+    {
+      "ja": "グラハム・ルーツェ上層",
+      "en": "Upper Graham Rootze Map",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0003",
+      "note": ""
+    },
+    {
+      "ja": "グラハム・ルーツェ下層",
+      "en": "Lower Graham Rootze Map",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0005",
+      "note": ""
+    },
+    {
+      "ja": "グラハム迷宮上層",
+      "en": "Upper Graham Labyrinth Map",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0007",
+      "note": ""
+    },
+    {
+      "ja": "グラハム迷宮中層",
+      "en": "Middle Graham Labyrinth Map",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0009",
+      "note": ""
+    },
+    {
+      "ja": "グラハム迷宮下層",
+      "en": "Lower Graham Labyrinth Map",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0011",
+      "note": ""
+    },
+    {
+      "ja": "悪魔の契約",
+      "en": "Demon's Contract",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0013",
+      "note": ""
+    },
+    {
+      "ja": "ティルフォング",
+      "en": "Tyrfing",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0015",
+      "note": ""
+    },
+    {
+      "ja": "コメットスタッフ",
+      "en": "Comet Staff",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0017",
+      "note": ""
+    },
+    {
+      "ja": "炎帝の鎚",
+      "en": "Flame Emperor's Hammer",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0019",
+      "note": ""
+    },
+    {
+      "ja": "シークレットウエポン",
+      "en": "Secret Weapon",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0021",
+      "note": ""
+    },
+    {
+      "ja": "輝きの印",
+      "en": "Mark of Radiance",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0022",
+      "note": ""
+    },
+    {
+      "ja": "バサラ",
+      "en": "Basara",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0023",
+      "note": ""
+    },
+    {
+      "ja": "ネイチャーグローブ",
+      "en": "Nature Gloves",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0024",
+      "note": ""
+    },
+    {
+      "ja": "クローウインド",
+      "en": "Claw Wind",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0026",
+      "note": ""
+    },
+    {
+      "ja": "断罪の錫杖",
+      "en": "Staff of Judgment",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0027",
+      "note": ""
+    },
+    {
+      "ja": "エスケープワンド",
+      "en": "Escape Wand",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0028",
+      "note": ""
+    },
+    {
+      "ja": "パラグラフウエポン",
+      "en": "Paragraph Weapon",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0029",
+      "note": ""
+    },
+    {
+      "ja": "アロンダイト",
+      "en": "Arondight",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0030",
+      "note": ""
+    },
+    {
+      "ja": "小豆丸",
+      "en": "Azukimaru",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0031",
+      "note": ""
+    },
+    {
+      "ja": "ワイルドメイル",
+      "en": "Wild Mail",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0032",
+      "note": ""
+    },
+    {
+      "ja": "ネイチャーバックラー",
+      "en": "Nature Buckler",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0034",
+      "note": ""
+    },
+    {
+      "ja": "フェアリーローブ",
+      "en": "Fairy Robe",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0036",
+      "note": ""
+    },
+    {
+      "ja": "青のローブ",
+      "en": "Blue Robe",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0037",
+      "note": ""
+    },
+    {
+      "ja": "赤のローブ",
+      "en": "Red Robe",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0039",
+      "note": ""
+    },
+    {
+      "ja": "福音の衣",
+      "en": "Gospel Vestments",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0040",
+      "note": ""
+    },
+    {
+      "ja": "ボーアシールド",
+      "en": "Boar Shield",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0041",
+      "note": ""
+    },
+    {
+      "ja": "バルマーガード",
+      "en": "Balmar Guard",
+      "status": "review",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0042",
+      "note": "Provisional transliteration; no published English spelling found."
+    },
+    {
+      "ja": "アインリフレクト",
+      "en": "Ein Reflect",
+      "status": "review",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0043",
+      "note": "Provisional transliteration; no published English spelling found."
+    },
+    {
+      "ja": "ストレンジハット",
+      "en": "Strange Hat",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0044",
+      "note": ""
+    },
+    {
+      "ja": "闘将の兜",
+      "en": "Warlord's Helm",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0045",
+      "note": ""
+    },
+    {
+      "ja": "チュプ・レラ",
+      "en": "Chup Rera",
+      "status": "review",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0046",
+      "note": "Provisional transliteration; no published English spelling found."
+    },
+    {
+      "ja": "メルポメ・シューズ",
+      "en": "Melpome Shoes",
+      "status": "review",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0047",
+      "note": "Provisional transliteration; no published English spelling found."
+    },
+    {
+      "ja": "ドレイクブーツ",
+      "en": "Drake Boots",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0049",
+      "note": ""
+    },
+    {
+      "ja": "波切りの草鞋",
+      "en": "Wave-Cutting Sandals",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0050",
+      "note": ""
+    },
+    {
+      "ja": "シューズ",
+      "en": "Shoes",
+      "status": "translated",
+      "source": "databases/addtable02_items",
+      "id": "A02DI0051",
+      "note": ""
+    },
+    {
+      "ja": "アンネベルク",
+      "en": "Anneberg",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0000",
+      "note": ""
+    },
+    {
+      "ja": "ゲートキーパー",
+      "en": "Gate Keeper",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0002",
+      "note": ""
+    },
+    {
+      "ja": "キーマースター",
+      "en": "Key Master",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0004",
+      "note": ""
+    },
+    {
+      "ja": "プールートーン",
+      "en": "Pluton",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0006",
+      "note": ""
+    },
+    {
+      "ja": "カディス・コカトリス",
+      "en": "Cadiz Cockatrice",
+      "status": "review",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0008",
+      "note": "Provisional transliteration of the variant name."
+    },
+    {
+      "ja": "グリーンパピー",
+      "en": "Green Puppy",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0011",
+      "note": ""
+    },
+    {
+      "ja": "ジャムジャム",
+      "en": "Jam Jam",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0014",
+      "note": ""
+    },
+    {
+      "ja": "スピードクロウ",
+      "en": "Speed Crow",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0017",
+      "note": ""
+    },
+    {
+      "ja": "フィノアール",
+      "en": "Finoir",
+      "status": "review",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0020",
+      "note": "Provisional transliteration of the monster name."
+    },
+    {
+      "ja": "オーク・ファランクス",
+      "en": "Orc Phalanx",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0023",
+      "note": ""
+    },
+    {
+      "ja": "アイアンスティール",
+      "en": "Iron Steel",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0026",
+      "note": ""
+    },
+    {
+      "ja": "クロコダイル",
+      "en": "Crocodile",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0028",
+      "note": ""
+    },
+    {
+      "ja": "デイドリーム",
+      "en": "Daydream",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0030",
+      "note": ""
+    },
+    {
+      "ja": "ガーディアン・ベア",
+      "en": "Guardian Bear",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0032",
+      "note": ""
+    },
+    {
+      "ja": "エイジバルナ",
+      "en": "Age Varna",
+      "status": "review",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0034",
+      "note": "Provisional transliteration of the otherworldly monster's name."
+    },
+    {
+      "ja": "コマンド・ラット",
+      "en": "Commando Rat",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0037",
+      "note": ""
+    },
+    {
+      "ja": "クレイジャイアント",
+      "en": "Clay Giant",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0041",
+      "note": ""
+    },
+    {
+      "ja": "リバースウィスプ",
+      "en": "Reverse Wisp",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0044",
+      "note": ""
+    },
+    {
+      "ja": "ブレイブコボルド",
+      "en": "Brave Kobold",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0048",
+      "note": ""
+    },
+    {
+      "ja": "ソードマン",
+      "en": "Swordsman",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0051",
+      "note": ""
+    },
+    {
+      "ja": "マスターシェイド",
+      "en": "Master Shade",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0054",
+      "note": ""
+    },
+    {
+      "ja": "カオスブレイド",
+      "en": "Chaos Blade",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0056",
+      "note": ""
+    },
+    {
+      "ja": "エレファント・ウォー",
+      "en": "Elephant War",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0060",
+      "note": ""
+    },
+    {
+      "ja": "タイダル・ペルーダ",
+      "en": "Tidal Peluda",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0064",
+      "note": ""
+    },
+    {
+      "ja": "深淵なるビフロス",
+      "en": "Bifrons of the Abyss",
+      "status": "translated",
+      "source": "databases/addtable02_monsters",
+      "id": "A02DM0068",
+      "note": ""
+    },
+    {
+      "ja": "ダガー",
+      "en": "Dagger",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0000",
+      "note": ""
+    },
+    {
+      "ja": "ショートソード",
+      "en": "Short Sword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0003",
+      "note": ""
+    },
+    {
+      "ja": "ポイズンニードル",
+      "en": "Poison Needle",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0004",
+      "note": ""
+    },
+    {
+      "ja": "ナックルダガー",
+      "en": "Knuckle Dagger",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0005",
+      "note": ""
+    },
+    {
+      "ja": "スティレットダガー",
+      "en": "Stiletto Dagger",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0007",
+      "note": ""
+    },
+    {
+      "ja": "早業の短剣",
+      "en": "Swift Dagger",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0008",
+      "note": ""
+    },
+    {
+      "ja": "深淵の小太刀",
+      "en": "Abyssal Kodachi",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0009",
+      "note": ""
+    },
+    {
+      "ja": "全滅の短剣",
+      "en": "Dagger of Annihilation",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0010",
+      "note": ""
+    },
+    {
+      "ja": "瞬激彩雲ノ爪",
+      "en": "Claws of the Flashing Iridescent Cloud",
+      "status": "review",
+      "source": "databases/items",
+      "id": "DI0011",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "ポークルの牙",
+      "en": "Porklu's Fang",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0012",
+      "note": ""
+    },
+    {
+      "ja": "ロングソード",
+      "en": "Long Sword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0013",
+      "note": ""
+    },
+    {
+      "ja": "フランベルジェ",
+      "en": "Flamberge",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0015",
+      "note": ""
+    },
+    {
+      "ja": "バスタードソード",
+      "en": "Bastard Sword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0016",
+      "note": ""
+    },
+    {
+      "ja": "クレイモア",
+      "en": "Claymore",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0017",
+      "note": ""
+    },
+    {
+      "ja": "名工の剣",
+      "en": "Masterwork Sword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0018",
+      "note": ""
+    },
+    {
+      "ja": "ドラゴンスレイヤー",
+      "en": "Dragonslayer",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0019",
+      "note": ""
+    },
+    {
+      "ja": "アイスソード",
+      "en": "Ice Sword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0020",
+      "note": ""
+    },
+    {
+      "ja": "グレートソード",
+      "en": "Greatsword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0022",
+      "note": ""
+    },
+    {
+      "ja": "ファイアソード",
+      "en": "Fire Sword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0023",
+      "note": ""
+    },
+    {
+      "ja": "エクスカリバー",
+      "en": "Excalibur",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0025",
+      "note": ""
+    },
+    {
+      "ja": "幻惑のカットラス",
+      "en": "Cutlass of Illusion",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0027",
+      "note": ""
+    },
+    {
+      "ja": "ノーザンライトソード",
+      "en": "Northern Light Sword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0028",
+      "note": ""
+    },
+    {
+      "ja": "ダイヤモンドブレード",
+      "en": "Diamond Blade",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0029",
+      "note": ""
+    },
+    {
+      "ja": "オーディンソード",
+      "en": "Odin Sword",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0030",
+      "note": ""
+    },
+    {
+      "ja": "グレートシャムシール",
+      "en": "Great Shamshir",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0031",
+      "note": ""
+    },
+    {
+      "ja": "グラム",
+      "en": "Gram",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0032",
+      "note": ""
+    },
+    {
+      "ja": "ミスト・ムーン",
+      "en": "Mist Moon",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0034",
+      "note": ""
+    },
+    {
+      "ja": "刀",
+      "en": "Katana",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0035",
+      "note": ""
+    },
+    {
+      "ja": "薙刀・初穂",
+      "en": "Naginata: Hatsuho",
+      "status": "review",
+      "source": "databases/items",
+      "id": "DI0036",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "忍者刀",
+      "en": "Ninja Blade",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0037",
+      "note": ""
+    },
+    {
+      "ja": "雷切",
+      "en": "Raikiri",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0038",
+      "note": ""
+    },
+    {
+      "ja": "ブシドーブレード",
+      "en": "Bushido Blade",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0039",
+      "note": ""
+    },
+    {
+      "ja": "ムラクモ・ブレード",
+      "en": "Murakumo Blade",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0040",
+      "note": ""
+    },
+    {
+      "ja": "備前長船",
+      "en": "Bizen Osafune",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0041",
+      "note": ""
+    },
+    {
+      "ja": "村正",
+      "en": "Muramasa",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0043",
+      "note": ""
+    },
+    {
+      "ja": "虎鉄",
+      "en": "Kotetsu",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0045",
+      "note": ""
+    },
+    {
+      "ja": "岩融",
+      "en": "Iwatoshi",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0047",
+      "note": ""
+    },
+    {
+      "ja": "杖",
+      "en": "Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0048",
+      "note": ""
+    },
+    {
+      "ja": "固い杖",
+      "en": "Hard Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0051",
+      "note": ""
+    },
+    {
+      "ja": "幸運のステッキ",
+      "en": "Lucky Stick",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0052",
+      "note": ""
+    },
+    {
+      "ja": "炎の杖",
+      "en": "Flame Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0054",
+      "note": ""
+    },
+    {
+      "ja": "氷の杖",
+      "en": "Ice Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0056",
+      "note": ""
+    },
+    {
+      "ja": "幻惑のステッキ",
+      "en": "Illusion Stick",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0058",
+      "note": ""
+    },
+    {
+      "ja": "癒しの杖",
+      "en": "Healing Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0060",
+      "note": ""
+    },
+    {
+      "ja": "クリスタル・ワンド",
+      "en": "Crystal Wand",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0062",
+      "note": ""
+    },
+    {
+      "ja": "メテオスタッフ",
+      "en": "Meteor Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0063",
+      "note": ""
+    },
+    {
+      "ja": "ネイチャー・ワンド",
+      "en": "Nature Wand",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0064",
+      "note": ""
+    },
+    {
+      "ja": "レインボーテイル",
+      "en": "Rainbow Tail",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0065",
+      "note": ""
+    },
+    {
+      "ja": "カドケウス",
+      "en": "Caduceus",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0067",
+      "note": ""
+    },
+    {
+      "ja": "ウィザーズ・スタッフ",
+      "en": "Wizard's Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0069",
+      "note": ""
+    },
+    {
+      "ja": "メイス",
+      "en": "Mace",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0070",
+      "note": ""
+    },
+    {
+      "ja": "三節棍",
+      "en": "Three-Section Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0072",
+      "note": ""
+    },
+    {
+      "ja": "粉砕のメイス",
+      "en": "Crushing Mace",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0073",
+      "note": ""
+    },
+    {
+      "ja": "九節棍",
+      "en": "Nine-Section Staff",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0074",
+      "note": ""
+    },
+    {
+      "ja": "鎖鎌",
+      "en": "Kusarigama",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0075",
+      "note": ""
+    },
+    {
+      "ja": "守護のメイス",
+      "en": "Guardian Mace",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0076",
+      "note": ""
+    },
+    {
+      "ja": "タイタン・メイス",
+      "en": "Titan Mace",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0078",
+      "note": ""
+    },
+    {
+      "ja": "聖なるメイス",
+      "en": "Holy Mace",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0079",
+      "note": ""
+    },
+    {
+      "ja": "雷帝の槌",
+      "en": "Thunder Emperor's Hammer",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0081",
+      "note": ""
+    },
+    {
+      "ja": "ドワーヴン・ウェポン",
+      "en": "Dwarven Weapon",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0083",
+      "note": ""
+    },
+    {
+      "ja": "皮の鞭",
+      "en": "Leather Whip",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0085",
+      "note": ""
+    },
+    {
+      "ja": "スリング",
+      "en": "Sling",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0086",
+      "note": ""
+    },
+    {
+      "ja": "ブーメラン",
+      "en": "Boomerang",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0087",
+      "note": ""
+    },
+    {
+      "ja": "ソード・ウィップ",
+      "en": "Sword Whip",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0088",
+      "note": ""
+    },
+    {
+      "ja": "クルーティン・ウィップ",
+      "en": "Crutin Whip",
+      "status": "review",
+      "source": "databases/items",
+      "id": "DI0089",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "ストロング・ウィップ",
+      "en": "Strong Whip",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0090",
+      "note": ""
+    },
+    {
+      "ja": "手裏剣",
+      "en": "Shuriken",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0091",
+      "note": ""
+    },
+    {
+      "ja": "大粉塵回転斬オロチ",
+      "en": "Orochi's Whirling Dust Slash",
+      "status": "review",
+      "source": "databases/items",
+      "id": "DI0092",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "ローブ",
+      "en": "Robe",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0093",
+      "note": ""
+    },
+    {
+      "ja": "僧兵胴着",
+      "en": "Monk's Gi",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0095",
+      "note": ""
+    },
+    {
+      "ja": "神官のローブ",
+      "en": "Priest's Robe",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0096",
+      "note": ""
+    },
+    {
+      "ja": "狩装束",
+      "en": "Hunting Garb",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0097",
+      "note": ""
+    },
+    {
+      "ja": "白のローブ",
+      "en": "White Robe",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0098",
+      "note": ""
+    },
+    {
+      "ja": "黒のローブ",
+      "en": "Black Robe",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0099",
+      "note": ""
+    },
+    {
+      "ja": "クライシス・ウェアー",
+      "en": "Crisis Wear",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0100",
+      "note": ""
+    },
+    {
+      "ja": "貴婦人のドレス",
+      "en": "Noblewoman's Dress",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0102",
+      "note": ""
+    },
+    {
+      "ja": "賢者のローブ",
+      "en": "Sage's Robe",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0103",
+      "note": ""
+    },
+    {
+      "ja": "祈りのローブ",
+      "en": "Robe of Prayer",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0104",
+      "note": ""
+    },
+    {
+      "ja": "黒装束",
+      "en": "Black Garb",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0105",
+      "note": ""
+    },
+    {
+      "ja": "光のローブ",
+      "en": "Robe of Light",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0106",
+      "note": ""
+    },
+    {
+      "ja": "ダイヤモンドローブ",
+      "en": "Diamond Robe",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0107",
+      "note": ""
+    },
+    {
+      "ja": "幻惑のケープ",
+      "en": "Cape of Illusion",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0108",
+      "note": ""
+    },
+    {
+      "ja": "革の鎧",
+      "en": "Leather Armor",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0109",
+      "note": ""
+    },
+    {
+      "ja": "リングメイル",
+      "en": "Ring Mail",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0111",
+      "note": ""
+    },
+    {
+      "ja": "静寂の鎧",
+      "en": "Silent Armor",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0112",
+      "note": ""
+    },
+    {
+      "ja": "胸当て",
+      "en": "Breastplate",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0113",
+      "note": ""
+    },
+    {
+      "ja": "プレートメイル",
+      "en": "Plate Mail",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0114",
+      "note": ""
+    },
+    {
+      "ja": "盗賊の鎧",
+      "en": "Thief's Armor",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0115",
+      "note": ""
+    },
+    {
+      "ja": "マスタープレート",
+      "en": "Master Plate",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0116",
+      "note": ""
+    },
+    {
+      "ja": "怪盗の鎧",
+      "en": "Phantom Thief's Armor",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0117",
+      "note": ""
+    },
+    {
+      "ja": "聖なる鎧",
+      "en": "Holy Armor",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0118",
+      "note": ""
+    },
+    {
+      "ja": "武士の鎧",
+      "en": "Samurai Armor",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0119",
+      "note": ""
+    },
+    {
+      "ja": "アーマド・クロス",
+      "en": "Armored Cloth",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0120",
+      "note": ""
+    },
+    {
+      "ja": "忍者服",
+      "en": "Ninja Suit",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0121",
+      "note": ""
+    },
+    {
+      "ja": "武者の鎧",
+      "en": "Warrior's Armor",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0122",
+      "note": ""
+    },
+    {
+      "ja": "ナイトメイル",
+      "en": "Knight Mail",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0123",
+      "note": ""
+    },
+    {
+      "ja": "ミスリルの鎧",
+      "en": "Mithril Armor",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0124",
+      "note": ""
+    },
+    {
+      "ja": "ゴールドチェインメイル",
+      "en": "Gold Chain Mail",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0125",
+      "note": ""
+    },
+    {
+      "ja": "バックラー",
+      "en": "Buckler",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0126",
+      "note": ""
+    },
+    {
+      "ja": "鉄の楯",
+      "en": "Iron Shield",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0128",
+      "note": ""
+    },
+    {
+      "ja": "ムーンバックラー",
+      "en": "Moon Buckler",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0129",
+      "note": ""
+    },
+    {
+      "ja": "ライトシールド",
+      "en": "Light Shield",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0130",
+      "note": ""
+    },
+    {
+      "ja": "ドラゴンカイト",
+      "en": "Dragon Kite",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0131",
+      "note": ""
+    },
+    {
+      "ja": "イージスの盾",
+      "en": "Aegis Shield",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0132",
+      "note": ""
+    },
+    {
+      "ja": "祝福された小盾",
+      "en": "Blessed Buckler",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0133",
+      "note": ""
+    },
+    {
+      "ja": "レオニダスの楯",
+      "en": "Leonidas's Shield",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0134",
+      "note": ""
+    },
+    {
+      "ja": "マジックシールド",
+      "en": "Magic Shield",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0136",
+      "note": ""
+    },
+    {
+      "ja": "ぼうし",
+      "en": "Hat",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0137",
+      "note": ""
+    },
+    {
+      "ja": "静寂の兜",
+      "en": "Silent Helm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0138",
+      "note": ""
+    },
+    {
+      "ja": "鉄の兜",
+      "en": "Iron Helm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0139",
+      "note": ""
+    },
+    {
+      "ja": "はねつき帽子",
+      "en": "Feathered Hat",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0140",
+      "note": ""
+    },
+    {
+      "ja": "マジックヘルム",
+      "en": "Magic Helm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0141",
+      "note": ""
+    },
+    {
+      "ja": "サークレット",
+      "en": "Circlet",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0142",
+      "note": ""
+    },
+    {
+      "ja": "クラマー・ハット",
+      "en": "Kramer Hat",
+      "status": "review",
+      "source": "databases/items",
+      "id": "DI0143",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "コモンドゥスの兜",
+      "en": "Commodus's Helm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0144",
+      "note": ""
+    },
+    {
+      "ja": "武士の兜",
+      "en": "Samurai Helm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0145",
+      "note": ""
+    },
+    {
+      "ja": "聖なるヘルム",
+      "en": "Holy Helm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0146",
+      "note": ""
+    },
+    {
+      "ja": "武者の兜",
+      "en": "Warrior's Helm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0147",
+      "note": ""
+    },
+    {
+      "ja": "君主の兜",
+      "en": "Lord's Helm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0148",
+      "note": ""
+    },
+    {
+      "ja": "風霧の兜",
+      "en": "Windmist Helm",
+      "status": "review",
+      "source": "databases/items",
+      "id": "DI0149",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "てぶくろ",
+      "en": "Gloves",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0150",
+      "note": ""
+    },
+    {
+      "ja": "妖精の手袋",
+      "en": "Fairy Gloves",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0152",
+      "note": ""
+    },
+    {
+      "ja": "ガントレット",
+      "en": "Gauntlets",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0153",
+      "note": ""
+    },
+    {
+      "ja": "隠密の手袋",
+      "en": "Stealth Gloves",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0155",
+      "note": ""
+    },
+    {
+      "ja": "呪術の手袋",
+      "en": "Sorcery Gloves",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0156",
+      "note": ""
+    },
+    {
+      "ja": "迅雷の籠手",
+      "en": "Lightning Gauntlets",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0157",
+      "note": ""
+    },
+    {
+      "ja": "武者の籠手",
+      "en": "Warrior's Gauntlets",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0158",
+      "note": ""
+    },
+    {
+      "ja": "エレメント・ガード",
+      "en": "Element Guard",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0159",
+      "note": ""
+    },
+    {
+      "ja": "光輝く小手",
+      "en": "Radiant Gauntlets",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0160",
+      "note": ""
+    },
+    {
+      "ja": "栄光の手",
+      "en": "Hand of Glory",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0161",
+      "note": ""
+    },
+    {
+      "ja": "靴",
+      "en": "Shoes",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0162",
+      "note": ""
+    },
+    {
+      "ja": "わらじ",
+      "en": "Straw Sandals",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0163",
+      "note": ""
+    },
+    {
+      "ja": "俊足の靴",
+      "en": "Swift Shoes",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0164",
+      "note": ""
+    },
+    {
+      "ja": "怪力のブーツ",
+      "en": "Boots of Might",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0165",
+      "note": ""
+    },
+    {
+      "ja": "アイアンブーツ",
+      "en": "Iron Boots",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0166",
+      "note": ""
+    },
+    {
+      "ja": "毛皮のブーツ",
+      "en": "Fur Boots",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0167",
+      "note": ""
+    },
+    {
+      "ja": "祝福された具足",
+      "en": "Blessed Greaves",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0168",
+      "note": ""
+    },
+    {
+      "ja": "知識のブーツ",
+      "en": "Boots of Knowledge",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0169",
+      "note": ""
+    },
+    {
+      "ja": "ちせいのスリッパ",
+      "en": "Slippers of Intellect",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0170",
+      "note": ""
+    },
+    {
+      "ja": "聖なるブーツ",
+      "en": "Holy Boots",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0171",
+      "note": ""
+    },
+    {
+      "ja": "冒険者の指輪",
+      "en": "Adventurer's Ring",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0172",
+      "note": ""
+    },
+    {
+      "ja": "癒しの指輪",
+      "en": "Healing Ring",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0174",
+      "note": ""
+    },
+    {
+      "ja": "体力の指輪",
+      "en": "Ring of Vitality",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0175",
+      "note": ""
+    },
+    {
+      "ja": "七つ道具",
+      "en": "Thief's Toolkit",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0176",
+      "note": ""
+    },
+    {
+      "ja": "破邪のお守り",
+      "en": "Evil-Warding Charm",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0177",
+      "note": ""
+    },
+    {
+      "ja": "戦人の指輪",
+      "en": "Warrior's Ring",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0178",
+      "note": ""
+    },
+    {
+      "ja": "賢者の指輪",
+      "en": "Sage's Ring",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0179",
+      "note": ""
+    },
+    {
+      "ja": "知恵の木の葉",
+      "en": "Leaf of the Tree of Wisdom",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0180",
+      "note": ""
+    },
+    {
+      "ja": "目覚めの指輪",
+      "en": "Ring of Awakening",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0181",
+      "note": ""
+    },
+    {
+      "ja": "死の指輪",
+      "en": "Ring of Death",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0182",
+      "note": ""
+    },
+    {
+      "ja": "疾風の指輪",
+      "en": "Gale Ring",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0183",
+      "note": ""
+    },
+    {
+      "ja": "連射の指輪",
+      "en": "Rapid-Fire Ring",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0184",
+      "note": ""
+    },
+    {
+      "ja": "聖者の指輪",
+      "en": "Saint's Ring",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0185",
+      "note": ""
+    },
+    {
+      "ja": "怪力の指輪",
+      "en": "Ring of Might",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0186",
+      "note": ""
+    },
+    {
+      "ja": "知恵の指輪",
+      "en": "Ring of Wisdom",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0187",
+      "note": ""
+    },
+    {
+      "ja": "貴婦人のネックレス",
+      "en": "Noblewoman's Necklace",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0188",
+      "note": ""
+    },
+    {
+      "ja": "魔力の松明",
+      "en": "Magic Torch",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0189",
+      "note": ""
+    },
+    {
+      "ja": "傷薬",
+      "en": "Healing Salve",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0192",
+      "note": ""
+    },
+    {
+      "ja": "毒消し",
+      "en": "Antidote",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0194",
+      "note": ""
+    },
+    {
+      "ja": "気つけ薬",
+      "en": "Smelling Salts",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0196",
+      "note": ""
+    },
+    {
+      "ja": "滋養薬",
+      "en": "Restorative",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0198",
+      "note": ""
+    },
+    {
+      "ja": "転移の巻物",
+      "en": "Teleport Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0200",
+      "note": ""
+    },
+    {
+      "ja": "エリクサー",
+      "en": "Elixir",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0203",
+      "note": ""
+    },
+    {
+      "ja": "異教徒の経典",
+      "en": "Heretic's Scripture",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0205",
+      "note": ""
+    },
+    {
+      "ja": "ビルソール断章",
+      "en": "Bilsol Fragment",
+      "status": "review",
+      "source": "databases/items",
+      "id": "DI0207",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "無名の神の書",
+      "en": "Book of the Nameless God",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0209",
+      "note": ""
+    },
+    {
+      "ja": "異教徒の像",
+      "en": "Heretic's Statue",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0211",
+      "note": ""
+    },
+    {
+      "ja": "魔神の像",
+      "en": "Demon God's Statue",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0213",
+      "note": ""
+    },
+    {
+      "ja": "深淵の神の像",
+      "en": "Statue of the Abyssal God",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0215",
+      "note": ""
+    },
+    {
+      "ja": "火の巻物",
+      "en": "Fire Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0217",
+      "note": ""
+    },
+    {
+      "ja": "水の巻物",
+      "en": "Water Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0219",
+      "note": ""
+    },
+    {
+      "ja": "雷の巻物",
+      "en": "Lightning Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0221",
+      "note": ""
+    },
+    {
+      "ja": "土の巻物",
+      "en": "Earth Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0223",
+      "note": ""
+    },
+    {
+      "ja": "闇の巻物",
+      "en": "Dark Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0225",
+      "note": ""
+    },
+    {
+      "ja": "光の巻物",
+      "en": "Light Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0227",
+      "note": ""
+    },
+    {
+      "ja": "火葬経典の巻物",
+      "en": "Cremation Scripture Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0229",
+      "note": ""
+    },
+    {
+      "ja": "瀑布経典の巻物",
+      "en": "Waterfall Scripture Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0231",
+      "note": ""
+    },
+    {
+      "ja": "迅雷経典の巻物",
+      "en": "Thunder Scripture Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0233",
+      "note": ""
+    },
+    {
+      "ja": "土葬経典の巻物",
+      "en": "Burial Scripture Scroll",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0235",
+      "note": ""
+    },
+    {
+      "ja": "ボーフォンケルクの地図",
+      "en": "Bofonkerk Map",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0237",
+      "note": ""
+    },
+    {
+      "ja": "デ・ブーレ迷宮の地図",
+      "en": "De Bure Labyrinth Map",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0239",
+      "note": ""
+    },
+    {
+      "ja": "マシネ・トヘトの地図",
+      "en": "Machinetohet Map",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0241",
+      "note": ""
+    },
+    {
+      "ja": "アウダークルク上層地図",
+      "en": "Upper Auderkirk Map",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0243",
+      "note": ""
+    },
+    {
+      "ja": "アウダークルク下層地図",
+      "en": "Lower Auderkirk Map",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0245",
+      "note": ""
+    },
+    {
+      "ja": "アウダークルク最下地図",
+      "en": "Bottom Auderkirk Map",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0247",
+      "note": ""
+    },
+    {
+      "ja": "ブレスマスラーンの地図",
+      "en": "Bresmaslaan Map",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0249",
+      "note": ""
+    },
+    {
+      "ja": "生贄の札",
+      "en": "Sacrifice Talisman",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0251",
+      "note": ""
+    },
+    {
+      "ja": "支配の札",
+      "en": "Domination Talisman",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0252",
+      "note": ""
+    },
+    {
+      "ja": "戦士の書",
+      "en": "Book of the Fighter",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0253",
+      "note": ""
+    },
+    {
+      "ja": "魔術士の書",
+      "en": "Book of the Mage",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0256",
+      "note": ""
+    },
+    {
+      "ja": "僧侶の書",
+      "en": "Book of the Priest",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0259",
+      "note": ""
+    },
+    {
+      "ja": "盗賊の書",
+      "en": "Book of the Thief",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0262",
+      "note": ""
+    },
+    {
+      "ja": "司祭の書",
+      "en": "Book of the Bishop",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0265",
+      "note": ""
+    },
+    {
+      "ja": "侍の書",
+      "en": "Book of the Samurai",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0268",
+      "note": ""
+    },
+    {
+      "ja": "君主の書",
+      "en": "Book of the Lord",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0271",
+      "note": ""
+    },
+    {
+      "ja": "忍者の書",
+      "en": "Book of the Ninja",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0274",
+      "note": ""
+    },
+    {
+      "ja": "腕力の果実",
+      "en": "Fruit of Strength",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0277",
+      "note": ""
+    },
+    {
+      "ja": "信仰の果実",
+      "en": "Fruit of Piety",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0279",
+      "note": ""
+    },
+    {
+      "ja": "知識の果実",
+      "en": "Fruit of Knowledge",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0281",
+      "note": ""
+    },
+    {
+      "ja": "敏捷の果実",
+      "en": "Fruit of Agility",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0283",
+      "note": ""
+    },
+    {
+      "ja": "体力の果実",
+      "en": "Fruit of Vitality",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0285",
+      "note": ""
+    },
+    {
+      "ja": "幸運の果実",
+      "en": "Fruit of Luck",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0287",
+      "note": ""
+    },
+    {
+      "ja": "汚れたダガー",
+      "en": "Dirty Dagger",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0289",
+      "note": ""
+    },
+    {
+      "ja": "秘薬の材料",
+      "en": "Secret Remedy Ingredient",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0290",
+      "note": ""
+    },
+    {
+      "ja": "死者のサークレット",
+      "en": "Dead One's Circlet",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0292",
+      "note": ""
+    },
+    {
+      "ja": "変貌の印",
+      "en": "Mark of Transformation",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0293",
+      "note": ""
+    },
+    {
+      "ja": "チュルガーの書",
+      "en": "Book of Chu Lu Gah",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0294",
+      "note": ""
+    },
+    {
+      "ja": "傷薬の原液",
+      "en": "Healing Salve Concentrate",
+      "status": "translated",
+      "source": "databases/items",
+      "id": "DI0296",
+      "note": ""
+    },
+    {
+      "ja": "インプ",
+      "en": "Imp",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0000",
+      "note": ""
+    },
+    {
+      "ja": "ガーゴイル",
+      "en": "Gargoyle",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0002",
+      "note": ""
+    },
+    {
+      "ja": "ダークライダー",
+      "en": "Dark Rider",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0004",
+      "note": ""
+    },
+    {
+      "ja": "アルプ",
+      "en": "Alp",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0008",
+      "note": ""
+    },
+    {
+      "ja": "インキュバス",
+      "en": "Incubus",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0013",
+      "note": ""
+    },
+    {
+      "ja": "サッキュバス",
+      "en": "Succubus",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0017",
+      "note": ""
+    },
+    {
+      "ja": "レッサーデーモン",
+      "en": "Lesser Demon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0020",
+      "note": ""
+    },
+    {
+      "ja": "アークデーモン",
+      "en": "Arch Demon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0024",
+      "note": ""
+    },
+    {
+      "ja": "グレーターデーモン",
+      "en": "Greater Demon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0027",
+      "note": ""
+    },
+    {
+      "ja": "バフォメット",
+      "en": "Baphomet",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0030",
+      "note": ""
+    },
+    {
+      "ja": "デーモンロード",
+      "en": "Demon Lord",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0034",
+      "note": ""
+    },
+    {
+      "ja": "アンデッドゴブリン",
+      "en": "Undead Goblin",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0039",
+      "note": ""
+    },
+    {
+      "ja": "アンデッドコボルド",
+      "en": "Undead Kobold",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0042",
+      "note": ""
+    },
+    {
+      "ja": "グレイブミスト",
+      "en": "Grave Mist",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0044",
+      "note": ""
+    },
+    {
+      "ja": "スケルトン",
+      "en": "Skeleton",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0046",
+      "note": ""
+    },
+    {
+      "ja": "ゾンビ",
+      "en": "Zombie",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0048",
+      "note": ""
+    },
+    {
+      "ja": "バンパイアバット",
+      "en": "Vampire Bat",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0050",
+      "note": ""
+    },
+    {
+      "ja": "ヴァンパイア",
+      "en": "Vampire",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0053",
+      "note": ""
+    },
+    {
+      "ja": "ウェブスピナー",
+      "en": "Web Spinner",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0057",
+      "note": ""
+    },
+    {
+      "ja": "シェイド",
+      "en": "Shade",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0059",
+      "note": ""
+    },
+    {
+      "ja": "バンシー",
+      "en": "Banshee",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0061",
+      "note": ""
+    },
+    {
+      "ja": "マミー",
+      "en": "Mummy",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0064",
+      "note": ""
+    },
+    {
+      "ja": "ジャム",
+      "en": "Jamm",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0068",
+      "note": "Jamm is a provisional romanization of this headless statue monster; confirm against an established Wizardry name index."
+    },
+    {
+      "ja": "ジャイアントゾンビ",
+      "en": "Giant Zombie",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0070",
+      "note": ""
+    },
+    {
+      "ja": "ドラゴンゾンビ",
+      "en": "Dragon Zombie",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0073",
+      "note": ""
+    },
+    {
+      "ja": "ライフスティーラー",
+      "en": "Life Stealer",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0075",
+      "note": ""
+    },
+    {
+      "ja": "モーラ",
+      "en": "Mora",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0077",
+      "note": ""
+    },
+    {
+      "ja": "アルチンボルド",
+      "en": "Arcimboldo",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0082",
+      "note": "Arcimboldo is the standard spelling of the painter-like name, but an established game-specific English spelling remains unverified."
+    },
+    {
+      "ja": "ヴァンパイアクイーン",
+      "en": "Vampire Queen",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0087",
+      "note": ""
+    },
+    {
+      "ja": "ヴァンパイアロード",
+      "en": "Vampire Lord",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0093",
+      "note": ""
+    },
+    {
+      "ja": "ヒスアンホリネス",
+      "en": "His Unholiness",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0096",
+      "note": "His Unholiness interprets the phonetic name as a deliberate inversion of His Holiness, supported by the corrupt high-cleric lore."
+    },
+    {
+      "ja": "リーパー",
+      "en": "Reaper",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0100",
+      "note": ""
+    },
+    {
+      "ja": "リーイー",
+      "en": "Lee-Yi",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0103",
+      "note": "Lee-Yi is a provisional romanization of the named mage; needs authoritative name lookup."
+    },
+    {
+      "ja": "オーガ",
+      "en": "Ogre",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0107",
+      "note": ""
+    },
+    {
+      "ja": "アースジャイアント",
+      "en": "Earth Giant",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0110",
+      "note": ""
+    },
+    {
+      "ja": "エアジャイアント",
+      "en": "Air Giant",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0112",
+      "note": ""
+    },
+    {
+      "ja": "ファイアージャイアント",
+      "en": "Fire Giant",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0115",
+      "note": ""
+    },
+    {
+      "ja": "フロストジャイアント",
+      "en": "Frost Giant",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0118",
+      "note": ""
+    },
+    {
+      "ja": "サイクロプス",
+      "en": "Cyclops",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0122",
+      "note": ""
+    },
+    {
+      "ja": "ポイズンジャイアント",
+      "en": "Poison Giant",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0125",
+      "note": ""
+    },
+    {
+      "ja": "ワーラット",
+      "en": "Wererat",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0127",
+      "note": ""
+    },
+    {
+      "ja": "ワーウルフ",
+      "en": "Werewolf",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0129",
+      "note": ""
+    },
+    {
+      "ja": "ワータイガー",
+      "en": "Weretiger",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0131",
+      "note": ""
+    },
+    {
+      "ja": "キマイラ",
+      "en": "Chimera",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0133",
+      "note": ""
+    },
+    {
+      "ja": "ラミア",
+      "en": "Lamia",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0136",
+      "note": ""
+    },
+    {
+      "ja": "ゴーゴン",
+      "en": "Gorgon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0138",
+      "note": ""
+    },
+    {
+      "ja": "イフリート",
+      "en": "Ifrit",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0142",
+      "note": ""
+    },
+    {
+      "ja": "スピリット",
+      "en": "Spirit",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0145",
+      "note": ""
+    },
+    {
+      "ja": "ソウルイーター",
+      "en": "Soul Eater",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0147",
+      "note": ""
+    },
+    {
+      "ja": "ウィルオーウィスプ",
+      "en": "Will-o'-the-Wisp",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0149",
+      "note": ""
+    },
+    {
+      "ja": "ジン",
+      "en": "Djinn",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0152",
+      "note": ""
+    },
+    {
+      "ja": "ファイアードレイク",
+      "en": "Fire Drake",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0154",
+      "note": ""
+    },
+    {
+      "ja": "キラーウルフ",
+      "en": "Killer Wolf",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0158",
+      "note": ""
+    },
+    {
+      "ja": "スコーピオン",
+      "en": "Scorpion",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0160",
+      "note": ""
+    },
+    {
+      "ja": "ノーシーアムスワーム",
+      "en": "No-See-Um Swarm",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0162",
+      "note": "No-See-Um Swarm is the conventional English insect phrase corresponding to the phonetic monster name; game-specific spelling needs final consistency."
+    },
+    {
+      "ja": "ボーパルバニー",
+      "en": "Vorpal Bunny",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0164",
+      "note": ""
+    },
+    {
+      "ja": "ジャイアントクラブ",
+      "en": "Giant Crab",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0167",
+      "note": ""
+    },
+    {
+      "ja": "ジャイアントバイパー",
+      "en": "Giant Viper",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0170",
+      "note": ""
+    },
+    {
+      "ja": "ジャイアントマンティス",
+      "en": "Giant Mantis",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0172",
+      "note": ""
+    },
+    {
+      "ja": "ロック",
+      "en": "Roc",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0176",
+      "note": ""
+    },
+    {
+      "ja": "ガスドラゴン",
+      "en": "Gas Dragon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0178",
+      "note": ""
+    },
+    {
+      "ja": "ドラゴンフライ",
+      "en": "Dragonfly",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0180",
+      "note": ""
+    },
+    {
+      "ja": "ワイバーン",
+      "en": "Wyvern",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0184",
+      "note": ""
+    },
+    {
+      "ja": "ドラゴンパピー",
+      "en": "Dragon Puppy",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0189",
+      "note": ""
+    },
+    {
+      "ja": "ヒドラ",
+      "en": "Hydra",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0192",
+      "note": ""
+    },
+    {
+      "ja": "ファイアードラゴン",
+      "en": "Fire Dragon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0196",
+      "note": ""
+    },
+    {
+      "ja": "ゴールドドラゴン",
+      "en": "Gold Dragon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0200",
+      "note": ""
+    },
+    {
+      "ja": "ブラックドラゴン",
+      "en": "Black Dragon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0204",
+      "note": ""
+    },
+    {
+      "ja": "ウィッチ",
+      "en": "Witch",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0208",
+      "note": ""
+    },
+    {
+      "ja": "ファイター",
+      "en": "Fighter",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0210",
+      "note": ""
+    },
+    {
+      "ja": "プリーステス",
+      "en": "Priestess",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0213",
+      "note": ""
+    },
+    {
+      "ja": "プリースト",
+      "en": "Priest",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0215",
+      "note": ""
+    },
+    {
+      "ja": "メイジ",
+      "en": "Mage",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0217",
+      "note": ""
+    },
+    {
+      "ja": "ローグ",
+      "en": "Rogue",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0219",
+      "note": ""
+    },
+    {
+      "ja": "アサッシン",
+      "en": "Assassin",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0221",
+      "note": ""
+    },
+    {
+      "ja": "サムライ",
+      "en": "Samurai",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0223",
+      "note": ""
+    },
+    {
+      "ja": "バーサーカー",
+      "en": "Berserker",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0225",
+      "note": ""
+    },
+    {
+      "ja": "ビショップ",
+      "en": "Bishop",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0227",
+      "note": ""
+    },
+    {
+      "ja": "クルセイダーロード",
+      "en": "Crusader Lord",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0229",
+      "note": ""
+    },
+    {
+      "ja": "ダーク・クルセイダー",
+      "en": "Dark Crusader",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0232",
+      "note": ""
+    },
+    {
+      "ja": "ニンジャ",
+      "en": "Ninja",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0234",
+      "note": ""
+    },
+    {
+      "ja": "ハタモト",
+      "en": "Hatamoto",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0239",
+      "note": "Hatamoto retained as the Japanese samurai retainer title; lore begins in next slice."
+    },
+    {
+      "ja": "ハヤテ",
+      "en": "Hayate",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0242",
+      "note": ""
+    },
+    {
+      "ja": "ムサシ",
+      "en": "Musashi",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0246",
+      "note": ""
+    },
+    {
+      "ja": "イビルアイ",
+      "en": "Evil Eye",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0250",
+      "note": ""
+    },
+    {
+      "ja": "ガスクラウド",
+      "en": "Gas Cloud",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0253",
+      "note": ""
+    },
+    {
+      "ja": "クリーピングコイン",
+      "en": "Creeping Coin",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0257",
+      "note": ""
+    },
+    {
+      "ja": "クリッピングクロウ",
+      "en": "Clipping Claw",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0260",
+      "note": "Clipping Claw is provisional; the source phonetics differ from the familiar Creeping/Crawling Claw name."
+    },
+    {
+      "ja": "ミミック",
+      "en": "Mimic",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0262",
+      "note": ""
+    },
+    {
+      "ja": "アイアンゴーレム",
+      "en": "Iron Golem",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0265",
+      "note": ""
+    },
+    {
+      "ja": "バシリスク",
+      "en": "Basilisk",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0267",
+      "note": ""
+    },
+    {
+      "ja": "リビングアーマー",
+      "en": "Living Armor",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0270",
+      "note": ""
+    },
+    {
+      "ja": "オーク",
+      "en": "Orc",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0272",
+      "note": ""
+    },
+    {
+      "ja": "ゴブリン",
+      "en": "Goblin",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0274",
+      "note": ""
+    },
+    {
+      "ja": "ゴブリンプリースト",
+      "en": "Goblin Priest",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0277",
+      "note": ""
+    },
+    {
+      "ja": "コボルド",
+      "en": "Kobold",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0281",
+      "note": ""
+    },
+    {
+      "ja": "ピクシー",
+      "en": "Pixie",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0283",
+      "note": ""
+    },
+    {
+      "ja": "トロール",
+      "en": "Troll",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0285",
+      "note": ""
+    },
+    {
+      "ja": "バブリースライム",
+      "en": "Bubbly Slime",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0289",
+      "note": ""
+    },
+    {
+      "ja": "ヴィーナスマントラップ",
+      "en": "Venus Mantrap",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0291",
+      "note": ""
+    },
+    {
+      "ja": "ゴブリン・バースト",
+      "en": "Goblin Burst",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0294",
+      "note": ""
+    },
+    {
+      "ja": "キュクロプス",
+      "en": "Kyklops",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0297",
+      "note": "Kyklops distinguishes the source spelling from the separately listed Cyclops."
+    },
+    {
+      "ja": "ゴルゴーン",
+      "en": "Gorgone",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0300",
+      "note": "Gorgone provisionally distinguishes this spelling from the earlier Gorgon."
+    },
+    {
+      "ja": "コマンド・タイガー",
+      "en": "Commando Tiger",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0303",
+      "note": "Commando Tiger is provisional; source phonetics could also be rendered Command Tiger."
+    },
+    {
+      "ja": "ランタン・スコーピオン",
+      "en": "Lantern Scorpion",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0305",
+      "note": ""
+    },
+    {
+      "ja": "ヴィーナスマンウォール",
+      "en": "Venus Manwall",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0308",
+      "note": ""
+    },
+    {
+      "ja": "グローイングスライム",
+      "en": "Glowing Slime",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0312",
+      "note": "Glowing Slime follows the explicit light-emitting lore, resolving the Glowing/Growing ambiguity."
+    },
+    {
+      "ja": "ピクシーファントム",
+      "en": "Pixie Phantom",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0315",
+      "note": ""
+    },
+    {
+      "ja": "ダークネスバニー",
+      "en": "Darkness Bunny",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0317",
+      "note": ""
+    },
+    {
+      "ja": "スピット・イレイサー",
+      "en": "Spit Eraser",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0319",
+      "note": "Spit Eraser is provisional; lore continues in the next slice."
+    },
+    {
+      "ja": "ハイド・バイパー",
+      "en": "Hide Viper",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0321",
+      "note": "Hide Viper is provisional; no established English spelling found in the local sources."
+    },
+    {
+      "ja": "ソロー・マンティス",
+      "en": "Sorrow Mantis",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0324",
+      "note": "Sorrow Mantis follows the long-vowel source spelling, rather than Solo Mantis."
+    },
+    {
+      "ja": "アルビノドラゴン",
+      "en": "Albino Dragon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0326",
+      "note": ""
+    },
+    {
+      "ja": "スカルフライ",
+      "en": "Skullfly",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0328",
+      "note": ""
+    },
+    {
+      "ja": "ケルベロスもどき",
+      "en": "False Cerberus",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0332",
+      "note": ""
+    },
+    {
+      "ja": "アイスドレイク",
+      "en": "Ice Drake",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0336",
+      "note": ""
+    },
+    {
+      "ja": "ブロンズ・ジャム",
+      "en": "Bronze Jamm",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0340",
+      "note": "Bronze Jamm follows provisional Jamm spelling in DM0068."
+    },
+    {
+      "ja": "ホーンドトロール",
+      "en": "Horned Troll",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0342",
+      "note": ""
+    },
+    {
+      "ja": "ラミア・バースト",
+      "en": "Lamia Burst",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0345",
+      "note": ""
+    },
+    {
+      "ja": "ソフィア",
+      "en": "Sophia",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0348",
+      "note": "Sophia is a species name here; no gender is inferred from the name."
+    },
+    {
+      "ja": "ハヤテ・デーモン",
+      "en": "Hayate Demon",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0351",
+      "note": ""
+    },
+    {
+      "ja": "デビル・ザ・ムサシ",
+      "en": "Devil the Musashi",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0354",
+      "note": ""
+    },
+    {
+      "ja": "ゴールドゴーレム",
+      "en": "Gold Golem",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0356",
+      "note": ""
+    },
+    {
+      "ja": "コスモジャイアント",
+      "en": "Cosmo Giant",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0359",
+      "note": ""
+    },
+    {
+      "ja": "バンプ・バースト",
+      "en": "Vamp Burst",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0367",
+      "note": "Vamp Burst is provisional; source phonetics shorten Vampire with a voiced b sound."
+    },
+    {
+      "ja": "アラハゥイ",
+      "en": "Araha'wi",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0371",
+      "note": ""
+    },
+    {
+      "ja": "ミスト・ワイト",
+      "en": "Mist Wight",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0372",
+      "note": ""
+    },
+    {
+      "ja": "ディープ・グール",
+      "en": "Deep Ghoul",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0375",
+      "note": ""
+    },
+    {
+      "ja": "ワーエレファント",
+      "en": "Wereelephant",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0377",
+      "note": ""
+    },
+    {
+      "ja": "コカトリス",
+      "en": "Cockatrice",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0379",
+      "note": ""
+    },
+    {
+      "ja": "ドラコス",
+      "en": "Dracos",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0383",
+      "note": "Dracos is provisional."
+    },
+    {
+      "ja": "騒がしいカラス",
+      "en": "Noisy Crow",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0387",
+      "note": ""
+    },
+    {
+      "ja": "グリズリー",
+      "en": "Grizzly",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0392",
+      "note": ""
+    },
+    {
+      "ja": "アリゲーター",
+      "en": "Alligator",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0396",
+      "note": ""
+    },
+    {
+      "ja": "ペルーダ",
+      "en": "Peluda",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0400",
+      "note": "Peluda is the usual name of the French dragon corresponding to the source phonetics; game-specific spelling is unverified."
+    },
+    {
+      "ja": "ドゥエンデ",
+      "en": "Duende",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0404",
+      "note": ""
+    },
+    {
+      "ja": "メロファゴイ",
+      "en": "Melophagoi",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0406",
+      "note": "Melophagoi is a provisional classical-style romanization."
+    },
+    {
+      "ja": "ザ・プリティー",
+      "en": "The Pretty",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0409",
+      "note": ""
+    },
+    {
+      "ja": "フィノーデリー",
+      "en": "Fenodyree",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0411",
+      "note": ""
+    },
+    {
+      "ja": "ムキ",
+      "en": "Muki",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0413",
+      "note": "Muki is provisional."
+    },
+    {
+      "ja": "ダストクローラ",
+      "en": "Dust Crawler",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0416",
+      "note": ""
+    },
+    {
+      "ja": "サブナック",
+      "en": "Sabnock",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0418",
+      "note": ""
+    },
+    {
+      "ja": "ビフロス",
+      "en": "Bifros",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0422",
+      "note": "Bifros preserves the source without an n; relationship to the established demon name Bifrons needs verification."
+    },
+    {
+      "ja": "アエラディー",
+      "en": "Aerady",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0425",
+      "note": "Aerady is provisional."
+    },
+    {
+      "ja": "サンダージャイアント",
+      "en": "Thunder Giant",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0428",
+      "note": ""
+    },
+    {
+      "ja": "レンジャー",
+      "en": "Ranger",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0430",
+      "note": ""
+    },
+    {
+      "ja": "ソードマスター",
+      "en": "Swordmaster",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0432",
+      "note": ""
+    },
+    {
+      "ja": "ヒルデ・モエル",
+      "en": "Hylde Moer",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0435",
+      "note": "Hylde Moer is a provisional folklore-name identification matching the forest-spirit lore."
+    },
+    {
+      "ja": "ブギーマン",
+      "en": "Boogeyman",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0437",
+      "note": ""
+    },
+    {
+      "ja": "マジックツリー",
+      "en": "Magic Tree",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0439",
+      "note": ""
+    },
+    {
+      "ja": "踊る長剣の群れ",
+      "en": "Swarm of Dancing Long Swords",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0442",
+      "note": ""
+    },
+    {
+      "ja": "ルクスリア・アングイス",
+      "en": "Luxuria Anguis",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0445",
+      "note": "Luxuria Anguis is the likely Latin spelling; needs official game-name verification."
+    },
+    {
+      "ja": "テンペスタス・レクス",
+      "en": "Tempestus Rex",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0450",
+      "note": "Tempestas Rex is the likely Latin spelling; needs official game-name verification."
+    },
+    {
+      "ja": "アラ・カブラ",
+      "en": "Ala Cabra",
+      "status": "review",
+      "source": "databases/monsters",
+      "id": "DM0455",
+      "note": "Ara Cabra is a provisional spelling."
+    },
+    {
+      "ja": "シーイン",
+      "en": "Shiin",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0459",
+      "note": ""
+    },
+    {
+      "ja": "ディメント５世",
+      "en": "Dimento V",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0461",
+      "note": ""
+    },
+    {
+      "ja": "グレゴール",
+      "en": "Gregor",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0463",
+      "note": ""
+    },
+    {
+      "ja": "フィオレ",
+      "en": "Fiore",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0465",
+      "note": ""
+    },
+    {
+      "ja": "ターニャ",
+      "en": "Tanya",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0467",
+      "note": ""
+    },
+    {
+      "ja": "サイラス",
+      "en": "Cyrus",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0468",
+      "note": ""
+    },
+    {
+      "ja": "カーマイン",
+      "en": "Carmine",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0469",
+      "note": ""
+    },
+    {
+      "ja": "アンゼルム",
+      "en": "Anselm",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0471",
+      "note": ""
+    },
+    {
+      "ja": "ベアトリクス",
+      "en": "Beatrix",
+      "status": "translated",
+      "source": "databases/monsters",
+      "id": "DM0473",
+      "note": ""
+    },
+    {
+      "ja": "残魂の地図1F",
+      "en": "Lingering Souls Map 1F",
+      "status": "translated",
+      "source": "databases/ppdata_items",
+      "id": "PPDI0000",
+      "note": ""
+    },
+    {
+      "ja": "残魂の地図2F",
+      "en": "Lingering Souls Map 2F",
+      "status": "translated",
+      "source": "databases/ppdata_items",
+      "id": "PPDI0003",
+      "note": ""
+    },
+    {
+      "ja": "残魂の地図3F",
+      "en": "Lingering Souls Map 3F",
+      "status": "translated",
+      "source": "databases/ppdata_items",
+      "id": "PPDI0005",
+      "note": ""
+    },
+    {
+      "ja": "トリックアタック",
+      "en": "Trick Attack",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0000",
+      "note": ""
+    },
+    {
+      "ja": "マジックブースト",
+      "en": "Magic Boost",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0002",
+      "note": ""
+    },
+    {
+      "ja": "マジックリカバリー",
+      "en": "Magic Recovery",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0004",
+      "note": ""
+    },
+    {
+      "ja": "マジックトレード",
+      "en": "Magic Trade",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0006",
+      "note": ""
+    },
+    {
+      "ja": "ターンアンデッド",
+      "en": "Turn Undead",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0008",
+      "note": ""
+    },
+    {
+      "ja": "バックスダッブ",
+      "en": "Backstab",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0010",
+      "note": ""
+    },
+    {
+      "ja": "マジックウォール",
+      "en": "Magic Wall",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0012",
+      "note": ""
+    },
+    {
+      "ja": "激昂鳳凰ノ舞",
+      "en": "Raging Phoenix Dance",
+      "status": "review",
+      "source": "databases/skills",
+      "id": "DS0014",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "轟激刃紋ノ陣",
+      "en": "Thunderblade Formation",
+      "status": "review",
+      "source": "databases/skills",
+      "id": "DS0016",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "ヒュージシールド",
+      "en": "Huge Shield",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0018",
+      "note": ""
+    },
+    {
+      "ja": "暗殺",
+      "en": "Assassinate",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0020",
+      "note": ""
+    },
+    {
+      "ja": "鑑定",
+      "en": "Identify",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0022",
+      "note": ""
+    },
+    {
+      "ja": "チャームオブラック",
+      "en": "Charm of Luck",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0024",
+      "note": ""
+    },
+    {
+      "ja": "攻撃範囲無限",
+      "en": "Unlimited Range",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0026",
+      "note": ""
+    },
+    {
+      "ja": "無想水鏡ノ構エ",
+      "en": "Still-Water Stance",
+      "status": "review",
+      "source": "databases/skills",
+      "id": "DS0028",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "盗賊スキル",
+      "en": "Thief Skills",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0030",
+      "note": ""
+    },
+    {
+      "ja": "見切り",
+      "en": "Anticipation",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0032",
+      "note": ""
+    },
+    {
+      "ja": "サモンエレメント",
+      "en": "Summon Elemental",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0034",
+      "note": ""
+    },
+    {
+      "ja": "無手八双",
+      "en": "Eightfold Unarmed Stance",
+      "status": "review",
+      "source": "databases/skills",
+      "id": "DS0036",
+      "note": "Provisional named term or incomplete source; compare context and verify in game."
+    },
+    {
+      "ja": "オーバーマスター",
+      "en": "Overmaster",
+      "status": "translated",
+      "source": "databases/skills",
+      "id": "DS0038",
+      "note": ""
+    },
+    {
+      "ja": "全ステータス回復",
+      "en": "Full Status Recovery",
+      "status": "review",
+      "source": "databases/spells",
+      "id": "DP0088",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification. Utility-effect name. Source does not define whether this includes HP/MP, abnormal conditions, attributes, or some combination. Neutral wording preserves that uncertainty; trace the actual item-effect function and player visibility before making a more specific promise."
+    },
+    {
+      "ja": "死亡・灰から蘇生(HP1)",
+      "en": "Revive from Dead or Ashes (1 HP)",
+      "status": "review",
+      "source": "databases/spells",
+      "id": "DP0090",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification."
+    },
+    {
+      "ja": "地図",
+      "en": "Map",
+      "status": "review",
+      "source": "databases/spells",
+      "id": "DP0091",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification."
+    },
+    {
+      "ja": "地図（強化版）",
+      "en": "Map (Enhanced)",
+      "status": "review",
+      "source": "databases/spells",
+      "id": "DP0092",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification."
+    },
+    {
+      "ja": "性格-1",
+      "en": "Alignment -1",
+      "status": "review",
+      "source": "databases/spells",
+      "id": "DP0093",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification."
+    },
+    {
+      "ja": "性格+1",
+      "en": "Alignment +1",
+      "status": "review",
+      "source": "databases/spells",
+      "id": "DP0094",
+      "note": "Utility spell label; player visibility and alignment increment direction need verification."
+    }
+  ]
+}

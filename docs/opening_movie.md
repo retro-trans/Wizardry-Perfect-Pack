@@ -1,0 +1,17 @@
+# English opening movie in 0.1.8
+
+The opening now uses outlined white English subtitles along the bottom, without black cards or title masks. The original imagery, Japanese lettering and complete logo remain visible. Twelve display segments preserve every word of the seven canonical English narration/title entries; each segment has at most two lines. Text uses 36px Segoe UI Semibold, a 3px black outline and a 48px bottom margin. Names follow the existing glossary.
+
+The supplied in-game screenshot is saved as `work/ui/opening-before-0.1.7.png`. English text, display segments, coordinates and cue times are in `work/translation/en/graphics/opening.en.json`. Version 0.1.7 used central black cards; 0.1.8 replaces that presentation following the user's feedback. `movie_subtitles.py` also exports an English SRT sidecar; the game displays the subtitles embedded in the video.
+
+The source is the known `USRDIR/movie/opening.pam`, SHA-256 `a6873df0b1e506b4afd29e2f6fb603957410bf8f4d44aa0c6432f7f7c7d423bd`. It has 2,210 progressive 1280 by 720 pictures at 30000/1001 frames per second. The first narration begins with display frame 213; preceding black holds remain uncaptioned.
+
+`movie_opening.py` renders the English video using the source picture types and IDR boundaries. `check_movie_captions.py` checks every subtitle's font bounds, line count and timing, and compares joined display segments against canonical wording. A noisy-image check verifies that the subtitle painter leaves the central artwork untouched; only glyph pixels in the bottom safe area change before video encoding. The video is re-encoded, so this is not a claim of bit-identical image pixels. Single-slice encoding avoids excess overhead in the source's 107-byte black/held pictures. `movie_pamf.py` checks every encoded access unit against its original allocation and preserves its exact byte offset and size, using legal filler for unused bytes. It changes only video payload spans.
+
+`movie_vui.py` restores the source's compatible VUI, both HRD structures and non-user-data SEI, including picture timing and recovery points. It preserves the newly encoded slice bytes and SPS coding prefix. The source VUI is required because the encoder advertises a different timing clock. Unchanged allocations also retain the original header, playback index and timestamps.
+
+`movie_verify.py` independently decodes all pictures and compares packet PTS/DTS, sizes, flags, decoded timestamps, picture types, dimensions and pixel format. It checks all non-video bytes, including all 598 private audio PES packets and 88 access maps, against the original. The build accepts the movie only after a verified report matches its output hash, and the overlay verifier repeats container preservation checks.
+
+These checks establish a complete software decode and byte-preservation pass. Updated RPCS3 playback, listening to the music and return to the title still require an in-game test. The active test session is preserved; the launcher applies the movie after that session closes. No public release is created.
+
+Rebuild in order with 64-bit Python: dry-run and then write `movie_opening.py`, `movie_pamf.py` with the rendered AVC and packet plan, `movie_vui.py`, then `movie_pamf.py` with the VUI-adjusted stream and a fresh output name. Run `movie_verify.py` on that final PAMF, then save its report with `--write`. Pass the verified PAMF to `build.py --movie` for a new versioned overlay. Do not package the intermediate experimental PAMF.

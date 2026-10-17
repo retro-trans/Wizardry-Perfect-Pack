@@ -1,0 +1,92 @@
+{
+  "rows_in_slice": 13,
+  "rows_examined": 13,
+  "provenance": "Authenticated dungeon-scene name fields; reused existing place terminology",
+  "translations": [
+    {
+      "id": "L0000",
+      "en": "Bofonkerk",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented."
+    },
+    {
+      "id": "L0001",
+      "en": "De Bure Labyrinth",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented. Compact label is shared by the selection menu and dungeon header; preserves room for the area number.",
+      "display": "De Bure Maze"
+    },
+    {
+      "id": "L0002",
+      "en": "Machinetohet",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented."
+    },
+    {
+      "id": "L0003",
+      "en": "Auderkirk Labyrinth",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented. Compact label is shared by the selection menu and dungeon header; preserves room for the area number.",
+      "display": "Auderkirk Maze"
+    },
+    {
+      "id": "L0004",
+      "en": "Bresmaslaan",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented."
+    },
+    {
+      "id": "L0005",
+      "en": "Bahelmeja",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented."
+    },
+    {
+      "id": "L0006",
+      "en": "Diemen Labyrinth",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented. Compact label is shared by the selection menu and dungeon header; preserves room for the area number.",
+      "display": "Diemen Maze"
+    },
+    {
+      "id": "L0007",
+      "en": "Staatsen Labyrinth",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented. Compact label is shared by the selection menu and dungeon header; preserves room for the area number.",
+      "display": "Staatsen Maze"
+    },
+    {
+      "id": "L0008",
+      "en": "Watering",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented."
+    },
+    {
+      "id": "L0009",
+      "en": "Strage Labyrinth",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented. Compact label is shared by the selection menu and dungeon header; preserves room for the area number.",
+      "display": "Strage Maze"
+    },
+    {
+      "id": "L0010",
+      "en": "Graham Rootze",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented."
+    },
+    {
+      "id": "L0011",
+      "en": "Graham Labyrinth",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented. Compact label is shared by the selection menu and dungeon header; preserves room for the area number.",
+      "display": "Graham Maze"
+    },
+    {
+      "id": "L0012",
+      "en": "Labyrinth of Lingering Souls",
+      "status": "translated",
+      "note": "Location name follows the existing source-backed place glossary; romanization remains provisional where documented. Compact label is shared by the selection menu and dungeon header; preserves room for the area number.",
+      "display": "Lingering Souls"
+    }
+  ]
+}
