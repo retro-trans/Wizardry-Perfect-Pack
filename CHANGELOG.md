@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.11 — 2026-10-17
+
+- Withdraw the public 0.1.10 package release to a private draft at the user's request. Switch distribution to an original-ISO-to-English-ISO xdelta patch, compatible with Retro Trans Tools.
+- Rebuild Prisoners of the Lost City with `v0.1.11` in the title footer. Preserve the other game's package and all unrelated disc files.
+- Update patching and installation instructions: select the original Perfect Pack ISO as the patch source, then extract and install its translated PKG01 package in RPCS3. Direct ISO boot and stock-console authentication are unsupported.
+
 ## 0.1.10 — 2026-10-17
 
 - Add `v0.1.10` and `github.com/retro-trans` at the title screen's bottom right, using native text measurement, gray text and a black shadow. Preserve the copyright, title atlas and other menus.

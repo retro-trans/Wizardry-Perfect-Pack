@@ -1,10 +1,10 @@
 {
   "screen": "Prisoners of the Lost City title screen",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "canvas": [1280, 720],
   "right_edge": 1256,
   "lines": [
-    {"text": "v0.1.10", "y": 646, "font_size": 18},
+    {"text": "v0.1.11", "y": 646, "font_size": 18},
     {"text": "github.com/retro-trans", "y": 670, "font_size": 20}
   ],
   "alignment": "right; measured with the native font",
