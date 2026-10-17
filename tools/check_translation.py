@@ -76,6 +76,20 @@ def validate(sources, english):
             errors.append(dict(id=key, error='Newline count changed', source_count=src.count('\n'), english_count=en.count('\n')))
         if '\0' in en:
             errors.append(dict(id=key, error='Embedded NUL'))
+        from executable_context import reference_overrides
+        try:
+            overrides = reference_overrides(sources[key], row)
+        except ValueError as exc:
+            errors.append(dict(id=key, error=str(exc)))
+            overrides = {}
+        for pointer, override in overrides.items():
+            for label, pattern in patterns:
+                if pattern.findall(src) != pattern.findall(override['en']):
+                    errors.append(dict(id=key, pointer_offset=hex(pointer), error=label+' changed in reference translation'))
+            if src.count('\n') != override['en'].count('\n'):
+                errors.append(dict(id=key, pointer_offset=hex(pointer), error='Newline count changed in reference translation'))
+            if JAPANESE_PROSE.search(override['en']):
+                reviews.append(dict(id=key, pointer_offset=hex(pointer), issue='Japanese glyphs retained in reference translation'))
         if 'display' in row:
             display=row['display']
             if not isinstance(display,str) or not display or '\0' in display or '\n' in display or JAPANESE_PROSE.search(display):
@@ -84,6 +98,11 @@ def validate(sources, english):
             reviews.append(dict(id=key, issue='Japanese glyphs retained', output_file=row['output_file']))
         if status == 'review':
             reviews.append(dict(id=key, issue=row.get('note') or 'Meaning/context review required', output_file=row['output_file']))
+    from executable_context import collect_reference_overrides
+    try:
+        collect_reference_overrides(sources, english)
+    except ValueError as exc:
+        errors.append(dict(error=str(exc)))
     stats = {}
     for source in dict.fromkeys(v['source'] for v in sources.values()):
         ids = [k for k, v in sources.items() if v['source']==source]

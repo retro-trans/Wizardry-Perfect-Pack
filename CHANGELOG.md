@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.13 — 2026-10-18 (local test build)
+
+- Change sword weapon categories and preferred weapons from Kns to Swords at 13 references. Keep Kns only for the compact Kensei class label.
+- Audit 295 short/shared source rows. Separate compact Mage (Mag) and Felpurr race labels from Magic and Beast monster categories. Flag the unresolved Light speaker-name occurrence for review; retain uncertain Evil category wording pending stronger evidence.
+- Add guarded per-reference translations, independent pointer/string verification and eight regressions. Prevent exact-text reuse from importing contextual rows or their edition-specific addresses. Preserve the 0.1.12 portrait-dialogue fix.
+- Keep this build local; updated in-game appearance remains pending.
+
 ## 0.1.12 — 2026-10-18 (local test build)
 
 - Fix named portrait dialogue clipping beyond the right edge. Resource72 is 960px wide, and its native body begins 128px inside the frame; use an 800px text budget with 32px right padding. The old 896px budget did not account for the portrait inset. Keep the original 32px font, wording, colors, typewriter behavior and three-line pagination.

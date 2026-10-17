@@ -1,5 +1,22 @@
 # Local build and testing
 
+## Test the local 0.1.13 context-label fix
+
+Save progress, close the project test emulator and run
+`work/output/Play-English-Test.cmd`. Confirm `v0.1.13` on the title screen.
+In class confirmation, Fighter and Lord should show `Weapons: Swords`.
+Sword item categories should also read Swords. Compact Kensei class labels
+retain Kns; compact Mage labels use Mag. The race label uses Felpurr, while
+the monster categories remain Magic and Beast. See
+[the context audit](short_label_context.md) for the verified scope and remaining
+uncertainties. Recheck the portrait-dialogue cases below as well.
+
+For an installed release profile, local ISO patches are in
+`work/output/release-0.1.13-local/`. Select the patch matching the exact source
+ISO: original Japanese, English 0.1.11 or English 0.1.12. Apply it with Retro
+Trans Tools manual xdelta, extract PKG01 and install its package in RPCS3.
+The public release remains 0.1.11 and does not contain these local fixes.
+
 ## Test the local 0.1.12 portrait-dialogue fix
 
 The local 0.1.12 build corrects portrait dialogue that still clipped in

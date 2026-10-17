@@ -18,7 +18,7 @@ from elftools.elf.elffile import ELFFile
 from check_translation import ROOT, read_sources, read_english, validate
 
 EXE_HASH = '2e23b466028ac0a18f7f46522fe1847d5c918a129605a2bdc1c56ca31da82bba'
-VERSION = '0.1.12'
+VERSION = '0.1.13'
 # Native code has inlined fixed-size copies for these short Japanese labels.
 # Relocating them early would omit their terminators. Expand only at the final
 # font boundary, after those original copies have safely finished.
@@ -115,6 +115,10 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
     file_base = align(len(data), 65536)
     addresses, blob, lookup = {}, bytearray(), {}
     aliases = []
+    from executable_context import collect_reference_overrides
+    context_overrides = collect_reference_overrides(sources, english)
+    if any(row['id'] in DEFERRED_UI_IDS for row in context_overrides.values()):
+        raise ValueError('Copied UI labels need a caller-specific hook before reference overrides')
     for key, row in sources.items():
         if row['source'] != 'executable' or key not in english or english[key]['en'] is None:
             continue
@@ -132,6 +136,12 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
         if key in DEFERRED_UI_IDS:
             aliases.append((row['occurrences'][0]['address'], lookup[encoded],
                             int(key in {'X1337', 'X1338'}), key))
+    for override in context_overrides.values():
+        encoded = override['en'].encode('utf8')+b'\0'
+        if encoded not in lookup:
+            blob.extend(b'\0'*(-len(blob)%8))
+            lookup[encoded] = base+len(blob)
+            blob.extend(encoded)
     from ui_literal_text import collect as collect_ui_literals
     literal_rows=collect_ui_literals(data)
     for row in literal_rows:
@@ -178,9 +188,16 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
             old = struct.unpack_from('>I', data, off)[0]
             if old in addresses:
                 new, key = addresses[old]
+                override = context_overrides.get(off)
+                if override:
+                    if override['source_address'] != old or override['id'] != key:
+                        raise ValueError('Executable reference context guard mismatch')
+                    new = lookup[override['en'].encode('utf8')+b'\0']
                 struct.pack_into('>I', result, off, new)
                 refs.append(dict(offset=off, before=old, after=new, id=key))
                 count[old] += 1
+    if set(context_overrides)-{r['offset'] for r in refs}:
+        raise ValueError('Context override is outside the verified pointer ranges or has changed')
     missing = [hex(old) for old in addresses if not count[old]]
     if missing:
         raise ValueError('Unreferenced text cannot safely relocate: '+str(missing[:20]))
@@ -232,6 +249,7 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
                          strings=len(addresses), pointers=len(refs), segment_address=hex(base),
                          segment_bytes=len(blob), instructions_unchanged=not runtime_patches,
                          original_instructions_preserved_except_verified_hooks=True,runtime=runtime_info,
+                         reference_overrides=sorted(context_overrides.values(),key=lambda r:r['pointer_offset']),
                          pointer_changes=refs, verification='Static checks only; runtime and layout pending.')
 
 

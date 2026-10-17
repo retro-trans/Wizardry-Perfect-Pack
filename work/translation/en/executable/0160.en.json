@@ -233,15 +233,23 @@
     },
     {
       "id": "X0179",
-      "en": "Kns",
+      "en": "Swords",
       "status": "translated",
-      "note": "",
+      "note": "Context audit: weapon category, sword-item labels and Fighter/Lord preferred weapons use Swords. The compact Kensei class reference retains Kns.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X0179",
         "match": "exact Japanese source text",
-        "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+        "context_review": "Perfect Pack native reference/context audit, 2026-10-18; edition-specific references must be retraced before reuse."
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x440e1c",
+          "source_address": "0x3ec808",
+          "en": "Kns",
+          "context": "Kensei in the compact thirteen-class label array, zero-based index8. Other references to this row are sword weapons."
+        }
+      ]
     },
     {
       "id": "X0180",
@@ -690,13 +698,13 @@
     {
       "id": "X0217",
       "en": "Light",
-      "status": "translated",
-      "note": "",
+      "status": "review",
+      "note": "Element labels remain Light. The separate speaker-name reference at file0x44127c, source address0x3ed810, needs reliable name-reading and active-reachability evidence; do not guess Hikari/Hikaru/Akari from the glyph.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X0217",
         "match": "exact Japanese source text",
-        "context_review": "Inherited draft; edition-specific occurrences require review"
+        "context_review": "Perfect Pack native reference/context audit, 2026-10-18; edition-specific references must be retraced before reuse."
       }
     },
     {

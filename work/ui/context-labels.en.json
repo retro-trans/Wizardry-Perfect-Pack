@@ -1,0 +1,16 @@
+{
+  "screen": "Prisoners of the Lost City class confirmation",
+  "capture": "context-labels-before-0.1.13.png",
+  "kind": "Actual user in-game screenshot; version not established by this capture",
+  "capture_resolution": [1121, 657],
+  "reported_region": {"x": 638, "y": 428, "width": 74, "height": 59},
+  "reported_text": "Weapons: Kns",
+  "expected_text": "Weapons: Swords",
+  "source_id": "X0179",
+  "preferred_weapon_pointer_offsets": ["0x446d50", "0x446db0"],
+  "class_abbreviation_pointer_offset": "0x440e1c",
+  "fix": "Use Swords at weapon references; keep Kns only in the compact Kensei class array",
+  "build": "0.1.13",
+  "static_pointer_verification": true,
+  "updated_ingame_capture": false
+}

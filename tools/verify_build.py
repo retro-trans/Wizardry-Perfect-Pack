@@ -63,6 +63,32 @@ def verify(build):
    if s['p_type']=='PT_LOAD' and s['p_vaddr']<=address and address+length<=s['p_vaddr']+s['p_filesz']:
     off=s['p_offset']+address-s['p_vaddr'];return exe[off:off+length]
   raise ValueError('Read outside load segments')
+ # Verify every relocated string against its own context, independently of
+ # the builder's allocated pool addresses or override audit metadata.
+ original_exe=(source/'USRDIR/EBOOT.elf').read_bytes()
+ overrides={}
+ for key,decision in english.items():
+  for row in decision.get('reference_overrides',[]):
+   pointer=int(row['pointer_offset'],16)
+   if pointer in overrides:raise ValueError('Duplicate reference translation')
+   overrides[pointer]=(key,int(row['source_address'],16),row['en'])
+ deferred={r['id'] for r in manifest['executable']['runtime'].get('deferred_ui',[])}
+ verified_overrides=set();executable_refs=0
+ for ref in manifest['executable']['pointer_changes']:
+  pointer,old,key=ref['offset'],ref['before'],ref['id']
+  if struct.unpack_from('>I',original_exe,pointer)[0]!=old:raise ValueError('Original text reference changed')
+  target=struct.unpack_from('>I',exe,pointer)[0]
+  if target!=ref['after']:raise ValueError('Relocated text reference mismatch')
+  expected=english[key]['en']
+  if pointer in overrides:
+   wanted_key,wanted_old,expected=overrides[pointer]
+   if (key,old)!=(wanted_key,wanted_old):raise ValueError('Reference semantic context changed')
+   verified_overrides.add(pointer)
+  if key not in deferred:
+   encoded=expected.encode('utf8')+b'\0'
+   if memory(target,len(encoded))!=encoded:raise ValueError('Wrong executable reference translation')
+   executable_refs+=1
+ if verified_overrides!=set(overrides):raise ValueError('Context translation was not installed')
  table=int(manifest['executable']['runtime']['table_address'],16);entries=manifest['executable']['runtime']['entries'];db_count=0
  runtime=manifest['executable']['runtime'];alias_rows=runtime.get('deferred_ui',[])
  for i,row in enumerate(alias_rows):
@@ -201,6 +227,7 @@ def verify(build):
              title_version_and_url_installed=bool(branding),
              original_game_unchanged=True,other_game_package_patched=False,
              canonical_decisions=validation['decisions'],review_flags=validation['review_count'],movie_container_preservation_verified=movie_verified,
+             executable_text_references_verified=executable_refs,context_specific_references_verified=len(verified_overrides),
              runtime_execution_verified=False,full_playthrough_verified=False)
 
 

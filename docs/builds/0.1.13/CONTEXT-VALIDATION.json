@@ -1,0 +1,205 @@
+{
+  "version": "0.1.13",
+  "original_elf_sha256": "2e23b466028ac0a18f7f46522fe1847d5c918a129605a2bdc1c56ca31da82bba",
+  "translated_elf_sha256": "0309cf35ddcf9c1a24181721bb51bb75503fa8f061074ab1c559421e96fccf76",
+  "regression_tests": 77,
+  "focused_context_regressions": 8,
+  "context_audit_counts": {
+    "short_english_rows": 202,
+    "short_english_multiple_string_locations": 56,
+    "short_english_string_locations": 290,
+    "expanded_short_source_rows": 158,
+    "expanded_string_locations": 321,
+    "expanded_aligned_raw_pointer_sites": 633,
+    "union_reviewed_rows": 295
+  },
+  "context_specific_rows": [
+    {
+      "id": "X0179",
+      "en": "Swords",
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x440e1c",
+          "source_address": "0x3ec808",
+          "en": "Kns",
+          "context": "Kensei in the compact thirteen-class label array, zero-based index8. Other references to this row are sword weapons."
+        }
+      ]
+    },
+    {
+      "id": "X0110",
+      "en": "Magic",
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x440e00",
+          "source_address": "0x3ec430",
+          "en": "Mag",
+          "context": "Mage in the compact thirteen-class label array, index1; the full-class peer is Mage. Monster-family references retain Magic."
+        }
+      ]
+    },
+    {
+      "id": "X0103",
+      "en": "Beast",
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x440f00",
+          "source_address": "0x3ec3f8",
+          "en": "Felpurr",
+          "context": "Felpurr at index6 of the seven-race label array, paired with the full-race name table. Monster-family references retain Beast."
+        }
+      ]
+    }
+  ],
+  "installed_references": [
+    {
+      "id": "X0103",
+      "pointer_offset": "0x440c10",
+      "original_address": "0x3ec3f8",
+      "translated_address": "0x55b0530",
+      "installed_text": "Beast"
+    },
+    {
+      "id": "X0110",
+      "pointer_offset": "0x440c2c",
+      "original_address": "0x3ec430",
+      "translated_address": "0x55b0570",
+      "installed_text": "Magic"
+    },
+    {
+      "id": "X0110",
+      "pointer_offset": "0x440e00",
+      "original_address": "0x3ec430",
+      "translated_address": "0x55c0530",
+      "installed_text": "Mag"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x440e1c",
+      "original_address": "0x3ec808",
+      "translated_address": "0x55c0538",
+      "installed_text": "Kns"
+    },
+    {
+      "id": "X0103",
+      "pointer_offset": "0x440f00",
+      "original_address": "0x3ec3f8",
+      "translated_address": "0x55b0988",
+      "installed_text": "Felpurr"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x441194",
+      "original_address": "0x3ed030",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x44165c",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x44166c",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x44167c",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x44168c",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x44169c",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x4416ac",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x4416bc",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x4416cc",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x4416dc",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x441ffc",
+      "original_address": "0x3efd28",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0110",
+      "pointer_offset": "0x446458",
+      "original_address": "0x405630",
+      "translated_address": "0x55b0570",
+      "installed_text": "Magic"
+    },
+    {
+      "id": "X0103",
+      "pointer_offset": "0x446464",
+      "original_address": "0x405648",
+      "translated_address": "0x55b0530",
+      "installed_text": "Beast"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x446d50",
+      "original_address": "0x40a0a0",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    },
+    {
+      "id": "X0179",
+      "pointer_offset": "0x446db0",
+      "original_address": "0x40a0a0",
+      "translated_address": "0x55b08d0",
+      "installed_text": "Swords"
+    }
+  ],
+  "changed_overlay_files_from_0_1_12": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "unresolved": [
+    "X0112 monster-family meaning",
+    "X0217 speaker-name reading and reachability"
+  ],
+  "updated_ingame_visual_verification": false,
+  "publication": "Local test only"
+}

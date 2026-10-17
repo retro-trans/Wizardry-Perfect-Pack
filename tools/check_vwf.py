@@ -152,7 +152,9 @@ def main():
         cmap, em = font.getBestCmap(), font['head'].unitsPerEm
         assert all(code in cmap for code in range(32,127))
         from check_translation import read_english
-        used = {ord(ch) for row in read_english().values() for ch in (row['en'] or '') if ord(ch) >= 32}
+        texts = [text for row in read_english().values()
+                 for text in [row['en'] or '']+[r['en'] for r in row.get('reference_overrides',[])]]
+        used = {ord(ch) for text in texts for ch in text if ord(ch) >= 32}
         unsupported = sorted(used-set(cmap))
         assert not unsupported, 'English glyphs absent from native font: '+str(unsupported)
         advances = {chr(c):font['hmtx'][cmap[c]][0] for c in range(32,127)}

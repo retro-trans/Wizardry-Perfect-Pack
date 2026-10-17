@@ -1,6 +1,13 @@
 # Translation status
 
-All **11,387 extracted rows** have decisions: **10,796 English drafts** and **591 documented exclusions** for executable internals/parser data. The validation pass reports zero missing decisions and zero control-code, placeholder or newline-count errors. There are **448 entries with review status** and **450 review notices** in total, including retained Japanese clue glyph notices. Review status is not removed merely because a build succeeds.
+All **11,387 extracted rows** have decisions: **10,796 English drafts** and **591 documented exclusions** for executable internals/parser data. The validation pass reports zero missing decisions and zero control-code, placeholder or newline-count errors. There are **449 entries with review status** and **451 review notices** in total, including retained Japanese clue glyph notices. Review status is not removed merely because a build succeeds.
+
+Local 0.1.13 separates three shared-source meanings: sword weapons/Kensei,
+Mage/Magic monster category and Felpurr/Beast monster category. A bounded
+295-row short-label audit found no further proven collision. One Light
+occurrence is a speaker name with unverified reading and is now flagged for
+review. See [the context audit](short_label_context.md); static checks do not
+establish complete in-game coverage.
 
 The 4,903 newly drafted event entries received independent Japanese/context review by another translation agent. Added quest text and new item/bestiary terminology also received independent review. Corrections include actor/subject attribution, quest-item terminology, singular/plural meaning and a priest/cleric reference. Exact-source imports retain their inherited uncertainty and are not claimed as newly proofread throughout this edition.
 

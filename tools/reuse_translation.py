@@ -11,6 +11,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def reusable_exact_match(matches):
+    # A row with reference-specific meanings is not one reusable translation.
+    # Do not import either its default sense or edition-specific addresses.
+    return bool(matches) and not any(r.get('reference_overrides') for r in matches) and len({(r['en'],r['status']) for r in matches}) == 1
+
+
 def read_sources(root):
     base = root / 'work/translation/ja'
     paths = [base / (name + '.json') for name in ('events', 'executable', 'trophies')]
@@ -43,7 +49,7 @@ def main():
             if not matches:
                 unresolved.append(row)
                 continue
-            if len({(r['en'], r['status']) for r in matches}) != 1:
+            if not reusable_exact_match(matches):
                 unresolved.append(row)
                 continue
             result = dict(matches[0], id=row['id'])

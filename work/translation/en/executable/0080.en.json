@@ -283,13 +283,21 @@
       "id": "X0103",
       "en": "Beast",
       "status": "review",
-      "note": "Term or grammatical integration requires in-game context review.",
+      "note": "Monster-family label retained as Beast. The short race-table entry is Felpurr, confirmed by its same-index full race label; active short-race runtime layout remains unverified.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X0103",
         "match": "exact Japanese source text",
-        "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+        "context_review": "Perfect Pack native reference/context audit, 2026-10-18; edition-specific references must be retraced before reuse."
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x440f00",
+          "source_address": "0x3ec3f8",
+          "en": "Felpurr",
+          "context": "Felpurr at index6 of the seven-race label array, paired with the full-race name table. Monster-family references retain Beast."
+        }
+      ]
     },
     {
       "id": "X0104",
@@ -367,13 +375,21 @@
       "id": "X0110",
       "en": "Magic",
       "status": "review",
-      "note": "Term or grammatical integration requires in-game context review.",
+      "note": "Monster-family label retained as Magic. The compact Mage class reference uses Mag; identical source text does not identify the same semantic role.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X0110",
         "match": "exact Japanese source text",
-        "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+        "context_review": "Perfect Pack native reference/context audit, 2026-10-18; edition-specific references must be retraced before reuse."
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x440e00",
+          "source_address": "0x3ec430",
+          "en": "Mag",
+          "context": "Mage in the compact thirteen-class label array, index1; the full-class peer is Mage. Monster-family references retain Magic."
+        }
+      ]
     },
     {
       "id": "X0111",
@@ -391,12 +407,12 @@
       "id": "X0112",
       "en": "Evil",
       "status": "review",
-      "note": "Term or grammatical integration requires in-game context review.",
+      "note": "Alignment uses are Evil. The compact monster-family classification also uses this source glyph; nearby full-family and compact-family tables use different taxonomies, so do not infer Demon by matching indices. Family meaning remains under review.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X0112",
         "match": "exact Japanese source text",
-        "context_review": "Inherited draft; edition-specific occurrences require review"
+        "context_review": "Perfect Pack native reference/context audit, 2026-10-18; edition-specific references must be retraced before reuse."
       }
     },
     {

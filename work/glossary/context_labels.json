@@ -1,0 +1,13 @@
+{
+  "scope": "Perfect Pack NPJB00162 executable; context-reviewed 2026-10-18",
+  "rule": "Identical source text can have different meanings. Trace the caller before reuse; never transfer edition-specific pointer offsets.",
+  "terms": [
+    {"id": "X0179", "context": "Sword weapon category and preferred weapons", "en": "Swords", "distinct_context": "Compact Kensei class label", "distinct_en": "Kns"},
+    {"id": "X0110", "context": "Monster category", "en": "Magic", "distinct_context": "Compact Mage class label", "distinct_en": "Mag"},
+    {"id": "X0103", "context": "Monster category", "en": "Beast", "distinct_context": "Felpurr race label", "distinct_en": "Felpurr"}
+  ],
+  "unresolved": [
+    {"id": "X0112", "en": "Evil", "note": "Alignment is correct; monster category meaning remains provisional. Compact and full family tables use different taxonomies."},
+    {"id": "X0217", "en": "Light", "note": "Element is correct. A separate speaker-name occurrence needs verified reading and reachability; do not infer a character name from this element translation."}
+  ]
+}
