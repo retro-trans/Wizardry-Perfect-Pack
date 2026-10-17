@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.12 — 2026-10-18 (local test build)
+
+- Fix named portrait dialogue clipping beyond the right edge. Resource72 is 960px wide, and its native body begins 128px inside the frame; use an 800px text budget with 32px right padding. The old 896px budget did not account for the portrait inset. Keep the original 32px font, wording, colors, typewriter behavior and three-line pagination.
+- Trace the original resource descriptor, renderer instructions and font pointers. Add regressions for all three reported Beatrix passages: the curse, the adventurer introduction and the Adventurers' Guild explanation. Preserve anonymous narration and battle layout budgets.
+- Pass 69 regression tests, 17 host-native dialogue cases and all 5,222 event paragraph groups with complete text preserved. The curse passage now uses two pages; the other two reports fit one page each. Updated in-game visual confirmation remains pending.
+
 ## 0.1.11 — 2026-10-17
 
 - Register the ISO release in the public Retro Trans Tools catalog after the scheduled full-catalog update failed on an unrelated Vita entry. Verify that an actual public catalog refresh recognizes the original Perfect Pack ISO and selects `original → 0.1.11` through the same recognition code as app 0.5.17. Add catalog registration and live detection as required release-publication checks.

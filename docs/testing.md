@@ -1,5 +1,29 @@
 # Local build and testing
 
+## Test the local 0.1.12 portrait-dialogue fix
+
+The local 0.1.12 build corrects portrait dialogue that still clipped in
+0.1.11. Save your progress, close the current test session and run
+`work/output/Play-English-Test.cmd`. The launcher preserves controller
+settings and saves. Confirm `v0.1.12` on the title screen.
+
+Revisit Beatrix's curse explanation, her adventurer introduction and the
+Adventurers' Guild explanation. The curse paragraph should use two pages;
+the other two should fit on one three-line page. All words, including
+“reach,” “be” and “for adventurers,” must remain visible, with a right margin.
+The dialogue uses an 800px budget within the portrait frame. Anonymous
+narration and battle messages retain their separate layout settings.
+
+For an installed release profile, the local ISO test files are under
+`work/output/iso/` and local xdelta candidates under
+`work/output/release-0.1.12-local/`. Manual Apply xdelta can use the full
+original-ISO patch or the small upgrade patch for the exact 0.1.11 English
+ISO. Extract PKG01 from the resulting ISO and install it normally in RPCS3.
+The public 0.1.11 release does not contain this local fix.
+
+Native-resource guards, all three reported passages, full-text pagination
+and the corpus checks pass. Updated in-game appearance still needs testing.
+
 ## Test the 0.1.11 ISO release
 
 The current build is **0.1.11**, with the footer updated to `v0.1.11`.

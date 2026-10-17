@@ -224,7 +224,9 @@ INLINE int present_message(u32 window,const char *input,uptr font,u32 condition,
 
 EXPORT int present_dialogue(u32 window,const char *input,uptr font,u32 condition,
                            unsigned delay,u32 accept)
-{return present_message(window,input,font,condition,delay,accept,896,0x22,0);}
+/* Resource72 is 960px wide. Named dialogue starts 128px into that frame;
+ * reserve another 32px at the right. Anonymous narration has its own layout. */
+{return present_message(window,input,font,condition,delay,accept,800,0x22,0);}
 
 EXPORT int present_battle(u32 window,const char *input,uptr font)
 {return present_message(window,input,font,0x2000,0,0,640,0xd1,1);}

@@ -1,0 +1,43 @@
+{
+  "result": "passed",
+  "native_cases": 17,
+  "reported_passages": {
+    "screenshot_portrait_curse": [
+      "Does it sound strange to speak of being trapped\nby a city? This city is bound by a curse cast long\nago by the great mage @7rChu Lu Gah@0r, and its",
+      "people cannot reach the outside world."
+    ],
+    "screenshot_portrait_adventurer": [
+      "Oh, yes. Judging by your appearance, you seem\nto be an adventurer... I'm afraid I have some\nunfortunate news."
+    ],
+    "screenshot_portrait_guild": [
+      "But don't worry. That doesn't mean there is no\nwork for adventurers. We simply have no\norganization called an Adventurers' Guild."
+    ]
+  },
+  "case_checks": [
+    {
+      "case": "screenshot_portrait_curse",
+      "pages": 2,
+      "max_width": 792,
+      "text_preserved": true
+    },
+    {
+      "case": "screenshot_portrait_adventurer",
+      "pages": 1,
+      "max_width": 763,
+      "text_preserved": true
+    },
+    {
+      "case": "screenshot_portrait_guild",
+      "pages": 1,
+      "max_width": 744,
+      "text_preserved": true
+    }
+  ],
+  "corpus": {
+    "paragraphs": 5222,
+    "reflowed": 1868,
+    "max_input_bytes": 215,
+    "text_preserved": true
+  },
+  "in_game_visual_verified": false
+}

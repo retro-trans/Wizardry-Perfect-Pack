@@ -142,7 +142,8 @@ def make_code(original, resolver, resolver_entry_offset, table_address, count, d
         code.extend(b''.join(instruction(w) for w in words));code.extend(b'\0'*(-len(code)%16))
         patches.append((site-0x10000,instruction(branch(site,bridge))))
         dialogue_audit=dict(site=hex(site),presenter=hex(presenter+entry),bridge=hex(bridge),
-            inner_width=896,font_size=32,lines_per_page=3,native_line_bytes=120,
+            inner_width=800,font_size=32,lines_per_page=3,native_line_bytes=120,
+            frame_width=960,portrait_text_inset=128,right_padding=32,
             preserves_event_records=True,preserves_actor_substitutions=True,
             preserves_typewriter=True,uses_native_font_measurement=True,
             native_show='0xde018',native_wait='0xdddc0')

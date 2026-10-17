@@ -37,3 +37,4 @@ incoming/
 .env.*
 .claude/
 *.pyc
+.retro-trans-*/

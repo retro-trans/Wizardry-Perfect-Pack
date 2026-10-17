@@ -1,6 +1,14 @@
 {
-  "reference_resolution": [1280, 720],
-  "frame": [160, 507, 960, 158],
+  "reference_resolution": [
+    1280,
+    720
+  ],
+  "frame": [
+    160,
+    507,
+    960,
+    158
+  ],
   "inner_text_width": 896,
   "horizontal_inset": 32,
   "native_font_size": 32,
@@ -8,11 +16,82 @@
   "visible_lines": 3,
   "native_row_slot_bytes": 128,
   "layout_row_budget_bytes": 120,
-  "continue_indicator": [1085, 632, 22, 20],
-  "captures": [
-    {"file": "dialogue-before-0.1.1-forest.png", "kind": "actual user in-game screenshot", "build": "0.1.1", "source_ids": ["E6543", "E6544"], "issue": "First line extends beyond both horizontal edges."},
-    {"file": "dialogue-before-0.1.1-city.png", "kind": "actual user in-game screenshot", "build": "0.1.1", "source_ids": ["E6545", "E6546"], "issue": "Second line extends beyond the right edge."}
+  "continue_indicator": [
+    1085,
+    632,
+    22,
+    20
   ],
-  "updated_build": "0.1.2",
-  "verification": "Host-native C and original-font metric cases pass; updated in-game capture pending."
+  "captures": [
+    {
+      "file": "dialogue-before-0.1.1-forest.png",
+      "kind": "actual user in-game screenshot",
+      "build": "0.1.1",
+      "source_ids": [
+        "E6543",
+        "E6544"
+      ],
+      "issue": "First line extends beyond both horizontal edges."
+    },
+    {
+      "file": "dialogue-before-0.1.1-city.png",
+      "kind": "actual user in-game screenshot",
+      "build": "0.1.1",
+      "source_ids": [
+        "E6545",
+        "E6546"
+      ],
+      "issue": "Second line extends beyond the right edge."
+    },
+    {
+      "file": "dialogue-before-0.1.12-curse.png",
+      "kind": "actual user in-game screenshot with red overflow annotation",
+      "reported_after": "0.1.11",
+      "source_ids": [
+        "E6858",
+        "E6859",
+        "E6860"
+      ],
+      "issue": "Named portrait text runs beyond the right edge."
+    },
+    {
+      "file": "dialogue-before-0.1.12-adventurer.png",
+      "kind": "actual user in-game screenshot with red overflow annotation",
+      "reported_after": "0.1.11",
+      "source_ids": [
+        "E6872",
+        "E6873"
+      ],
+      "issue": "Named portrait text runs beyond the right edge."
+    },
+    {
+      "file": "dialogue-before-0.1.12-guild.png",
+      "kind": "actual user in-game screenshot with red overflow annotation",
+      "reported_after": "0.1.11",
+      "source_ids": [
+        "E6875",
+        "E6876"
+      ],
+      "issue": "Named portrait text runs beyond the right edge."
+    }
+  ],
+  "updated_build": "0.1.12",
+  "verification": "Native-resource guards, host-compiled full-text pagination and corpus checks pass. Updated in-game portrait capture pending.",
+  "layout_kind": "anonymous narration",
+  "named_dialogue": {
+    "frame_width": 960,
+    "frame_height": 160,
+    "text_left_inset": 128,
+    "right_padding": 32,
+    "inner_text_width": 800,
+    "font_size": 32,
+    "line_step": 32,
+    "visible_lines": 3,
+    "resource": 72,
+    "resource_descriptor_file_offset": "0x52d090",
+    "draw_callback": "0xde91c",
+    "body_setup": "0xdeb60",
+    "ordinary_presenter_flags": "0x22",
+    "geometry_basis": "Original executable resource and instruction trace; screenshot crops are not used as a coordinate scale."
+  }
 }

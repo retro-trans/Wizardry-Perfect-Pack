@@ -1,0 +1,30 @@
+{
+  "version": "0.1.12",
+  "base_version": "0.1.11",
+  "changed_elf_bytes": 4,
+  "executable_length_unchanged": true,
+  "width_comparisons": [
+    {
+      "address": "0x448a24",
+      "before": "cmpwi r3, 0x380",
+      "after": "cmpwi r3, 0x320"
+    },
+    {
+      "address": "0x448e9c",
+      "before": "cmpwi r3, 0x380",
+      "after": "cmpwi r3, 0x320"
+    },
+    {
+      "address": "0x4491b4",
+      "before": "cmpwi r3, 0x380",
+      "after": "cmpwi r3, 0x320"
+    }
+  ],
+  "other_change": "Title footer version digit",
+  "layout_cases": 17,
+  "regression_tests": 69,
+  "event_paragraphs": 5222,
+  "text_preserved": true,
+  "new_ingame_visual_verification": false,
+  "publication": "Local test only"
+}

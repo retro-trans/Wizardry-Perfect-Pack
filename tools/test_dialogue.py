@@ -66,11 +66,15 @@ def main():
         ('bracket_storage',('[a] (b) <c> '*50),False),
         ('screenshot_narration_despair','\n'.join(english[k]['en'] for k in ('E6534','E6535')),False),
         ('screenshot_narration_labyrinth','\n'.join(english[k]['en'] for k in ('E6537','E6538','E6539')),False),
+        ('screenshot_portrait_curse','\n'.join(english[k]['en'] for k in ('E6858','E6859','E6860')),True),
+        ('screenshot_portrait_adventurer','\n'.join(english[k]['en'] for k in ('E6872','E6873')),True),
+        ('screenshot_portrait_guild','\n'.join(english[k]['en'] for k in ('E6875','E6876')),True),
     ]
     reports=[];samples={}
     for name,text,typing in cases:
         drawn.clear();waited.clear();ticks.clear()
         anonymous=name.startswith('screenshot_narration_')
+        budget=896 if anonymous else 800
         expected_flags=0xf0 if anonymous else 0x22
         assert (narration(0,text.encode(),1) if anonymous else present(0,text.encode(),1,0 if typing else 0x2000,1,0x20))==1,name
         pages=waited+[drawn[-1]]
@@ -80,7 +84,7 @@ def main():
         for page in pages:
             assert len(page.encode())<510
             lines=page.split('\n');assert len(lines)<=3
-            assert all(width(line)<=896 and len(line.encode())<=120 for line in lines),(name,page)
+            assert all(width(line)<=budget and len(line.encode())<=120 for line in lines),(name,page)
             assert all(len(line.encode())+2*sum(c in '[]()<>' for c in line)<=127 for line in lines)
         assert len(waited)==len(pages)-1
         if name=='paragraph_boundary':assert len(pages)>=2 and pages[1].startswith('This is the second paragraph')
@@ -110,7 +114,7 @@ def main():
                 assert clean(''.join(pages))==clean(text),('Corpus text mismatch',name,i)
                 for page in pages:
                     assert len(page.split('\n'))<=3
-                    assert all(width(line)<=896 for line in page.split('\n'))
+                    assert all(width(line)<=800 for line in page.split('\n'))
         corpus=dict(paragraphs=paragraphs,reflowed=wrapped,max_input_bytes=largest,text_preserved=True)
     result=dict(result='passed',native_cases=len(cases)+2,cases=reports,screenshot_pages=samples,corpus=corpus,
                 anonymous_narration_flags='0xf0',final_script_wait_unchanged=True,powerpc_execution=False)

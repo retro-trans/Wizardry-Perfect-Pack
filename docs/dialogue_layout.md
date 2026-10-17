@@ -1,5 +1,33 @@
 # Dialogue wrapping
 
+## Portrait dialogue correction in 0.1.12
+
+The Beatrix reports identify rows E6858-E6860, E6872-E6873 and E6875-E6876
+in S0108. Their visible line breaks match the existing presenter, proving
+that this path already reaches the wrapping hook. The previous budget was
+too wide for portrait text.
+
+Resource72's original descriptor is at ELF file offset `0x52d090`. Both
+width fields are 960, both heights are 160, and callback descriptor
+`0x469098` selects code `0xde91c`. Show flags `0x22` select mode2. That
+mode sets the font to 32x32 at `0xdeb60` and starts each text row 128px
+inside the frame at `0xdeb80`. This leaves 832px to the outer edge;
+reserving a 32px right margin gives an **800px text budget**. Measurement
+and drawing resolve to the same font object; font size was not the cause.
+
+`present_dialogue` now uses that 800px budget. Anonymous narration retains
+its separate 896px budget and battle messages retain 640px. Canonical
+translations and script records are unchanged. The curse paragraph uses
+two pages, with a native intermediate advance; the adventurer and guild
+paragraphs fit one three-line page. No wording is removed or abbreviated.
+
+`test_dialogue_geometry.py` checks the original descriptor/instruction
+bytes, font-object identity and all three old overflowing layouts.
+The host-compiled presenter checks actual pages, full text and colors,
+800px line widths, row capacity and wait counts. All 69 regression tests,
+17 host-native cases and 5,222 event paragraph groups pass. These checks
+support the fix but do not replace a restarted in-game visual test.
+
 ## Anonymous narration coverage in 0.1.9
 
 The user's new captures are saved as `work/ui/narration-before-0.1.9-despair.png` and `work/ui/narration-before-0.1.9-labyrinth.png`, with geometry and source IDs in `work/ui/narration.en.json`. The intended translated executable is being launched. The failure is a missing native path, rather than a movie-subtitle change or an outdated translation file.
