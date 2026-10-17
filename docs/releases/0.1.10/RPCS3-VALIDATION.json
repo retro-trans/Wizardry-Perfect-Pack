@@ -1,0 +1,56 @@
+{
+  "version": "0.1.10",
+  "package_sha256": "7cb285c8abae4f80df288c34dc7118c55b77f4bc9f3b5f83be0e76571bdd8659",
+  "emulator": "RPCS3 0.0.43-20323-64ba740c",
+  "installation": {
+    "success_log_observed": true,
+    "installed_files_verified": 1483,
+    "all_installed_file_sizes_and_hashes_match": true,
+    "installer_exit_code": 3221226505,
+    "headless_teardown_error": "RPCS3 manual_typemap destructor failed after successful installation; success is based on the installer log and full installed payload checks, not its exit code.",
+    "progress_warning": "6487604 non-file bytes include tables, names, padding and retained original payload space; every file independently verified."
+  },
+  "startup": {
+    "result": "actual_game_execution_observed_with_nonfatal_warnings",
+    "boot_verification_scope": "Installed EBOOT loaded and executed PPU main thread; translated tables, dungeon archive and title assets opened successfully; runtime syscalls continued through80 seconds. This is not title-screen or gameplay verification.",
+    "clean_boot_verified": false,
+    "title_screen_verified": false,
+    "footer_visual_verified": false,
+    "gameplay_verified": false,
+    "visual_verification": false,
+    "headless": true,
+    "observed_renderer": "Null",
+    "observed_audio_renderer": "Cubeb",
+    "audio_configuration_note": "Unquoted Null in the minimal YAML was interpreted as null; RPCS3 used Cubeb for audio and forcibly selected Null video in headless mode. No further run performed.",
+    "ppu_decoder": "Recompiler (LLVM)",
+    "spu_decoder": "Recompiler (LLVM)",
+    "firmware": "4.93",
+    "isolated_profile": true,
+    "other_emulators_untouched": true,
+    "process_runtime_limit_seconds": 90,
+    "termination": "Stopped only the verified isolated probe process at the90-second limit; process had not crashed or exited.",
+    "natural_exit_code": null,
+    "installed_eboot_sha256": "42d24713e3e35ad8b42adcd8b8f80825bfa5cdcc1bede33a35b1f45610d5feda",
+    "fatal_log_count": 0,
+    "access_violation_or_segmentation_log_count": 0,
+    "error_log_count": 107,
+    "analyzer_branch_warning_count": 17,
+    "warnings": [
+      "Loader reported unexpected segment state, but loading and emulation continued. Baseline comparison was not performed.",
+      "Function analysis reported branch targets in the added runtime code gap as invalid, including the title footer. Existing renderer hooks produced the same diagnostic. Runtime execution continued; this does not establish that the footer hook was reached.",
+      "The game probed absent dungeon IDs14 through63. All50 missing-file messages correspond to those unshipped IDs, outside the14 original dungeon archives.",
+      "Headless input target, PRX registration, disconnected network, SPU loop-pattern, mutex, and fresh-profile trophy/dialog diagnostics were recorded; no fatal or access-violation log appeared."
+    ]
+  },
+  "unit_tests": {
+    "passed": 57,
+    "failed": 0
+  },
+  "translation_checker": {
+    "missing": 0,
+    "errors": 0,
+    "review_entries": 448,
+    "review_notices": 450
+  },
+  "full_playthrough_verified": false
+}

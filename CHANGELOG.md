@@ -6,6 +6,9 @@
 - Prepare the first public English patch for the Perfect Pack NPJB00162 install package. Map the translated executable to normal EBOOT.BIN for RPCS3 installation; preserve the separate game and all unselected package payloads.
 - Adopt the Macross Triangle Frontier repository/release layout: English-only sources, glossary, tools, MIT licence, contribution guide, release manifests, xdelta and full patch-round-trip verification through Retro Trans Tools.
 - Retain the subtitle opening, anonymous-narration wrapping and all prior UI fixes. This remains an early translation build with review flags and incomplete playthrough coverage; stock PS3 firmware is unsupported.
+- Correct package-name alignment and lengths against RPCS3's own decryption behavior. Install the package into a fresh isolated RPCS3 profile and verify all 1,483 installed files. Observe main-thread execution and translated asset loading in a 90-second headless startup probe; retain nonfatal diagnostics and the unverified visual/gameplay scope in the release evidence.
+- Pass 57 regression tests, the translation/control/font checks and the Retro Trans Tools encode/decode round trip for the complete 1,114,929,056-byte target. Publish only xdelta, build/validation manifests and checksums. Record exact identities and source revision in `docs/releases/0.1.10/`.
+- Stage the new executable atomically for the existing local test launcher; all other overlay files match. Preserve active emulator sessions, controller settings and saves. Restart is required to load the new footer.
 
 ## 0.1.9 — 2026-10-17 (local draft)
 

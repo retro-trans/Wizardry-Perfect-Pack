@@ -1,0 +1,24 @@
+{
+  "game_id": "wizardry-perfect-pack",
+  "game_name": "Wizardry Perfect Pack: Prisoners of the Lost City",
+  "platform": "PS3",
+  "version": "0.1.10",
+  "source_commit": "b80d1c49db48cb2ca75528eaf4fc08bf57005967",
+  "schema_version": 1,
+  "patches": [
+    {
+      "patch": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.10.xdelta",
+      "edition": "perfect-pack-npjb00162",
+      "language": "en",
+      "source_version": "original",
+      "source_format": "pkg",
+      "target_format": "pkg",
+      "source_sha256": "beeaa26163cb39314ef0d82748af7afd865e0acd3ca006b1226755cb1b1e72b8",
+      "source_bytes": 1077146912,
+      "target_sha256": "7cb285c8abae4f80df288c34dc7118c55b77f4bc9f3b5f83be0e76571bdd8659",
+      "target_bytes": 1114929056,
+      "patch_sha256": "469e6b8acf766ae6f4386101250782501f389a73c58e669982702a65bb24b44f",
+      "patch_bytes": 220761253
+    }
+  ]
+}
