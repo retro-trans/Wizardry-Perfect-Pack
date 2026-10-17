@@ -2,6 +2,7 @@
 
 ## 0.1.11 — 2026-10-17
 
+- Register the ISO release in the public Retro Trans Tools catalog after the scheduled full-catalog update failed on an unrelated Vita entry. Verify that an actual public catalog refresh recognizes the original Perfect Pack ISO and selects `original → 0.1.11` through the same recognition code as app 0.5.17. Add catalog registration and live detection as required release-publication checks.
 - Withdraw the public 0.1.10 package release to a private draft at the user's request. Switch distribution to an original-ISO-to-English-ISO xdelta patch, compatible with Retro Trans Tools.
 - Rebuild Prisoners of the Lost City with `v0.1.11` in the title footer. Preserve the other game's package and all unrelated disc files.
 - Update patching and installation instructions: select the original Perfect Pack ISO as the patch source, then extract and install its translated PKG01 package in RPCS3. Direct ISO boot and stock-console authentication are unsupported.

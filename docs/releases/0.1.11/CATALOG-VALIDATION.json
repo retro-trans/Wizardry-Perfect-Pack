@@ -1,0 +1,10 @@
+{
+  "result": "public_catalog_recognition_verified",
+  "app_version_checked": "0.5.17",
+  "workflow_run": "https://github.com/retro-trans/retro-trans-tools/actions/runs/39051481741",
+  "game_id": "wizardry-perfect-pack",
+  "source_sha256": "25dc1f842f42dbd9e24ee1a23e23e51e339fc406bed997c8fbdb9815d41a42a7",
+  "target_version": "0.1.11",
+  "route": "original → 0.1.11",
+  "live_catalog_refresh_passed": true
+}

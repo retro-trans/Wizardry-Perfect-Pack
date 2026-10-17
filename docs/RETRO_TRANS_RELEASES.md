@@ -101,8 +101,24 @@ Copy the small manifests/checksums and scoped verification evidence to
 the exact ISO identities, package-extraction steps, RPCS3 installation and
 remaining limitations.
 
-Retro Trans's catalog discovers stable releases and validates these assets.
-Manual Apply xdelta uses the same ISO patch while catalog discovery catches up.
+Register the published release in Retro Trans's catalog before declaring
+Automatic detection ready. The application's Refresh catalog downloads the
+prebuilt catalog; it does not scan new GitHub releases itself. A failed
+scheduled catalog job leaves a valid new release undiscoverable.
+
+During the user-authorized release publication, run the existing targeted
+catalog workflow and wait for successful validation/publication:
+
+```text
+gh workflow run catalog.yml --repo retro-trans/retro-trans-tools --ref main -f repository=retro-trans/Wizardry-Perfect-Pack
+```
+
+Verify through the application's actual public catalog URL and recognition
+code that the original ISO matches and has an `original → 0.1.11` route.
+Preserve all prior catalog identities. This metadata registration does not
+require a new application release. Record the workflow and recognition result
+with the release evidence. Manual Apply xdelta uses the same ISO patch while
+catalog discovery catches up.
 Users must select the original ISO, then extract PKG01 from the resulting
 English ISO; RPCS3 does not boot this install ISO directly.
 
