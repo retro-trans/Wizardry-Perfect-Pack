@@ -1,6 +1,8 @@
 # Wizardry Perfect Pack — Prisoners of the Lost City English patch
 
-English fan translation of **Wizardry: Prisoners of the Lost City**, **NPJB00162**, from the Japanese **Wizardry Perfect Pack** install disc (**BLJM61008**). The translation changes only **PKG01** and the disc metadata needed to store it. The separate **Labyrinth of Lost Souls**, **NPJB00163 / PKG00**, is preserved.
+**This patch translates only Wizardry: Prisoners of the Lost City, the second game in Wizardry Perfect Pack.** The first game, **Wizardry: Labyrinth of Lost Souls**, is not translated by this patch. Its official English PC version is available on [Steam](https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/).
+
+The patch targets **NPJB00162 / PKG01** from the Japanese **Wizardry Perfect Pack** install disc (**BLJM61008**), changing that package and the disc metadata needed to store it. **Labyrinth of Lost Souls, NPJB00163 / PKG00**, remains unchanged.
 
 Version **0.1.11** is an early **RPCS3-only ISO patch**. Apply the xdelta to your own original Japanese ISO. After patching, extract PKG01 from the English ISO and install that package in RPCS3. Independent ISO9660 and UDF extraction checks reproduce the exact package tested in RPCS3: installation, all 1,483 installed-file hashes and a 90-second startup probe pass. A complete playthrough and the updated footer's appearance remain unverified; physical-console and stock-firmware compatibility are unsupported.
 

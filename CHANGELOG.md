@@ -1,5 +1,9 @@
 # Changelog
 
+## Documentation — 2026-10-18
+
+- Clarify prominently in the README and the 0.1.11 release description that only Prisoners of the Lost City is translated. Link the official English Steam version of the first game, Labyrinth of Lost Souls, and retain this requirement in the release guide and project instructions.
+
 ## 0.1.11 — 2026-10-17
 
 - Register the ISO release in the public Retro Trans Tools catalog after the scheduled full-catalog update failed on an unrelated Vita entry. Verify that an actual public catalog refresh recognizes the original Perfect Pack ISO and selects `original → 0.1.11` through the same recognition code as app 0.5.17. Add catalog registration and live detection as required release-publication checks.

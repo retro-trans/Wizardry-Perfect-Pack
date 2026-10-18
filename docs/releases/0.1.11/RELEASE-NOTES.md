@@ -1,5 +1,7 @@
 # Wizardry Perfect Pack — English ISO patch 0.1.11
 
+**This patch translates only Wizardry: Prisoners of the Lost City, the second game in Wizardry Perfect Pack.** The first game, **Wizardry: Labyrinth of Lost Souls**, is not translated by this patch. Its official English PC version is available on [Steam](https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/).
+
 **Input/output:** Japanese Perfect Pack **BLJM61008 ISO → English ISO**.
 **Translated game:** **PKG01 / NPJB00162 — Prisoners of the Lost City**.
 **Runtime target:** RPCS3. **PKG00 / NPJB00163 — Labyrinth of Lost Souls** is

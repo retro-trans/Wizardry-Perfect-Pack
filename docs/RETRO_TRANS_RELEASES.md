@@ -4,6 +4,12 @@ This repository follows the documentation and release layout of
 [Macross Triangle Frontier](https://github.com/retro-trans/Macross-Triangle-Frontier).
 Its game-specific translation is separate.
 
+Every release description and the README must prominently state that this
+patch translates only **Wizardry: Prisoners of the Lost City**, the second
+game in Perfect Pack. **Wizardry: Labyrinth of Lost Souls**, the first game,
+is unchanged and not translated by this patch. Link its official English PC
+version on [Steam](https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/).
+
 Version **0.1.11** distributes an **ISO → ISO** xdelta for the Japanese Perfect
 Pack disc. The patch replaces PKG01 with the English NPJB00162 package and
 updates only the disc metadata needed to store it. PKG00 / NPJB00163 is

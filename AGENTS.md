@@ -16,6 +16,7 @@ incoming - outside files that need agent to look into
 - Be conscious of subscription limit before creating sub-agents
 
 ** REMEMBER **
+- The README and every release description must prominently state that only Prisoners of the Lost City, the second game in Perfect Pack, is translated. Labyrinth of Lost Souls, the first game, is unchanged; link its official English PC version: https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/.
 - Do not create or publish a GitHub release until the user explicitly requests a release for that build. Translation and local builds do not imply release permission.
 - Every new github release must work with [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools).
 - Japanese script text must never be committed to git. Keeping it in local working files is fine: `.gitignore` covers `work/source/` and the translation working files. Commit only the `*.en.json` copies written by `tools/strip_jp.py` (run it before committing). Names and UI terms in Japanese are allowed.
