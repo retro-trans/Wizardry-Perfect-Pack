@@ -16,6 +16,7 @@ incoming - outside files that need agent to look into
 - Be conscious of subscription limit before creating sub-agents
 
 ** REMEMBER **
+- Release descriptions must follow the Macross Triangle Frontier release template: short introduction, then third-level headings Apply, What's included, Release status, How it was translated, Acknowledgements, Source code, Contribute. Inspect its current release before preparing notes; retain Wizardry-specific ISO extraction/RPCS3 instructions and the Prisoners-only scope notice.
 - The README and every release description must prominently state that only Prisoners of the Lost City, the second game in Perfect Pack, is translated. Labyrinth of Lost Souls, the first game, is unchanged; link its official English PC version: https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/.
 - Do not create or publish a GitHub release until the user explicitly requests a release for that build. Translation and local builds do not imply release permission.
 - Every new github release must work with [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools).
