@@ -2,6 +2,7 @@
 
 ## Documentation — 2026-10-18
 
+- Reformat the public 0.1.11 release description to follow Macross Triangle Frontier's section order, patch table and user-facing layout. Retain the Prisoners-only notice, Steam link, installation steps and verification limits.
 - Clarify prominently in the README and the 0.1.11 release description that only Prisoners of the Lost City is translated. Link the official English Steam version of the first game, Labyrinth of Lost Souls, and retain this requirement in the release guide and project instructions.
 
 ## 0.1.13 — 2026-10-18 (local test build)

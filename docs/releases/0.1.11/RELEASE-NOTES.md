@@ -1,123 +1,80 @@
-# Wizardry Perfect Pack — English ISO patch 0.1.11
+English fan translation of **Wizardry: Prisoners of the Lost City** for PS3 (**NPJB00162 / PKG01**), supplied as an ISO patch for the Japanese **Wizardry Perfect Pack** disc (**BLJM61008**). The translated package is intended for RPCS3.
 
-**This patch translates only Wizardry: Prisoners of the Lost City, the second game in Wizardry Perfect Pack.** The first game, **Wizardry: Labyrinth of Lost Souls**, is not translated by this patch. Its official English PC version is available on [Steam](https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/).
+**Only Prisoners of the Lost City, the second game in Perfect Pack, is translated.** The first game, **Wizardry: Labyrinth of Lost Souls**, remains unchanged. Its official English PC version is available on [Steam](https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/).
 
-**Input/output:** Japanese Perfect Pack **BLJM61008 ISO → English ISO**.
-**Translated game:** **PKG01 / NPJB00162 — Prisoners of the Lost City**.
-**Runtime target:** RPCS3. **PKG00 / NPJB00163 — Labyrinth of Lost Souls** is
-preserved.
+### Apply
 
-## Status
+**Recommended:** Use the latest [Retro Trans](https://github.com/retro-trans/retro-trans-tools) app. Click **Refresh catalog**, open **Automatic**, select your original Japanese Perfect Pack ISO, choose **0.1.11** (or **Latest**), and select a new output filename. The app downloads the matching patch and verifies the resulting ISO.
 
-This is an early English ISO release for RPCS3. Independent ISO9660 and UDF
-extraction reproduce the exact 0.1.11 package tested in a fresh emulator
-profile. Installation succeeds, all 1,483 installed files match their hashes,
-and a 90-second headless probe executes the game's main thread and opens
-translated assets without a fatal error. Title/footer appearance and complete
-playthrough coverage remain unverified. Physical-console and stock-firmware
-compatibility are unsupported.
+**Manual patching:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) and [xdelta3](https://github.com/jmacd/xdelta) accept the same asset:
 
-The previous 0.1.10 PKG patch was withdrawn and its release is now a private
-draft. Version 0.1.11 uses the original ISO as patch input.
+| Your source image | Patch |
+| --- | --- |
+| Original Japanese Perfect Pack ISO (BLJM61008) | `Wizardry-Perfect-Pack-Prisoners-English-v0.1.11.xdelta` |
 
-## Changes
+```text
+xdelta3 -d -s "Wizardry - Perfect Pack (Japan).iso" "Wizardry-Perfect-Pack-Prisoners-English-v0.1.11.xdelta" "Wizardry-Perfect-Pack-Prisoners-English-0.1.11.iso"
+```
 
-- Distribute an ISO-to-ISO xdelta; users do not need an extracted original PKG
-  to apply the patch.
-- Replace only PKG01 with the English package and update the disc metadata
-  needed to store it. Preserve PKG00 and all other unselected disc file payloads.
-  ISO9660, Joliet and main/reserve UDF with main/mirror metadata agree.
-- Update the title footer to `v0.1.11` above `github.com/retro-trans`.
-  Translation content is otherwise unchanged from 0.1.10.
-- Retain anonymous narration wrapping, three-line pagination, UI fitting,
-  skill/spell description reflow and battle reward handling.
-- Retain bottom English opening subtitles. Original Japanese lettering,
-  artwork, logo and audio remain; no black cards or masks are used.
+Original Japanese ISO: 2,081,947,648 bytes; SHA-256 `25dc1f842f42dbd9e24ee1a23e23e51e339fc406bed997c8fbdb9815d41a42a7`.
 
-## Supported input and output
+Release output: 2,123,663,360 bytes; SHA-256 `1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877`.
 
-| Identity | Bytes | SHA-256 |
-|---|---:|---|
-| Original `Wizardry - Perfect Pack (Japan).iso` | 2,081,947,648 | `25dc1f842f42dbd9e24ee1a23e23e51e339fc406bed997c8fbdb9815d41a42a7` |
-| English 0.1.11 ISO | `2,123,663,360` | `1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877` |
+`BUILD-MANIFEST.json` identifies the source, output and patch. `VALIDATION.json` records the successful patch round trip; `SHA256SUMS.txt` covers the downloads. Supply the unpacked original ISO, rather than an extracted `INSTALL.PKG`.
 
-The release patch is
-`Wizardry-Perfect-Pack-Prisoners-English-v0.1.11.xdelta`.
-Filenames can differ; complete binary sizes and hashes must match.
-An original or translated `INSTALL.PKG` is not a supported input for this
-ISO patch.
+**RPCS3 installation:** RPCS3 does not boot this install ISO directly. Extract `/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` from the **patched ISO**, joining all file extents. With the repository's reader:
 
-## Apply the patch, then install
-
-Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools/releases/latest):
-**Automatic → Refresh catalog**, select your original ISO, select this English
-patch and save a new ISO. Manual **Apply xdelta** or xdelta3 uses the same
-original ISO and patch. See [the README](../../../README.md#applying-the-patch).
-
-RPCS3 does not boot this install ISO directly. Extract
-`/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` from the **patched** ISO, joining all its
-extents. With the repository's reader:
-
-```powershell
-python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.11.iso"
+```text
 python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.11.iso" --path /PS3_GAME/PKGDIR/PKG01/INSTALL.PKG --extract work/local/iso-0.1.11
 ```
 
-In RPCS3 choose **File → Install Packages/Raps/Edats** and install
-`work/local/iso-0.1.11/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG`. Boot the installed
-Prisoners of the Lost City entry normally. Keep saves backed up and retain the
-untouched original ISO. This workflow does not require a loose overlay ELF.
+In RPCS3, choose **File → Install Packages/Raps/Edats**, install the extracted PKG01 package, then boot **Prisoners of the Lost City**. Back up saves and retain the original ISO. [Detailed installation instructions](https://github.com/retro-trans/Wizardry-Perfect-Pack#applying-the-patch).
 
-## Verification scope and remaining work
+### What's included
 
-The ISO's six filesystem reading paths agree, all affected UDF descriptor
-checksums pass, and all 11 unselected disc files match the original. PKG00 and
-the update PUP are unchanged. Physical byte comparisons preserve 1,008,189,440
-original bytes outside the selected payload and explicit metadata sectors.
+This is the first public ISO release. The earlier 0.1.10 package patch was withdrawn; use this ISO patch instead.
 
-Independent 7-Zip 26.02 ISO9660 and UDF extraction both exit successfully,
-producing the 1,114,929,056-byte package with SHA-256
-`a39cfd853316d2532cdc1821c3d21cc12e6b46456f70e3b2ff96edc74a11779f`.
-That exact package passes the new isolated installation and startup checks.
-The startup probe retains nonfatal loader/analyzer and headless-environment
-warnings. The installer logs success and all payloads verify despite a
-headless teardown error afterward. Visual/gameplay checks have a separate
-scope; see the accompanying validation reports.
+* **Menus and system text:** identified menus, help, system messages and trophy text.
+* **Story text:** exported dialogue and narration, including the additional scenarios. Newly drafted event text received contextual review.
+* **Game data:** identified item, monster, spell, skill, quest and dungeon-name text.
+* **Opening subtitles:** bottom-aligned English subtitles, retaining the Japanese lettering, original artwork, logo and audio.
+* **Graphics:** selected title and help graphics translated into English.
+* **Text layout:** English wrapping and pagination for dialogue, anonymous narration and battle rewards, plus fitting changes for several narrow menus and descriptions. Long strings use relocated storage.
+* **Title screen:** `v0.1.11` and `github.com/retro-trans` at the bottom right.
 
-Retro Trans Tools builds the ISO-to-ISO xdelta, decodes it again, verifies the
-whole target ISO and rechecks the inputs. Its release manifests and checksums
-record the complete identities and round-trip evidence.
+The extracted corpus has 11,387 decisions: 10,796 English drafts and 591 internal/parser exclusions. These counts do not establish complete game coverage. The patch replaces only PKG01 and the disc metadata required to store it; PKG00 and the other disc files are preserved. See the [changelog](https://github.com/retro-trans/Wizardry-Perfect-Pack/blob/main/CHANGELOG.md).
 
-All 64 regression tests pass. [ISO validation](ISO-VALIDATION.json),
-[independent extraction](EXTRACTION-VALIDATION.json) and
-[RPCS3 validation](RPCS3-VALIDATION.json) record their respective scopes.
+### Release status
 
-The carried-over translation/layout code has native-host and emitted-instruction
-tests. The opening has independent software decoding of all 2,210 pictures,
-matching packet/frame timing, picture types, geometry and pixel format, with
-original audio/container bytes preserved. Updated in-game playback and listening
-remain to be confirmed.
+**This is an early build. Further proofreading and full in-game playtesting are needed.** The ISO patch completes an encode/decode round trip. Independent ISO9660 and UDF extraction reproduce the exact package tested in RPCS3. Installation, all 1,483 installed-file hashes, 64 regressions and a 90-second startup probe pass. This does not establish correct appearance on every screen or a successful playthrough. [Verification reports](https://github.com/retro-trans/Wizardry-Perfect-Pack/tree/v0.1.11/docs/releases/0.1.11) separate file checks from installation and startup observations.
 
-There are **448 review-status translation entries**. Some names, source
-ambiguities and adapted riddles remain provisional. Broad UI testing,
-save/load, scenario progression, trophy behavior and a complete playthrough
-remain incomplete. Original Japanese opening lettering remains by design
-alongside the English subtitles. See [translation status](../../translation_status.md).
+Known limitations:
 
-## Source and credits
+* 448 translation entries remain marked for review. Some names, ambiguous lines and adapted riddles are provisional.
+* Wrapping and fitting changes need broader in-game checks. The updated title footer and opening playback/listening have not received full visual acceptance for this release.
+* Save/load, scenario progression, trophy behavior and a complete playthrough remain unverified.
+* The opening intentionally keeps its original Japanese lettering alongside the English subtitles.
+* The rebuilt package uses a decrypted executable for RPCS3. Physical-console and stock-firmware compatibility are unsupported. The startup probe retains nonfatal emulator diagnostics, documented in the verification reports.
 
-LLM-assisted drafts were checked against scene context and the researched
-glossary. Exact-source terminology/text came from the neighboring Wizardry
-project; edition-specific binary hooks were traced separately. Complete human
-proofreading is outstanding.
+**Restart the game after installing the patched package.** A running session continues using the executable and text already loaded in memory.
 
-Repository/release organization follows
-[Macross Triangle Frontier](https://github.com/retro-trans/Macross-Triangle-Frontier);
-patch generation and verification use
-[Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools).
+### How it was translated
 
-Translation text and project tools use the [MIT license](../../../LICENSE).
-Original game assets are excluded from the source repository and are not
-covered by that license. Supply your own game files. Report issues in the
-[source repository](https://github.com/retro-trans/Wizardry-Perfect-Pack)
-or join [Retro Trans Discord](https://discord.gg/MssepShjmB).
+This is a **machine translation**, drafted with large language models and reviewed and edited against scene context and a researched glossary. Exact-source text and terminology were reused from the neighboring *Wizardry Prisoners of the Lost City* project. Its existing uncertainty is retained; edition-specific executable paths and hooks were traced separately for Perfect Pack. New event drafts received independent contextual review, but complete human proofreading is still needed.
+
+### Acknowledgements
+
+* The neighboring **Wizardry Prisoners of the Lost City** project, for translation matches, glossary research and reference tools.
+* **RPCS3**, for the emulator and the package-installation behavior used during verification.
+* **Retro Trans Tools**, for patch generation, complete round-trip verification and automatic patch delivery.
+* **Macross Triangle Frontier**, whose [release format](https://github.com/retro-trans/Macross-Triangle-Frontier/releases) this project follows.
+
+### Source code
+
+Translation decisions, glossaries and tools are available in the [project repository](https://github.com/retro-trans/Wizardry-Perfect-Pack) under the [MIT license](https://github.com/retro-trans/Wizardry-Perfect-Pack/blob/main/LICENSE). GitHub's source archives correspond to the release tag; download the `.xdelta` asset to patch the game. Original game assets are excluded and are not covered by the repository license.
+
+### Contribute
+
+Report bugs, help proofread or share playtest results at **[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**, or open an issue in the [project repository](https://github.com/retro-trans/Wizardry-Perfect-Pack).
+
+No complete game images are distributed. Use the patch with your own original disc image.

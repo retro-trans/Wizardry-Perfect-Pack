@@ -4,6 +4,16 @@ This repository follows the documentation and release layout of
 [Macross Triangle Frontier](https://github.com/retro-trans/Macross-Triangle-Frontier).
 Its game-specific translation is separate.
 
+Follow the current Macross release description's section order and heading
+level: `### Apply`, `### What's included`, `### Release status`,
+`### How it was translated`, `### Acknowledgements`, `### Source code`,
+`### Contribute`. Begin with a short game/platform introduction and the scope
+notice, without repeating the release title as a heading. Under Apply, include
+recommended Automatic patching, the manual source/patch table, xdelta command,
+source/output identities and Wizardry's required PKG01 extraction/installation
+step. Keep detailed engineering evidence in linked reports rather than making
+it the release description's primary structure.
+
 Every release description and the README must prominently state that this
 patch translates only **Wizardry: Prisoners of the Lost City**, the second
 game in Perfect Pack. **Wizardry: Labyrinth of Lost Souls**, the first game,
