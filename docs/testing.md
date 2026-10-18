@@ -4,6 +4,10 @@
 
 Save progress, close the project test emulator and run
 `work/output/Play-English-Test.cmd`. Confirm `v0.1.13` on the title screen.
+The launcher template is tracked at `tools/templates/Play-English-Test.cmd`.
+Its `--check` option checks the emulator path and active-session guard without
+staging files or opening RPCS3. A closed emulator is a successful preflight;
+an active project test session still blocks a second launch.
 In class confirmation, Fighter and Lord should show `Weapons: Swords`.
 Sword item categories should also read Swords. Compact Kensei class labels
 retain Kns; compact Mage labels use Mag. The race label uses Felpurr, while

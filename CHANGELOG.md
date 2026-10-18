@@ -2,6 +2,7 @@
 
 ## 0.1.13 — 2026-10-18 (local test build)
 
+- Fix the local launcher stopping when RPCS3 is closed: the process lookup returned failure for an empty result. Explicitly return success when no matching emulator is active. Keep the active-session guard, saves, controllers and game binaries unchanged. Track the launcher template and add a read-only preflight option.
 - Change sword weapon categories and preferred weapons from Kns to Swords at 13 references. Keep Kns only for the compact Kensei class label.
 - Audit 295 short/shared source rows. Separate compact Mage (Mag) and Felpurr race labels from Magic and Beast monster categories. Flag the unresolved Light speaker-name occurrence for review; retain uncertain Evil category wording pending stronger evidence.
 - Add guarded per-reference translations, independent pointer/string verification and eight regressions. Prevent exact-text reuse from importing contextual rows or their edition-specific addresses. Preserve the 0.1.12 portrait-dialogue fix.
