@@ -1,5 +1,9 @@
 # Changelog
 
+## Documentation — 2026-10-18
+
+- Clarify prominently in the README and the 0.1.11 release description that only Prisoners of the Lost City is translated. Link the official English Steam version of the first game, Labyrinth of Lost Souls, and retain this requirement in the release guide and project instructions.
+
 ## 0.1.13 — 2026-10-18 (local test build)
 
 - Fix the local launcher stopping when RPCS3 is closed: the process lookup returned failure for an empty result. Explicitly return success when no matching emulator is active. Keep the active-session guard, saves, controllers and game binaries unchanged. Track the launcher template and add a read-only preflight option.
