@@ -1,0 +1,41 @@
+{
+  "version": "0.1.14",
+  "release_id": 416825882,
+  "state_checked": "draft",
+  "result": "passed",
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "bytes": 1514,
+      "sha256": "29115ae57aca1eca640bdfc99310158e354cf3a952723f11788ac5b23adbc22e",
+      "github_digest_match": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 425,
+      "sha256": "2ff2312e9505aaff22a0065f2e923a49d20919f0b4aa908b0a74e5d12344ba21",
+      "github_digest_match": true
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 565,
+      "sha256": "86eb4741dff7465dac905ca3b280016b88923ee952c79ff7576ab0b79bbfc79a",
+      "github_digest_match": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.14.xdelta",
+      "bytes": 32164804,
+      "sha256": "d7a6e190a477a115ef8ef1d0681c9b047d754b4555497c38d469f72ab890f8a5",
+      "github_digest_match": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.14.xdelta",
+      "bytes": 220820779,
+      "sha256": "5174d18fa8e6e89b55a7466acb95b8642196eda4884d8fd2076c0dd0d850f852",
+      "github_digest_match": true
+    }
+  ],
+  "release_url": "https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/tag/v0.1.14",
+  "published_at": "2026-10-19T01:45:49Z",
+  "published_as_latest": true
+}

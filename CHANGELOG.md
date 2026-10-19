@@ -11,6 +11,8 @@
 - Publish ISO patches from the original Japanese disc and the exact public English 0.1.11 image, using Retro Trans Tools build manifests and complete encode/decode verification. Retain the Prisoners-only scope notice and Macross release format.
 - Verify all 1,513 package entries, all 1,483 installed files, every unselected disc payload, and independent ISO9660/UDF extraction of the exact installed package. Observe installed-game title-asset loading and continuing execution in a 300-second isolated startup probe without a logged fatal error or access violation. Retain nonfatal diagnostics and the unverified visual/gameplay scope separately.
 
+- Confirm all five uploaded asset hashes, publish v0.1.14 as latest, and register the targeted Retro Trans catalog update. Recognition through the public application catalog verifies direct routes from the original Japanese ISO and public English 0.1.11 ISO to 0.1.14.
+
 ## Documentation — 2026-10-18
 
 - Reformat the public 0.1.11 release description to follow Macross Triangle Frontier's section order, patch table and user-facing layout. Retain the Prisoners-only notice, Steam link, installation steps and verification limits.

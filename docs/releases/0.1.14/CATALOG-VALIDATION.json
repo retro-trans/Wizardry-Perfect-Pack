@@ -1,0 +1,32 @@
+{
+  "version": "0.1.14",
+  "catalog_url": "https://raw.githubusercontent.com/retro-trans/retro-trans-tools/main/retro_trans/resources/catalog.json",
+  "result": "passed",
+  "refreshed_via_application_code": true,
+  "previous_catalog_identities_preserved": true,
+  "routes": [
+    {
+      "source_version": "original",
+      "source_bytes": 2081947648,
+      "source_sha256": "25dc1f842f42dbd9e24ee1a23e23e51e339fc406bed997c8fbdb9815d41a42a7",
+      "target_version": "0.1.14",
+      "target_sha256": "736471ff2087f1f735693c7c227de377481f1ccea111d8a7fc22b6db43f94f6b",
+      "patches": [
+        "Wizardry-Perfect-Pack-Prisoners-English-v0.1.14.xdelta"
+      ]
+    },
+    {
+      "source_version": "0.1.11",
+      "source_bytes": 2123663360,
+      "source_sha256": "1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877",
+      "target_version": "0.1.14",
+      "target_sha256": "736471ff2087f1f735693c7c227de377481f1ccea111d8a7fc22b6db43f94f6b",
+      "patches": [
+        "Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.14.xdelta"
+      ]
+    }
+  ],
+  "workflow_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/39186846870",
+  "workflow_conclusion": "success",
+  "catalog_commit": "ee32e09ea7c290e92ac24bbe03dc7c793619f5b5"
+}
