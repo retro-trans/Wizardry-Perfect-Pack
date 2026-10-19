@@ -1,0 +1,12 @@
+{
+  "version": "0.1.14",
+  "observation": {
+    "Id": 3068,
+    "MainWindowTitle": "FPS: 29.94 | Vulkan | 0.0.43-20323 | Wizardry: Prisoners of the Lost City [NPJB00162]"
+  },
+  "startup_window_observed": true,
+  "scope": "Normal game window and FPS observed after launching the exact staged ELF; not name registration, visual fit or save/load acceptance.",
+  "loader_segment_observed": "p_type=0x1, p_vaddr=0x55e0000, p_filesz=0x0, p_memsz=0x90, flags=0x6",
+  "active_user_session_interrupted": false,
+  "emulator_left_open": true
+}

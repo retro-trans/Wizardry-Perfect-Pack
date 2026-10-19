@@ -1,0 +1,80 @@
+{
+  "version": "0.1.14",
+  "date": "2026-10-19",
+  "target": "NPJB00162",
+  "publication": "Local test only",
+  "name_entry": {
+    "character_limit": 12,
+    "saved_name_bytes": 33,
+    "saved_name_offset": "0x1bd",
+    "save_layout_changed": false,
+    "state_address": "0x55e0000",
+    "state_bytes": 144,
+    "initial_text_offset": "0x54",
+    "result_text_offset": "0x70",
+    "setter": "0x50bc0",
+    "helper": "0x44c950",
+    "helper_start": "0x44c960",
+    "pointer_arguments_truncated_to_32_bits": true,
+    "helper_bytes": 464,
+    "helper_sha256": "64caa8269c4d1209f65bbed87a8d526e0a97ec694f7284230a2bd4a5fc683ef1",
+    "instructions": [
+      {
+        "address": "0x10c674",
+        "before": "387d0018",
+        "after": "387d0054"
+      },
+      {
+        "address": "0x10c684",
+        "before": "381d0044",
+        "after": "381d0070"
+      },
+      {
+        "address": "0x10c698",
+        "before": "38000006",
+        "after": "3800000c"
+      },
+      {
+        "address": "0x10c6b0",
+        "before": "38dd0018",
+        "after": "38dd0054"
+      },
+      {
+        "address": "0x10c6bc",
+        "before": "38000020",
+        "after": "3800000d"
+      },
+      {
+        "address": "0x10c73c",
+        "before": "393d0018",
+        "after": "393d0054"
+      },
+      {
+        "address": "0x10c530",
+        "before": "38800024",
+        "after": "38800021"
+      }
+    ],
+    "updated_ingame_verification": false
+  },
+  "original_elf_sha256": "2e23b466028ac0a18f7f46522fe1847d5c918a129605a2bdc1c56ca31da82bba",
+  "output_elf_sha256": "9099a087a163e3dc15faa75bd4597f3b4dbe6e52017e2abb54e392ce36043a82",
+  "scratch_segment": {
+    "address": "0x55e0000",
+    "flags": 6,
+    "file_bytes": 0,
+    "memory_bytes": 144
+  },
+  "changed_overlay_files_from_0_1_13": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_635_overlay_files_match": true,
+  "regression_tests": 84,
+  "focused_name_entry_tests": 7,
+  "randomized_canary_cases": 200,
+  "staged_executable_matches": true,
+  "save_or_controller_files_changed": false,
+  "name_entry_ingame_accepted": false,
+  "save_roundtrip_ingame_verified": false,
+  "source_sha256": "f94af90fc25853ec3dbe7181889c084327eb8c9b4cc2f456df65d19979be2d7d"
+}

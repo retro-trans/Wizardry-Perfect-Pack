@@ -60,7 +60,7 @@ def resolver_code(path):
 
 
 def make_code(original, resolver, resolver_entry_offset, table_address, count, dialogue=None,
-              alias_address=0, alias_count=0,branding_version=None):
+              alias_address=0, alias_count=0,branding_version=None,name_setter=None):
     code = bytearray(resolver)
     code.extend(b'\0'*(-len(code)%16))
     patches, details = [], []
@@ -173,6 +173,11 @@ def make_code(original, resolver, resolver_entry_offset, table_address, count, d
         from title_branding import append_code as title_footer
         branding_patches,branding_audit=title_footer(original,code,branding_version)
         patches.extend(branding_patches)
+    name_audit=None
+    if name_setter is not None:
+        from name_entry import append_code as append_name_entry
+        name_patches,name_audit=append_name_entry(original,code,*name_setter)
+        patches.extend(name_patches)
     if CODE_BASE+len(code) > CODE_LIMIT:
         raise ValueError('Runtime code exceeds inspected gap')
     start = CODE_BASE-0x10000
@@ -183,4 +188,5 @@ def make_code(original, resolver, resolver_entry_offset, table_address, count, d
                                     shared_mutable_buffer=False,hooks=details,dialogue=dialogue_audit,
                                     alias_address=hex(alias_address),alias_count=alias_count,
                                     item_cells=item_audit,item_preview=preview_audit,menu_panels=panel_audit,battle=battle_audit,
-                                    inventory_names=inventory_audit,narration=narration_audit,title_branding=branding_audit)
+                                    inventory_names=inventory_audit,narration=narration_audit,title_branding=branding_audit,
+                                    name_entry=name_audit)

@@ -126,6 +126,35 @@ def verify(build):
   if memory(int(row['address'],16),4)!=struct.pack('>I',int(row['after'],16)):raise ValueError('Menu panel patch mismatch')
  battle=runtime.get('battle')
  branding=runtime.get('title_branding')
+ name_entry=runtime.get('name_entry')
+ if name_entry:
+  from name_entry import CHANGES,STATE_POINTER,STATE_BYTES,SETTER,LIMIT,INITIAL_OFFSET,RESULT_OFFSET
+  from runtime_text import branch,instruction
+  state=int(name_entry['state_address'],16)
+  scratch=[s for s in segments if s['p_type']=='PT_LOAD' and s['p_vaddr']==state]
+  if len(scratch)!=1 or scratch[0]['p_flags']!=6 or scratch[0]['p_filesz']!=0 or scratch[0]['p_memsz']!=STATE_BYTES:
+   raise ValueError('Name-entry writable state segment mismatch')
+  original_segments=list(ELFFile(io.BytesIO(original_exe)).iter_segments())
+  for index,segment in enumerate(original_segments):
+   if index and segment['p_memsz'] and dict(segment.header)!=dict(segments[index].header):
+    raise ValueError('Original writable, TLS or process segment changed')
+  if any(s['p_type']=='PT_LOAD' and s['p_vaddr']!=state and s['p_memsz'] and
+         state<s['p_vaddr']+s['p_memsz'] and state+STATE_BYTES>s['p_vaddr'] for s in segments):
+   raise ValueError('Name-entry state overlaps another load segment')
+  if memory(STATE_POINTER,4)!=struct.pack('>I',state):raise ValueError('Name-entry state redirect mismatch')
+  for address,_,word in CHANGES:
+   if memory(address,4)!=instruction(word):raise ValueError('Name-entry instruction mismatch')
+  if memory(SETTER,4)!=instruction(branch(SETTER,int(name_entry['helper'],16))):raise ValueError('Name setter hook mismatch')
+  payload=memory(int(name_entry['helper_start'],16),name_entry['helper_bytes'])
+  if hashlib.sha256(payload).hexdigest()!=name_entry['helper_sha256']:raise ValueError('Name setter payload mismatch')
+  if memory(int(name_entry['helper'],16),8)!=bytes.fromhex('7863002078840020'):
+   raise ValueError('Name setter argument ABI mismatch')
+  if memory(int(name_entry['helper'],16)+8,4)!=instruction(branch(int(name_entry['helper'],16)+8,int(name_entry['helper_start'],16))):
+   raise ValueError('Name setter entry continuation mismatch')
+  if INITIAL_OFFSET+(LIMIT+1)*2>RESULT_OFFSET or RESULT_OFFSET+(LIMIT+1)*2>STATE_BYTES:
+   raise ValueError('Name-entry UTF16 buffers overlap')
+  if name_entry['saved_name_bytes']!=33 or name_entry['saved_name_offset']!='0x1bd' or name_entry['save_layout_changed']:
+   raise ValueError('Character name/save layout mismatch')
  if branding:
   from title_branding import SITE,GUARDS,texts
   from runtime_text import instruction,branch
@@ -225,6 +254,8 @@ def verify(build):
              inventory_name_fitting_installed=bool(inventory),
              anonymous_narration_pagination_installed=bool(narration),
              title_version_and_url_installed=bool(branding),
+             name_entry_character_limit=name_entry['character_limit'] if name_entry else 6,
+             bounded_name_setter_installed=bool(name_entry),
              original_game_unchanged=True,other_game_package_patched=False,
              canonical_decisions=validation['decisions'],review_flags=validation['review_count'],movie_container_preservation_verified=movie_verified,
              executable_text_references_verified=executable_refs,context_specific_references_verified=len(verified_overrides),

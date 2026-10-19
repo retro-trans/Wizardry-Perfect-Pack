@@ -18,7 +18,7 @@ from elftools.elf.elffile import ELFFile
 from check_translation import ROOT, read_sources, read_english, validate
 
 EXE_HASH = '2e23b466028ac0a18f7f46522fe1847d5c918a129605a2bdc1c56ca31da82bba'
-VERSION = '0.1.13'
+VERSION = '0.1.14'
 # Native code has inlined fixed-size copies for these short Japanese labels.
 # Relocating them early would omit their terminators. Expand only at the final
 # font boundary, after those original copies have safely finished.
@@ -97,7 +97,7 @@ def event_patches(source, sources, english):
     return files, audit
 
 
-def executable_patch(data, sources, english, table_plan=None, table_pool=None, resolver_object=None, dialogue_object=None,version=VERSION):
+def executable_patch(data, sources, english, table_plan=None, table_pool=None, resolver_object=None, dialogue_object=None,version=VERSION,name_object=None):
     if sha(data) != EXE_HASH:
         raise ValueError('Unknown executable. Trace pointers again for this version.')
     elf = ELFFile(io.BytesIO(data))
@@ -157,6 +157,7 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
     runtime_info = None
     runtime_code = None
     runtime_patches = []
+    name_state = None
     if table_plan is not None:
         from runtime_text import make_code, resolver_code
         blob.extend(b'\0'*(-len(blob)%16))
@@ -172,8 +173,18 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
         resolver, local_entry = resolver_code(resolver_object)
         from compile_dialogue import message_code
         dialogue=message_code(dialogue_object) if dialogue_object else None
+        name_setter = None
+        if name_object is not None:
+            from compile_name_entry import name_code
+            from name_entry import STATE_BYTES
+            writable = [i for i in empty[1:] if segments[i]['p_flags']&2]
+            if not writable:
+                raise ValueError('No unused writable load segment for name entry')
+            state_address = align(base+len(blob),65536)
+            name_state = (writable[0],state_address,STATE_BYTES)
+            name_setter = (*name_code(name_object),state_address)
         runtime_code, runtime_patches, runtime_info = make_code(data,resolver,local_entry,table_address,len(table_plan['entries']),dialogue,
-                                                               alias_address,len(aliases),branding_version=version)
+                                                               alias_address,len(aliases),branding_version=version,name_setter=name_setter)
         runtime_info.update(table_address=hex(table_address),pool_address=hex(pool_address),entries=len(table_plan['entries']))
         runtime_info['deferred_ui'] = [dict(id=k,source_address=hex(a),english_address=hex(b),prefix=bool(p)) for a,b,p,k in aliases]
     elif aliases:
@@ -207,6 +218,10 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
     result.extend(blob)
     phoff = elf.header['e_phoff']+empty[0]*elf.header['e_phentsize']
     struct.pack_into('>IIQQQQQQ', result, phoff, 1, 4, file_base, base, base, len(blob), len(blob), 65536)
+    if name_state is not None:
+        index,address,size=name_state
+        phoff=elf.header['e_phoff']+index*elf.header['e_phentsize']
+        struct.pack_into('>IIQQQQQQ',result,phoff,1,6,file_base,address,address,0,size,65536)
     if runtime_code is not None:
         from runtime_text import CODE_BASE
         off = CODE_BASE-0x10000
@@ -306,6 +321,7 @@ def main():
     parser.add_argument('--runtime-tables', action='store_true', help='Include relocated database text and PPU renderer wrappers')
     parser.add_argument('--resolver-object', type=Path, default=ROOT/'work/output/text_resolver.o')
     parser.add_argument('--dialogue-object', type=Path, default=ROOT/'work/output/dialogue_layout.o')
+    parser.add_argument('--name-object', type=Path, default=ROOT/'work/output/name_entry.o')
     parser.add_argument('--graphics', action='store_true', help='Include generated English title/help archives and metadata')
     parser.add_argument('--movie', type=Path, help='Include a structurally verified English opening PAMF')
     parser.add_argument('--allow-incomplete', action='store_true')
@@ -341,7 +357,8 @@ def main():
                     after_members[member] = payload
             files[archive_path] = pack(after_members)
     exe, exe_audit = executable_patch((args.source/'USRDIR/EBOOT.elf').read_bytes(), sources, english,
-                                       table_plan,table_pool,args.resolver_object,args.dialogue_object,args.version)
+                                       table_plan,table_pool,args.resolver_object,args.dialogue_object,args.version,
+                                       args.name_object if args.runtime_tables else None)
     files['USRDIR/EBOOT.elf'] = exe
     trophy_paths=list(args.source.glob('TROPDIR/*/TROPHY.TRP'))
     if len(trophy_paths)!=1: raise ValueError('Expected exactly one trophy archive')

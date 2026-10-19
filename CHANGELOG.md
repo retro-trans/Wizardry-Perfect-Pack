@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.14 — 2026-10-19 (local test build)
+
+- Expand character name entry from six to twelve characters. Replace the separate eight-character name setter with a UTF-8-aware copy limited to twelve characters and the native 32-byte payload. Preserve the 33-byte name field, neighboring character data and save layout.
+- Give the asynchronous PS3 keyboard dedicated writable state and larger initial/result buffers; guard each original instruction and pointer. Bound UTF-16-to-UTF-8 conversion before the saved-name copy.
+- Add boundary/canary checks for full-length names, mixed Unicode, malformed input and 200 randomized cases. Updated in-game registration, display and save/load acceptance remain pending. No release is published.
+- Pass all 84 regressions and independent verification of the 636-file overlay. Stage only the matching executable and observe RPCS3 booting the game at about 60 FPS; retain the narrower scope of this startup observation.
+- Prefer the project's local Python environment in the test launcher, preserving its dependencies across bundled-runtime updates. Retain all previous translation, layout and context-label fixes.
+
 ## Documentation — 2026-10-18
 
 - Reformat the public 0.1.11 release description to follow Macross Triangle Frontier's section order, patch table and user-facing layout. Retain the Prisoners-only notice, Steam link, installation steps and verification limits.

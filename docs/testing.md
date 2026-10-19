@@ -1,9 +1,19 @@
 # Local build and testing
 
+## Test the local 0.1.14 name-entry fix
+
+Save progress, close the project test session and run
+`work/output/Play-English-Test.cmd`. Confirm **v0.1.14**. The keyboard should
+accept `Vedette` and up to twelve English characters. Complete registration,
+check the name in the roster/status screens, then save and restart to check
+that it persists. [Name-entry notes](name_entry.md) describe the unchanged
+save layout, byte limit for multibyte names and outstanding visual checks.
+This build also includes the earlier dialogue-width and context-label fixes.
+
 ## Test the local 0.1.13 context-label fix
 
-Save progress, close the project test emulator and run
-`work/output/Play-English-Test.cmd`. Confirm `v0.1.13` on the title screen.
+The 0.1.13 context-label fixes are included in 0.1.14. Use the current launcher
+and version check above.
 The launcher template is tracked at `tools/templates/Play-English-Test.cmd`.
 Its `--check` option checks the emulator path and active-session guard without
 staging files or opening RPCS3. A closed emulator is a successful preflight;

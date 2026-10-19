@@ -1,0 +1,17 @@
+{
+  "screen": "Register Adventurer / native PS3 on-screen keyboard",
+  "capture": "name-entry-before-0.1.14.png",
+  "kind": "Actual user in-game screenshot",
+  "capture_resolution": [1365, 768],
+  "keyboard_bounds_in_capture": {"x": 416, "y": 187, "width": 533, "height": 331},
+  "reported_issue": "Input stops after six characters",
+  "example_in_capture": "Vedett",
+  "build": "0.1.14",
+  "new_character_limit": 12,
+  "saved_name_capacity_bytes": 33,
+  "utf8_payload_limit_bytes": 32,
+  "save_layout_changed": false,
+  "updated_ingame_capture": false,
+  "implementation": "tools/name_entry.py and tools/name_entry.c",
+  "details": "docs/name_entry.md"
+}
