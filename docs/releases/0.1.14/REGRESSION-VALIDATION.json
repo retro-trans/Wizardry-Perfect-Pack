@@ -1,0 +1,8 @@
+{
+  "version": "0.1.14",
+  "result": "passed",
+  "tests": 84,
+  "observed_seconds": 249.484,
+  "scope": "Automated regressions; does not establish manual keyboard registration, save/load or gameplay acceptance.",
+  "test_suite": "All 84 project regression tests, including 7 focused name-entry tests and 200 randomized canary cases"
+}

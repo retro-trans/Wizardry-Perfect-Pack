@@ -25,15 +25,11 @@ the monster categories remain Magic and Beast. See
 [the context audit](short_label_context.md) for the verified scope and remaining
 uncertainties. Recheck the portrait-dialogue cases below as well.
 
-For an installed release profile, local ISO patches are in
-`work/output/release-0.1.13-local/`. Select the patch matching the exact source
-ISO: original Japanese, English 0.1.11 or English 0.1.12. Apply it with Retro
-Trans Tools manual xdelta, extract PKG01 and install its package in RPCS3.
-The public release remains 0.1.11 and does not contain these local fixes.
+The public 0.1.14 release includes these fixes. Apply its full patch to the original Japanese ISO or its upgrade patch to the exact public English 0.1.11 ISO. Extract PKG01 and install it in RPCS3 as described below.
 
 ## Test the local 0.1.12 portrait-dialogue fix
 
-The 0.1.12 portrait-dialogue fix is also included in local 0.1.13. Use the
+The 0.1.12 portrait-dialogue fix is also included in 0.1.14. Use the
 current launcher and version check above. It preserves controller settings
 and saves.
 
@@ -44,53 +40,48 @@ the other two should fit on one three-line page. All words, including
 The dialogue uses an 800px budget within the portrait frame. Anonymous
 narration and battle messages retain their separate layout settings.
 
-For an installed release profile, the local ISO test files are under
-`work/output/iso/` and local xdelta candidates under
-`work/output/release-0.1.12-local/`. Manual Apply xdelta can use the full
-original-ISO patch or the small upgrade patch for the exact 0.1.11 English
-ISO. Extract PKG01 from the resulting ISO and install it normally in RPCS3.
-The public 0.1.11 release does not contain this local fix.
-
 Native-resource guards, all three reported passages, full-text pagination
 and the corpus checks pass. Updated in-game appearance still needs testing.
 
-## Test the 0.1.11 ISO release
+## Test the 0.1.14 ISO release
 
-The current build is **0.1.11**, with the footer updated to `v0.1.11`.
+The current build is **0.1.14**, with the footer updated to `v0.1.14`.
 Independent ISO9660 and UDF extraction both produce the exact new package
 verified in a fresh RPCS3 profile. Installation and all 1,483 installed-file
-hashes pass; a 90-second headless probe executes the game's main thread and
-loads translated assets without a fatal error. Title/footer appearance and
+hashes pass. See the release evidence for the separate startup observation
+and retained emulator diagnostics. Title/footer appearance and
 complete gameplay remain unverified. See the versioned release evidence.
 
 The required source is `Wizardry - Perfect Pack (Japan).iso`,
 **2,081,947,648 bytes**, SHA-256
 `25dc1f842f42dbd9e24ee1a23e23e51e339fc406bed997c8fbdb9815d41a42a7`.
 The verified target is **2,123,663,360 bytes**, SHA-256
-`1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877`.
+`736471ff2087f1f735693c7c227de377481f1ccea111d8a7fc22b6db43f94f6b`.
 
-1. Apply `Wizardry-Perfect-Pack-Prisoners-English-v0.1.11.xdelta` to the
+1. Apply `Wizardry-Perfect-Pack-Prisoners-English-v0.1.14.xdelta` to the
    original **ISO**, using Retro Trans Tools Automatic or manual xdelta.
    The patch must produce a new ISO whose whole size/hash matches the release
    manifest. It does not take an original PKG as its patch input.
 2. Inspect and extract PKG01 from the patched ISO into a fresh directory:
 
    ```powershell
-   python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.11.iso"
-   python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.11.iso" --path /PS3_GAME/PKGDIR/PKG01/INSTALL.PKG --extract work/local/iso-0.1.11
+   python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.14.iso"
+   python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.14.iso" --path /PS3_GAME/PKGDIR/PKG01/INSTALL.PKG --extract work/local/iso-0.1.14
    ```
 
    Join all package extents. The disc builder/independent verifier must also
    check the UDF view, identical PKG01 bytes through both views, and unchanged
    PKG00 and other unselected file payloads.
-3. Use a fresh isolated RPCS3 data root for the release probe. Through
+3. Use a fresh isolated RPCS3 data root for the release probe, creating its
+   `log/` directory before launch. Allow cold-cache compilation to finish
+   before timing runtime execution. Through
    **File → Install Packages/Raps/Edats**, install the extracted
-   `work/local/iso-0.1.11/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG`, then boot the
+   `work/local/iso-0.1.14/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG`, then boot the
    installed Prisoners of the Lost City entry. RPCS3 does not boot this ISO
    directly. Verify the installation log and installed file hashes separately
    from startup and gameplay; an installer process exit code alone is
    insufficient.
-4. Confirm the title footer reads `v0.1.11` above `github.com/retro-trans`.
+4. Confirm the title footer reads `v0.1.14` above `github.com/retro-trans`.
    Record normal boot and visual results for this exact new build.
 
 Do not replace or operate on a player's active emulator profile for release
@@ -145,14 +136,14 @@ ignored `work/source/NPJB00162/`. The original ELF must have SHA-256
 2. Generate and inspect English graphics, compile the resolver and dialogue
    presenters, and verify the subtitled opening. Run
    `tools/test_dialogue.py --write --corpus` for native-host layout/corpus checks.
-3. Dry-run `tools/build.py --runtime-tables --graphics --version 0.1.11`,
+3. Dry-run `tools/build.py --runtime-tables --graphics --version 0.1.14`,
    including its verified movie input. Write to a fresh build directory and
-   run `tools/verify_build.py work/output/0.1.11 --write`.
+   run `tools/verify_build.py work/output/0.1.14 --write`.
 4. Rebuild and verify the RPCS3 package, then construct and verify the ISO as
    described in [the release guide](RETRO_TRANS_RELEASES.md). Release acceptance
    must use a package freshly extracted from this ISO.
 5. For separate developer overlay tests, close only this project's isolated
-   test session, inspect `tools/stage_test.py work/output/0.1.11 --changed-files`,
+   test session, inspect `tools/stage_test.py work/output/0.1.14 --changed-files`,
    then use its write mode when the plan is correct. Boot the staged
    `USRDIR/EBOOT.elf` only for that overlay workflow. This does not validate the
    release ISO, package extraction or normal installed-game boot.

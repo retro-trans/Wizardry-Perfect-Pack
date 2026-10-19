@@ -1,12 +1,15 @@
 # Changelog
 
-## 0.1.14 — 2026-10-19 (local test build)
+## 0.1.14 — 2026-10-19
 
 - Expand character name entry from six to twelve characters. Replace the separate eight-character name setter with a UTF-8-aware copy limited to twelve characters and the native 32-byte payload. Preserve the 33-byte name field, neighboring character data and save layout.
 - Give the asynchronous PS3 keyboard dedicated writable state and larger initial/result buffers; guard each original instruction and pointer. Bound UTF-16-to-UTF-8 conversion before the saved-name copy.
-- Add boundary/canary checks for full-length names, mixed Unicode, malformed input and 200 randomized cases. Updated in-game registration, display and save/load acceptance remain pending. No release is published.
+- Add boundary/canary checks for full-length names, mixed Unicode, malformed input and 200 randomized cases. Updated in-game registration, display and save/load acceptance remain pending.
 - Pass all 84 regressions and independent verification of the 636-file overlay. Stage only the matching executable and observe RPCS3 booting the game at about 60 FPS; retain the narrower scope of this startup observation.
 - Prefer the project's local Python environment in the test launcher, preserving its dependencies across bundled-runtime updates. Retain all previous translation, layout and context-label fixes.
+
+- Publish ISO patches from the original Japanese disc and the exact public English 0.1.11 image, using Retro Trans Tools build manifests and complete encode/decode verification. Retain the Prisoners-only scope notice and Macross release format.
+- Verify all 1,513 package entries, all 1,483 installed files, every unselected disc payload, and independent ISO9660/UDF extraction of the exact installed package. Observe installed-game title-asset loading and continuing execution in a 300-second isolated startup probe without a logged fatal error or access violation. Retain nonfatal diagnostics and the unverified visual/gameplay scope separately.
 
 ## Documentation — 2026-10-18
 

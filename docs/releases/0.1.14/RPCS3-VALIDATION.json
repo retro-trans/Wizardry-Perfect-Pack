@@ -1,0 +1,128 @@
+{
+  "version": "0.1.14",
+  "iso_sha256": "736471ff2087f1f735693c7c227de377481f1ccea111d8a7fc22b6db43f94f6b",
+  "package_sha256": "21694313ead11e5b095f24b49d684ea64d05d561c8b3411ade6b36f8e5a2f457",
+  "independent_iso_and_udf_extractions_match_install_tested_package": true,
+  "emulator": "RPCS3 0.0.43-20323-64ba740c",
+  "installation": {
+    "result": "installed_payloads_verified",
+    "installer_success_logged": true,
+    "installed_files_verified": 1483,
+    "isolated_profile": true,
+    "installer_exit_code": null,
+    "headless_teardown_error": true,
+    "repeated_inside_same_disposable_profile": true,
+    "terminated_own_process_after_timeout": true,
+    "natural_exit_code": null,
+    "elapsed_seconds": 90.28,
+    "all_installed_file_sizes_and_hashes_match": true,
+    "note": "A disposable profile was created for this build. An initial runtime attempt did not initialize; a second installed all files but lacked a log directory. After explicitly creating log/, installation was repeated only in this disposable profile. RPCS3 logged success and all installed hashes matched. The headless installer reported a manual_typemap teardown diagnostic and its own process was terminated at the time limit. Player profiles, controllers and saves were untouched."
+  },
+  "startup": {
+    "started_utc": "2026-10-19T01:33:28.559244+00:00",
+    "elapsed_seconds": 301.16,
+    "natural_exit_code": null,
+    "process_return_code": 1,
+    "terminated_own_process_after_timeout": true,
+    "isolated_profile": true,
+    "other_emulators_untouched": true,
+    "headless": true,
+    "version": "0.1.14",
+    "package_sha256": "21694313ead11e5b095f24b49d684ea64d05d561c8b3411ade6b36f8e5a2f457",
+    "installed_eboot_sha256": "9099a087a163e3dc15faa75bd4597f3b4dbe6e52017e2abb54e392ce36043a82",
+    "result": "actual_game_execution_observed_with_warnings",
+    "boot_verified": true,
+    "clean_boot_verified": false,
+    "title_screen_verified": false,
+    "footer_visual_verified": false,
+    "gameplay_verified": false,
+    "visual_verification": false,
+    "verification_scope": "Installed payload startup and continued PPU/SPU execution only. ISO-to-package payload identity must be checked separately.",
+    "observed_renderer_settings": [
+      "Renderer: \"Null\"",
+      "Renderer: \"Null\""
+    ],
+    "fatal_log_count": 0,
+    "access_violation_or_segmentation_log_count": 0,
+    "error_log_count": 106,
+    "title_asset_opened": true,
+    "main_execution_evidence": [
+      "\u00b7U 0:00:27.031000 {PPU[0x1000000] Thread (main_thread) [0x1002fe64]} sys_prx TODO: _sys_prx_register_module(name=\u201ccellProcessElf\u201d, opt=*0xd0080c90)",
+      "\u00b7U 0:00:28.365675 {PPU[0x1000000] Thread (main_thread) [0x1003061c]} sys_prx TODO: _sys_prx_register_module(name=\u201c_sysProcessElf\u201d, opt=*0xd0080da0)"
+    ],
+    "successful_asset_open_evidence": [
+      "\u00b7W 0:00:59.782613 {PPU[0x1000000] Thread (main_thread) [0x100c2090]} sys_fs: sys_fs_open(): fd=4, Regular file, '/dev_hdd0/game/NPJB00162/USRDIR/data/table.enc', Mode: 0x0, Flags: 0x0, Pos/Size: 0/53.109KB (0x0/0xd470), Read/Written: 0/0 (0x0/0x0)",
+      "\u00b7W 0:00:59.782733 {PPU[0x1000000] Thread (main_thread) [0x100c2090]} sys_fs: sys_fs_open(): fd=4, Regular file, '/dev_hdd0/game/NPJB00162/USRDIR/data/table.enc', Mode: 0x0, Flags: 0x0, Pos/Size: 0/53.109KB (0x0/0xd470), Read/Written: 0/0 (0x0/0x0)",
+      "\u00b7W 0:01:00.855245 {PPU[0x1000000] Thread (main_thread) [0x100c2090]} sys_fs: sys_fs_open(): fd=4, Regular file, '/dev_hdd0/game/NPJB00162/USRDIR/data/obj/Scenes/dun01.enc', Mode: 0x0, Flags: 0x0, Pos/Size: 0/2.707MB (0x0/0x2b5170), Read/Written: 0/0 (0x0/0x0)",
+      "\u00b7W 0:01:00.855365 {PPU[0x1000000] Thread (main_thread) [0x100c2090]} sys_fs: sys_fs_open(): fd=4, Regular file, '/dev_hdd0/game/NPJB00162/USRDIR/data/obj/Scenes/dun01.enc', Mode: 0x0, Flags: 0x0, Pos/Size: 0/2.707MB (0x0/0x2b5170), Read/Written: 0/0 (0x0/0x0)",
+      "\u00b7W 0:01:00.855467 {PPU[0x1000000] Thread (main_thread) [0x100c2090]} sys_fs: sys_fs_open(): fd=4, Regular file, '/dev_hdd0/game/NPJB00162/USRDIR/data/obj/Scenes/dun01.enc', Mode: 0x0, Flags: 0x0, Pos/Size: 0/2.707MB (0x0/0x2b5170), Read/Written: 0/0 (0x0/0x0)",
+      "\u00b7W 0:01:07.691753 {PPU[0x1000000] Thread (main_thread) [0x100c2090]} sys_fs: sys_fs_open(): fd=4, Regular file, '/dev_hdd0/game/NPJB00162/USRDIR/data/texture/title.enc', Mode: 0x0, Flags: 0x0, Pos/Size: 0/324.672KB (0x0/0x512b0), Read/Written: 0/0 (0x0/0x0)",
+      "\u00b7W 0:01:07.691945 {PPU[0x1000000] Thread (main_thread) [0x100c2090]} sys_fs: sys_fs_open(): fd=4, Regular file, '/dev_hdd0/game/NPJB00162/USRDIR/data/texture/title.enc', Mode: 0x0, Flags: 0x0, Pos/Size: 0/324.672KB (0x0/0x512b0), Read/Written: 0/0 (0x0/0x0)",
+      "\u00b7W 0:01:07.692055 {PPU[0x1000000] Thread (main_thread) [0x100c2090]} sys_fs: sys_fs_open(): fd=4, Regular file, '/dev_hdd0/game/NPJB00162/USRDIR/data/texture/title.enc', Mode: 0x0, Flags: 0x0, Pos/Size: 0/324.672KB (0x0/0x512b0), Read/Written: 0/0 (0x0/0x0)"
+    ],
+    "continuing_runtime_evidence": [
+      "\u00b7! 0:04:09.377096 {PPU Syscall Usage Thread} PPU: PPU Syscall Usage Stats:",
+      "\t\u2042 sys_event_queue_receive [25757]",
+      "\t\u2042 sys_timer_usleep [12500]",
+      "\t\u2042 _sys_lwcond_signal [8774]",
+      "\t\u2042 _sys_lwmutex_lock [8696]",
+      "\t\u2042 _sys_lwcond_queue_wait [8693]",
+      "\t\u2042 _sys_lwmutex_unlock [8692]",
+      "\t\u2042 sys_spu_thread_group_start [8692]",
+      "\t\u2042 sys_spu_thread_group_join [8692]",
+      "\t\u2042 sys_semaphore_wait [4375]",
+      "\t\u2042 sys_semaphore_post [4252]",
+      "\u00b7! 0:04:19.372932 {PPU Syscall Usage Thread} PPU: PPU Syscall Usage Stats:",
+      "\t\u2042 sys_event_queue_receive [27178]",
+      "\t\u2042 sys_timer_usleep [13146]",
+      "\t\u2042 _sys_lwcond_signal [9296]",
+      "\t\u2042 _sys_lwmutex_lock [9218]",
+      "\t\u2042 _sys_lwcond_queue_wait [9215]",
+      "\t\u2042 _sys_lwmutex_unlock [9214]",
+      "\t\u2042 sys_spu_thread_group_start [9214]",
+      "\t\u2042 sys_spu_thread_group_join [9214]",
+      "\t\u2042 sys_semaphore_wait [4674]",
+      "\t\u2042 sys_semaphore_post [4551]",
+      "\u00b7! 0:04:29.378404 {PPU Syscall Usage Thread} PPU: PPU Syscall Usage Stats:",
+      "\t\u2042 sys_event_queue_receive [28618]",
+      "\t\u2042 sys_timer_usleep [13792]",
+      "\t\u2042 _sys_lwcond_signal [9837]",
+      "\t\u2042 _sys_lwmutex_lock [9759]",
+      "\t\u2042 _sys_lwcond_queue_wait [9756]",
+      "\t\u2042 _sys_lwmutex_unlock [9755]",
+      "\t\u2042 sys_spu_thread_group_start [9755]",
+      "\t\u2042 sys_spu_thread_group_join [9755]",
+      "\t\u2042 sys_semaphore_wait [4974]",
+      "\t\u2042 sys_semaphore_post [4851]"
+    ],
+    "warnings": [
+      "Runtime startup is not a visual title/footer or gameplay test.",
+      "All nonfatal loader, analyzer, PRX, headless input/dialog, network, mutex and SPU diagnostics are retained in the captured log.",
+      "Only the process created for this probe was stopped at its 300-second deadline."
+    ],
+    "analyzer_warning_count": 18,
+    "nonfatal_diagnostic_categories": [
+      "loader/analyzer",
+      "PRX",
+      "headless input/dialog",
+      "network",
+      "mutex",
+      "SPU"
+    ]
+  },
+  "earlier_startup_attempts": [
+    {
+      "elapsed_seconds": 90.06,
+      "result": "startup_not_confirmed",
+      "fatal_log_count": 0,
+      "access_violation_or_segmentation_log_count": 0
+    },
+    {
+      "elapsed_seconds": 90.41,
+      "result": "startup_not_confirmed",
+      "fatal_log_count": 0,
+      "access_violation_or_segmentation_log_count": 0
+    }
+  ],
+  "earlier_startup_attempts_note": "The 90-second cold/warming attempts were inconclusive. The subsequent 300-second probe observed actual execution, translated assets and continuing syscall activity."
+}
