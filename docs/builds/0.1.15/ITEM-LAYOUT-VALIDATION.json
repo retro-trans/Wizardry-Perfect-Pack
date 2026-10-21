@@ -1,0 +1,661 @@
+{
+  "result": "passed",
+  "cases": [
+    {
+      "id": "X0184",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Fighter",
+      "horizontal_size": 22,
+      "measured_width": 70,
+      "fits": true
+    },
+    {
+      "id": "X0017",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Mage",
+      "horizontal_size": 22,
+      "measured_width": 57,
+      "fits": true
+    },
+    {
+      "id": "X0018",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Priest",
+      "horizontal_size": 22,
+      "measured_width": 57,
+      "fits": true
+    },
+    {
+      "id": "X0185",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Thief",
+      "horizontal_size": 22,
+      "measured_width": 48,
+      "fits": true
+    },
+    {
+      "id": "X0186",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Bishop",
+      "horizontal_size": 22,
+      "measured_width": 66,
+      "fits": true
+    },
+    {
+      "id": "X0176",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Samurai",
+      "horizontal_size": 19,
+      "measured_width": 70,
+      "fits": true
+    },
+    {
+      "id": "X0187",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Lord",
+      "horizontal_size": 22,
+      "measured_width": 46,
+      "fits": true
+    },
+    {
+      "id": "X0188",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Ninja",
+      "horizontal_size": 22,
+      "measured_width": 52,
+      "fits": true
+    },
+    {
+      "id": "X0189",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Kensei",
+      "horizontal_size": 22,
+      "measured_width": 65,
+      "fits": true
+    },
+    {
+      "id": "X0190",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Sorcerer",
+      "horizontal_size": 18,
+      "measured_width": 68,
+      "fits": true
+    },
+    {
+      "id": "X0191",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Monk",
+      "horizontal_size": 22,
+      "measured_width": 54,
+      "fits": true
+    },
+    {
+      "id": "X0192",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Ranger",
+      "horizontal_size": 22,
+      "measured_width": 71,
+      "fits": true
+    },
+    {
+      "id": "X0019",
+      "group": "classes",
+      "maximum_width": 72,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Summoner",
+      "horizontal_size": 15,
+      "measured_width": 70,
+      "fits": true
+    },
+    {
+      "id": "X0198",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Human",
+      "horizontal_size": 22,
+      "measured_width": 70,
+      "fits": true
+    },
+    {
+      "id": "X0113",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Undead",
+      "horizontal_size": 22,
+      "measured_width": 78,
+      "fits": true
+    },
+    {
+      "id": "X0114",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Fairy",
+      "horizontal_size": 22,
+      "measured_width": 50,
+      "fits": true
+    },
+    {
+      "id": "X0115",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Animal",
+      "horizontal_size": 22,
+      "measured_width": 66,
+      "fits": true
+    },
+    {
+      "id": "X0116",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Beastfolk",
+      "horizontal_size": 22,
+      "measured_width": 91,
+      "fits": true
+    },
+    {
+      "id": "X0117",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Mythical Beast",
+      "horizontal_size": 15,
+      "measured_width": 98,
+      "fits": true
+    },
+    {
+      "id": "X0118",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Dragon",
+      "horizontal_size": 22,
+      "measured_width": 73,
+      "fits": true
+    },
+    {
+      "id": "X0119",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Giant",
+      "horizontal_size": 22,
+      "measured_width": 52,
+      "fits": true
+    },
+    {
+      "id": "X0120",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Elemental",
+      "horizontal_size": 22,
+      "measured_width": 97,
+      "fits": true
+    },
+    {
+      "id": "X0121",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Magical Creature",
+      "horizontal_size": 13,
+      "measured_width": 98,
+      "fits": true
+    },
+    {
+      "id": "X0122",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Demon",
+      "horizontal_size": 22,
+      "measured_width": 69,
+      "fits": true
+    },
+    {
+      "id": "X0123",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Monster",
+      "horizontal_size": 22,
+      "measured_width": 81,
+      "fits": true
+    },
+    {
+      "id": "X0124",
+      "group": "monster_types",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Demi-Human",
+      "horizontal_size": 17,
+      "measured_width": 98,
+      "fits": true
+    },
+    {
+      "id": "X0089",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Fear",
+      "horizontal_size": 22,
+      "measured_width": 46,
+      "fits": true
+    },
+    {
+      "id": "X0090",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Silence",
+      "horizontal_size": 22,
+      "measured_width": 70,
+      "fits": true
+    },
+    {
+      "id": "X0091",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Confusion",
+      "horizontal_size": 22,
+      "measured_width": 97,
+      "fits": true
+    },
+    {
+      "id": "X0092",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Sleep",
+      "horizontal_size": 22,
+      "measured_width": 55,
+      "fits": true
+    },
+    {
+      "id": "X0093",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Poison",
+      "horizontal_size": 22,
+      "measured_width": 66,
+      "fits": true
+    },
+    {
+      "id": "X0094",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Paralysis",
+      "horizontal_size": 22,
+      "measured_width": 91,
+      "fits": true
+    },
+    {
+      "id": "X0096",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Petrification",
+      "horizontal_size": 19,
+      "measured_width": 100,
+      "fits": true
+    },
+    {
+      "id": "X0251",
+      "group": "status_effects",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "text": "Instant Death",
+      "horizontal_size": 16,
+      "measured_width": 100,
+      "fits": true
+    },
+    {
+      "text": "STR",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "horizontal_size": 22,
+      "measured_width": 38,
+      "fits": true
+    },
+    {
+      "text": "INT",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "horizontal_size": 22,
+      "measured_width": 32,
+      "fits": true
+    },
+    {
+      "text": "PIE",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "horizontal_size": 22,
+      "measured_width": 32,
+      "fits": true
+    },
+    {
+      "text": "VIT",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "horizontal_size": 22,
+      "measured_width": 30,
+      "fits": true
+    },
+    {
+      "text": "AGI",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "horizontal_size": 22,
+      "measured_width": 33,
+      "fits": true
+    },
+    {
+      "text": "LUC",
+      "group": "stat_bonuses",
+      "maximum_width": 104,
+      "maximum_horizontal_size": 22,
+      "vertical_size": 22,
+      "horizontal_size": 22,
+      "measured_width": 42,
+      "fits": true
+    },
+    {
+      "id": "X0014",
+      "font_size": 22,
+      "available_width": 129,
+      "text": "Organize",
+      "horizontal_size": 22,
+      "measured_width": 89,
+      "fits": true
+    },
+    {
+      "id": "X0240",
+      "font_size": 26,
+      "available_width": 190,
+      "text": "Slot",
+      "horizontal_size": 26,
+      "measured_width": 44,
+      "fits": true
+    },
+    {
+      "id": "X0248",
+      "font_size": 26,
+      "available_width": 400,
+      "text": "Effects",
+      "horizontal_size": 26,
+      "measured_width": 79,
+      "fits": true
+    },
+    {
+      "id": "U0000",
+      "font_size": 26,
+      "available_width": 250,
+      "text": "Hands",
+      "horizontal_size": 26,
+      "measured_width": 74,
+      "fits": true
+    },
+    {
+      "id": "U0001",
+      "font_size": 26,
+      "available_width": 250,
+      "text": "Feet",
+      "horizontal_size": 26,
+      "measured_width": 51,
+      "fits": true
+    },
+    {
+      "id": "U0002",
+      "font_size": 26,
+      "available_width": 250,
+      "text": "Head",
+      "horizontal_size": 26,
+      "measured_width": 61,
+      "fits": true
+    },
+    {
+      "id": "X1420",
+      "font_size": 24,
+      "text": "Def:",
+      "horizontal_size": 24,
+      "measured_width": 46,
+      "x": 774,
+      "fits": true
+    },
+    {
+      "id": "X1417",
+      "font_size": 24,
+      "text": "Acc:",
+      "horizontal_size": 24,
+      "measured_width": 47,
+      "x": 773,
+      "fits": true
+    },
+    {
+      "id": "X1421",
+      "font_size": 24,
+      "text": "Eva:",
+      "horizontal_size": 24,
+      "measured_width": 48,
+      "x": 772,
+      "fits": true
+    },
+    {
+      "id": "X1419",
+      "font_size": 24,
+      "text": "Elem:",
+      "horizontal_size": 24,
+      "measured_width": 61,
+      "x": 759,
+      "fits": true
+    },
+    {
+      "text": "None",
+      "horizontal_size": 24,
+      "measured_width": 56,
+      "right": 900,
+      "fits": true
+    },
+    {
+      "text": "999",
+      "horizontal_size": 24,
+      "measured_width": 45,
+      "right": 889,
+      "fits": true
+    },
+    {
+      "text": "-99",
+      "horizontal_size": 24,
+      "measured_width": 39,
+      "right": 883,
+      "fits": true
+    },
+    {
+      "id": "X1416",
+      "text": "Atk:",
+      "font_size": 24,
+      "maximum_width": 64,
+      "horizontal_size": 24,
+      "measured_width": 43,
+      "x": 729,
+      "fits": true
+    },
+    {
+      "id": "X1417",
+      "text": "Acc:",
+      "font_size": 24,
+      "maximum_width": 64,
+      "horizontal_size": 24,
+      "measured_width": 47,
+      "x": 725,
+      "fits": true
+    },
+    {
+      "id": "X1418",
+      "text": "Rng:",
+      "font_size": 24,
+      "maximum_width": 64,
+      "horizontal_size": 24,
+      "measured_width": 50,
+      "x": 823,
+      "fits": true
+    },
+    {
+      "id": "X1419",
+      "text": "Elem:",
+      "font_size": 24,
+      "maximum_width": 64,
+      "horizontal_size": 24,
+      "measured_width": 61,
+      "x": 711,
+      "fits": true
+    },
+    {
+      "id": "X1420",
+      "text": "Def:",
+      "font_size": 24,
+      "maximum_width": 64,
+      "horizontal_size": 24,
+      "measured_width": 46,
+      "x": 823,
+      "fits": true
+    },
+    {
+      "id": "X1421",
+      "text": "Eva:",
+      "font_size": 24,
+      "maximum_width": 64,
+      "horizontal_size": 24,
+      "measured_width": 48,
+      "x": 724,
+      "fits": true
+    },
+    {
+      "text": "52\uff5e170",
+      "horizontal_size": 24,
+      "right": 871,
+      "gap_before_count": 23,
+      "fits": true
+    },
+    {
+      "text": "999\uff5e999",
+      "horizontal_size": 24,
+      "right": 886,
+      "gap_before_count": 8,
+      "fits": true
+    },
+    {
+      "text": "x255",
+      "horizontal_size": 24,
+      "x": 894,
+      "right": 950,
+      "fits": true
+    },
+    {
+      "text": "None",
+      "horizontal_size": 24,
+      "x": 772,
+      "right": 828,
+      "fits": true
+    },
+    {
+      "text": "-99",
+      "horizontal_size": 24,
+      "x": 772,
+      "right": 811,
+      "fits": true
+    },
+    {
+      "text": "Rng:M",
+      "horizontal_size": 24,
+      "x": 823,
+      "right": 894,
+      "fits": true
+    },
+    {
+      "text": "Def:999",
+      "horizontal_size": 24,
+      "x": 823,
+      "right": 914,
+      "fits": true
+    }
+  ],
+  "minimum_grid_horizontal_size": 13,
+  "updated_game_capture": false
+}

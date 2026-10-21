@@ -1,9 +1,13 @@
 # Local build and testing
 
+## Test local 0.1.15 item abbreviations
+
+Save and close the project test session, then run `work/output/Play-English-Test.cmd` and confirm **v0.1.15**. Inspect the reported sword: Atk:52~170, Acc:2, Rng:M, Eva:0, Def:1 and Elem:None should fit inside the preview, with a gap before x2. Check an armor/accessory preview as well. The source labels retain their renderer aliases. This is a local build; the public release remains 0.1.14.
+
 ## Test the local 0.1.14 name-entry fix
 
 Save progress, close the project test session and run
-`work/output/Play-English-Test.cmd`. Confirm **v0.1.14**. The keyboard should
+`work/output/Play-English-Test.cmd`. Confirm **v0.1.15**. The keyboard should
 accept `Vedette` and up to twelve English characters. Complete registration,
 check the name in the roster/status screens, then save and restart to check
 that it persists. [Name-entry notes](name_entry.md) describe the unchanged

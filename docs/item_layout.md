@@ -1,5 +1,13 @@
 # Item-screen corrections
 
+## Compact item stats in local 0.1.15
+
+The compact stat labels use Atk, Acc, Rng, Elem, Def and Eva (X1416–X1421). Their existing late renderer aliases remain in place. Separate full-word labels are unchanged.
+
+The weapon preview has the same original 740px left anchor as the armor preview: even abbreviated Elem is wider than the 34px available before the frame edge. Eight guarded constants move the four weapon label/value pairs 32px right to 772px. Elem then starts at 711px, inside the 706–957px panel. Two further constants move the attack-count prefix 24px right. Its anchor is computed from the native fixed `000\uff5e000` width sample, rather than the Attacks label. Native full-width damage ranges and the maximum byte-sized x255 count fit with a gap; the right column and row heights are unchanged.
+
+The native-font audit covers 66 cases. Two preview guard/scope tests and eleven runtime-wrapper tests pass, and independent overlay verification checks the actual instructions and deferred labels. Updated in-game appearance remains pending.
+
 ## Inventory names and preview label in 0.1.6
 
 The new Items screenshot is saved as `work/ui/items-before-0.1.6-unidentified.png`, with geometry in `work/ui/status-items.en.json`.

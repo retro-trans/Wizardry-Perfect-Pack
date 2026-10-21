@@ -1,14 +1,79 @@
 {
   "language": "en",
-  "scope": "Narrow registration, party and class panels",
+  "scope": "Narrow registration, party, class and item stat panels",
   "terms": [
-    {"concept": "Alignment", "display": "Align.", "source_id": "X0245"},
-    {"concept": "Appearance", "display": "Look", "source_id": "X2556"},
-    {"concept": "Neutral alignment", "display": "Neut.", "source_id": "X2363", "evidence": "Both source occurrences are index 2 in Good/Neutral/Evil bitmask arrays; Medium was an inherited mistranslation."},
-    {"concept": "Front row", "display": "Front", "source_id": "X0291"},
-    {"concept": "Back row", "display": "Rear", "source_id": "X0292"},
-    {"concept": "Main hand", "display": "M:", "source_id": "X1337"},
-    {"concept": "Sub hand", "display": "S:", "source_id": "X1338"}
+    {
+      "concept": "Alignment",
+      "display": "Align.",
+      "source_id": "X0245"
+    },
+    {
+      "concept": "Appearance",
+      "display": "Look",
+      "source_id": "X2556"
+    },
+    {
+      "concept": "Neutral alignment",
+      "display": "Neut.",
+      "source_id": "X2363",
+      "evidence": "Both source occurrences are index 2 in Good/Neutral/Evil bitmask arrays; Medium was an inherited mistranslation."
+    },
+    {
+      "concept": "Front row",
+      "display": "Front",
+      "source_id": "X0291"
+    },
+    {
+      "concept": "Back row",
+      "display": "Rear",
+      "source_id": "X0292"
+    },
+    {
+      "concept": "Main hand",
+      "display": "M:",
+      "source_id": "X1337"
+    },
+    {
+      "concept": "Sub hand",
+      "display": "S:",
+      "source_id": "X1338"
+    },
+    {
+      "concept": "Attack",
+      "display": "Atk:",
+      "source_id": "X1416",
+      "context": "Compact item stat label; separate full-word labels are unchanged"
+    },
+    {
+      "concept": "Accuracy",
+      "display": "Acc:",
+      "source_id": "X1417",
+      "context": "Compact item stat label; separate full-word labels are unchanged"
+    },
+    {
+      "concept": "Range",
+      "display": "Rng:",
+      "source_id": "X1418",
+      "context": "Compact item stat label; separate full-word labels are unchanged"
+    },
+    {
+      "concept": "Element",
+      "display": "Elem:",
+      "source_id": "X1419",
+      "context": "Compact item stat label; separate full-word labels are unchanged"
+    },
+    {
+      "concept": "Defense",
+      "display": "Def:",
+      "source_id": "X1420",
+      "context": "Compact item stat label; separate full-word labels are unchanged"
+    },
+    {
+      "concept": "Evasion",
+      "display": "Eva:",
+      "source_id": "X1421",
+      "context": "Compact item stat label; separate full-word labels are unchanged"
+    }
   ],
   "note": "Compact display labels preserve the established full terminology in dialogue and descriptions."
 }

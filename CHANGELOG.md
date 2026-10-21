@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.15 — 2026-10-21 (local test build)
+
+- Abbreviate compact item stat labels to Atk, Acc, Eva, Def, Rng and Elem. Keep the separate full-word labels and the existing deferred renderer aliases.
+- Move the weapon preview's left label/value pairs 32px right so Elem fits inside the frame, and move the attack count 24px right to preserve its gap after the damage range. Keep the right column and all row positions.
+- Pass 66 native-font layout cases and 13 targeted guard/runtime tests. Independently verify all 636 overlay files; only the executable differs from 0.1.14. Stage it atomically and update the test launcher, preserving saves and controller settings.
+- Retain the previous name-entry, dialogue, subtitle and context-label fixes. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.14 — 2026-10-19
 
 - Expand character name entry from six to twelve characters. Replace the separate eight-character name setter with a UTF-8-aware copy limited to twelve characters and the native 32-byte payload. Preserve the 33-byte name field, neighboring character data and save layout.

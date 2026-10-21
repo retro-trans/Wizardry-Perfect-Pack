@@ -120,6 +120,8 @@ def verify(build):
    if memory(address,4)!=bytes.fromhex('23bd008c'):raise ValueError('Armor label position mismatch')
   for address in VALUE_SITES:
    if memory(address,4)!=bytes.fromhex('3929008c'):raise ValueError('Armor value position mismatch')
+  for row in runtime['item_preview'].get('weapon_changes',[]):
+   if memory(int(row['address'],16),4)!=struct.pack('>I',int(row['after'],16)):raise ValueError('Weapon preview position mismatch')
   preview_rows=len(LABEL_SITES)
  panel_changes=runtime.get('menu_panels',{}).get('changes',[])
  for row in panel_changes:

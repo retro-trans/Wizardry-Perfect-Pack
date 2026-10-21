@@ -677,9 +677,9 @@
     },
     {
       "id": "X1416",
-      "en": "Attack:",
+      "en": "Atk:",
       "status": "translated",
-      "note": "",
+      "note": "Compact item stat label, abbreviated for the native two-column preview. Keep the source label and renderer alias; separate full-word stat labels remain unchanged.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X1416",
@@ -689,9 +689,9 @@
     },
     {
       "id": "X1417",
-      "en": "Accuracy:",
+      "en": "Acc:",
       "status": "translated",
-      "note": "",
+      "note": "Compact item stat label, abbreviated for the native two-column preview. Keep the source label and renderer alias; separate full-word stat labels remain unchanged.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X1417",
@@ -701,9 +701,9 @@
     },
     {
       "id": "X1418",
-      "en": "Range:",
+      "en": "Rng:",
       "status": "translated",
-      "note": "",
+      "note": "Compact item stat label, abbreviated for the native two-column preview. Keep the source label and renderer alias; separate full-word stat labels remain unchanged.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X1418",
@@ -713,9 +713,9 @@
     },
     {
       "id": "X1419",
-      "en": "Element:",
+      "en": "Elem:",
       "status": "translated",
-      "note": "",
+      "note": "Compact item stat label, abbreviated for the native two-column preview. Keep the source label and renderer alias; separate full-word stat labels remain unchanged.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X1419",
@@ -725,9 +725,9 @@
     },
     {
       "id": "X1420",
-      "en": "Defense:",
+      "en": "Def:",
       "status": "translated",
-      "note": "",
+      "note": "Compact item stat label, abbreviated for the native two-column preview. Keep the source label and renderer alias; separate full-word stat labels remain unchanged.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X1420",
@@ -737,9 +737,9 @@
     },
     {
       "id": "X1421",
-      "en": "Evasion:",
+      "en": "Eva:",
       "status": "translated",
-      "note": "",
+      "note": "Compact item stat label, abbreviated for the native two-column preview. Keep the source label and renderer alias; separate full-word stat labels remain unchanged.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X1421",

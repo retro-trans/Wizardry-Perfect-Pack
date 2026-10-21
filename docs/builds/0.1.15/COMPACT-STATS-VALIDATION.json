@@ -1,0 +1,129 @@
+{
+  "version": "0.1.15",
+  "result": "verified_local_build",
+  "labels": [
+    {
+      "id": "X1416",
+      "text": "Atk:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1417",
+      "text": "Acc:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1418",
+      "text": "Rng:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1419",
+      "text": "Elem:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1420",
+      "text": "Def:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1421",
+      "text": "Eva:",
+      "font_size": 24,
+      "maximum_width": 64
+    }
+  ],
+  "weapon_layout": {
+    "branch": "armor/accessory categories 9 through 16",
+    "horizontal_shift": 80,
+    "old_relative_anchor": 60,
+    "new_relative_anchor": 140,
+    "label_sites": [
+      "0xf8e18",
+      "0xf8f68",
+      "0xf90b4",
+      "0xf9200"
+    ],
+    "value_sites": [
+      "0xf8ecc",
+      "0xf9018",
+      "0xf9164",
+      "0xf9298"
+    ],
+    "row_positions_unchanged": true,
+    "misc_branch_unchanged": true,
+    "weapon_left_shift": 32,
+    "weapon_count_shift": 24,
+    "weapon_right_column_unchanged": true,
+    "weapon_changes": [
+      {
+        "address": "0xf8490",
+        "before": "0x23bd003c",
+        "after": "0x23bd005c"
+      },
+      {
+        "address": "0xf877c",
+        "before": "0x23bd003c",
+        "after": "0x23bd005c"
+      },
+      {
+        "address": "0xf8a10",
+        "before": "0x23bd003c",
+        "after": "0x23bd005c"
+      },
+      {
+        "address": "0xf8ca0",
+        "before": "0x23bd003c",
+        "after": "0x23bd005c"
+      },
+      {
+        "address": "0xf8554",
+        "before": "0x3929003c",
+        "after": "0x3929005c"
+      },
+      {
+        "address": "0xf882c",
+        "before": "0x3929003c",
+        "after": "0x3929005c"
+      },
+      {
+        "address": "0xf8ac0",
+        "before": "0x3929003c",
+        "after": "0x3929005c"
+      },
+      {
+        "address": "0xf8d38",
+        "before": "0x3929003c",
+        "after": "0x3929005c"
+      },
+      {
+        "address": "0xf863c",
+        "before": "0x3863004c",
+        "after": "0x38630064"
+      },
+      {
+        "address": "0xf8660",
+        "before": "0x3b9c004c",
+        "after": "0x3b9c0064"
+      }
+    ]
+  },
+  "native_font_cases": 66,
+  "preview_guard_tests": 2,
+  "runtime_wrapper_tests": 11,
+  "changed_overlay_files_from_0_1_14": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_635_overlay_files_match": true,
+  "staged_executable_sha256": "829eac0f67d28874993b7b7668c225c79f6d1e5942036336e5ac922a942a14b2",
+  "staged_executable_matches": true,
+  "save_or_controller_files_changed": false,
+  "updated_ingame_visual_verification": false,
+  "release_published": false
+}

@@ -15,6 +15,10 @@
     {
       "file": "items-before-0.1.3-ring.png",
       "kind": "actual user in-game screenshot"
+    },
+    {
+      "file": "items-before-0.1.15-weapon.png",
+      "kind": "actual user in-game screenshot; cropped weapon preview"
     }
   ],
   "popup": [
@@ -367,5 +371,69 @@
       "id": "X1419",
       "font_size": 24
     }
-  ]
+  ],
+  "compact_stat_labels": [
+    {
+      "id": "X1416",
+      "text": "Atk:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1417",
+      "text": "Acc:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1418",
+      "text": "Rng:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1419",
+      "text": "Elem:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1420",
+      "text": "Def:",
+      "font_size": 24,
+      "maximum_width": 64
+    },
+    {
+      "id": "X1421",
+      "text": "Eva:",
+      "font_size": 24,
+      "maximum_width": 64
+    }
+  ],
+  "weapon_preview": {
+    "origin_x": 680,
+    "left_anchor_x": 772,
+    "right_column_x": 823,
+    "attack_count_x_prefix": 100,
+    "stat_panel": [
+      706,
+      452,
+      251,
+      129
+    ],
+    "left_label_ids": [
+      "X1416",
+      "X1417",
+      "X1421",
+      "X1419"
+    ],
+    "reference_damage": "52\uff5e170",
+    "reference_count": "2",
+    "reference_accuracy": "2",
+    "reference_range": "M",
+    "reference_evasion": "0",
+    "reference_defense": "1",
+    "reference_element": "None",
+    "attack_count_measure_text": "000\uff5e000"
+  }
 }
