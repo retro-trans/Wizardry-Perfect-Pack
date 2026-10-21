@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.19 — 2026-10-22 (local test build)
+
+- Wrap ordinary item preview descriptions to 224px at a 20px body font, preserving the complete wording and canonical translations. The reported Healing Salve Concentrate description fits in four lines.
+- Cover 76 descriptions across 264 item fields; all fit within five lines and 104px of the 105px height budget. Guard both native font constants. Keep item names, quantities, special-power text and equipment stat fonts unchanged.
+- Pass four item-description, two preview guard and four bestiary layout tests. Independently verify all 636 overlay files and 264 item description fields. Only the executable differs from 0.1.18; stage it atomically and update the test launcher, preserving saves and controller settings.
+- Retain bestiary and quest wrapping, full class headings, compact stats and previous fixes. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.18 — 2026-10-22 (local test build)
 
 - Wrap all 200 bestiary lore display copies to a conservative 288px width, preserving every word and paragraph break between text blocks. Leave canonical translations, names, abilities and monster data unchanged.

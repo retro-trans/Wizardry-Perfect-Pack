@@ -1,0 +1,646 @@
+{
+  "result": "passed",
+  "descriptions": 76,
+  "fields": 264,
+  "reflowed": 70,
+  "maximum_lines": 5,
+  "maximum_width": 224,
+  "available_width": 224,
+  "available_height": 105,
+  "font_size": 20,
+  "line_pitch": 21,
+  "maximum_text_height": 104,
+  "canonical_translations_unchanged": true,
+  "in_game_verified": false,
+  "cases": [
+    {
+      "id": "A01DI0002",
+      "lines": 2,
+      "maximum_width": 171,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 28
+    },
+    {
+      "id": "A01DI0042",
+      "lines": 2,
+      "maximum_width": 180,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DI0044",
+      "lines": 3,
+      "maximum_width": 171,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DI0046",
+      "lines": 3,
+      "maximum_width": 162,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DI0048",
+      "lines": 3,
+      "maximum_width": 162,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DI0050",
+      "lines": 3,
+      "maximum_width": 162,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DI0052",
+      "lines": 3,
+      "maximum_width": 162,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DI0002",
+      "lines": 3,
+      "maximum_width": 162,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DI0004",
+      "lines": 3,
+      "maximum_width": 203,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DI0006",
+      "lines": 3,
+      "maximum_width": 205,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DI0008",
+      "lines": 3,
+      "maximum_width": 169,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DI0010",
+      "lines": 3,
+      "maximum_width": 169,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DI0012",
+      "lines": 3,
+      "maximum_width": 169,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0002",
+      "lines": 2,
+      "maximum_width": 171,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 157
+    },
+    {
+      "id": "DI0021",
+      "lines": 2,
+      "maximum_width": 222,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0024",
+      "lines": 2,
+      "maximum_width": 203,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0026",
+      "lines": 2,
+      "maximum_width": 208,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 2
+    },
+    {
+      "id": "DI0033",
+      "lines": 1,
+      "maximum_width": 129,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0046",
+      "lines": 1,
+      "maximum_width": 217,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0050",
+      "lines": 3,
+      "maximum_width": 204,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0053",
+      "lines": 2,
+      "maximum_width": 203,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 4
+    },
+    {
+      "id": "DI0055",
+      "lines": 4,
+      "maximum_width": 212,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0057",
+      "lines": 4,
+      "maximum_width": 224,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0059",
+      "lines": 2,
+      "maximum_width": 213,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0061",
+      "lines": 4,
+      "maximum_width": 213,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0066",
+      "lines": 3,
+      "maximum_width": 172,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0068",
+      "lines": 2,
+      "maximum_width": 211,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 2
+    },
+    {
+      "id": "DI0077",
+      "lines": 3,
+      "maximum_width": 176,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0080",
+      "lines": 2,
+      "maximum_width": 208,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0082",
+      "lines": 2,
+      "maximum_width": 224,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0084",
+      "lines": 2,
+      "maximum_width": 215,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0135",
+      "lines": 1,
+      "maximum_width": 139,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0191",
+      "lines": 4,
+      "maximum_width": 203,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0193",
+      "lines": 3,
+      "maximum_width": 184,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0195",
+      "lines": 2,
+      "maximum_width": 183,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0197",
+      "lines": 3,
+      "maximum_width": 184,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0199",
+      "lines": 4,
+      "maximum_width": 190,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0202",
+      "lines": 4,
+      "maximum_width": 224,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0204",
+      "lines": 5,
+      "maximum_width": 202,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0206",
+      "lines": 2,
+      "maximum_width": 215,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0208",
+      "lines": 4,
+      "maximum_width": 220,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0210",
+      "lines": 3,
+      "maximum_width": 212,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0212",
+      "lines": 3,
+      "maximum_width": 224,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0214",
+      "lines": 3,
+      "maximum_width": 186,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0216",
+      "lines": 4,
+      "maximum_width": 211,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0218",
+      "lines": 3,
+      "maximum_width": 214,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0220",
+      "lines": 4,
+      "maximum_width": 192,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0222",
+      "lines": 4,
+      "maximum_width": 221,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0224",
+      "lines": 4,
+      "maximum_width": 190,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0226",
+      "lines": 3,
+      "maximum_width": 222,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0228",
+      "lines": 3,
+      "maximum_width": 224,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0230",
+      "lines": 4,
+      "maximum_width": 214,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0232",
+      "lines": 4,
+      "maximum_width": 192,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0234",
+      "lines": 4,
+      "maximum_width": 209,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0236",
+      "lines": 4,
+      "maximum_width": 190,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0238",
+      "lines": 2,
+      "maximum_width": 211,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0240",
+      "lines": 3,
+      "maximum_width": 211,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0242",
+      "lines": 2,
+      "maximum_width": 218,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0244",
+      "lines": 3,
+      "maximum_width": 211,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0246",
+      "lines": 3,
+      "maximum_width": 211,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0248",
+      "lines": 3,
+      "maximum_width": 211,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0250",
+      "lines": 2,
+      "maximum_width": 212,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0255",
+      "lines": 3,
+      "maximum_width": 216,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0258",
+      "lines": 3,
+      "maximum_width": 209,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0261",
+      "lines": 3,
+      "maximum_width": 219,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0264",
+      "lines": 4,
+      "maximum_width": 191,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0267",
+      "lines": 3,
+      "maximum_width": 214,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0270",
+      "lines": 4,
+      "maximum_width": 211,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0273",
+      "lines": 3,
+      "maximum_width": 220,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0276",
+      "lines": 4,
+      "maximum_width": 209,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0291",
+      "lines": 3,
+      "maximum_width": 201,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0295",
+      "lines": 2,
+      "maximum_width": 208,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DI0297",
+      "lines": 4,
+      "maximum_width": 223,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "PPDI0002",
+      "lines": 3,
+      "maximum_width": 203,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "PPDI0004",
+      "lines": 3,
+      "maximum_width": 203,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "PPDI0006",
+      "lines": 3,
+      "maximum_width": 203,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    }
+  ],
+  "reported_case": {
+    "id": "DI0297",
+    "text": "It seems to be\nmedicine whose healing\npower has not yet\nbeen fully concentrated.",
+    "lines": 4,
+    "maximum_width": 223,
+    "changed": true,
+    "words_preserved": true,
+    "fields": 1
+  },
+  "version": "0.1.19",
+  "item_description_tests": 4,
+  "item_preview_guard_tests": 2,
+  "monster_lore_tests": 4,
+  "changed_overlay_files_from_0_1_18": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_635_overlay_files_match": true,
+  "staged_executable_sha256": "c36461654fb2856c0c606745bd1b599f1e51b35aae1bafbd596c472edc73b517",
+  "staged_executable_matches": true,
+  "save_or_controller_files_changed": false,
+  "release_published": false
+}

@@ -1,5 +1,13 @@
 # Item-screen corrections
 
+## Ordinary item descriptions in local 0.1.19
+
+The ordinary item preview uses record offset 342 and draws at VA0xf840c, with a 12px inset in each direction. Two guarded font constants at 0xf83bc and 0xf83c4 change this body text from 24px to 20px. Weapon/armor stat branches and the item list keep their separate font settings.
+
+A 224px width budget wraps complete display copies in the relocated text pool. At 21px line pitch, all 76 descriptions (264 fields across the item archives) fit within five lines and 104px of a 105px height budget. The reported Healing Salve Concentrate entry, DI0297, fits in four lines. Excess width or height blocks output; no words are shortened or removed. Canonical translations, names, quantities, special-power descriptions and numeric fields are unchanged.
+
+Tests check every description, both native font guards and the relocated pool, including unchanged item names and special-power text. Independent overlay verification resolves all 264 item description fields and checks the actual font instructions. Updated in-game appearance remains pending; the original screenshot and dimensions are recorded in work/ui/items.en.json.
+
 ## Compact item stats in local 0.1.15
 
 The compact stat labels use Atk, Acc, Rng, Elem, Def and Eva (X1416–X1421). Their existing late renderer aliases remain in place. Separate full-word labels are unchanged.

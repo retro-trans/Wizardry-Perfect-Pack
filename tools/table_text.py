@@ -116,6 +116,7 @@ def relocation_plan(groups):
  from skill_description_layout import display_text as skill_display
  from quest_description_layout import display_text as quest_display
  from monster_lore_layout import display_text as lore_display
+ from item_description_layout import display_text as item_display
  translations={}
  for path in (ROOT/'work/translation/en/databases').rglob('*.en.json'):
   for row in json.loads(path.read_text(encoding='utf-8'))['translations']:
@@ -133,7 +134,8 @@ def relocation_plan(groups):
    if decision is None:missing.append(row['id']);continue
    if decision['status']=='exclude':continue
    index=len(entries);token=('~T%08X~'%index).encode('ascii')+b'\0'
-   if member==2:rendered=lore_display(row,decision)
+   if member==0:rendered=item_display(row,decision)
+   elif member==2:rendered=lore_display(row,decision)
    elif member==8:rendered=quest_display(row,decision)
    elif member==9:rendered=skill_display(row,decision)
    else:rendered=spell_display(row,decision)

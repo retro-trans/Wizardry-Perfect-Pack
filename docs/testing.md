@@ -1,25 +1,29 @@
 # Local build and testing
 
+## Test local 0.1.19 item descriptions
+
+Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.19**. Select Healing Salve Concentrate and check that its complete description, through “fully concentrated,” fits inside the preview box. Ordinary descriptions use a 20px body font and up to five lines. Check a long item description, then a weapon and armor preview to confirm their stat labels retain their existing font. All 76 descriptions have word and dimension checks; updated in-game appearance is pending. The public release remains 0.1.14.
+
 ## Test local 0.1.18 bestiary wrapping
 
-Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.18**. In the bestiary, open Undead Goblin and read through the final sentence about its stench in the labyrinth. The complete description should remain inside the right frame, with paragraph breaks. Lore uses a 22px font; the monster list and names retain their own fonts. Recheck long entries and the status/hide controls. All 200 descriptions have word and dimension checks; updated in-game appearance is pending. The public release remains 0.1.14.
+Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.19**. In the bestiary, open Undead Goblin and read through the final sentence about its stench in the labyrinth. The complete description should remain inside the right frame, with paragraph breaks. Lore uses a 22px font; the monster list and names retain their own fonts. Recheck long entries and the status/hide controls. All 200 descriptions have word and dimension checks; updated in-game appearance is pending. The public release remains 0.1.14.
 
 ## Test local 0.1.17 quest descriptions
 
-Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.18**. Open The Mysterious Female Thief and check that the objective includes the complete phrase about recovering Healing Salve Concentrate from the grizzlies and giving it to Fiore, with a clear right margin. Check requests before acceptance and longer objectives, including multi-item collection quests. The client line stays above the body; the body fits within three lines. All 108 descriptions have metric/word-preservation checks; updated in-game appearance is pending. The public release remains 0.1.14.
+Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.19**. Open The Mysterious Female Thief and check that the objective includes the complete phrase about recovering Healing Salve Concentrate from the grizzlies and giving it to Fiore, with a clear right margin. Check requests before acceptance and longer objectives, including multi-item collection quests. The client line stays above the body; the body fits within three lines. All 108 descriptions have metric/word-preservation checks; updated in-game appearance is pending. The public release remains 0.1.14.
 
 ## Test local 0.1.16 class heading
 
-Save and close the project test session, then run `work/output/Play-English-Test.cmd` and confirm **v0.1.18**. On Confirm Class, the reported heading should read **Seraphine / Samurai**. Recheck other characters/classes and the Samurai entry in the selection grid. All thirteen full class names in this heading have independent file checks; updated in-game appearance is pending. This build includes the 0.1.15 item abbreviations. The public release remains 0.1.14.
+Save and close the project test session, then run `work/output/Play-English-Test.cmd` and confirm **v0.1.19**. On Confirm Class, the reported heading should read **Seraphine / Samurai**. Recheck other characters/classes and the Samurai entry in the selection grid. All thirteen full class names in this heading have independent file checks; updated in-game appearance is pending. This build includes the 0.1.15 item abbreviations. The public release remains 0.1.14.
 
 ## Test local 0.1.15 item abbreviations
 
-Save and close the project test session, then run `work/output/Play-English-Test.cmd` and confirm **v0.1.18**. Inspect the reported sword: Atk:52~170, Acc:2, Rng:M, Eva:0, Def:1 and Elem:None should fit inside the preview, with a gap before x2. Check an armor/accessory preview as well. The source labels retain their renderer aliases. This is a local build; the public release remains 0.1.14.
+Save and close the project test session, then run `work/output/Play-English-Test.cmd` and confirm **v0.1.19**. Inspect the reported sword: Atk:52~170, Acc:2, Rng:M, Eva:0, Def:1 and Elem:None should fit inside the preview, with a gap before x2. Check an armor/accessory preview as well. The source labels retain their renderer aliases. This is a local build; the public release remains 0.1.14.
 
 ## Test the local 0.1.14 name-entry fix
 
 Save progress, close the project test session and run
-`work/output/Play-English-Test.cmd`. Confirm **v0.1.18**. The keyboard should
+`work/output/Play-English-Test.cmd`. Confirm **v0.1.19**. The keyboard should
 accept `Vedette` and up to twelve English characters. Complete registration,
 check the name in the roster/status screens, then save and restart to check
 that it persists. [Name-entry notes](name_entry.md) describe the unchanged

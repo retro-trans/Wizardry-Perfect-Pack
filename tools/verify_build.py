@@ -221,7 +221,7 @@ def verify(build):
     if details['name']!=decision.get('display',decision['en']):raise ValueError('Dungeon name translation mismatch')
     dungeon_count+=1
    elif old!=new:raise ValueError('Unselected dungeon changed')
- spell_fields=skill_fields=quest_fields=lore_fields=0
+ spell_fields=skill_fields=quest_fields=lore_fields=item_description_fields=0
  for archive in ('table.enc','addtable01.enc','addtable02.enc','ppdata.enc'):
   before=unpack((source/'USRDIR/data'/archive).read_bytes());after=unpack((overlay/'USRDIR/data'/archive).read_bytes())
   if len(before)!=len(after):raise ValueError('Archive member count changed')
@@ -238,7 +238,11 @@ def verify(build):
     from skill_description_layout import render as render_skill
     from quest_description_layout import display_text as quest_display,is_description as quest_description
     from monster_lore_layout import display_text as lore_display,is_lore
+    from item_description_layout import display_text as item_display,is_description as item_description
     rendered=en
+    if member==0:
+     rendered=item_display(row,dict(en=en))
+     if item_description(row):item_description_fields+=1
     if member==2:
      rendered=lore_display(row,dict(en=en))
      if is_lore(row):lore_fields+=1
@@ -274,6 +278,7 @@ def verify(build):
              skill_description_fields_verified=skill_fields,
              quest_description_fields_verified=quest_fields,
              monster_lore_fields_verified=lore_fields,
+             item_description_fields_verified=item_description_fields,
              inventory_name_fitting_installed=bool(inventory),
              anonymous_narration_pagination_installed=bool(narration),
              title_version_and_url_installed=bool(branding),

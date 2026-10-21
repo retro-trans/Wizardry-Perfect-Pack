@@ -18,7 +18,7 @@ from elftools.elf.elffile import ELFFile
 from check_translation import ROOT, read_sources, read_english, validate
 
 EXE_HASH = '2e23b466028ac0a18f7f46522fe1847d5c918a129605a2bdc1c56ca31da82bba'
-VERSION = '0.1.18'
+VERSION = '0.1.19'
 # Native code has inlined fixed-size copies for these short Japanese labels.
 # Relocating them early would omit their terminators. Expand only at the final
 # font boundary, after those original copies have safely finished.

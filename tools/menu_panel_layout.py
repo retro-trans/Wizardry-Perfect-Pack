@@ -2,6 +2,9 @@
 from runtime_text import instruction
 
 CHANGES=(
+    # Ordinary item preview text only; equipment stats keep their own font.
+    (0xf83bc,0x38800018,0x38800014,'item_description_vertical_size'),
+    (0xf83c4,0x38600018,0x38600014,'item_description_horizontal_size'),
     # Lore uses the narrow right bestiary panel; other list/status fonts reset.
     (0x100560,0x3860001c,0x38600016,'monster_lore_horizontal_size'),
     (0x100564,0x3880001c,0x38800016,'monster_lore_vertical_size'),
@@ -25,6 +28,7 @@ def patches(original):
             raise ValueError('Menu panel instruction mismatch at '+hex(address))
         result.append((offset,instruction(after)))
     return result,dict(spell_school_horizontal_size=22,spell_school_vertical_size=32,
+                       item_description_horizontal_size=20,item_description_vertical_size=20,
                        monster_lore_horizontal_size=22,monster_lore_vertical_size=22,
                        spell_description_horizontal_size=24,spell_description_vertical_size=22,
                        mp_number_font_unchanged=True,quest_status_brackets_removed=True,

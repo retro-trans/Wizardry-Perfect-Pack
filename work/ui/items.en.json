@@ -19,6 +19,14 @@
     {
       "file": "items-before-0.1.15-weapon.png",
       "kind": "actual user in-game screenshot; cropped weapon preview"
+    },
+    {
+      "file": "item-description-before-0.1.19.png",
+      "kind": "actual user in-game screenshot; cropped item preview",
+      "capture_resolution": [
+        791,
+        493
+      ]
     }
   ],
   "popup": [
@@ -435,5 +443,33 @@
     "reference_defense": "1",
     "reference_element": "None",
     "attack_count_measure_text": "000\uff5e000"
+  },
+  "item_description": {
+    "bounds": [
+      706,
+      452,
+      251,
+      129
+    ],
+    "native_text_inset": [
+      12,
+      12
+    ],
+    "inner_width": 224,
+    "inner_height": 105,
+    "font_size": 20,
+    "line_pitch": 21,
+    "maximum_lines": 5,
+    "maximum_text_height": 104,
+    "native_font_sites": [
+      "0xf83bc",
+      "0xf83c4"
+    ],
+    "native_field_offset": 342,
+    "native_draw": "0xf840c",
+    "reported_source_id": "DI0297",
+    "equipment_stat_fonts_unchanged": true,
+    "special_power_text_unchanged": true,
+    "updated_ingame_verification": false
   }
 }
