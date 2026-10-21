@@ -168,6 +168,9 @@ def make_code(original, resolver, resolver_entry_offset, table_address, count, d
     from bestiary_status_layout import patches as bestiary_status_patches
     status_changes,status_audit=bestiary_status_patches(original)
     patches.extend(status_changes)
+    from item_collection_layout import append_code as append_collection
+    collection_changes,collection_audit=append_collection(original,code)
+    patches.extend(collection_changes)
     from inventory_layout import append_code as append_inventory_code
     inventory_patches,inventory_audit=append_inventory_code(original,code)
     patches.extend(inventory_patches)
@@ -197,5 +200,6 @@ def make_code(original, resolver, resolver_entry_offset, table_address, count, d
                                     alias_address=hex(alias_address),alias_count=alias_count,
                                     item_cells=item_audit,item_preview=preview_audit,menu_panels=panel_audit,battle=battle_audit,
                                     bestiary_status=status_audit,
+                                    item_collection=collection_audit,
                                     inventory_names=inventory_audit,narration=narration_audit,title_branding=branding_audit,
                                     name_entry=name_audit,class_heading=class_heading_audit)

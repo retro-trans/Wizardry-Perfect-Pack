@@ -1,0 +1,62 @@
+{
+  "capture": "item-collection-before-0.1.21.png",
+  "capture_resolution": [
+    1245,
+    723
+  ],
+  "kind": "actual user in-game screenshot",
+  "screen": "Item Collection",
+  "observed_list_bounds": [
+    116,
+    181,
+    273,
+    456
+  ],
+  "observed_heading_bounds": [
+    428,
+    130,
+    443,
+    50
+  ],
+  "bounds_are_approximate": true,
+  "label_font_size": 24,
+  "heading_font_size": 32,
+  "conservative_list_width_budget": 256,
+  "list_inset": 16,
+  "minimum_percent_gap": 12,
+  "conservative_heading_text_budget": 256,
+  "category_first_type_ids": [
+    15,
+    1,
+    4,
+    6,
+    8,
+    7,
+    9,
+    11,
+    10,
+    12,
+    13,
+    14
+  ],
+  "labels": [
+    "All",
+    "Blades",
+    "Staff/Blunt",
+    "Thrown",
+    "Armor",
+    "Robe",
+    "Shield",
+    "Gloves",
+    "Helm",
+    "Boots",
+    "Accessory",
+    "Items"
+  ],
+  "native_format_calls": [
+    "0x100fbc",
+    "0x1019bc"
+  ],
+  "shared_type_names_unchanged": true,
+  "updated_ingame_verification": false
+}

@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.21 — 2026-10-22 (local test build)
+
+- Shorten Item Collection groups to Blades, Staff/Blunt and Thrown in both the percentage list and selected category heading. Keep the other nine group names and all individual item/type names.
+- Replace only the two collection formatting calls with a guarded short-label copy. Preserve category membership, percentages, shared formatting code, fonts and positions. All twelve labels fit beside 100.0% and between the heading icons.
+- Pass four collection scope/guard/label/width tests and eleven runtime tests. Independently verify all 636 overlay files and twelve installed category labels; only the executable differs from 0.1.20. Stage it atomically and update the test launcher.
+- Retain earlier fixes, saves and controller settings. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.20 — 2026-10-22 (local test build)
 
 - Fix garbage after the bestiary Gold label by resolving Gold, EXP and Spell Resistance after their original fixed-length native copies. Use Gold:, EXP: and Spell Res: in this status pane.

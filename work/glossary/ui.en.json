@@ -91,6 +91,21 @@
       "display": "Spell Res:",
       "source_id": "X2438",
       "context": "Bestiary status pane; resolve after original fixed-length copy"
+    },
+    {
+      "concept": "Daggers, swords and katana",
+      "display": "Blades",
+      "context": "Item Collection category group only"
+    },
+    {
+      "concept": "Staves and blunt weapons",
+      "display": "Staff/Blunt",
+      "context": "Item Collection category group only"
+    },
+    {
+      "concept": "Thrown weapons",
+      "display": "Thrown",
+      "context": "Item Collection category group only"
     }
   ],
   "note": "Compact display labels preserve the established full terminology in dialogue and descriptions."

@@ -1,0 +1,98 @@
+{
+  "result": "passed",
+  "version": "0.1.21",
+  "categories": [
+    {
+      "text": "All",
+      "list_width": 27,
+      "header_width": 36,
+      "total_with_insets_gap_and_100_percent": 163
+    },
+    {
+      "text": "Blades",
+      "list_width": 74,
+      "header_width": 100,
+      "total_with_insets_gap_and_100_percent": 210
+    },
+    {
+      "text": "Staff/Blunt",
+      "list_width": 116,
+      "header_width": 158,
+      "total_with_insets_gap_and_100_percent": 252
+    },
+    {
+      "text": "Thrown",
+      "list_width": 79,
+      "header_width": 109,
+      "total_with_insets_gap_and_100_percent": 215
+    },
+    {
+      "text": "Armor",
+      "list_width": 66,
+      "header_width": 89,
+      "total_with_insets_gap_and_100_percent": 202
+    },
+    {
+      "text": "Robe",
+      "list_width": 55,
+      "header_width": 75,
+      "total_with_insets_gap_and_100_percent": 191
+    },
+    {
+      "text": "Shield",
+      "list_width": 67,
+      "header_width": 91,
+      "total_with_insets_gap_and_100_percent": 203
+    },
+    {
+      "text": "Gloves",
+      "list_width": 73,
+      "header_width": 99,
+      "total_with_insets_gap_and_100_percent": 209
+    },
+    {
+      "text": "Helm",
+      "list_width": 55,
+      "header_width": 75,
+      "total_with_insets_gap_and_100_percent": 191
+    },
+    {
+      "text": "Boots",
+      "list_width": 61,
+      "header_width": 83,
+      "total_with_insets_gap_and_100_percent": 197
+    },
+    {
+      "text": "Accessory",
+      "list_width": 110,
+      "header_width": 150,
+      "total_with_insets_gap_and_100_percent": 246
+    },
+    {
+      "text": "Items",
+      "list_width": 59,
+      "header_width": 80,
+      "total_with_insets_gap_and_100_percent": 195
+    }
+  ],
+  "guarded_format_calls": [
+    "0x100fbc",
+    "0x1019bc"
+  ],
+  "maximum_copy_bytes": 12,
+  "copy_budget": 16,
+  "tests": {
+    "collection": 4,
+    "runtime": 11
+  },
+  "prior_version": "0.1.20",
+  "changed_overlay_files": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_overlay_files_unchanged": 635,
+  "powerpc_execution_verified": false,
+  "in_game_verified": false,
+  "staged_executable_matches_overlay": true,
+  "staged_executable_sha256": "07d8823d9c0d13fb56294df1bc5aeef3f6f2cddf15ee052520abfe07321cfefc",
+  "launcher_preflight": "passed"
+}

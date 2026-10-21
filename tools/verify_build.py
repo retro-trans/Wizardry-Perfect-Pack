@@ -143,6 +143,14 @@ def verify(build):
    if memory(address,4)!=struct.pack('>I',after):raise ValueError('Bestiary status position mismatch')
   if not {row[0] for row in COPIES}<=deferred:raise ValueError('Bestiary fixed-copy aliases missing')
  battle=runtime.get('battle')
+ collection=runtime.get('item_collection')
+ if collection:
+  from item_collection_layout import SITES,image,labels
+  from runtime_text import instruction,branch
+  stub=int(collection['stub'],16);expected,_=image(stub,labels())
+  if memory(stub,len(expected))!=expected:raise ValueError('Compact collection labels/stub mismatch')
+  for site in SITES:
+   if memory(site,4)!=instruction(branch(site,stub,True)):raise ValueError('Collection category call mismatch')
  branding=runtime.get('title_branding')
  name_entry=runtime.get('name_entry')
  if name_entry:
@@ -280,6 +288,7 @@ def verify(build):
              item_cell_groups_verified=len(item_cells),armor_preview_rows_verified=preview_rows,
              menu_panel_patches_verified=len(panel_changes),battle_reward_pagination_installed=bool(battle),
              bestiary_status_patches_verified=len(runtime.get('bestiary_status',{}).get('changes',[])),
+             compact_collection_categories_verified=12 if collection else 0,
              spell_description_fields_verified=spell_fields,
              skill_description_fields_verified=skill_fields,
              quest_description_fields_verified=quest_fields,
