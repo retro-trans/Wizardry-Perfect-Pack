@@ -1,0 +1,231 @@
+{
+  "result": "passed",
+  "version": "0.1.20",
+  "native_layout": {
+    "label_right": 132,
+    "value_left": 144,
+    "column_gap": 12,
+    "panel_width": 320,
+    "inset": 16,
+    "font_size": 24,
+    "row_positions_unchanged": true,
+    "value_sites": [
+      "0xff620",
+      "0xff784",
+      "0xff8bc",
+      "0xff9e8",
+      "0xffb4c",
+      "0xffca4",
+      "0xffe04",
+      "0xfff8c",
+      "0x10030c"
+    ],
+    "deferred_labels": [
+      {
+        "id": "X2443",
+        "copy_bytes": 12
+      },
+      {
+        "id": "X2444",
+        "copy_bytes": 17
+      },
+      {
+        "id": "X2438",
+        "copy_bytes": 17
+      }
+    ],
+    "changes": [
+      {
+        "address": "0xff4e4",
+        "before": "0x3bc3000c",
+        "after": "0x3bc00084"
+      },
+      {
+        "address": "0xff620",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xff784",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xff8bc",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xff9e8",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xffb4c",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xffca4",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xffe04",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xfff8c",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0x10030c",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      }
+    ]
+  },
+  "label_cases": [
+    {
+      "text": "Level:",
+      "width": 66,
+      "left": 66,
+      "right": 132
+    },
+    {
+      "text": "Kills:",
+      "width": 52,
+      "left": 80,
+      "right": 132
+    },
+    {
+      "text": "Attack:",
+      "width": 77,
+      "left": 55,
+      "right": 132
+    },
+    {
+      "text": "Defense:",
+      "width": 97,
+      "left": 35,
+      "right": 132
+    },
+    {
+      "text": "Gold:",
+      "width": 58,
+      "left": 74,
+      "right": 132
+    },
+    {
+      "text": "EXP:",
+      "width": 51,
+      "left": 81,
+      "right": 132
+    },
+    {
+      "text": "Spell Res:",
+      "width": 114,
+      "left": 18,
+      "right": 132
+    },
+    {
+      "text": "Element:",
+      "width": 95,
+      "left": 37,
+      "right": 132
+    },
+    {
+      "text": "HP:",
+      "width": 39,
+      "left": 93,
+      "right": 132
+    }
+  ],
+  "value_cases": [
+    {
+      "text": "1",
+      "width": 15,
+      "left": 144,
+      "right": 159
+    },
+    {
+      "text": "17",
+      "width": 30,
+      "left": 144,
+      "right": 174
+    },
+    {
+      "text": "Earth",
+      "width": 58,
+      "left": 144,
+      "right": 202
+    },
+    {
+      "text": "Thunder",
+      "width": 88,
+      "left": 144,
+      "right": 232
+    },
+    {
+      "text": "9999~9999",
+      "width": 132,
+      "left": 144,
+      "right": 276
+    },
+    {
+      "text": "500~500",
+      "width": 102,
+      "left": 144,
+      "right": 246
+    },
+    {
+      "text": "255",
+      "width": 45,
+      "left": 144,
+      "right": 189
+    },
+    {
+      "text": "6",
+      "width": 15,
+      "left": 144,
+      "right": 159
+    },
+    {
+      "text": "36",
+      "width": 30,
+      "left": 144,
+      "right": 174
+    },
+    {
+      "text": "4294967295",
+      "width": 150,
+      "left": 144,
+      "right": 294
+    },
+    {
+      "text": "-2147483648",
+      "width": 159,
+      "left": 144,
+      "right": 303
+    }
+  ],
+  "tests": {
+    "status": 4,
+    "runtime_wrappers": 11,
+    "resolver_edges": 17,
+    "fixed_copy_labels": 22,
+    "immediate_labels": 3,
+    "bestiary_reused_buffers": 3
+  },
+  "prior_version": "0.1.19",
+  "changed_overlay_files": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_overlay_files_unchanged": 635,
+  "in_game_verified": false,
+  "staged_executable_matches_overlay": true,
+  "staged_executable_sha256": "f2e4d7fa6028b742ebd0aa607033037a94471808b3c8c832380596f94a5dc402",
+  "launcher_preflight": "passed"
+}

@@ -461,9 +461,9 @@
     },
     {
       "id": "X2438",
-      "en": "Spell Resistance:",
+      "en": "Spell Res:",
       "status": "translated",
-      "note": "",
+      "note": "Compact bestiary status label; resolve after the native 17-byte copy.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X2437",
@@ -521,9 +521,9 @@
     },
     {
       "id": "X2443",
-      "en": "Gold Obtained:",
+      "en": "Gold:",
       "status": "translated",
-      "note": "",
+      "note": "Bestiary reward label; resolve after the native 12-byte copy to preserve termination.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X2442",
@@ -533,9 +533,9 @@
     },
     {
       "id": "X2444",
-      "en": "Experience Gained:",
+      "en": "EXP:",
       "status": "translated",
-      "note": "",
+      "note": "Compact bestiary reward label; resolve after the native 17-byte copy.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X2443",

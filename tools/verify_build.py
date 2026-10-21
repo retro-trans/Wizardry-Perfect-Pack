@@ -137,6 +137,11 @@ def verify(build):
  panel_changes=runtime.get('menu_panels',{}).get('changes',[])
  for row in panel_changes:
   if memory(int(row['address'],16),4)!=struct.pack('>I',int(row['after'],16)):raise ValueError('Menu panel patch mismatch')
+ if runtime.get('bestiary_status'):
+  from bestiary_status_layout import CHANGES,COPIES
+  for address,_,after in CHANGES:
+   if memory(address,4)!=struct.pack('>I',after):raise ValueError('Bestiary status position mismatch')
+  if not {row[0] for row in COPIES}<=deferred:raise ValueError('Bestiary fixed-copy aliases missing')
  battle=runtime.get('battle')
  branding=runtime.get('title_branding')
  name_entry=runtime.get('name_entry')
@@ -274,6 +279,7 @@ def verify(build):
              dungeon_names_verified=dungeon_count,dungeon_nontext_members_unchanged=True,
              item_cell_groups_verified=len(item_cells),armor_preview_rows_verified=preview_rows,
              menu_panel_patches_verified=len(panel_changes),battle_reward_pagination_installed=bool(battle),
+             bestiary_status_patches_verified=len(runtime.get('bestiary_status',{}).get('changes',[])),
              spell_description_fields_verified=spell_fields,
              skill_description_fields_verified=skill_fields,
              quest_description_fields_verified=quest_fields,

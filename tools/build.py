@@ -18,13 +18,14 @@ from elftools.elf.elffile import ELFFile
 from check_translation import ROOT, read_sources, read_english, validate
 
 EXE_HASH = '2e23b466028ac0a18f7f46522fe1847d5c918a129605a2bdc1c56ca31da82bba'
-VERSION = '0.1.19'
+VERSION = '0.1.20'
 # Native code has inlined fixed-size copies for these short Japanese labels.
 # Relocating them early would omit their terminators. Expand only at the final
 # font boundary, after those original copies have safely finished.
 DEFERRED_UI_IDS = {'X0016', 'X0055', 'X0176', 'X0291', 'X0292', 'X1336', 'X1337',
                    'X1338', 'X2359', 'X2500', 'X1415', 'X1416', 'X1417',
-                   'X1418', 'X1419', 'X1420', 'X1421', 'X0792', 'X1225'}
+                   'X1418', 'X1419', 'X1420', 'X1421', 'X0792', 'X1225',
+                   'X2438', 'X2443', 'X2444'}
 POINTER_SECTIONS = {(0x450440, 57784), (0x480530, 43232)}
 # Mixed shader/data section: only these inspected pointer arrays are safe.
 # Other aligned values (notably 0x400000) are shader words, not pointers.

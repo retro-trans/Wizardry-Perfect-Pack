@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.20 — 2026-10-22 (local test build)
+
+- Fix garbage after the bestiary Gold label by resolving Gold, EXP and Spell Resistance after their original fixed-length native copies. Use Gold:, EXP: and Spell Res: in this status pane.
+- Align all nine stat label/value pairs to fixed columns with a 12px gap. Preserve the 24px font, colors, row positions and separate immunity/special-attack layout. Guard all ten coordinate instructions and the three native copy boundaries.
+- Pass four bestiary status tests, eleven runtime tests and host resolver cases including reused buffers containing stale suffixes. Independently verify all 636 overlay files, the ten new status instructions and deferred labels; only the executable differs from 0.1.19.
+- Stage the executable atomically and update the test launcher, retaining earlier fixes, saves and controller settings. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.19 — 2026-10-22 (local test build)
 
 - Wrap ordinary item preview descriptions to 224px at a 20px body font, preserving the complete wording and canonical translations. The reported Healing Salve Concentrate description fits in four lines.

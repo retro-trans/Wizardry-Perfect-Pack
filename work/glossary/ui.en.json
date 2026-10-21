@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "scope": "Narrow registration, party, class and item stat panels",
+  "scope": "Narrow registration, party, class, item stat and bestiary status panels",
   "terms": [
     {
       "concept": "Alignment",
@@ -73,6 +73,24 @@
       "display": "Eva:",
       "source_id": "X1421",
       "context": "Compact item stat label; separate full-word labels are unchanged"
+    },
+    {
+      "concept": "Gold reward",
+      "display": "Gold:",
+      "source_id": "X2443",
+      "context": "Bestiary status pane; resolve after original fixed-length copy"
+    },
+    {
+      "concept": "Experience reward",
+      "display": "EXP:",
+      "source_id": "X2444",
+      "context": "Bestiary status pane; resolve after original fixed-length copy"
+    },
+    {
+      "concept": "Spell resistance",
+      "display": "Spell Res:",
+      "source_id": "X2438",
+      "context": "Bestiary status pane; resolve after original fixed-length copy"
     }
   ],
   "note": "Compact display labels preserve the established full terminology in dialogue and descriptions."

@@ -1,0 +1,107 @@
+{
+  "capture": "bestiary-status-before-0.1.20.png",
+  "capture_resolution": [
+    1366,
+    768
+  ],
+  "kind": "actual user in-game screenshot",
+  "screen": "Bestiary status",
+  "element": "right monster stat panel",
+  "observed_capture_bounds": [
+    907,
+    113,
+    337,
+    549
+  ],
+  "bounds_are_approximate": true,
+  "native_layout": {
+    "label_right": 132,
+    "value_left": 144,
+    "column_gap": 12,
+    "panel_width": 320,
+    "inset": 16,
+    "font_size": 24,
+    "row_positions_unchanged": true,
+    "value_sites": [
+      "0xff620",
+      "0xff784",
+      "0xff8bc",
+      "0xff9e8",
+      "0xffb4c",
+      "0xffca4",
+      "0xffe04",
+      "0xfff8c",
+      "0x10030c"
+    ],
+    "deferred_labels": [
+      {
+        "id": "X2443",
+        "copy_bytes": 12
+      },
+      {
+        "id": "X2444",
+        "copy_bytes": 17
+      },
+      {
+        "id": "X2438",
+        "copy_bytes": 17
+      }
+    ],
+    "changes": [
+      {
+        "address": "0xff4e4",
+        "before": "0x3bc3000c",
+        "after": "0x3bc00084"
+      },
+      {
+        "address": "0xff620",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xff784",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xff8bc",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xff9e8",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xffb4c",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xffca4",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xffe04",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0xfff8c",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      },
+      {
+        "address": "0x10030c",
+        "before": "0x7c7e1a14",
+        "after": "0x38630090"
+      }
+    ]
+  },
+  "reported_monster": "Magic Tree",
+  "reported_gold": 6,
+  "reported_experience": 36,
+  "updated_ingame_verification": false
+}

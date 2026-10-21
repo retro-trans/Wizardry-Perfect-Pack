@@ -72,7 +72,13 @@ def main():
  output_buffer=ctypes.create_string_buffer(4096)
  result=resolve(ctypes.addressof(reused),ctypes.addressof(output_buffer),4096,table,len(strings),native_aliases,len(alias_keys))
  if ctypes.string_at(result)!=english['X0055']['en'].encode('utf8'):raise AssertionError('Equipment retained previous token suffix')
- print(json.dumps(dict(result='passed',native_cases=len(cases),fixed_copy_labels=len(DEFERRED_UI_IDS),immediate_labels=len(alias_keys)-len(DEFERRED_UI_IDS),equipment_reused_buffer=True,powerpc_execution=False),indent=2))
+ for key in ('X2443','X2444','X2438'):
+  original=labels[alias_keys.index(key)*2]
+  reused=ctypes.create_string_buffer(b'BCD@'*32)
+  ctypes.memmove(reused,original,len(original.raw))
+  result=resolve(ctypes.addressof(reused),ctypes.addressof(output_buffer),4096,table,len(strings),native_aliases,len(alias_keys))
+  if ctypes.string_at(result)!=english[key]['en'].encode('utf8'):raise AssertionError('Bestiary label retained stack suffix: '+key)
+ print(json.dumps(dict(result='passed',native_cases=len(cases),fixed_copy_labels=len(DEFERRED_UI_IDS),immediate_labels=len(alias_keys)-len(DEFERRED_UI_IDS),equipment_reused_buffer=True,bestiary_reused_buffers=3,powerpc_execution=False),indent=2))
 
 
 if __name__=='__main__':main()
