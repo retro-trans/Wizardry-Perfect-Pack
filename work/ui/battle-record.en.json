@@ -1,0 +1,311 @@
+{
+  "capture": "battle-record-before-0.1.23.png",
+  "capture_resolution": [
+    1333,
+    753
+  ],
+  "kind": "actual user in-game screenshot",
+  "screen": "Battle Record",
+  "observed_top_panel_bounds": [
+    105,
+    128,
+    1089,
+    270
+  ],
+  "observed_bottom_panel_bounds": [
+    105,
+    408,
+    1089,
+    270
+  ],
+  "bounds_are_approximate": true,
+  "native_layout": {
+    "panel_width": 1040,
+    "columns": 3,
+    "column_stride": 336,
+    "monster_label_right": 224,
+    "monster_value_left": 236,
+    "monster_font_size": 24,
+    "column_gap": 12,
+    "row_pitch": 32,
+    "monster_count_cap": 999999,
+    "summary_font_size": 32,
+    "summary_label_ends": [
+      192,
+      528,
+      864
+    ],
+    "summary_value_starts": [
+      204,
+      540,
+      876
+    ],
+    "summary_count_caps": [
+      9999,
+      9999,
+      9999999
+    ],
+    "row_positions_and_colors_unchanged": true,
+    "deferred_labels": [
+      "X2436",
+      "X2437"
+    ],
+    "changes": [
+      {
+        "address": "0xfe994",
+        "before": "0x3aa90020",
+        "after": "0x3aa000ec"
+      },
+      {
+        "address": "0xfe9a4",
+        "before": "0x7e83aa14",
+        "after": "0x3a800150"
+      },
+      {
+        "address": "0xfea68",
+        "before": "0x7c7d1b78",
+        "after": "0x3ba3000c"
+      },
+      {
+        "address": "0xfee2c",
+        "before": "0x23bd00a0",
+        "after": "0x23bd00c0"
+      },
+      {
+        "address": "0xfefa0",
+        "before": "0x23bd0200",
+        "after": "0x23bd0210"
+      },
+      {
+        "address": "0xfeed4",
+        "before": "0x392900a0",
+        "after": "0x392900cc"
+      },
+      {
+        "address": "0xff044",
+        "before": "0x39290200",
+        "after": "0x3929021c"
+      },
+      {
+        "address": "0xff1c0",
+        "before": "0x39290360",
+        "after": "0x3929036c"
+      },
+      {
+        "address": "0xfe930",
+        "before": "0x396b0010",
+        "after": "0x396b001c"
+      },
+      {
+        "address": "0xfed5c",
+        "before": "0x38630010",
+        "after": "0x3863001c"
+      },
+      {
+        "address": "0xfea4c",
+        "before": "0x38c00020",
+        "after": "0x38c00018"
+      },
+      {
+        "address": "0xfea54",
+        "before": "0x38a00020",
+        "after": "0x38a00018"
+      },
+      {
+        "address": "0xfea80",
+        "before": "0x38600020",
+        "after": "0x38600018"
+      },
+      {
+        "address": "0xfea84",
+        "before": "0x38800020",
+        "after": "0x38800018"
+      },
+      {
+        "address": "0xfe9c0",
+        "before": "0x38600020",
+        "after": "0x38600018"
+      },
+      {
+        "address": "0xfe9c4",
+        "before": "0x38800020",
+        "after": "0x38800018"
+      }
+    ]
+  },
+  "monster_cases": [
+    {
+      "id": "X0100",
+      "text": "Human:",
+      "row": 0,
+      "column": 0,
+      "label_left": 140,
+      "label_right": 224,
+      "value_left": 236,
+      "value_right_at_max": 326,
+      "y": 64
+    },
+    {
+      "id": "X0113",
+      "text": "Undead:",
+      "row": 0,
+      "column": 1,
+      "label_left": 468,
+      "label_right": 560,
+      "value_left": 572,
+      "value_right_at_max": 662,
+      "y": 64
+    },
+    {
+      "id": "X0114",
+      "text": "Fairy:",
+      "row": 0,
+      "column": 2,
+      "label_left": 833,
+      "label_right": 896,
+      "value_left": 908,
+      "value_right_at_max": 998,
+      "y": 64
+    },
+    {
+      "id": "X0115",
+      "text": "Animal:",
+      "row": 1,
+      "column": 0,
+      "label_left": 142,
+      "label_right": 224,
+      "value_left": 236,
+      "value_right_at_max": 326,
+      "y": 96
+    },
+    {
+      "id": "X0116",
+      "text": "Beastfolk:",
+      "row": 1,
+      "column": 1,
+      "label_left": 451,
+      "label_right": 560,
+      "value_left": 572,
+      "value_right_at_max": 662,
+      "y": 96
+    },
+    {
+      "id": "X0117",
+      "text": "Mythical Beast:",
+      "row": 1,
+      "column": 2,
+      "label_left": 722,
+      "label_right": 896,
+      "value_left": 908,
+      "value_right_at_max": 998,
+      "y": 96
+    },
+    {
+      "id": "X0118",
+      "text": "Dragon:",
+      "row": 2,
+      "column": 0,
+      "label_left": 136,
+      "label_right": 224,
+      "value_left": 236,
+      "value_right_at_max": 326,
+      "y": 128
+    },
+    {
+      "id": "X0119",
+      "text": "Giant:",
+      "row": 2,
+      "column": 1,
+      "label_left": 494,
+      "label_right": 560,
+      "value_left": 572,
+      "value_right_at_max": 662,
+      "y": 128
+    },
+    {
+      "id": "X0120",
+      "text": "Elemental:",
+      "row": 2,
+      "column": 2,
+      "label_left": 781,
+      "label_right": 896,
+      "value_left": 908,
+      "value_right_at_max": 998,
+      "y": 128
+    },
+    {
+      "id": "X0121",
+      "text": "Magical Creature:",
+      "row": 3,
+      "column": 0,
+      "label_left": 23,
+      "label_right": 224,
+      "value_left": 236,
+      "value_right_at_max": 326,
+      "y": 160
+    },
+    {
+      "id": "X0122",
+      "text": "Demon:",
+      "row": 3,
+      "column": 1,
+      "label_left": 476,
+      "label_right": 560,
+      "value_left": 572,
+      "value_right_at_max": 662,
+      "y": 160
+    },
+    {
+      "id": "X0123",
+      "text": "Monster:",
+      "row": 3,
+      "column": 2,
+      "label_left": 799,
+      "label_right": 896,
+      "value_left": 908,
+      "value_right_at_max": 998,
+      "y": 160
+    },
+    {
+      "id": "X0124",
+      "text": "Demi-Human:",
+      "row": 4,
+      "column": 0,
+      "label_left": 75,
+      "label_right": 224,
+      "value_left": 236,
+      "value_right_at_max": 326,
+      "y": 192
+    }
+  ],
+  "summary_cases": [
+    {
+      "id": "X2435",
+      "text": "Deaths:",
+      "label_left": 76,
+      "label_right": 192,
+      "value_left": 204,
+      "value_right_at_max": 288,
+      "cap": 9999
+    },
+    {
+      "id": "X2436",
+      "text": "Wipeouts:",
+      "label_left": 379,
+      "label_right": 528,
+      "value_left": 540,
+      "value_right_at_max": 624,
+      "cap": 9999
+    },
+    {
+      "id": "X2437",
+      "text": "Chests:",
+      "label_left": 753,
+      "label_right": 864,
+      "value_left": 876,
+      "value_right_at_max": 1023,
+      "cap": 9999999
+    }
+  ],
+  "updated_ingame_verification": false
+}

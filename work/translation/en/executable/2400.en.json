@@ -437,9 +437,9 @@
     },
     {
       "id": "X2436",
-      "en": "Party Wipeouts:",
+      "en": "Wipeouts:",
       "status": "translated",
-      "note": "",
+      "note": "Battle Record summary label; resolve after its native 14-byte copy.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X2435",
@@ -449,9 +449,9 @@
     },
     {
       "id": "X2437",
-      "en": "Treasure Chests:",
+      "en": "Chests:",
       "status": "translated",
-      "note": "",
+      "note": "Battle Record summary label; resolve after its native 14-byte copy.",
       "provenance": {
         "project": "Wizardry Prisoners of the Lost City",
         "source_id": "X2436",

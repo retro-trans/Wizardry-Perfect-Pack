@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.23 — 2026-10-22 (local test build)
+
+- Keep all thirteen Battle Record monster categories inside three fixed 336px columns. Use a 24px category font and a 12px label/value gap; preserve full category names, row positions, colors and counter values.
+- Fix the top labels' fixed-copy truncation with deferred Wipeouts: and Chests: labels. Align Deaths, Wipeouts and Chests values with a 12px gap, including space for the native seven-digit chest maximum. Add the same gap after Play Time and Total Monsters Defeated.
+- Pass four Battle Record guard/copy/font-bound tests, eleven runtime tests and host renderer cases for all 24 fixed-copy labels. Independently verify all 636 overlay files, 16 new instructions and installed labels; only the executable differs from 0.1.22.
+- Stage the executable atomically and update the test launcher, retaining earlier fixes, saves and controller settings. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.22 — 2026-10-22 (local test build)
 
 - Put the illustrated treasure chest prompt on two complete lines: There's a treasure chest! / What will you do? Preserve all wording and the canonical translation.

@@ -145,6 +145,12 @@ def verify(build):
    if memory(address,4)!=struct.pack('>I',after):raise ValueError('Bestiary status position mismatch')
   if not {row[0] for row in COPIES}<=deferred:raise ValueError('Bestiary fixed-copy aliases missing')
  battle=runtime.get('battle')
+ record=runtime.get('battle_record')
+ if record:
+  from battle_record_layout import CHANGES,COPIES
+  for address,_,after in CHANGES:
+   if memory(address,4)!=struct.pack('>I',after):raise ValueError('Battle Record position/font mismatch')
+  if not {row[0] for row in COPIES}<=deferred:raise ValueError('Battle Record fixed-copy aliases missing')
  collection=runtime.get('item_collection')
  if collection:
   from item_collection_layout import SITES,image,labels
@@ -291,6 +297,7 @@ def verify(build):
              menu_panel_patches_verified=len(panel_changes),battle_reward_pagination_installed=bool(battle),
              bestiary_status_patches_verified=len(runtime.get('bestiary_status',{}).get('changes',[])),
              compact_collection_categories_verified=12 if collection else 0,
+             battle_record_patches_verified=len(record['changes']) if record else 0,
              spell_description_fields_verified=spell_fields,
              skill_description_fields_verified=skill_fields,
              quest_description_fields_verified=quest_fields,

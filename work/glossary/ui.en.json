@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "scope": "Narrow registration, party, class, item stat and bestiary status panels",
+  "scope": "Narrow registration, party, class, item stat, bestiary and Battle Record panels",
   "terms": [
     {
       "concept": "Alignment",
@@ -106,6 +106,18 @@
       "concept": "Thrown weapons",
       "display": "Thrown",
       "context": "Item Collection category group only"
+    },
+    {
+      "concept": "Party wipeouts",
+      "display": "Wipeouts:",
+      "source_id": "X2436",
+      "context": "Battle Record summary; resolve after original 14-byte copy"
+    },
+    {
+      "concept": "Treasure chests obtained",
+      "display": "Chests:",
+      "source_id": "X2437",
+      "context": "Battle Record summary; resolve after original 14-byte copy"
     }
   ],
   "note": "Compact display labels preserve the established full terminology in dialogue and descriptions."
