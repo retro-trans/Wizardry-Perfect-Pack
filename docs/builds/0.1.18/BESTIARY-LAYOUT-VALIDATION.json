@@ -1,0 +1,1839 @@
+{
+  "result": "passed",
+  "descriptions": 200,
+  "fields": 200,
+  "reflowed": 200,
+  "maximum_lines": 20,
+  "maximum_width": 288,
+  "available_width": 288,
+  "available_height": 480,
+  "font_size": 22,
+  "line_pitch": 23,
+  "maximum_text_height": 459,
+  "canonical_translations_unchanged": true,
+  "in_game_verified": false,
+  "cases": [
+    {
+      "id": "A01DM0014",
+      "lines": 14,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0017",
+      "lines": 12,
+      "maximum_width": 274,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0020",
+      "lines": 15,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0027",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0029",
+      "lines": 11,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0031",
+      "lines": 18,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0033",
+      "lines": 17,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0036",
+      "lines": 14,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0042",
+      "lines": 18,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0045",
+      "lines": 14,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0049",
+      "lines": 14,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0052",
+      "lines": 16,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0056",
+      "lines": 15,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0058",
+      "lines": 13,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0060",
+      "lines": 15,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0064",
+      "lines": 15,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0068",
+      "lines": 15,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0071",
+      "lines": 14,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0073",
+      "lines": 17,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0076",
+      "lines": 14,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0080",
+      "lines": 15,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DM0083",
+      "lines": 16,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0010",
+      "lines": 14,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0013",
+      "lines": 14,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0016",
+      "lines": 13,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0019",
+      "lines": 14,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0022",
+      "lines": 13,
+      "maximum_width": 278,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0025",
+      "lines": 15,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0027",
+      "lines": 15,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0029",
+      "lines": 14,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0031",
+      "lines": 15,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0033",
+      "lines": 15,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0036",
+      "lines": 16,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0040",
+      "lines": 12,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0043",
+      "lines": 16,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0047",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0050",
+      "lines": 14,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0053",
+      "lines": 17,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0055",
+      "lines": 11,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0059",
+      "lines": 13,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0063",
+      "lines": 12,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0067",
+      "lines": 12,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DM0072",
+      "lines": 19,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0001",
+      "lines": 13,
+      "maximum_width": 281,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0003",
+      "lines": 14,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0007",
+      "lines": 17,
+      "maximum_width": 280,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0012",
+      "lines": 13,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0016",
+      "lines": 15,
+      "maximum_width": 278,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0019",
+      "lines": 14,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0023",
+      "lines": 13,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0026",
+      "lines": 14,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0029",
+      "lines": 14,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0033",
+      "lines": 13,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0038",
+      "lines": 15,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0041",
+      "lines": 14,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0043",
+      "lines": 15,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0045",
+      "lines": 15,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0047",
+      "lines": 16,
+      "maximum_width": 279,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0049",
+      "lines": 12,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0052",
+      "lines": 15,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0056",
+      "lines": 13,
+      "maximum_width": 274,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0058",
+      "lines": 15,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0060",
+      "lines": 11,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0063",
+      "lines": 11,
+      "maximum_width": 280,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0067",
+      "lines": 14,
+      "maximum_width": 279,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0069",
+      "lines": 13,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0072",
+      "lines": 13,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0074",
+      "lines": 15,
+      "maximum_width": 280,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0076",
+      "lines": 11,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0081",
+      "lines": 14,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0086",
+      "lines": 19,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0092",
+      "lines": 14,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0095",
+      "lines": 12,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0099",
+      "lines": 16,
+      "maximum_width": 281,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0102",
+      "lines": 13,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0106",
+      "lines": 13,
+      "maximum_width": 275,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0109",
+      "lines": 16,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0111",
+      "lines": 13,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0114",
+      "lines": 11,
+      "maximum_width": 276,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0117",
+      "lines": 12,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0121",
+      "lines": 13,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0124",
+      "lines": 11,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0126",
+      "lines": 14,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0128",
+      "lines": 7,
+      "maximum_width": 267,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0130",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0132",
+      "lines": 16,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0135",
+      "lines": 16,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0137",
+      "lines": 17,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0141",
+      "lines": 15,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0144",
+      "lines": 16,
+      "maximum_width": 276,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0146",
+      "lines": 16,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0148",
+      "lines": 15,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0151",
+      "lines": 15,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0153",
+      "lines": 14,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0157",
+      "lines": 14,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0159",
+      "lines": 15,
+      "maximum_width": 280,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0161",
+      "lines": 14,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0163",
+      "lines": 15,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0166",
+      "lines": 11,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0169",
+      "lines": 11,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0171",
+      "lines": 13,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0175",
+      "lines": 16,
+      "maximum_width": 281,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0177",
+      "lines": 15,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0179",
+      "lines": 12,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0183",
+      "lines": 14,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0188",
+      "lines": 15,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0191",
+      "lines": 9,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0195",
+      "lines": 15,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0199",
+      "lines": 15,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0203",
+      "lines": 13,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0207",
+      "lines": 10,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0209",
+      "lines": 12,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0212",
+      "lines": 12,
+      "maximum_width": 276,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0214",
+      "lines": 14,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0216",
+      "lines": 13,
+      "maximum_width": 275,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0218",
+      "lines": 14,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0220",
+      "lines": 16,
+      "maximum_width": 275,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0222",
+      "lines": 15,
+      "maximum_width": 275,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0224",
+      "lines": 17,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0226",
+      "lines": 16,
+      "maximum_width": 280,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0228",
+      "lines": 13,
+      "maximum_width": 272,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0231",
+      "lines": 13,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0233",
+      "lines": 11,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0238",
+      "lines": 16,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0241",
+      "lines": 16,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0245",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0249",
+      "lines": 17,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0252",
+      "lines": 16,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0256",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0259",
+      "lines": 13,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0261",
+      "lines": 13,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0264",
+      "lines": 15,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0266",
+      "lines": 12,
+      "maximum_width": 273,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0269",
+      "lines": 14,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0271",
+      "lines": 16,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0273",
+      "lines": 19,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0276",
+      "lines": 13,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0280",
+      "lines": 11,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0282",
+      "lines": 13,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0284",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0288",
+      "lines": 18,
+      "maximum_width": 273,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0290",
+      "lines": 14,
+      "maximum_width": 277,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0293",
+      "lines": 12,
+      "maximum_width": 274,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0296",
+      "lines": 12,
+      "maximum_width": 273,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0299",
+      "lines": 14,
+      "maximum_width": 270,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0302",
+      "lines": 15,
+      "maximum_width": 271,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0304",
+      "lines": 13,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0307",
+      "lines": 14,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0311",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0314",
+      "lines": 14,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0316",
+      "lines": 16,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0318",
+      "lines": 15,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0320",
+      "lines": 16,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0323",
+      "lines": 15,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0325",
+      "lines": 13,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0327",
+      "lines": 16,
+      "maximum_width": 279,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0331",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0335",
+      "lines": 17,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0339",
+      "lines": 15,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0341",
+      "lines": 13,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0344",
+      "lines": 12,
+      "maximum_width": 273,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0347",
+      "lines": 15,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0350",
+      "lines": 17,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0353",
+      "lines": 17,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0355",
+      "lines": 19,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0358",
+      "lines": 12,
+      "maximum_width": 277,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0364",
+      "lines": 19,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0366",
+      "lines": 13,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0370",
+      "lines": 20,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0374",
+      "lines": 13,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0376",
+      "lines": 11,
+      "maximum_width": 276,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0378",
+      "lines": 12,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0382",
+      "lines": 11,
+      "maximum_width": 276,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0386",
+      "lines": 13,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0391",
+      "lines": 14,
+      "maximum_width": 282,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0395",
+      "lines": 13,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0399",
+      "lines": 15,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0403",
+      "lines": 14,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0405",
+      "lines": 10,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0408",
+      "lines": 16,
+      "maximum_width": 281,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0410",
+      "lines": 14,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0412",
+      "lines": 20,
+      "maximum_width": 279,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0415",
+      "lines": 11,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0417",
+      "lines": 15,
+      "maximum_width": 286,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0421",
+      "lines": 18,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0424",
+      "lines": 15,
+      "maximum_width": 281,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0427",
+      "lines": 18,
+      "maximum_width": 267,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0429",
+      "lines": 16,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0431",
+      "lines": 15,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0434",
+      "lines": 16,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0436",
+      "lines": 12,
+      "maximum_width": 281,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0438",
+      "lines": 11,
+      "maximum_width": 284,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0441",
+      "lines": 13,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0444",
+      "lines": 16,
+      "maximum_width": 288,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0449",
+      "lines": 12,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0454",
+      "lines": 16,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0458",
+      "lines": 15,
+      "maximum_width": 283,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0460",
+      "lines": 5,
+      "maximum_width": 287,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0462",
+      "lines": 3,
+      "maximum_width": 275,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DM0464",
+      "lines": 3,
+      "maximum_width": 285,
+      "changed": true,
+      "words_preserved": true,
+      "paragraphs_preserved": true,
+      "fields": 1
+    }
+  ],
+  "reported_case": {
+    "id": "DM0041",
+    "text": "A goblin brought back to\nlife through sorcery.\n\nUnlike a zombie, it retains\na measure of awareness\nand attacks with weapons.\n\nUntil their bodies rot away\ncompletely, these creatures\nmake excellent sentries.\nTheir putrid stench can\nsupposedly be detected\nfrom far away in the\nlabyrinth.",
+    "lines": 14,
+    "maximum_width": 283,
+    "changed": true,
+    "words_preserved": true,
+    "paragraphs_preserved": true,
+    "fields": 1
+  },
+  "version": "0.1.18",
+  "lore_layout_tests": 4,
+  "quest_layout_tests": 4,
+  "runtime_wrapper_tests": 11,
+  "changed_overlay_files_from_0_1_17": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_635_overlay_files_match": true,
+  "staged_executable_sha256": "ceb9502b2aab292f44ca9a44e0ea7617ddc8a6818336b79680a0a13f700b78cc",
+  "staged_executable_matches": true,
+  "save_or_controller_files_changed": false,
+  "release_published": false
+}

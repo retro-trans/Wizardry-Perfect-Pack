@@ -1,0 +1,35 @@
+{
+  "capture": "bestiary-before-0.1.18.png",
+  "capture_resolution": [
+    1311,
+    755
+  ],
+  "kind": "actual user in-game screenshot",
+  "screen": "Bestiary",
+  "element": "right monster lore panel",
+  "observed_capture_bounds": [
+    850,
+    100,
+    340,
+    547
+  ],
+  "bounds_are_approximate": true,
+  "native_text_inset": [
+    16,
+    16
+  ],
+  "inner_width_budget": 288,
+  "inner_height_budget": 480,
+  "font_size": 22,
+  "line_pitch": 23,
+  "maximum_lines": 20,
+  "native_lore_field_offset": 1305,
+  "native_font_sites": [
+    "0x100560",
+    "0x100564"
+  ],
+  "native_draw": "0x1005b0",
+  "reported_source_id": "DM0041",
+  "paragraph_breaks_preserved": true,
+  "updated_ingame_verification": false
+}

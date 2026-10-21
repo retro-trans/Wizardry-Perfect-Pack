@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.18 — 2026-10-22 (local test build)
+
+- Wrap all 200 bestiary lore display copies to a conservative 288px width, preserving every word and paragraph break between text blocks. Leave canonical translations, names, abilities and monster data unchanged.
+- Change only the bestiary lore font from 28px to 22px with two guarded native constants. All entries fit within 20 lines and 459px of the 480px height budget; overflows block output rather than cutting text.
+- Pass four lore, four quest and eleven runtime-wrapper tests. Independently verify all 636 overlay files, including 200 lore fields, 112 quest fields and the two lore font instructions. Only the executable differs from 0.1.17; stage it atomically and update the test launcher, preserving saves and controller settings.
+- Retain quest wrapping, full class headings, compact item stats and previous fixes. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.17 — 2026-10-22 (local test build)
 
 - Wrap quest request and objective display copies to 640px at the native 24px font. Preserve the full wording, item names, original client line and canonical translations.
