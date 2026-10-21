@@ -44,7 +44,7 @@ def verify(build):
   for occ in row['occurrences']:
    if row['source']=='events':event_changes[occ['file']][occ['record']]=decision['en']
    elif row['source'].startswith('databases/'):
-    fields[(occ['archive'],occ['member'])].append((occ,decision['en']))
+    fields[(occ['archive'],occ['member'])].append((occ,decision['en'],row))
  event_count=nontext_count=0
  for name,changes in event_changes.items():
   before=records((source/name).read_bytes());after=records((overlay/name.replace('.edat.unedat','.evt')).read_bytes())
@@ -221,14 +221,14 @@ def verify(build):
     if details['name']!=decision.get('display',decision['en']):raise ValueError('Dungeon name translation mismatch')
     dungeon_count+=1
    elif old!=new:raise ValueError('Unselected dungeon changed')
- spell_fields=skill_fields=0
+ spell_fields=skill_fields=quest_fields=0
  for archive in ('table.enc','addtable01.enc','addtable02.enc','ppdata.enc'):
   before=unpack((source/'USRDIR/data'/archive).read_bytes());after=unpack((overlay/'USRDIR/data'/archive).read_bytes())
   if len(before)!=len(after):raise ValueError('Archive member count changed')
   for member,(old,new) in enumerate(zip(before,after)):
    if len(old)!=len(new):raise ValueError('Database member resized')
    a,b=bytearray(old),bytearray(new)
-   for occ,en in fields[(archive,member)]:
+   for occ,en,row in fields[(archive,member)]:
     at,cap=occ['offset'],occ['capacity'];token=new[at:at+cap].split(b'\0')[0]
     if len(token)!=11 or token[:2]!=b'~T' or token[-1:]!=b'~':raise ValueError('Bad relocation token')
     index=int(token[2:10],16)
@@ -236,7 +236,11 @@ def verify(build):
     pointer=struct.unpack('>Q',memory(table+index*8,8))[0]
     from spell_description_layout import render as render_spell
     from skill_description_layout import render as render_skill
+    from quest_description_layout import display_text as quest_display,is_description as quest_description
     rendered=en
+    if member==8:
+     rendered=quest_display(row,dict(en=en))
+     if quest_description(row):quest_fields+=1
     if archive=='table.enc' and occ['kind']=='description':
      if member==4:rendered=render_spell(en)
      elif member==9:rendered=render_skill(en)
@@ -264,6 +268,7 @@ def verify(build):
              menu_panel_patches_verified=len(panel_changes),battle_reward_pagination_installed=bool(battle),
              spell_description_fields_verified=spell_fields,
              skill_description_fields_verified=skill_fields,
+             quest_description_fields_verified=quest_fields,
              inventory_name_fitting_installed=bool(inventory),
              anonymous_narration_pagination_installed=bool(narration),
              title_version_and_url_installed=bool(branding),

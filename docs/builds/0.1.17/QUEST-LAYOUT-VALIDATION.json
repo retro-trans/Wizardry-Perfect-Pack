@@ -1,0 +1,901 @@
+{
+  "result": "passed",
+  "descriptions": 108,
+  "fields": 112,
+  "reflowed": 89,
+  "maximum_lines": 3,
+  "maximum_width": 640,
+  "available_width": 640,
+  "font_size": 24,
+  "line_pitch": 25,
+  "maximum_text_height": 74,
+  "canonical_translations_unchanged": true,
+  "in_game_verified": false,
+  "cases": [
+    {
+      "id": "A01DQ0002",
+      "lines": 1,
+      "maximum_width": 557,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0003",
+      "lines": 1,
+      "maximum_width": 591,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0006",
+      "lines": 1,
+      "maximum_width": 564,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0007",
+      "lines": 2,
+      "maximum_width": 593,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0010",
+      "lines": 1,
+      "maximum_width": 593,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0011",
+      "lines": 2,
+      "maximum_width": 586,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0014",
+      "lines": 2,
+      "maximum_width": 617,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 2
+    },
+    {
+      "id": "A01DQ0016",
+      "lines": 1,
+      "maximum_width": 543,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0017",
+      "lines": 1,
+      "maximum_width": 578,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0019",
+      "lines": 1,
+      "maximum_width": 599,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0020",
+      "lines": 1,
+      "maximum_width": 545,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0022",
+      "lines": 2,
+      "maximum_width": 634,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0023",
+      "lines": 2,
+      "maximum_width": 603,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0025",
+      "lines": 1,
+      "maximum_width": 639,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0026",
+      "lines": 2,
+      "maximum_width": 621,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0028",
+      "lines": 2,
+      "maximum_width": 624,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0029",
+      "lines": 2,
+      "maximum_width": 623,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0031",
+      "lines": 2,
+      "maximum_width": 611,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0032",
+      "lines": 2,
+      "maximum_width": 633,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0034",
+      "lines": 1,
+      "maximum_width": 590,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0035",
+      "lines": 2,
+      "maximum_width": 554,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0037",
+      "lines": 1,
+      "maximum_width": 480,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0038",
+      "lines": 2,
+      "maximum_width": 603,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0041",
+      "lines": 2,
+      "maximum_width": 602,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0042",
+      "lines": 1,
+      "maximum_width": 585,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0045",
+      "lines": 2,
+      "maximum_width": 629,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0046",
+      "lines": 2,
+      "maximum_width": 558,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0048",
+      "lines": 2,
+      "maximum_width": 631,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0049",
+      "lines": 1,
+      "maximum_width": 609,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0051",
+      "lines": 2,
+      "maximum_width": 633,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0052",
+      "lines": 1,
+      "maximum_width": 557,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0054",
+      "lines": 2,
+      "maximum_width": 596,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0055",
+      "lines": 2,
+      "maximum_width": 620,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A01DQ0058",
+      "lines": 1,
+      "maximum_width": 373,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 2
+    },
+    {
+      "id": "A02DQ0002",
+      "lines": 1,
+      "maximum_width": 628,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0003",
+      "lines": 1,
+      "maximum_width": 391,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0005",
+      "lines": 2,
+      "maximum_width": 616,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0006",
+      "lines": 1,
+      "maximum_width": 382,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0009",
+      "lines": 1,
+      "maximum_width": 532,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0010",
+      "lines": 1,
+      "maximum_width": 318,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0013",
+      "lines": 1,
+      "maximum_width": 635,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0014",
+      "lines": 2,
+      "maximum_width": 623,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0016",
+      "lines": 2,
+      "maximum_width": 521,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0017",
+      "lines": 1,
+      "maximum_width": 623,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0019",
+      "lines": 2,
+      "maximum_width": 602,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0020",
+      "lines": 3,
+      "maximum_width": 633,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0023",
+      "lines": 2,
+      "maximum_width": 629,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0024",
+      "lines": 2,
+      "maximum_width": 610,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0026",
+      "lines": 2,
+      "maximum_width": 594,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0027",
+      "lines": 2,
+      "maximum_width": 584,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0029",
+      "lines": 1,
+      "maximum_width": 573,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0030",
+      "lines": 1,
+      "maximum_width": 450,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0032",
+      "lines": 2,
+      "maximum_width": 605,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0033",
+      "lines": 2,
+      "maximum_width": 544,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0036",
+      "lines": 2,
+      "maximum_width": 640,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0037",
+      "lines": 2,
+      "maximum_width": 594,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0040",
+      "lines": 2,
+      "maximum_width": 627,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0041",
+      "lines": 2,
+      "maximum_width": 616,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0043",
+      "lines": 2,
+      "maximum_width": 600,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0044",
+      "lines": 1,
+      "maximum_width": 318,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0046",
+      "lines": 2,
+      "maximum_width": 596,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0047",
+      "lines": 1,
+      "maximum_width": 607,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0049",
+      "lines": 1,
+      "maximum_width": 599,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0050",
+      "lines": 3,
+      "maximum_width": 600,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0052",
+      "lines": 2,
+      "maximum_width": 594,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "A02DQ0053",
+      "lines": 2,
+      "maximum_width": 613,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0002",
+      "lines": 2,
+      "maximum_width": 586,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0003",
+      "lines": 2,
+      "maximum_width": 635,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0006",
+      "lines": 2,
+      "maximum_width": 640,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0007",
+      "lines": 2,
+      "maximum_width": 622,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0010",
+      "lines": 2,
+      "maximum_width": 534,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0011",
+      "lines": 2,
+      "maximum_width": 615,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0014",
+      "lines": 2,
+      "maximum_width": 617,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0015",
+      "lines": 2,
+      "maximum_width": 610,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0018",
+      "lines": 2,
+      "maximum_width": 638,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0019",
+      "lines": 2,
+      "maximum_width": 617,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0022",
+      "lines": 2,
+      "maximum_width": 620,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0023",
+      "lines": 1,
+      "maximum_width": 606,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0025",
+      "lines": 2,
+      "maximum_width": 597,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0026",
+      "lines": 2,
+      "maximum_width": 567,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0028",
+      "lines": 2,
+      "maximum_width": 639,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0029",
+      "lines": 2,
+      "maximum_width": 618,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0030",
+      "lines": 2,
+      "maximum_width": 561,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0031",
+      "lines": 3,
+      "maximum_width": 620,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0033",
+      "lines": 2,
+      "maximum_width": 630,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0034",
+      "lines": 2,
+      "maximum_width": 633,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0036",
+      "lines": 2,
+      "maximum_width": 591,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0037",
+      "lines": 2,
+      "maximum_width": 598,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0039",
+      "lines": 2,
+      "maximum_width": 582,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0040",
+      "lines": 2,
+      "maximum_width": 595,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0042",
+      "lines": 1,
+      "maximum_width": 489,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0043",
+      "lines": 3,
+      "maximum_width": 601,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0045",
+      "lines": 2,
+      "maximum_width": 592,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0046",
+      "lines": 2,
+      "maximum_width": 509,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0048",
+      "lines": 2,
+      "maximum_width": 599,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0049",
+      "lines": 2,
+      "maximum_width": 629,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0051",
+      "lines": 1,
+      "maximum_width": 558,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0052",
+      "lines": 1,
+      "maximum_width": 618,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0054",
+      "lines": 1,
+      "maximum_width": 613,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0055",
+      "lines": 3,
+      "maximum_width": 636,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0057",
+      "lines": 1,
+      "maximum_width": 510,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0058",
+      "lines": 1,
+      "maximum_width": 618,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0060",
+      "lines": 2,
+      "maximum_width": 640,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0061",
+      "lines": 2,
+      "maximum_width": 556,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0063",
+      "lines": 2,
+      "maximum_width": 601,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0064",
+      "lines": 2,
+      "maximum_width": 467,
+      "changed": true,
+      "words_preserved": true,
+      "fields": 1
+    },
+    {
+      "id": "DQ0067",
+      "lines": 1,
+      "maximum_width": 396,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 2
+    },
+    {
+      "id": "DQ0069",
+      "lines": 1,
+      "maximum_width": 335,
+      "changed": false,
+      "words_preserved": true,
+      "fields": 2
+    }
+  ],
+  "reported_case": {
+    "id": "DQ0003",
+    "text": "Recover 10 bottles of \"Healing Salve Concentrate\" from\nthe grizzlies and give them to Fiore.",
+    "lines": 2,
+    "maximum_width": 635,
+    "changed": true,
+    "words_preserved": true,
+    "fields": 1
+  },
+  "version": "0.1.17",
+  "quest_layout_tests": 4,
+  "spell_layout_tests": 3,
+  "skill_layout_tests": 4,
+  "changed_overlay_files_from_0_1_16": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_635_overlay_files_match": true,
+  "staged_executable_sha256": "ff3fdc981c174aecfb78285aea984d0f8793a0461794fbab6278ca916c3dd37c",
+  "staged_executable_matches": true,
+  "save_or_controller_files_changed": false,
+  "release_published": false
+}

@@ -19,6 +19,14 @@
     {
       "file": "panels-before-0.1.4-rewards.png",
       "kind": "actual user in-game screenshot"
+    },
+    {
+      "file": "quest-description-before-0.1.17.png",
+      "kind": "actual user in-game screenshot; cropped quest panel",
+      "capture_resolution": [
+        735,
+        573
+      ]
     }
   ],
   "spell_summary": {
@@ -117,5 +125,28 @@
     "native_show_flags": "0xd1",
     "final_wait": "unchanged caller"
   },
-  "verification": "Metric and native-host checks; updated in-game screenshots pending."
+  "verification": "Metric and native-host checks; updated in-game screenshots pending.",
+  "quest_description": {
+    "bounds": [
+      304,
+      527,
+      671,
+      123
+    ],
+    "text_origin": [
+      316,
+      567
+    ],
+    "inner_width": 640,
+    "font_size": 24,
+    "line_pitch": 25,
+    "maximum_lines": 3,
+    "maximum_text_height": 74,
+    "client_line_unchanged": true,
+    "request_draw": "0x999f0",
+    "objective_draw": "0x99984",
+    "shared_draw": "0x9999c",
+    "reported_source_id": "DQ0003",
+    "updated_ingame_verification": false
+  }
 }

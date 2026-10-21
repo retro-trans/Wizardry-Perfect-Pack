@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.17 — 2026-10-22 (local test build)
+
+- Wrap quest request and objective display copies to 640px at the native 24px font. Preserve the full wording, item names, original client line and canonical translations.
+- Cover 108 descriptions across 112 quest fields, including the reported Healing Salve Concentrate objective. All fit within three lines (74px high); reject overflows rather than cutting text. Independently verify relocated text and unchanged quest data.
+- Pass four quest, three spell and four skill layout tests. Verify all 636 overlay files and all 112 installed quest display fields; only the executable differs from 0.1.16. Stage it atomically and update the test launcher while preserving saves and controller settings.
+- Retain the class-heading, item abbreviation, name-entry and earlier layout fixes. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.16 — 2026-10-21 (local test build)
 
 - Translate Samurai in the assembled name/class heading on Confirm Class. The existing deferred translation handled a standalone label but missed the class after a character name and slash.
