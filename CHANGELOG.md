@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.22 — 2026-10-22 (local test build)
+
+- Put the illustrated treasure chest prompt on two complete lines: There's a treasure chest! / What will you do? Preserve all wording and the canonical translation.
+- Limit the display copy to a conservative 560px beside the chest icon at the existing 32px font. Reject overwide lines or word changes. Other chest help, menu labels and messages retain their own formatting.
+- Pass eight executable-context regressions. Independently verify the wrapped prompt and all 636 overlay files; only the executable differs from 0.1.21. Stage it atomically and update the test launcher.
+- Retain earlier fixes, saves and controller settings. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.21 — 2026-10-22 (local test build)
 
 - Shorten Item Collection groups to Blades, Staff/Blunt and Thrown in both the percentage list and selected category heading. Keep the other nine group names and all individual item/type names.

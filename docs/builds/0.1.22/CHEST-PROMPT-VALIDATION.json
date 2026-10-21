@@ -1,0 +1,25 @@
+{
+  "result": "passed",
+  "version": "0.1.22",
+  "source_id": "X1801",
+  "canonical_text": "There's a treasure chest! What will you do?",
+  "display_text": "There's a treasure chest!\nWhat will you do?",
+  "line_widths": [
+    393,
+    285
+  ],
+  "font_size": 32,
+  "available_width": 560,
+  "words_preserved": true,
+  "other_executable_translations_unchanged": true,
+  "executable_context_regressions": 8,
+  "prior_version": "0.1.21",
+  "changed_overlay_files": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_overlay_files_unchanged": 635,
+  "in_game_verified": false,
+  "staged_executable_matches_overlay": true,
+  "staged_executable_sha256": "9b0784c83e1370ed825dcdf5ca84d4d6e6535282bc9a4a35e72e1d04aa622e95",
+  "launcher_preflight": "passed"
+}

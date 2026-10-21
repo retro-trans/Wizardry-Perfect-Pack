@@ -73,13 +73,14 @@ def verify(build):
    if pointer in overrides:raise ValueError('Duplicate reference translation')
    overrides[pointer]=(key,int(row['source_address'],16),row['en'])
  deferred={r['id'] for r in manifest['executable']['runtime'].get('deferred_ui',[])}
- verified_overrides=set();executable_refs=0
+ verified_overrides=set();executable_refs=0;chest_refs=0
+ from chest_prompt_layout import PROMPT_ID,display_text as chest_display
  for ref in manifest['executable']['pointer_changes']:
   pointer,old,key=ref['offset'],ref['before'],ref['id']
   if struct.unpack_from('>I',original_exe,pointer)[0]!=old:raise ValueError('Original text reference changed')
   target=struct.unpack_from('>I',exe,pointer)[0]
   if target!=ref['after']:raise ValueError('Relocated text reference mismatch')
-  expected=english[key]['en']
+  expected=chest_display(key,english[key])
   if pointer in overrides:
    wanted_key,wanted_old,expected=overrides[pointer]
    if (key,old)!=(wanted_key,wanted_old):raise ValueError('Reference semantic context changed')
@@ -88,6 +89,7 @@ def verify(build):
    encoded=expected.encode('utf8')+b'\0'
    if memory(target,len(encoded))!=encoded:raise ValueError('Wrong executable reference translation')
    executable_refs+=1
+   if key==PROMPT_ID:chest_refs+=1
  if verified_overrides!=set(overrides):raise ValueError('Context translation was not installed')
  table=int(manifest['executable']['runtime']['table_address'],16);entries=manifest['executable']['runtime']['entries'];db_count=0
  runtime=manifest['executable']['runtime'];alias_rows=runtime.get('deferred_ui',[])
@@ -302,6 +304,7 @@ def verify(build):
              original_game_unchanged=True,other_game_package_patched=False,
              canonical_decisions=validation['decisions'],review_flags=validation['review_count'],movie_container_preservation_verified=movie_verified,
              executable_text_references_verified=executable_refs,context_specific_references_verified=len(verified_overrides),
+             chest_prompt_references_verified=chest_refs,
              runtime_execution_verified=False,full_playthrough_verified=False)
 
 

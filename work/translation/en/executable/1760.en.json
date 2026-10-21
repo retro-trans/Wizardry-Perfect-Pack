@@ -498,6 +498,10 @@
     {
       "id": "X1801",
       "en": "There's a treasure chest! What will you do?",
+      "display_lines": [
+        "There's a treasure chest!",
+        "What will you do?"
+      ],
       "status": "translated",
       "note": "",
       "provenance": {

@@ -18,7 +18,7 @@ from elftools.elf.elffile import ELFFile
 from check_translation import ROOT, read_sources, read_english, validate
 
 EXE_HASH = '2e23b466028ac0a18f7f46522fe1847d5c918a129605a2bdc1c56ca31da82bba'
-VERSION = '0.1.21'
+VERSION = '0.1.22'
 # Native code has inlined fixed-size copies for these short Japanese labels.
 # Relocating them early would omit their terminators. Expand only at the final
 # font boundary, after those original copies have safely finished.
@@ -120,10 +120,11 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
     context_overrides = collect_reference_overrides(sources, english)
     if any(row['id'] in DEFERRED_UI_IDS for row in context_overrides.values()):
         raise ValueError('Copied UI labels need a caller-specific hook before reference overrides')
+    from chest_prompt_layout import display_text as chest_display
     for key, row in sources.items():
         if row['source'] != 'executable' or key not in english or english[key]['en'] is None:
             continue
-        encoded = english[key]['en'].encode('utf8')+b'\0'
+        encoded = chest_display(key,english[key]).encode('utf8')+b'\0'
         if encoded not in lookup:
             blob.extend(b'\0'*(-len(blob)%8))
             lookup[encoded] = base+len(blob)

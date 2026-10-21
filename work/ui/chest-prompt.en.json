@@ -1,0 +1,32 @@
+{
+  "capture": "chest-prompt-before-0.1.22.png",
+  "capture_resolution": [
+    1337,
+    753
+  ],
+  "kind": "actual user in-game screenshot",
+  "screen": "Treasure chest",
+  "element": "illustrated bottom prompt",
+  "observed_capture_bounds": [
+    280,
+    527,
+    750,
+    169
+  ],
+  "observed_text_origin": [
+    414,
+    564
+  ],
+  "bounds_are_approximate": true,
+  "source_id": "X1801",
+  "display_lines": [
+    "There's a treasure chest!",
+    "What will you do?"
+  ],
+  "conservative_available_width": 560,
+  "font_size": 32,
+  "conservative_line_pitch": 36,
+  "text_height": 68,
+  "icon_and_menu_unchanged": true,
+  "updated_ingame_verification": false
+}
