@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.16 — 2026-10-21 (local test build)
+
+- Translate Samurai in the assembled name/class heading on Confirm Class. The existing deferred translation handled a standalone label but missed the class after a character name and slash.
+- Give only this heading call an immutable full-English lookup for all thirteen classes. Preserve the native lookup, class-grid fixed copies, player names, format string and save data. Guard the original caller, lookup, class table and formatter before patching.
+- Pass three heading guard/scope/ABI tests and eleven runtime-wrapper tests. Independently verify all 636 overlay files, including the installed hook and thirteen English names. Only the executable differs from 0.1.15; stage it atomically and update the test launcher.
+- Retain 0.1.15 compact item stats and all previous fixes. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.15 — 2026-10-21 (local test build)
 
 - Abbreviate compact item stat labels to Atk, Acc, Eva, Def, Rng and Elem. Keep the separate full-word labels and the existing deferred renderer aliases.

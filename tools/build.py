@@ -18,7 +18,7 @@ from elftools.elf.elffile import ELFFile
 from check_translation import ROOT, read_sources, read_english, validate
 
 EXE_HASH = '2e23b466028ac0a18f7f46522fe1847d5c918a129605a2bdc1c56ca31da82bba'
-VERSION = '0.1.15'
+VERSION = '0.1.16'
 # Native code has inlined fixed-size copies for these short Japanese labels.
 # Relocating them early would omit their terminators. Expand only at the final
 # font boundary, after those original copies have safely finished.
@@ -160,6 +160,12 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
     name_state = None
     if table_plan is not None:
         from runtime_text import make_code, resolver_code
+        from class_heading import collect as heading_classes
+        class_rows=heading_classes(data,sources,english)
+        blob.extend(b'\0'*(-len(blob)%4))
+        class_table_address=base+len(blob)
+        for row in class_rows:
+            blob.extend(struct.pack('>I',lookup[row['en'].encode('utf8')+b'\0']))
         blob.extend(b'\0'*(-len(blob)%16))
         alias_address = base+len(blob)
         for original_address, english_address, prefix, key in aliases:
@@ -184,7 +190,8 @@ def executable_patch(data, sources, english, table_plan=None, table_pool=None, r
             name_state = (writable[0],state_address,STATE_BYTES)
             name_setter = (*name_code(name_object),state_address)
         runtime_code, runtime_patches, runtime_info = make_code(data,resolver,local_entry,table_address,len(table_plan['entries']),dialogue,
-                                                               alias_address,len(aliases),branding_version=version,name_setter=name_setter)
+                                                               alias_address,len(aliases),branding_version=version,name_setter=name_setter,
+                                                               class_heading=(class_table_address,class_rows))
         runtime_info.update(table_address=hex(table_address),pool_address=hex(pool_address),entries=len(table_plan['entries']))
         runtime_info['deferred_ui'] = [dict(id=k,source_address=hex(a),english_address=hex(b),prefix=bool(p)) for a,b,p,k in aliases]
     elif aliases:

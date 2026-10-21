@@ -91,6 +91,17 @@ def verify(build):
  if verified_overrides!=set(overrides):raise ValueError('Context translation was not installed')
  table=int(manifest['executable']['runtime']['table_address'],16);entries=manifest['executable']['runtime']['entries'];db_count=0
  runtime=manifest['executable']['runtime'];alias_rows=runtime.get('deferred_ui',[])
+ heading=runtime.get('class_heading')
+ if heading:
+  from class_heading import CLASS_IDS,GETTER,GETTER_BYTES,SITE
+  from runtime_text import instruction,branch,load_address
+  stub=int(heading['stub'],16);class_table=int(heading['table_address'],16)
+  if memory(SITE,4)!=instruction(branch(SITE,stub,True)):raise ValueError('Class heading hook mismatch')
+  expected=b''.join(instruction(w) for w in load_address(9,class_table))+GETTER_BYTES[4:]
+  if memory(stub,len(expected))!=expected or memory(GETTER,16)!=GETTER_BYTES:raise ValueError('Class heading lookup mismatch')
+  for i,key in enumerate(CLASS_IDS):
+   pointer=struct.unpack('>I',memory(class_table+4*i,4))[0];text=english[key]['en'].encode('utf8')+b'\0'
+   if memory(pointer,len(text))!=text:raise ValueError('Class heading name mismatch: '+key)
  for i,row in enumerate(alias_rows):
   original_address,english_address,prefix=struct.unpack('>QQQ',memory(int(runtime['alias_address'],16)+i*24,24))
   key=row['id'];original=sources[key]['ja'].encode('utf8')+b'\0';translated=english[key]['en'].encode('utf8')+b'\0'

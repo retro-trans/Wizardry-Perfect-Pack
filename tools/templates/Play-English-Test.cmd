@@ -20,7 +20,7 @@ if "%~1"=="--check" (
   exit /b 0
 )
 pushd "%WIZARDRY_TEST_ROOT%"
-"%WIZARDRY_TEST_PYTHON%" "tools\stage_test.py" "work\output\0.1.15" --changed-files --write
+"%WIZARDRY_TEST_PYTHON%" "tools\stage_test.py" "work\output\0.1.16" --changed-files --write
 if errorlevel 1 (
   popd
   echo The update could not be applied. The test game has not been started.

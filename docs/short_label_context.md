@@ -60,3 +60,9 @@ Eight focused regressions cover these semantics and the guard failures.
 Reuse must not transfer these addresses to another edition. Exact-text import
 now refuses a contextual row altogether, requiring its meanings to be traced
 in the destination game before reuse. The glossary records the distinctions.
+
+## Assembled class heading in local 0.1.16
+
+The Confirm Class heading at call 0x107a54 obtains a full class name from 0x51c2c, then formats the character name and class using `%s / %s`. Samurai (X0176) remains in original bytes for a fixed-copy class-grid path. Its late renderer alias only matches a standalone label, so it did not match the class embedded after the name and slash.
+
+A heading-specific leaf lookup uses thirteen immutable English pointers in the native class order. Only the call at 0x107a54 changes. The shared getter, original class arrays, fixed-copy labels and player-name bytes stay intact. The leaf keeps the original r3/r9 clobbers and preserves CR, LR, TOC and stack state. The builder guards the source table, getter, caller and formatter; independent verification checks the installed call, leaf and all thirteen English strings.

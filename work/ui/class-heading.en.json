@@ -1,0 +1,16 @@
+{
+  "reference_resolution": [
+    1231,
+    721
+  ],
+  "capture": "class-heading-before-0.1.16.png",
+  "kind": "actual user in-game screenshot",
+  "screen": "Confirm Class",
+  "element": "name / current class heading",
+  "expected_text": "Seraphine / Samurai",
+  "native_lookup": "0x51c2c",
+  "native_heading_call": "0x107a54",
+  "native_format": "%s / %s",
+  "fix": "Heading-specific immutable English table for all thirteen full class names; preserve original lookup and fixed-copy labels elsewhere.",
+  "updated_ingame_verification": false
+}

@@ -1,0 +1,79 @@
+{
+  "version": "0.1.16",
+  "result": "verified_local_build",
+  "heading": {
+    "site": "0x107a54",
+    "stub": "0x44c6e0",
+    "table_address": "0x55c0590",
+    "classes": [
+      {
+        "id": "X0184",
+        "en": "Fighter"
+      },
+      {
+        "id": "X0017",
+        "en": "Mage"
+      },
+      {
+        "id": "X0018",
+        "en": "Priest"
+      },
+      {
+        "id": "X0185",
+        "en": "Thief"
+      },
+      {
+        "id": "X0186",
+        "en": "Bishop"
+      },
+      {
+        "id": "X0176",
+        "en": "Samurai"
+      },
+      {
+        "id": "X0187",
+        "en": "Lord"
+      },
+      {
+        "id": "X0188",
+        "en": "Ninja"
+      },
+      {
+        "id": "X0189",
+        "en": "Kensei"
+      },
+      {
+        "id": "X0190",
+        "en": "Sorcerer"
+      },
+      {
+        "id": "X0191",
+        "en": "Monk"
+      },
+      {
+        "id": "X0192",
+        "en": "Ranger"
+      },
+      {
+        "id": "X0019",
+        "en": "Summoner"
+      }
+    ],
+    "native_getter_unchanged": true,
+    "fixed_copy_class_labels_unchanged": true,
+    "character_name_and_format_unchanged": true,
+    "updated_ingame_verification": false
+  },
+  "heading_class_names_verified": 13,
+  "heading_guard_scope_abi_tests": 3,
+  "runtime_wrapper_tests": 11,
+  "changed_overlay_files_from_0_1_15": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "other_635_overlay_files_match": true,
+  "staged_executable_sha256": "e8849c10397df75aeaf23578d9cbfeae3e5d0799e2faf1bc618e51f93a4585a7",
+  "staged_executable_matches": true,
+  "player_names_saves_controllers_unchanged": true,
+  "updated_ingame_visual_verification": false,
+  "release_published": false
+}
