@@ -46,5 +46,10 @@
     }
   ],
   "downloaded_assets_verified": 6,
-  "verification_phase": "Authenticated download of uploaded draft assets before publication"
+  "verification_phase": "Authenticated download of uploaded draft assets before publication",
+  "public_release_url": "https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/tag/v0.1.23",
+  "published_utc": "2026-10-22T07:33:59Z",
+  "public_metadata_matches_downloaded_assets": true,
+  "github_latest_confirmed": true,
+  "public_release_notes_match": true
 }

@@ -12,6 +12,8 @@
 
 - Observe continued execution and title-asset loading in separate cold and warm 300-second startup probes, without logged fatal errors or access violations. Retain nonfatal diagnostics and the installer teardown failure; visual acceptance and a full playthrough remain pending.
 
+- Publish v0.1.23 as the latest release with six verified assets. Register it in Retro Trans Tools and verify direct public-catalog routes from the original Japanese ISO and public English 0.1.11/0.1.14 ISOs, preserving prior catalog identities.
+
 ## 0.1.22 — 2026-10-22 (local test build)
 
 - Put the illustrated treasure chest prompt on two complete lines: There's a treasure chest! / What will you do? Preserve all wording and the canonical translation.
