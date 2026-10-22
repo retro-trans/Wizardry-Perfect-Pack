@@ -1,11 +1,14 @@
 # Changelog
 
-## 0.1.23 — 2026-10-22 (local test build)
+## 0.1.23 — 2026-10-22
 
 - Keep all thirteen Battle Record monster categories inside three fixed 336px columns. Use a 24px category font and a 12px label/value gap; preserve full category names, row positions, colors and counter values.
 - Fix the top labels' fixed-copy truncation with deferred Wipeouts: and Chests: labels. Align Deaths, Wipeouts and Chests values with a 12px gap, including space for the native seven-digit chest maximum. Add the same gap after Play Time and Total Monsters Defeated.
 - Pass four Battle Record guard/copy/font-bound tests, eleven runtime tests and host renderer cases for all 24 fixed-copy labels. Independently verify all 636 overlay files, 16 new instructions and installed labels; only the executable differs from 0.1.22.
-- Stage the executable atomically and update the test launcher, retaining earlier fixes, saves and controller settings. Updated in-game appearance remains pending; no release is published.
+- Stage the executable atomically and update the test launcher, retaining earlier fixes, saves and controller settings. Updated in-game appearance remains pending.
+
+- Release ISO patches from the original Japanese image and exact public English 0.1.14/0.1.11 images. All three encode/decode checks reproduce the full 0.1.23 ISO. Verify independent ISO9660/UDF extraction and all 1,483 installed-file hashes; retain scoped RPCS3 observations and shutdown diagnostics separately.
+- Run all 111 regressions and 5,222 dialogue paragraph checks. Update the README and release notes using the Macross format, with the Prisoners-only scope notice and Steam link.
 
 ## 0.1.22 — 2026-10-22 (local test build)
 

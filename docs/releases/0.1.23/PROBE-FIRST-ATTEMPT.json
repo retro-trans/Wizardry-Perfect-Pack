@@ -1,0 +1,6 @@
+{
+  "result": "probe_infrastructure_error",
+  "stage": "initial_install_attempt",
+  "reason": "Attempt to inspect RPCS3 log while it held an exclusive Windows lock raised PermissionError; only the probe process was stopped. No game installation was created.",
+  "next_action": "Remove live-log read and retry; retain first-attempt logs."
+}

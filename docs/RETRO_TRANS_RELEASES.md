@@ -20,7 +20,7 @@ game in Perfect Pack. **Wizardry: Labyrinth of Lost Souls**, the first game,
 is unchanged and not translated by this patch. Link its official English PC
 version on [Steam](https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/).
 
-Version **0.1.14** distributes an **ISO → ISO** xdelta for the Japanese Perfect
+Version **0.1.23** distributes an **ISO → ISO** xdelta for the Japanese Perfect
 Pack disc. The patch replaces PKG01 with the English NPJB00162 package and
 updates only the disc metadata needed to store it. PKG00 / NPJB00163 is
 preserved. RPCS3 users patch their ISO first, extract PKG01 from that output,
@@ -41,7 +41,7 @@ original binary identity and must not be reused for the ISO's original hash.
 3. Validate the English decisions, compile the resolver/presenters and prepare
    graphics plus the verified subtitled opening. Compile the bounded name-entry helper with `tools/compile_name_entry.py` as well. Run
    `tools/strip_jp.py --write` before committing. Build and independently verify
-   a fresh `work/output/0.1.14` overlay; its footer must show `v0.1.14`.
+   a fresh `work/output/0.1.23` overlay; its footer must show `v0.1.23`.
 4. Rebuild PKG01 with `tools/pkg_overlay.py`, mapping the translated ELF to
    `USRDIR/EBOOT.BIN`. Check all selected/unselected package payloads and native
    name alignment. This package is intended for RPCS3, not retail-console
@@ -60,8 +60,8 @@ original binary identity and must not be reused for the ISO's original hash.
    config containing the real full commit SHA and exact source/target ISOs.
    Input/output disc images, packages and local paths are not release assets.
 
-The verified ISO target is **2,123,663,360 bytes**, SHA-256
-`736471ff2087f1f735693c7c227de377481f1ccea111d8a7fc22b6db43f94f6b`.
+The verified ISO target is **2,123,665,408 bytes**, SHA-256
+`5e9d937da764678bc8981ca995236f569b6e98ff7f6a14585e53e7b4ca73d1c5`.
 
 ## Retro Trans Tools configuration
 
@@ -75,22 +75,22 @@ all-zero commit and target path with the actual committed revision/output:
   "game_id": "wizardry-perfect-pack",
   "game_name": "Wizardry Perfect Pack: Prisoners of the Lost City",
   "platform": "PS3",
-  "version": "0.1.14",
+  "version": "0.1.23",
   "source_commit": "0000000000000000000000000000000000000000",
   "patches": [{
-    "patch": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.14.xdelta",
+    "patch": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.23.xdelta",
     "edition": "perfect-pack-bljm61008-iso",
     "language": "en",
     "source_version": "original",
     "source_format": "iso",
     "target_format": "iso",
     "source": "../../Wizardry - Perfect Pack (Japan).iso",
-    "target": "../output/iso/Wizardry-Perfect-Pack-Prisoners-English-0.1.14.iso"
+    "target": "../output/iso/Wizardry-Perfect-Pack-Prisoners-English-0.1.23.iso"
   }]
 }
 ```
 
-For this release, also include the exact public 0.1.11 ISO as a second row with `source_version: 0.1.11` and patch filename `Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.14.xdelta`. Its SHA-256 is `1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877`, size 2,123,663,360 bytes.
+For this release, include a direct upgrade from the exact public 0.1.14 ISO (2,123,663,360 bytes; SHA-256 `736471ff2087f1f735693c7c227de377481f1ccea111d8a7fc22b6db43f94f6b`) named `Wizardry-Perfect-Pack-Prisoners-English-v0.1.14-to-v0.1.23.xdelta`. Also include the exact public 0.1.11 ISO as a third row with `source_version: 0.1.11` and patch filename `Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.23.xdelta`. Its SHA-256 is `1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877`, size 2,123,663,360 bytes.
 
 Paths resolve relative to the config file. No upgrade from a withdrawn PKG
 output is implied. Add upgrade routes only for exact supported ISO identities.
@@ -99,8 +99,8 @@ Run the current [Retro Trans Tools](https://github.com/retro-trans/retro-trans-t
 builder and validator:
 
 ```text
-python -m retro_trans.release build release-local.json --out release-0.1.14
-python -m retro_trans.release validate release-0.1.14
+python -m retro_trans.release build release-local.json --out release-0.1.23
+python -m retro_trans.release validate release-0.1.23
 ```
 
 The builder hashes its inputs, creates xdelta, decodes it to a complete
@@ -111,11 +111,11 @@ limited startup reports; visual/gameplay checks have a separate scope.
 
 ## Publish
 
-Publish the bare `Wizardry-Perfect-Pack-Prisoners-English-v0.1.14.xdelta`,
-the matching 0.1.11-to-0.1.14 upgrade xdelta, exactly one `BUILD-MANIFEST.json`, the builder's `VALIDATION.json`, and
+Publish the bare `Wizardry-Perfect-Pack-Prisoners-English-v0.1.23.xdelta`,
+the matching 0.1.14-to-0.1.23 and 0.1.11-to-0.1.23 upgrade xdeltas, exactly one `BUILD-MANIFEST.json`, the builder's `VALIDATION.json`, and
 `SHA256SUMS.txt`. Never publish complete game packages or disc images.
 Copy the small manifests/checksums and scoped verification evidence to
-`docs/releases/0.1.14/`. Tag the real source revision and publish notes with
+`docs/releases/0.1.23/`. Tag the real source revision and publish notes with
 the exact ISO identities, package-extraction steps, RPCS3 installation and
 remaining limitations.
 
@@ -132,7 +132,7 @@ gh workflow run catalog.yml --repo retro-trans/retro-trans-tools --ref main -f r
 ```
 
 Verify through the application's actual public catalog URL and recognition
-code that the original ISO matches and has an `original → 0.1.14` route.
+code that the original ISO matches and has an `original → 0.1.23` route.
 Preserve all prior catalog identities. This metadata registration does not
 require a new application release. Record the workflow and recognition result
 with the release evidence. Manual Apply xdelta uses the same ISO patch while

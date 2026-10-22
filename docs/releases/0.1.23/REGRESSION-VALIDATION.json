@@ -1,0 +1,7 @@
+{
+  "version": "0.1.23",
+  "result": "passed",
+  "tests": 111,
+  "observed_seconds": 29.779,
+  "scope": "Automated regressions; no full in-game appearance or playthrough acceptance."
+}

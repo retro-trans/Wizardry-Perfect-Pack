@@ -1,0 +1,29 @@
+{
+  "process_id": 30304,
+  "started_utc": "2026-10-22T06:40:54.756241+00:00",
+  "elapsed_seconds": 132.67,
+  "natural_exit_code": 3221226505,
+  "stopped_after_install_success": false,
+  "own_process_stopped": false,
+  "process_return_code": 3221226505,
+  "terminated_own_process_after_timeout": false,
+  "isolated_profile": true,
+  "other_emulators_untouched": true,
+  "headless": true,
+  "log_path": "work/output/package/install-0.1.23.rpcs3.log",
+  "stdout_path": "work/output/package/install-0.1.23.stdout.log",
+  "stderr_path": "work/output/package/install-0.1.23.stderr.log",
+  "version": "0.1.23",
+  "package_sha256": "429964e07f996502288aa14387d989c2e37eb7347fcea7bb11077ab71b95f4cd",
+  "result": "installed_payloads_verified",
+  "installer_success_logged": true,
+  "installed_files_verified": 1483,
+  "failures": [],
+  "installer_exit_code": 3221226505,
+  "boot_verified": false,
+  "headless_teardown_error": true,
+  "repeated_inside_same_disposable_profile": false,
+  "install_log": [
+    "\u00b7S 0:01:21.990379 GUI: Successfully installed E:\\Projects\\Wizardry Perfect Pack\\work\\output\\package\\Wizardry-Prisoners-English-0.1.23.pkg (title_id=NPJB00162, title=Wizardry: Prisoners of the Lost City, version=01.00)."
+  ]
+}
