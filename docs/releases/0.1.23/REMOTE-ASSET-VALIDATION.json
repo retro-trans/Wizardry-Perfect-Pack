@@ -1,0 +1,50 @@
+{
+  "version": "0.1.23",
+  "result": "passed",
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "bytes": 2146,
+      "sha256": "37c77d3443c0d7025944a9ecf107c91a12c623cf6bbc6d96eb3720c9b1ecf90d",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 558,
+      "sha256": "3933a51dd02f6df558f5e8b2ab849f7f28da3fea91615e88c06ac18e22a320bb",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 786,
+      "sha256": "f3b57b0cb8beb57b737ec830a8dd9c1dba263ce08c6cf94aeadc15ede47108ce",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.23.xdelta",
+      "bytes": 32220328,
+      "sha256": "9f64972e1d97da50d75edded010b2a70dd3a26325186cf3641e1dda66daf412e",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.14-to-v0.1.23.xdelta",
+      "bytes": 32219739,
+      "sha256": "1f2f0ce84fa7a16c6ae20528db6549908117c6ee9f390550a67cef6d37594ea1",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.23.xdelta",
+      "bytes": 220820877,
+      "sha256": "3b8782cb994d7f0f3c063e129ebe80d4faf4518c39c31e4bee6dee5d57e2e5ee",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    }
+  ],
+  "downloaded_assets_verified": 6,
+  "verification_phase": "Authenticated download of uploaded draft assets before publication"
+}

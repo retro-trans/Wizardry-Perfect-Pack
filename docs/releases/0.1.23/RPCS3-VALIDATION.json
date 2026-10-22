@@ -1,0 +1,41 @@
+{
+  "version": "0.1.23",
+  "iso_sha256": "5e9d937da764678bc8981ca995236f569b6e98ff7f6a14585e53e7b4ca73d1c5",
+  "package_sha256": "429964e07f996502288aa14387d989c2e37eb7347fcea7bb11077ab71b95f4cd",
+  "independent_iso_and_udf_extractions_match_install_tested_package": true,
+  "emulator": "RPCS3 0.0.43-20323-64ba740c",
+  "installation": {
+    "result": "installed_payloads_verified",
+    "installer_success_logged": true,
+    "installed_files_verified": 1483,
+    "installer_exit_code": 3221226505,
+    "headless_teardown_error": true,
+    "elapsed_seconds": 132.67,
+    "isolated_profile": true,
+    "failures": []
+  },
+  "cold_compilation_pass": {
+    "result": "actual_game_execution_observed_with_warnings",
+    "elapsed_seconds": 300.28,
+    "title_asset_opened": true,
+    "boot_verified": true,
+    "fatal_log_count": 0,
+    "access_violation_or_segmentation_log_count": 0
+  },
+  "startup": {
+    "result": "actual_game_execution_observed_with_warnings",
+    "elapsed_seconds": 300.08,
+    "title_asset_opened": true,
+    "boot_verified": true,
+    "fatal_log_count": 0,
+    "access_violation_or_segmentation_log_count": 0,
+    "error_log_count": 103,
+    "terminated_own_process_after_timeout": true,
+    "other_emulators_untouched": true
+  },
+  "runtime_execution_observed": true,
+  "visual_verification": false,
+  "gameplay_verified": false,
+  "full_playthrough_verified": false,
+  "scope": "Exact ISO/package/installed payload identity and limited headless startup only. Startup processes were stopped at their deadlines; installer teardown failed after successful installation. See separate reports for all diagnostics."
+}

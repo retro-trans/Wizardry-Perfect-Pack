@@ -10,6 +10,8 @@
 - Release ISO patches from the original Japanese image and exact public English 0.1.14/0.1.11 images. All three encode/decode checks reproduce the full 0.1.23 ISO. Verify independent ISO9660/UDF extraction and all 1,483 installed-file hashes; retain scoped RPCS3 observations and shutdown diagnostics separately.
 - Run all 111 regressions and 5,222 dialogue paragraph checks. Update the README and release notes using the Macross format, with the Prisoners-only scope notice and Steam link.
 
+- Observe continued execution and title-asset loading in separate cold and warm 300-second startup probes, without logged fatal errors or access violations. Retain nonfatal diagnostics and the installer teardown failure; visual acceptance and a full playthrough remain pending.
+
 ## 0.1.22 — 2026-10-22 (local test build)
 
 - Put the illustrated treasure chest prompt on two complete lines: There's a treasure chest! / What will you do? Preserve all wording and the canonical translation.
