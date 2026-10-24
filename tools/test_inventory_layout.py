@@ -20,9 +20,10 @@ MASK64 = (1 << 64) - 1
 
 
 class InventoryMachine:
-    def __init__(self, measure, stackable=False, horizontal=25, vertical=32):
+    def __init__(self, measure, stackable=False, horizontal=25, vertical=32, bridge_options=None, window_width=320, mode=0):
         self.start = 0x448090
-        payload = layout._bridge(self.start)
+        self.bridge_options = bridge_options or {}
+        payload = layout._bridge(self.start, **self.bridge_options)
         decoder = Cs(CS_ARCH_PPC, CS_MODE_64 | CS_MODE_BIG_ENDIAN)
         decoded = list(decoder.disasm(payload, self.start))
         if len(decoded) * 4 != len(payload):
@@ -59,6 +60,8 @@ class InventoryMachine:
         self._write(self.width_address, horizontal.to_bytes(4, 'big'))
         self._write(self.height_address, vertical.to_bytes(4, 'big'))
         self._write(self.flag_address, b'\x01')
+        self._write(self.regs[24]+0xd0, window_width.to_bytes(4, 'big'))
+        self._write(self.regs[24]+0x11c, mode.to_bytes(4, 'big'))
         self.draw_result = 0x1234567
 
     def _write(self, address, value):
@@ -177,9 +180,9 @@ class InventoryMachine:
             elif name == 'divwu':
                 self.regs[reg(args[0])] = ((self.regs[reg(args[1])] & 0xffffffff)
                                           // (self.regs[reg(args[2])] & 0xffffffff))
-            elif name in ('ble', 'bge', 'beq'):
+            elif name in ('ble', 'bge', 'beq', 'bne'):
                 if ((name == 'ble' and not self.cr & 4) or (name == 'bge' and not self.cr & 8)
-                        or (name == 'beq' and self.cr & 2)):
+                        or (name == 'beq' and self.cr & 2) or (name == 'bne' and not self.cr & 2)):
                     next_pc = int(args[1], 0)
             elif name == 'b':
                 next_pc = int(args[0], 0)
@@ -205,7 +208,7 @@ class InventoryMachine:
                 or self._load(self.height_address, 4) != self.initial_vertical
                 or self._load(self.flag_address, 1) != 0):
             raise AssertionError('Native font state was not restored correctly')
-        if len(self.draws) != 1 or self.calls.count(0x57f74) != 1:
+        if len(self.draws) != 1 or self.calls.count(0x57f74) != (0 if self.bridge_options else 1):
             raise AssertionError('Wrong number of draws or stack-predicate calls')
         return self.draws[0][0]
 

@@ -209,6 +209,25 @@ def verify(build):
   if memory(SITE,4)!=instruction(branch(SITE,int(narration['bridge'],16),True)):raise ValueError('Anonymous narration bridge mismatch')
   if memory(SITE-8,8)!=EXPECTED_CONTEXT[:8] or memory(SITE+4,len(EXPECTED_CONTEXT)-12)!=EXPECTED_CONTEXT[12:]:raise ValueError('Anonymous narration continuation changed')
   if memory(FINAL_WAIT_SITE,len(EXPECTED_FINAL_WAIT))!=EXPECTED_FINAL_WAIT:raise ValueError('Narration final script wait changed')
+ compact=runtime.get('compact_lists')
+ if compact:
+  from compact_list_layout import SKILL_SITE,ITEM_SITES,SHOP_SITES,SKILL_CAP,ITEM_CAP_WORDS,GUARDS as COMPACT_GUARDS,shop_labels
+  from inventory_layout import _bridge
+  from item_collection_layout import image
+  from runtime_text import branch,instruction
+  for row,sites,options in zip(compact['bridges'],((SKILL_SITE,),ITEM_SITES),(dict(fixed_cap=SKILL_CAP),dict(cap_words=ITEM_CAP_WORDS))):
+   entry=int(row['entry'],16);expected=_bridge(entry,**options)
+   if memory(entry,len(expected))!=expected:raise ValueError('Compact list fitting bridge mismatch')
+   for site in sites:
+    if memory(site,4)!=instruction(branch(site,entry,True)):raise ValueError('Compact list draw mismatch')
+  stub=int(compact['shop_categories']['stub'],16);expected,_=image(stub,shop_labels())
+  if memory(stub,len(expected))!=expected:raise ValueError('Shop category table mismatch')
+  for site in SHOP_SITES:
+   if memory(site,4)!=instruction(branch(site,stub,True)):raise ValueError('Shop category call mismatch')
+  for address,expected in COMPACT_GUARDS:
+   expected=bytes.fromhex(expected)
+   for index in range(0,len(expected),4):
+    if address+index not in (SKILL_SITE,*ITEM_SITES,*SHOP_SITES) and memory(address+index,min(4,len(expected)-index))!=expected[index:index+4]:raise ValueError('Compact list guard changed')
  inventory=runtime.get('inventory_names')
  if inventory:
   from inventory_layout import DRAW_SITE,GUARDS
@@ -303,6 +322,8 @@ def verify(build):
              quest_description_fields_verified=quest_fields,
              monster_lore_fields_verified=lore_fields,
              item_description_fields_verified=item_description_fields,
+             compact_list_draw_paths_verified=3 if compact else 0,
+             compact_shop_category_paths_verified=2 if compact else 0,
              inventory_name_fitting_installed=bool(inventory),
              anonymous_narration_pagination_installed=bool(narration),
              title_version_and_url_installed=bool(branding),

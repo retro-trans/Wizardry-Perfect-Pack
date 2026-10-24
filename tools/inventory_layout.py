@@ -51,10 +51,12 @@ def _mr(destination, source):
     return _xform(444, source, destination, source)
 
 
-def _bridge(address):
+def _bridge(address, *, fixed_cap=None, cap_words=None):
     """Original draw ABI in/out; preserve CR/CTR/LR/GPR4..12/FPR1..13.
 
-    Caller r31 identifies the item, as guarded immediately before/after the
+    By default caller r31 identifies the item; fixed_cap/cap_words instead
+    supply a context-specific bound without calling the item predicate.
+    Caller r31 is guarded immediately before/after the
     redirected call. r3 holds packed coordinates/color, r4 formatting flags,
     r5 the complete item-name token/string, r6..r10 any original varargs.
     """
@@ -93,12 +95,17 @@ def _bridge(address):
     put(dform(32, 12, 2, UI_STATE_TOC), dform(15, 12, 12, 3),
         dform(62, 12, 1, 0xe8), dform(32, 11, 12, -0x7c04),
         dform(62, 11, 1, 0xf0), dform(62, 11, 1, 0x100),
-        dform(32, 11, 12, -0x7c00), dform(62, 11, 1, 0xf8),
-        dform(14, 8, 0, NAME_CAP), dform(62, 8, 1, 0x108), _mr(3, 31))
-    call(STACKABLE)
-    put(0x2f830000)
-    jump('fit', 0x419e0000)
-    put(dform(14, 8, 0, STACK_CAP), dform(62, 8, 1, 0x108))
+        dform(32, 11, 12, -0x7c00), dform(62, 11, 1, 0xf8))
+    if cap_words is not None:
+        put(*cap_words, dform(62, 8, 1, 0x108))
+    elif fixed_cap is not None:
+        put(dform(14, 8, 0, fixed_cap), dform(62, 8, 1, 0x108))
+    else:
+        put(dform(14, 8, 0, NAME_CAP), dform(62, 8, 1, 0x108), _mr(3, 31))
+        call(STACKABLE)
+        put(0x2f830000)
+        jump('fit', 0x419e0000)
+        put(dform(14, 8, 0, STACK_CAP), dform(62, 8, 1, 0x108))
     label('fit')
     measure()
     put(0x2f830000)

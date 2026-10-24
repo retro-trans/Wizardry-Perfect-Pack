@@ -1,5 +1,9 @@
 # Local build and testing
 
+## Test local 0.1.24 skill and inventory rows
+
+Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.24** on the title screen. In Seraphine's Status screen, the full **Thunderblade Formation** name should fit inside the Skills selection cell; the heading and description retain their existing size. In Items, check **Healing Salve Concentrate**, **Burial Scripture Scroll** and **Cremation Scripture Scroll**, selected and unselected, with one- and two-digit quantities. Complete names should fit before the separate count. In Buy Items, cycle categories: **Other Weapons** includes staff, blunt and thrown weapons; **Shield/Gloves** and **Helm/Boots** also fit between the icons. Check prices, quantities and equipped colors. Static bounds and emitted-code checks pass; updated in-game appearance is pending. This is a local build; the latest public release remains 0.1.23.
+
 ## Test the 0.1.23 ISO release
 
 Apply the full patch to the original Japanese ISO, or the matching upgrade patch to the exact public 0.1.11/0.1.14 ISO. The result is 2,123,665,408 bytes, SHA-256 `5e9d937da764678bc8981ca995236f569b6e98ff7f6a14585e53e7b4ca73d1c5`. Extract all extents of PKG01 and install it in RPCS3, then restart the game and confirm **v0.1.23** on the title screen. The [release notes](releases/0.1.23/RELEASE-NOTES.md) contain the full procedure, source identities and verification limits. Revisit the reported description, collection, chest, bestiary and Battle Record screens below; their updated appearance still needs visual acceptance.

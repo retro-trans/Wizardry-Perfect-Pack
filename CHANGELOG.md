@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.24 — 2026-10-25 (local test build)
+
+- Fit the complete skill name into the Status screen's 164px Skills cell, shrinking horizontal size only when necessary. Keep the full heading and description at their existing font.
+- Add fitting to both ordinary/shop item-name drawing paths, including selected colors. Derive the width from the native window and reserve a separate quantity/price column; retain full item names, enhancement suffixes and the original quantity draws.
+- Shorten the shop's combined staff/blunt/thrown category to Other Weapons. Use Shield/Gloves and Helm/Boots for its other combined groups; preserve group membership, collection labels and individual item types.
+- Pass all 116 regression tests, including emitted native fitting code with hostile callees and the reported long names. Independently verify all 636 overlay files and the five new call sites. Only the executable differs from 0.1.23; update the project test copy atomically and retain saves/controller settings. Updated in-game appearance remains pending. No release is published.
+
 ## 0.1.23 — 2026-10-22
 
 - Keep all thirteen Battle Record monster categories inside three fixed 336px columns. Use a 24px category font and a 12px label/value gap; preserve full category names, row positions, colors and counter values.

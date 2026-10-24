@@ -1,0 +1,76 @@
+{
+  "result": "passed",
+  "version": "0.1.24",
+  "native_layout": {
+    "version": "0.1.24",
+    "captures": [
+      {
+        "file": "status-skill-before-0.1.24.png",
+        "kind": "actual user in-game screenshot"
+      },
+      {
+        "file": "inventory-salve-before-0.1.24.png",
+        "kind": "actual user in-game screenshot"
+      },
+      {
+        "file": "inventory-scrolls-before-0.1.24.png",
+        "kind": "actual user in-game screenshot"
+      },
+      {
+        "file": "shop-category-before-0.1.24.png",
+        "kind": "actual user in-game screenshot"
+      }
+    ],
+    "skill": {
+      "draw_site": "0xb7464",
+      "width": 164,
+      "font_maximum": [
+        22,
+        22
+      ],
+      "full_heading_and_description_preserved": true
+    },
+    "inventory": {
+      "draw_sites": [
+        "0xf7eb0",
+        "0xf8020"
+      ],
+      "name_inset": 24,
+      "right_inset": 16,
+      "ordinary_quantity_reserve": 64,
+      "gap": 8,
+      "price_reserve": 128,
+      "width_from_native_window": true,
+      "full_item_names_preserved": true,
+      "native_unit_suffix_space_included": true
+    },
+    "shop": {
+      "format_sites": [
+        "0xf5430",
+        "0xfa8cc"
+      ],
+      "combined_group": [
+        4,
+        5,
+        6
+      ],
+      "label": "Other Weapons",
+      "other_combined_labels": [
+        "Shield/Gloves",
+        "Helm/Boots"
+      ],
+      "individual_type_names_preserved": true
+    },
+    "updated_ingame_verification": false
+  },
+  "regressions_passed": 116,
+  "changed_overlay_files_from_0_1_23": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "overlay_files": 636,
+  "updated_ingame_verification": false,
+  "published": false,
+  "built_elf_sha256": "f2aac1e35d5d63336af875b6c6a72d59e47fc034e70e7a1e75269c53871fc90a",
+  "staged_executable_matches_build": true,
+  "launcher_preflight": "passed"
+}
