@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.25 — 2026-10-25 (local test build)
+
+- Expand dynamic item names before the two native acquisition-message queues, instead of leaving database tokens for the final font draw. This addresses the reported chest reward showing Item followed by stray letters from obtained.
+- Keep the original actor name, acquisition format, item color, chest illustration, inventory operation and final acceptance wait. Item remains the existing generic unidentified consumable name; identified names and enhancement suffixes are retained.
+- Pass all 118 regressions, including twelve emitted-bridge cases with hostile variadic callees. Pass the actual host resolver's 17 edge cases and 27 label checks. Independently verify both new call sites and all 636 overlay files; only the executable differs from 0.1.24.
+- Stage the executable atomically and update the launcher, retaining earlier fixes, saves and controller settings. Updated in-game appearance remains pending. No release is published.
+
 ## 0.1.24 — 2026-10-25 (local test build)
 
 - Fit the complete skill name into the Status screen's 164px Skills cell, shrinking horizontal size only when necessary. Keep the full heading and description at their existing font.

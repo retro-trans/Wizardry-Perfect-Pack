@@ -209,6 +209,19 @@ def verify(build):
   if memory(SITE,4)!=instruction(branch(SITE,int(narration['bridge'],16),True)):raise ValueError('Anonymous narration bridge mismatch')
   if memory(SITE-8,8)!=EXPECTED_CONTEXT[:8] or memory(SITE+4,len(EXPECTED_CONTEXT)-12)!=EXPECTED_CONTEXT[12:]:raise ValueError('Anonymous narration continuation changed')
   if memory(FINAL_WAIT_SITE,len(EXPECTED_FINAL_WAIT))!=EXPECTED_FINAL_WAIT:raise ValueError('Narration final script wait changed')
+ reward=runtime.get('chest_reward')
+ if reward:
+  from chest_reward_layout import SITES,GUARDS as REWARD_GUARDS,bridge
+  from runtime_text import branch,instruction
+  for row,(site,target) in zip(reward['calls'],SITES):
+   entry=int(row['entry'],16)
+   expected=bridge(entry,int(reward['resolver'],16),int(reward['table'],16),reward['count'],int(reward['aliases'],16),reward['alias_count'],target)
+   if memory(entry,len(expected))!=expected:raise ValueError('Chest reward bridge mismatch')
+   if memory(site,4)!=instruction(branch(site,entry,True)):raise ValueError('Chest reward call mismatch')
+  for a,h in REWARD_GUARDS:
+   expected=bytes.fromhex(h)
+   for n in range(0,len(expected),4):
+    if a+n not in dict(SITES) and memory(a+n,min(4,len(expected)-n))!=expected[n:n+4]:raise ValueError('Chest reward context changed')
  compact=runtime.get('compact_lists')
  if compact:
   from compact_list_layout import SKILL_SITE,ITEM_SITES,SHOP_SITES,SKILL_CAP,ITEM_CAP_WORDS,GUARDS as COMPACT_GUARDS,shop_labels
@@ -322,6 +335,7 @@ def verify(build):
              quest_description_fields_verified=quest_fields,
              monster_lore_fields_verified=lore_fields,
              item_description_fields_verified=item_description_fields,
+             chest_reward_early_expansion_paths_verified=2 if reward else 0,
              compact_list_draw_paths_verified=3 if compact else 0,
              compact_shop_category_paths_verified=2 if compact else 0,
              inventory_name_fitting_installed=bool(inventory),

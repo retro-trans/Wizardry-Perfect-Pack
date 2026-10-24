@@ -1,5 +1,9 @@
 # Local build and testing
 
+## Test local 0.1.25 chest acquisition message
+
+Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.25**. Open a chest and collect an unidentified consumable: the second line should show the green **Item** label followed by its punctuation, without leftover letters from obtained. Item is the existing generic unidentified consumable name. Check a second short item, a long identified item name and an enhanced item, then collect another reward to exercise reused message buffers. Actor names, colors, chest pictures and the confirmation control should behave as before. The early-expansion bridge passes file and native instruction checks; updated in-game appearance is pending. This is a local test build; public release remains 0.1.23.
+
 ## Test local 0.1.24 skill and inventory rows
 
 Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.24** on the title screen. In Seraphine's Status screen, the full **Thunderblade Formation** name should fit inside the Skills selection cell; the heading and description retain their existing size. In Items, check **Healing Salve Concentrate**, **Burial Scripture Scroll** and **Cremation Scripture Scroll**, selected and unselected, with one- and two-digit quantities. Complete names should fit before the separate count. In Buy Items, cycle categories: **Other Weapons** includes staff, blunt and thrown weapons; **Shield/Gloves** and **Helm/Boots** also fit between the icons. Check prices, quantities and equipped colors. Static bounds and emitted-code checks pass; updated in-game appearance is pending. This is a local build; the latest public release remains 0.1.23.

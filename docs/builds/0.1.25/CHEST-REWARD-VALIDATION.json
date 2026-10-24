@@ -1,0 +1,46 @@
+{
+  "result": "passed",
+  "version": "0.1.25",
+  "layout": {
+    "version": "0.1.25",
+    "capture": "chest-reward-before-0.1.25.png",
+    "capture_resolution": [
+      1365,
+      768
+    ],
+    "kind": "actual user in-game screenshot",
+    "screen": "Iron Chest acquisition message",
+    "observed_text": "Marina obtained / Item tained",
+    "observed_message_bounds": [
+      310,
+      542,
+      748,
+      166
+    ],
+    "bounds_are_approximate": true,
+    "message_id": "X1812",
+    "generic_unidentified_item_id": "DI0190",
+    "generic_unidentified_item_label": "Item",
+    "changed_calls": [
+      "0x1fe78",
+      "0x11e378"
+    ],
+    "item_argument_register": 5,
+    "item_names_resolved_before_native_message_queue": true,
+    "actor_format_colors_icon_and_final_wait_preserved": true,
+    "updated_ingame_verification": false
+  },
+  "regressions_passed": 118,
+  "native_bridge_cases": 12,
+  "host_resolver_cases": 17,
+  "host_resolver_fixed_copy_labels": 24,
+  "host_resolver_immediate_labels": 3,
+  "changed_overlay_files_from_0_1_24": [
+    "USRDIR/EBOOT.elf"
+  ],
+  "overlay_files": 636,
+  "built_elf_sha256": "d38a047a9b351d98bf2c33da1a84e4a1538ae390e5543972f8171f8b4804efe3",
+  "native_reward_ui_visual_verification": false,
+  "published": false,
+  "staged_executable_matches_build": true
+}

@@ -1,0 +1,29 @@
+{
+  "version": "0.1.25",
+  "capture": "chest-reward-before-0.1.25.png",
+  "capture_resolution": [
+    1365,
+    768
+  ],
+  "kind": "actual user in-game screenshot",
+  "screen": "Iron Chest acquisition message",
+  "observed_text": "Marina obtained / Item tained",
+  "observed_message_bounds": [
+    310,
+    542,
+    748,
+    166
+  ],
+  "bounds_are_approximate": true,
+  "message_id": "X1812",
+  "generic_unidentified_item_id": "DI0190",
+  "generic_unidentified_item_label": "Item",
+  "changed_calls": [
+    "0x1fe78",
+    "0x11e378"
+  ],
+  "item_argument_register": 5,
+  "item_names_resolved_before_native_message_queue": true,
+  "actor_format_colors_icon_and_final_wait_preserved": true,
+  "updated_ingame_verification": false
+}

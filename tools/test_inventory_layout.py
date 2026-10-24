@@ -167,6 +167,10 @@ class InventoryMachine:
                 self.regs[reg(args[0])] = self.regs[reg(args[1])]
             elif name == 'li':
                 self.regs[reg(args[0])] = int(args[1], 0)
+            elif name == 'lis':
+                self.regs[reg(args[0])] = (int(args[1],0)<<16)&MASK64
+            elif name == 'ori':
+                self.regs[reg(args[0])] = self.regs[reg(args[1])]|int(args[2],0)
             elif name in ('addi', 'addis'):
                 immediate = int(args[2], 0) * (0x10000 if name == 'addis' else 1)
                 self.regs[reg(args[0])] = (self.regs[reg(args[1])] + immediate) & MASK64
