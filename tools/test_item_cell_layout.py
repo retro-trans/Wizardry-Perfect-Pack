@@ -22,17 +22,18 @@ MASK64 = (1 << 64) - 1
 class BridgeMachine:
     """Interpret only the emitted bridge's integer/branch instruction subset."""
 
-    def __init__(self, cap, measure):
+    def __init__(self, cap, measure, width_slot=0x188, font_size=22):
         self.start = 0x448090
         decoder = Cs(CS_ARCH_PPC, CS_MODE_64 | CS_MODE_BIG_ENDIAN)
-        payload = layout._bridge(self.start, cap)
+        self.width_slot=width_slot
+        payload = layout._bridge(self.start, cap, width_slot)
         decoded = list(decoder.disasm(payload, self.start))
         if len(decoded) * 4 != len(payload):
             raise AssertionError('Bridge contains an undecodable instruction')
         self.instructions = {i.address: (i.mnemonic, i.op_str) for i in decoded}
         self.regs = [0x100000 + 0x100 * i for i in range(32)]
         self.regs[1] = 0x800000
-        self.regs[3:7] = [0x555000, 0x123400, 22, 22]
+        self.regs[3:7] = [0x555000, 0x123400, font_size, font_size]
         self.initial_regs = self.regs[:]
         self.lr = self.initial_lr = 0x600001
         self.cr = self.initial_cr = 0xa5a5a5a5
@@ -77,7 +78,7 @@ class BridgeMachine:
     def _native_call(self, return_address):
         if self.regs[3] != self.initial_regs[3] or self.regs[4] != self.initial_regs[4]:
             raise AssertionError('Native font or text input was lost between measurements')
-        if self.regs[6] != 22:
+        if self.regs[6] != self.initial_regs[6]:
             raise AssertionError('Native measurement height changed')
         chosen = self.regs[5]
         self.calls.append(chosen)
@@ -160,9 +161,9 @@ class BridgeMachine:
                 or self.regs[4:] != self.initial_regs[4:]):
             raise AssertionError('Bridge violated register, stack, TOC, CR or LR preservation')
         after = bytes(self.memory[self.caller_start + i] for i in range(0x240))
-        if after[:0x188] != self.caller_before[:0x188] or after[0x18c:] != self.caller_before[0x18c:]:
+        if after[:self.width_slot] != self.caller_before[:self.width_slot] or after[self.width_slot+4:] != self.caller_before[self.width_slot+4:]:
             raise AssertionError('Bridge overwrote caller storage outside sp+0x188')
-        chosen = self._load(self.caller_start + 0x188, 4)
+        chosen = self._load(self.caller_start + self.width_slot, 4)
         return chosen, self.regs[3], self.calls
 
 

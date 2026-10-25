@@ -1,0 +1,93 @@
+{
+  "version": "0.1.26",
+  "capture": "treatment-before-0.1.26.png",
+  "capture_resolution": [
+    1365,
+    768
+  ],
+  "kind": "actual user in-game screenshot",
+  "screen": "Treatment roster",
+  "observed_panel_bounds": [
+    342,
+    137,
+    682,
+    478
+  ],
+  "bounds_are_approximate": true,
+  "native_panel_width": 640,
+  "headers": [
+    {
+      "x": 12,
+      "text": "Lv"
+    },
+    {
+      "x": 52,
+      "text": "Name"
+    },
+    {
+      "x": 184,
+      "text": "Align."
+    },
+    {
+      "x": 248,
+      "text": "Cls"
+    },
+    {
+      "x": 288,
+      "text": "Race"
+    },
+    {
+      "x": 400,
+      "text": "Sex"
+    },
+    {
+      "x": 440,
+      "text": "Status"
+    },
+    {
+      "x": 591,
+      "text": "Fee"
+    }
+  ],
+  "header_font": [
+    20,
+    24
+  ],
+  "columns": {
+    "level": {
+      "right": 40,
+      "width": 32
+    },
+    "name": {
+      "left": 52,
+      "width": 116
+    },
+    "alignment": {
+      "center": 210
+    },
+    "class_icon": {
+      "left": 248,
+      "width": 24
+    },
+    "race": {
+      "left": 288,
+      "width": 96
+    },
+    "sex": {
+      "left": 400
+    },
+    "status": {
+      "left": 440,
+      "width": 96
+    },
+    "fee": {
+      "right": 624,
+      "width": 72
+    }
+  },
+  "row_height": 24,
+  "fee_gap": 16,
+  "includes_recovery_roster": true,
+  "calculations_and_selection_unchanged": true,
+  "updated_ingame_verification": false
+}

@@ -1,5 +1,9 @@
 # Local build and testing
 
+## Test local 0.1.26 treatment table
+
+Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.26**. In Treatment, check Lilimila's Petrification row: **Fee** must fit inside the right border, and the status must stay separate from **45G**. The headings should align with level, name, alignment, class icon, race, sex, status and fee. Check other ailments, multiple selected rows, long character names and larger fees. Check Recovery too, because it shares this roster renderer. Full text remains intact; wide cells shrink horizontally as needed. Selection colors, portraits, class icons and prices should behave as before. Updated in-game appearance is pending. This is a local test build; public release remains 0.1.23.
+
 ## Test local 0.1.25 chest acquisition message
 
 Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.25**. Open a chest and collect an unidentified consumable: the second line should show the green **Item** label followed by its punctuation, without leftover letters from obtained. Item is the existing generic unidentified consumable name. Check a second short item, a long identified item name and an enhanced item, then collect another reward to exercise reused message buffers. Actor names, colors, chest pictures and the confirmation control should behave as before. The early-expansion bridge passes file and native instruction checks; updated in-game appearance is pending. This is a local test build; public release remains 0.1.23.

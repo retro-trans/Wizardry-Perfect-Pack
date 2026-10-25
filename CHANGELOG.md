@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.26 — 2026-10-25 (local test build)
+
+- Replace the treatment/recovery roster's space-padded heading with eight individually positioned labels: Lv, Name, Align., Cls, Race, Sex, Status and Fee. Match the alignment heading to the Good/Neut./Evil field and the class heading to its icon.
+- Give levels, names, races, statuses and fees bounded cells. Keep full names and statuses; reduce horizontal size only where needed. Keep level and fee values right-aligned using their fitted measurement, with a 16px minimum status/fee gap.
+- Preserve row heights, class icons, selection colors, recovery/treatment fee calculations and party data. Add guarded instruction and emitted-code regressions, including long names, Petrification and large fees.
+- Pass all 123 regression tests. Independently verify all 636 overlay files and the thirteen new display patches; only the executable differs from 0.1.25. Update the project test copy atomically and refresh the launcher. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.25 — 2026-10-25 (local test build)
 
 - Expand dynamic item names before the two native acquisition-message queues, instead of leaving database tokens for the final font draw. This addresses the reported chest reward showing Item followed by stray letters from obtained.

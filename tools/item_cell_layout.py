@@ -45,11 +45,12 @@ def _xform(xo, rt, ra, rb):
     return (31 << 26) | (rt << 21) | (ra << 16) | (rb << 11) | (xo << 1)
 
 
-def _bridge(address, cap):
+def _bridge(address, cap, caller_width_slot=CALLER_WIDTH_SLOT):
     """Return an ABI-compatible wrapper that calls native measurement.
 
     Input: r3 font, r4 text, r5 maximum horizontal size, r6 height.
-    Output: r3 actual measured pixel width; caller sp+0x188 fitted size.
+    Output: r3 actual measured pixel width; fitted size in the declared caller
+    slot (default sp+0x188). Each additional caller must guard its own slot.
     Preserve r2, r4..r12, CR, LR and all nonvolatile registers. The normal
     measurement function owns its usual volatile floating-point clobbers.
     """
@@ -103,7 +104,7 @@ def _bridge(address, cap):
     jump('remeasure')
     mark('done')
     put(dform(58, 12, 1, 0), dform(58, 11, 1, 0xf0),
-        dform(36, 11, 12, CALLER_WIDTH_SLOT))
+        dform(36, 11, 12, caller_width_slot))
     put(dform(58, 0, 1, 0xd8), 0x7c0ff120,  # mtcrf 255,r0
         dform(58, 0, 1, 0xd0), 0x7c0803a6,
         dform(58, 2, 1, 0xe0))
