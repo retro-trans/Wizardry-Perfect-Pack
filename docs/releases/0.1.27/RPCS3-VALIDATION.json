@@ -1,0 +1,30 @@
+{
+  "version": "0.1.27",
+  "iso_sha256": "b4b01f646433fd0d5a8282ebdb98304a3a95fb1b86e01c0c11866ad24af24c70",
+  "package_sha256": "3d9506aac7abeee16e2d430bee045f97a5ccbcc5e819af4c17e41b8d76f8491a",
+  "independent_iso_and_udf_extractions_match_install_tested_package": true,
+  "emulator": "RPCS3 0.0.43-20323-64ba740c",
+  "installation": {
+    "result": "installed_payloads_verified",
+    "installer_success_logged": true,
+    "installed_files_verified": 1483,
+    "installer_exit_code": 3221226505,
+    "headless_teardown_error": true,
+    "elapsed_seconds": 32.94,
+    "isolated_profile": true,
+    "failures": []
+  },
+  "cold_compilation_pass": {
+    "result": "actual_game_execution_observed_with_warnings",
+    "elapsed_seconds": 300.16,
+    "title_asset_opened": true,
+    "boot_verified": true,
+    "fatal_log_count": 0,
+    "access_violation_or_segmentation_log_count": 0
+  },
+  "runtime_execution_observed": true,
+  "visual_verification": false,
+  "gameplay_verified": false,
+  "full_playthrough_verified": false,
+  "scope": "Exact ISO/package/installed payload identity and limited headless startup only. The probe was stopped at its deadline; installer teardown failed after successful installation. All diagnostics remain in separate reports."
+}

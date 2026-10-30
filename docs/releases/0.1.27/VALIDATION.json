@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "d88109ffa7334df7749921459f19726473da834b7e97e862b9beae9672ba51f8",
+  "patches": [
+    {
+      "patch": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.27.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "b4b01f646433fd0d5a8282ebdb98304a3a95fb1b86e01c0c11866ad24af24c70"
+    },
+    {
+      "patch": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.23-to-v0.1.27.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "b4b01f646433fd0d5a8282ebdb98304a3a95fb1b86e01c0c11866ad24af24c70"
+    },
+    {
+      "patch": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.14-to-v0.1.27.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "b4b01f646433fd0d5a8282ebdb98304a3a95fb1b86e01c0c11866ad24af24c70"
+    },
+    {
+      "patch": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.27.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "b4b01f646433fd0d5a8282ebdb98304a3a95fb1b86e01c0c11866ad24af24c70"
+    }
+  ]
+}

@@ -4,9 +4,9 @@
 
 The patch targets **NPJB00162 / PKG01** from the Japanese **Wizardry Perfect Pack** install disc (**BLJM61008**), changing that package and the disc metadata needed to store it. **Labyrinth of Lost Souls, NPJB00163 / PKG00**, remains unchanged.
 
-Version **0.1.23** is an early **RPCS3-only ISO patch**. Apply it to your original Japanese ISO, or use an upgrade patch for the exact public English 0.1.11 or 0.1.14 ISO. Extract PKG01 from the result and install it in RPCS3. File checks cover all 636 overlay files, 1,513 package entries, independent ISO9660/UDF extraction and 111 regressions. Installation and limited startup observations have separate reports in the release evidence. These checks do not establish correct appearance on every screen or a full playthrough; physical-console and stock-firmware compatibility are unsupported.
+Version **0.1.27** is an early **RPCS3-only ISO patch**. Apply it to your original Japanese ISO, or use an upgrade patch for the exact public English 0.1.11, 0.1.14 or 0.1.23 ISO. Extract PKG01 from the result and install it in RPCS3. File checks cover all 636 overlay files, 1,513 package entries, independent ISO9660/UDF extraction and 128 regressions. Installation and limited startup observations have separate reports in the release evidence. These checks do not establish correct appearance on every screen or a full playthrough; physical-console and stock-firmware compatibility are unsupported.
 
-The previous **0.1.10 PKG patch was withdrawn and its release is now a private draft**. Use the 0.1.23 ISO patch described here.
+The previous **0.1.10 PKG patch was withdrawn and its release is now a private draft**. Use the 0.1.27 ISO patch described here.
 
 This repository contains English translation decisions, glossaries, layout metadata and tools. Original game files, rebuilt packages/discs and Japanese working scripts are excluded.
 
@@ -14,13 +14,13 @@ This repository contains English translation decisions, glossaries, layout metad
 
 Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools/releases/latest) for automatic patching:
 
-1. In **Automatic**, click **Refresh catalog** and select your original `Wizardry - Perfect Pack (Japan).iso` or an exact public English 0.1.11/0.1.14 ISO.
+1. In **Automatic**, click **Refresh catalog** and select your original `Wizardry - Perfect Pack (Japan).iso` or an exact public English 0.1.11/0.1.14/0.1.23 ISO.
 2. Select **Wizardry Perfect Pack: Prisoners of the Lost City**, leave **Target** on **Latest**, and choose a new `.iso` output filename.
 3. Apply the patch. Retro Trans Tools downloads the matching xdelta and verifies the complete resulting ISO.
 4. [Extract PKG01 from the patched ISO](#extracting-the-english-install-package), then in RPCS3 choose **File → Install Packages/Raps/Edats** and install the extracted English package.
 5. Boot the installed **Prisoners of the Lost City** entry normally. This workflow does not require manually launching an overlay ELF.
 
-See the [release notes](docs/releases/0.1.23/RELEASE-NOTES.md) for verification status and limitations, and [Releases](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases) for downloads. Back up existing saves before replacing an installation. Keep your untouched original ISO.
+See the [release notes](docs/releases/0.1.27/RELEASE-NOTES.md) for verification status and limitations, and [Releases](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases) for downloads. Back up existing saves before replacing an installation. Keep your untouched original ISO.
 
 ### Supported ISO
 
@@ -29,20 +29,20 @@ The patch accepts the complete original **BLJM61008** Japanese disc image:
 | Identity | Bytes | SHA-256 |
 |---|---:|---|
 | Original `Wizardry - Perfect Pack (Japan).iso` | 2,081,947,648 | `25dc1f842f42dbd9e24ee1a23e23e51e339fc406bed997c8fbdb9815d41a42a7` |
-| English 0.1.23 ISO | `2,123,665,408` | `5e9d937da764678bc8981ca995236f569b6e98ff7f6a14585e53e7b4ca73d1c5` |
+| English 0.1.27 ISO | `2,123,665,408` | `b4b01f646433fd0d5a8282ebdb98304a3a95fb1b86e01c0c11866ad24af24c70` |
 
-Filenames may differ; the complete size and hash must match. Upgrade patches accept the public English **0.1.11** and **0.1.14** ISOs, both 2,123,663,360 bytes. Their SHA-256 hashes are `1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877` and `736471ff2087f1f735693c7c227de377481f1ccea111d8a7fc22b6db43f94f6b`, respectively. Retro Trans Tools selects the matching route after **Refresh catalog**.
+Filenames may differ; the complete size and hash must match. Upgrade patches accept the public English **0.1.11** and **0.1.14** ISOs, both 2,123,663,360 bytes. Their SHA-256 hashes are `1e92be73fa5456f04245705e880f64a9464e881e418fb4828b2fd334f2fa8877` and `736471ff2087f1f735693c7c227de377481f1ccea111d8a7fc22b6db43f94f6b`, respectively. The public **0.1.23** ISO is also supported: 2,123,665,408 bytes, SHA-256 `5e9d937da764678bc8981ca995236f569b6e98ff7f6a14585e53e7b4ca73d1c5`. Retro Trans Tools selects the matching route after **Refresh catalog**.
 
 ### Manual xdelta patching
 
-1. Download `Wizardry-Perfect-Pack-Prisoners-English-v0.1.23.xdelta` from [the release](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/tag/v0.1.23).
+1. Download `Wizardry-Perfect-Pack-Prisoners-English-v0.1.27.xdelta` from [the release](https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/tag/v0.1.27).
 2. Use xdelta3, Delta Patcher, or Retro Trans Tools' **Apply xdelta** tab with the original ISO as the source and a new ISO as the output. For xdelta3:
 
    ```powershell
-   xdelta3 -d -s "Wizardry - Perfect Pack (Japan).iso" "Wizardry-Perfect-Pack-Prisoners-English-v0.1.23.xdelta" "Wizardry-Perfect-Pack-Prisoners-English-0.1.23.iso"
+   xdelta3 -d -s "Wizardry - Perfect Pack (Japan).iso" "Wizardry-Perfect-Pack-Prisoners-English-v0.1.27.xdelta" "Wizardry-Perfect-Pack-Prisoners-English-0.1.27.iso"
    ```
 
-   The release also includes `Wizardry-Perfect-Pack-Prisoners-English-v0.1.14-to-v0.1.23.xdelta` and `Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.23.xdelta` for the corresponding public English ISOs identified above. Use the matching ISO as the source.
+   The release also includes `Wizardry-Perfect-Pack-Prisoners-English-v0.1.23-to-v0.1.27.xdelta`, `Wizardry-Perfect-Pack-Prisoners-English-v0.1.14-to-v0.1.27.xdelta` and `Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.27.xdelta` for the corresponding public English ISOs identified above. Use the matching ISO as the source.
 
 3. Verify the resulting ISO against the target identity in the release notes or `BUILD-MANIFEST.json`, then extract and install PKG01 as below.
 
@@ -53,11 +53,11 @@ The English package is `/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` **inside the patched
 With Python and this repository, inspect the patched ISO first, then extract into a fresh local destination:
 
 ```powershell
-python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.23.iso"
-python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.23.iso" --path /PS3_GAME/PKGDIR/PKG01/INSTALL.PKG --extract work/local/iso-0.1.23
+python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.27.iso"
+python tools/disc_read.py "Wizardry-Perfect-Pack-Prisoners-English-0.1.27.iso" --path /PS3_GAME/PKGDIR/PKG01/INSTALL.PKG --extract work/local/iso-0.1.27
 ```
 
-Install `work/local/iso-0.1.23/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` through RPCS3's **File → Install Packages/Raps/Edats** menu, then boot its installed game entry. The extraction command refuses to overwrite an existing file. RPCS3 does not boot this install ISO directly. Independent 7-Zip ISO9660 and UDF extraction checks both complete without errors and produce the same 1,114,929,200-byte package, SHA-256 `429964e07f996502288aa14387d989c2e37eb7347fcea7bb11077ab71b95f4cd`.
+Install `work/local/iso-0.1.27/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` through RPCS3's **File → Install Packages/Raps/Edats** menu, then boot its installed game entry. The extraction command refuses to overwrite an existing file. RPCS3 does not boot this install ISO directly. Independent 7-Zip ISO9660 and UDF extraction checks both complete without errors and produce the same 1,114,929,280-byte package, SHA-256 `3d9506aac7abeee16e2d430bee045f97a5ccbcc5e819af4c17e41b8d76f8491a`.
 
 ## What is translated
 
@@ -67,7 +67,8 @@ Install `work/local/iso-0.1.23/PS3_GAME/PKGDIR/PKG01/INSTALL.PKG` through RPCS3'
 - Runtime layout changes for full English dialogue, narration, battle rewards and several narrow UI panels. Long text is relocated rather than truncated to Japanese byte capacities.
 - Character names accept up to **12 English characters**, within the unchanged 32-byte UTF-8 payload and save layout. Portrait dialogue uses an 800px width; weapon categories use **Swords**, with separate compact class/race and monster-family labels.
 - Panel wrapping for quest, bestiary and item descriptions; compact item categories and stat labels; full class headings; and aligned bestiary/Battle Record counters.
-- A small title-screen footer showing `v0.1.23` and `github.com/retro-trans`.
+- Full skill and item names fit beside their quantities/prices; chest rewards expand item names before queuing; Treatment/Recovery columns and equipment-detail race/bonus labels have bounded layouts.
+- A small title-screen footer showing `v0.1.27` and `github.com/retro-trans`.
 
 There are **11,387 exported rows with decisions**: **10,796 English drafts** and **591 documented internal/parser exclusions**. **451 entries retain review status**. These counts describe the extracted corpus; they do not establish complete game coverage or a successful playthrough. Image and movie captions are tracked separately.
 

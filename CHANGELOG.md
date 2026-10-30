@@ -1,10 +1,13 @@
 # Changelog
 
-## 0.1.27 — 2026-10-31 (local test build)
+## 0.1.27 — 2026-10-31
 
 - Keep all seven equipment-detail race requirements inside the left pane using 96px column spacing and bounded 80px cells. Preserve race order, permissions and selection colors.
 - Use compact bonus labels in this popup: Spell Pwr+, Thief+, Spell Res+, Special Res+, Levitate and Enc.+/Enc.-. Keep the full canonical translations elsewhere. Render the notes at 20px and fit their widest line within 416px, rather than relying on the native measurement routine's last-line result.
-- Pass all 128 regression tests, including emitted race-fitting and multiline measurement code with hostile native callees. Independently verify all 636 overlay files; only the executable differs from 0.1.26. Update the local test copy atomically and refresh the launcher, preserving saves and controller settings. Updated in-game appearance remains pending; no release is published.
+- Pass all 128 regression tests, including emitted race-fitting and multiline measurement code with hostile native callees. Independently verify all 636 overlay files; only the executable differs from 0.1.26. Update the local test copy atomically and refresh the launcher, preserving saves and controller settings. Updated in-game appearance remains pending.
+
+- Prepare ISO patches from the original Japanese image and exact public English 0.1.23/0.1.14/0.1.11 images. All four encode/decode checks reproduce the full 0.1.27 ISO. Verify independent ISO9660/UDF extraction, fresh RPCS3 installation and all 1,483 installed-file hashes. Retain installer teardown and nonfatal startup diagnostics separately.
+- Update the README and release notes in the Macross format, with the Prisoners-only scope notice, Steam link and current ISO/RPCS3 instructions.
 
 ## 0.1.26 — 2026-10-25 (local test build)
 

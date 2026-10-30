@@ -1,0 +1,130 @@
+{
+  "result": "passed",
+  "native_cases": 17,
+  "cases": [
+    {
+      "case": "screenshot_forest",
+      "pages": 1,
+      "max_width": 788,
+      "text_preserved": true
+    },
+    {
+      "case": "screenshot_city",
+      "pages": 1,
+      "max_width": 764,
+      "text_preserved": true
+    },
+    {
+      "case": "long_pages",
+      "pages": 15,
+      "max_width": 794,
+      "text_preserved": true
+    },
+    {
+      "case": "long_token",
+      "pages": 3,
+      "max_width": 780,
+      "text_preserved": true
+    },
+    {
+      "case": "color_pages",
+      "pages": 5,
+      "max_width": 797,
+      "text_preserved": true
+    },
+    {
+      "case": "unicode_pages",
+      "pages": 6,
+      "max_width": 791,
+      "text_preserved": true
+    },
+    {
+      "case": "typing_pages",
+      "pages": 3,
+      "max_width": 779,
+      "text_preserved": true
+    },
+    {
+      "case": "paragraph_boundary",
+      "pages": 2,
+      "max_width": 795,
+      "text_preserved": true
+    },
+    {
+      "case": "two_digit_color",
+      "pages": 4,
+      "max_width": 788,
+      "text_preserved": true
+    },
+    {
+      "case": "bracket_storage",
+      "pages": 5,
+      "max_width": 797,
+      "text_preserved": true
+    },
+    {
+      "case": "screenshot_narration_despair",
+      "pages": 1,
+      "max_width": 878,
+      "text_preserved": true
+    },
+    {
+      "case": "screenshot_narration_labyrinth",
+      "pages": 2,
+      "max_width": 889,
+      "text_preserved": true
+    },
+    {
+      "case": "screenshot_portrait_curse",
+      "pages": 2,
+      "max_width": 792,
+      "text_preserved": true
+    },
+    {
+      "case": "screenshot_portrait_adventurer",
+      "pages": 1,
+      "max_width": 763,
+      "text_preserved": true
+    },
+    {
+      "case": "screenshot_portrait_guild",
+      "pages": 1,
+      "max_width": 744,
+      "text_preserved": true
+    }
+  ],
+  "screenshot_pages": {
+    "screenshot_forest": [
+      "Having lost your way in the forest, you find a city\nspread before you that seems to be the very one\ndescribed in the legend..."
+    ],
+    "screenshot_city": [
+      "Gloomy though it is, the city is clearly inhabited,\nand you can see its residents going about their\nlives here and there."
+    ],
+    "screenshot_narration_despair": [
+      "Tormented by the loneliness of being forsaken, @7rChu Lu\n@7rGah@0r despaired, and with his dying breath, he is said to\nhave cried..."
+    ],
+    "screenshot_narration_labyrinth": [
+      "Then mist enveloped the city, and the surrounding forest\nwarped beneath his curse, becoming a bewildering\nenclosure that cut the city off from the world. Monsters",
+      "were drawn in, and the city became a vast labyrinth."
+    ],
+    "screenshot_portrait_curse": [
+      "Does it sound strange to speak of being trapped\nby a city? This city is bound by a curse cast long\nago by the great mage @7rChu Lu Gah@0r, and its",
+      "people cannot reach the outside world."
+    ],
+    "screenshot_portrait_adventurer": [
+      "Oh, yes. Judging by your appearance, you seem\nto be an adventurer... I'm afraid I have some\nunfortunate news."
+    ],
+    "screenshot_portrait_guild": [
+      "But don't worry. That doesn't mean there is no\nwork for adventurers. We simply have no\norganization called an Adventurers' Guild."
+    ]
+  },
+  "corpus": {
+    "paragraphs": 5222,
+    "reflowed": 1868,
+    "max_input_bytes": 215,
+    "text_preserved": true
+  },
+  "anonymous_narration_flags": "0xf0",
+  "final_script_wait_unchanged": true,
+  "powerpc_execution": false
+}
