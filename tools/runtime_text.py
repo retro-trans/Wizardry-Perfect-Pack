@@ -186,6 +186,9 @@ def make_code(original, resolver, resolver_entry_offset, table_address, count, d
     from treatment_layout import append_code as append_treatment
     treatment_changes,treatment_audit=append_treatment(original,code)
     patches.extend(treatment_changes)
+    from item_popup_footer_layout import append_code as append_popup_footer
+    footer_changes,footer_audit=append_popup_footer(original,code)
+    patches.extend(footer_changes)
     class_heading_audit=None
     if class_heading is not None:
         from class_heading import append_code as append_class_heading
@@ -213,6 +216,6 @@ def make_code(original, resolver, resolver_entry_offset, table_address, count, d
                                     item_cells=item_audit,item_preview=preview_audit,menu_panels=panel_audit,battle=battle_audit,
                                     bestiary_status=status_audit,
                                     battle_record=record_audit,
-                                    item_collection=collection_audit,compact_lists=compact_audit,chest_reward=reward_audit,treatment=treatment_audit,
+                                    item_collection=collection_audit,compact_lists=compact_audit,chest_reward=reward_audit,treatment=treatment_audit,item_popup_footer=footer_audit,
                                     inventory_names=inventory_audit,narration=narration_audit,title_branding=branding_audit,
                                     name_entry=name_audit,class_heading=class_heading_audit)

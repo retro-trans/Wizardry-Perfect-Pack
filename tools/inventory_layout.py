@@ -51,7 +51,7 @@ def _mr(destination, source):
     return _xform(444, source, destination, source)
 
 
-def _bridge(address, *, fixed_cap=None, cap_words=None):
+def _bridge(address, *, fixed_cap=None, cap_words=None, measure_target=MEASURE):
     """Original draw ABI in/out; preserve CR/CTR/LR/GPR4..12/FPR1..13.
 
     By default caller r31 identifies the item; fixed_cap/cap_words instead
@@ -78,7 +78,7 @@ def _bridge(address, *, fixed_cap=None, cap_words=None):
     def measure():
         put(dform(32, 3, 2, FONT_OBJECT_TOC), dform(32, 3, 3, 0),
             dform(58, 4, 1, 0x90), dform(58, 5, 1, 0x100), dform(58, 6, 1, 0xf8))
-        call(MEASURE)
+        call(measure_target)
 
     def restore_float_condition_counter():
         put(*(dform(50, r, 1, 0x130 + 8 * (r - 1)) for r in range(1, 14)))

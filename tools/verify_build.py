@@ -209,6 +209,24 @@ def verify(build):
   if memory(SITE,4)!=instruction(branch(SITE,int(narration['bridge'],16),True)):raise ValueError('Anonymous narration bridge mismatch')
   if memory(SITE-8,8)!=EXPECTED_CONTEXT[:8] or memory(SITE+4,len(EXPECTED_CONTEXT)-12)!=EXPECTED_CONTEXT[12:]:raise ValueError('Anonymous narration continuation changed')
   if memory(FINAL_WAIT_SITE,len(EXPECTED_FINAL_WAIT))!=EXPECTED_FINAL_WAIT:raise ValueError('Narration final script wait changed')
+ popup_footer=runtime.get('item_popup_footer')
+ if popup_footer:
+  from item_popup_footer_layout import NOTE_SITE,NOTE_WIDTH,CHANGES as FOOTER_CHANGES,GUARDS as FOOTER_GUARDS,multiline_measure
+  from inventory_layout import _bridge
+  from runtime_text import branch,instruction
+  entry=int(popup_footer['note_bridge'],16);measure=int(popup_footer['multiline_measure'],16)
+  expected_measure=multiline_measure(measure)
+  if memory(measure,len(expected_measure))!=expected_measure:raise ValueError('Popup multiline measurement mismatch')
+  expected=_bridge(entry,fixed_cap=NOTE_WIDTH,measure_target=measure)
+  if memory(entry,len(expected))!=expected:raise ValueError('Popup footer bridge mismatch')
+  if memory(NOTE_SITE,4)!=instruction(branch(NOTE_SITE,entry,True)):raise ValueError('Popup notes call mismatch')
+  for site,before,after in FOOTER_CHANGES:
+   if memory(site,4)!=instruction(after):raise ValueError('Popup footer coordinate mismatch')
+  changed={NOTE_SITE}|{a for a,_,_ in FOOTER_CHANGES}
+  for a,h in FOOTER_GUARDS:
+   expected=bytes.fromhex(h)
+   for n in range(0,len(expected),4):
+    if a+n not in changed and memory(a+n,min(4,len(expected)-n))!=expected[n:n+4]:raise ValueError('Popup footer context changed')
  treatment=runtime.get('treatment')
  if treatment:
   from treatment_layout import HEADER_SITE,DRAW_CELLS,MEASURE_CELLS,WIDTH_SLOT,CHANGES as TREATMENT_CHANGES,GUARDS as TREATMENT_GUARDS,header_image
@@ -355,6 +373,7 @@ def verify(build):
              quest_description_fields_verified=quest_fields,
              monster_lore_fields_verified=lore_fields,
              item_description_fields_verified=item_description_fields,
+             equipment_popup_footer_verified=bool(popup_footer),
              treatment_layout_paths_verified=6 if treatment else 0,
              chest_reward_early_expansion_paths_verified=2 if reward else 0,
              compact_list_draw_paths_verified=3 if compact else 0,

@@ -1,0 +1,32 @@
+{
+  "version": "0.1.27",
+  "capture": "item-popup-footer-before-0.1.27.png",
+  "capture_resolution": [1365, 768],
+  "kind": "actual user in-game screenshot",
+  "screen": "Buy Items equipment details, Iwatoshi",
+  "observed_panel_bounds": [171, 112, 1024, 573],
+  "bounds_are_approximate": true,
+  "native_coordinate_resolution": [1280, 720],
+  "native_popup_origin": [160, 104],
+  "race_grid": {
+    "first_center_relative_to_popup": 136,
+    "column_stride": 96,
+    "cell_width": 80,
+    "font": [22, 22],
+    "rows": [["Human", "Elf", "Dwarf"], ["Gnome", "Porklu", "Fairy", "Felpurr"]],
+    "maximum_right_edge_relative_to_popup": 464,
+    "minimum_gap_to_notes": 32,
+    "measurement_sites": ["0x5ff9c", "0x60080"]
+  },
+  "bonus_notes": {
+    "left_relative_to_popup": 496,
+    "font": [20, 20],
+    "width": 416,
+    "draw_site": "0x60874",
+    "measurement": "maximum native width of all newline-separated lines",
+    "scoped_translation_ids": ["X0252", "X0253", "X0254", "X0255", "X0256", "X0257", "X0258"],
+    "labels": ["Spell Pwr+", "Thief+", "Spell Res+", "Special Res+", "Levitate", "Enc.+", "Enc.-"]
+  },
+  "native_race_order_permissions_bonus_flags_and_colors_preserved": true,
+  "updated_ingame_verification": false
+}

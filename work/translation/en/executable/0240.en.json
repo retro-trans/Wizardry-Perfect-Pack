@@ -157,7 +157,15 @@
         "source_id": "X0252",
         "match": "exact Japanese source text",
         "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x441144",
+          "source_address": "0x3ecf78",
+          "en": "Spell Pwr+",
+          "context": "Compact equipment bonus formatter label; retain the full canonical term in other contexts."
+        }
+      ]
     },
     {
       "id": "X0253",
@@ -169,7 +177,15 @@
         "source_id": "X0253",
         "match": "exact Japanese source text",
         "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x44114c",
+          "source_address": "0x3ecf88",
+          "en": "Thief+",
+          "context": "Compact equipment bonus formatter label; retain the full canonical term in other contexts."
+        }
+      ]
     },
     {
       "id": "X0254",
@@ -181,7 +197,15 @@
         "source_id": "X0254",
         "match": "exact Japanese source text",
         "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x441154",
+          "source_address": "0x3ecf98",
+          "en": "Spell Res+",
+          "context": "Compact equipment bonus formatter label; retain the full canonical term in other contexts."
+        }
+      ]
     },
     {
       "id": "X0255",
@@ -193,7 +217,15 @@
         "source_id": "X0255",
         "match": "exact Japanese source text",
         "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x44115c",
+          "source_address": "0x3ecfa8",
+          "en": "Special Res+",
+          "context": "Compact equipment bonus formatter label; retain the full canonical term in other contexts."
+        }
+      ]
     },
     {
       "id": "X0256",
@@ -205,7 +237,15 @@
         "source_id": "X0256",
         "match": "exact Japanese source text",
         "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x441164",
+          "source_address": "0x3ecfb8",
+          "en": "Levitate",
+          "context": "Compact equipment bonus formatter label; retain the full canonical term in other contexts."
+        }
+      ]
     },
     {
       "id": "X0257",
@@ -217,7 +257,15 @@
         "source_id": "X0257",
         "match": "exact Japanese source text",
         "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x441174",
+          "source_address": "0x3ecfc8",
+          "en": "Enc.+",
+          "context": "Compact equipment bonus formatter label; retain the full canonical term in other contexts."
+        }
+      ]
     },
     {
       "id": "X0258",
@@ -229,7 +277,15 @@
         "source_id": "X0258",
         "match": "exact Japanese source text",
         "context_review": "Inherited draft; edition-specific occurrences require review"
-      }
+      },
+      "reference_overrides": [
+        {
+          "pointer_offset": "0x44117c",
+          "source_address": "0x3ecfd8",
+          "en": "Enc.-",
+          "context": "Compact equipment bonus formatter label; retain the full canonical term in other contexts."
+        }
+      ]
     },
     {
       "id": "X0259",

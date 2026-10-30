@@ -144,10 +144,10 @@ class InventoryMachine:
                 address = self._address(args[1])
                 self._store(address, self.regs[reg(args[0])])
                 self.regs[1] = address
-            elif name in ('std', 'stw'):
-                self._store(self._address(args[1]), self.regs[reg(args[0])], 8 if name == 'std' else 4)
-            elif name in ('ld', 'lwz'):
-                self.regs[reg(args[0])] = self._load(self._address(args[1]), 8 if name == 'ld' else 4)
+            elif name in ('std', 'stw', 'stb'):
+                self._store(self._address(args[1]), self.regs[reg(args[0])], 8 if name == 'std' else 1 if name == 'stb' else 4)
+            elif name in ('ld', 'lwz', 'lbz'):
+                self.regs[reg(args[0])] = self._load(self._address(args[1]), 8 if name == 'ld' else 1 if name == 'lbz' else 4)
             elif name == 'stfd':
                 self._store(self._address(args[1]), self.fprs[reg(args[0])])
             elif name == 'lfd':

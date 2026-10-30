@@ -1,5 +1,9 @@
 # Local build and testing
 
+## Test local 0.1.27 equipment popup
+
+Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.27**. Open Iwatoshi's details in Buy Items. All seven race requirements, including Felpurr, should stay in the left pane. The right pane should show **Spell Pwr+**, **Spell Res+** and **Special Res+** without crossing the border. Check another weapon with different race restrictions, Levitate or encounter bonuses, and colored/inactive bonuses. Complete labels, colors, requirements and item effects should retain their meaning. Static bounds and emitted-code checks pass; updated in-game appearance is pending. This is a local test build; public release remains 0.1.23.
+
 ## Test local 0.1.26 treatment table
 
 Save and close the project test session, run `work/output/Play-English-Test.cmd` and confirm **v0.1.26**. In Treatment, check Lilimila's Petrification row: **Fee** must fit inside the right border, and the status must stay separate from **45G**. The headings should align with level, name, alignment, class icon, race, sex, status and fee. Check other ailments, multiple selected rows, long character names and larger fees. Check Recovery too, because it shares this roster renderer. Full text remains intact; wide cells shrink horizontally as needed. Selection colors, portraits, class icons and prices should behave as before. Updated in-game appearance is pending. This is a local test build; public release remains 0.1.23.

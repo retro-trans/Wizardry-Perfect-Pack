@@ -200,7 +200,7 @@ class ItemCellTests(unittest.TestCase):
 
     def test_guard_failures_do_not_mutate_code(self):
         _, audit = layout.append_code(self.original, bytearray())
-        self.assertEqual(len(audit['guarded_instructions']), 52)
+        self.assertEqual(len(audit['guarded_instructions']), 66)
         for guard in audit['guarded_instructions']:
             with self.subTest(address=guard['address']):
                 changed = bytearray(self.original)
@@ -231,7 +231,7 @@ class ItemCellTests(unittest.TestCase):
             with self.subTest(length=length):
                 code = bytearray(length)
                 patches, audit = layout.append_code(self.original, code)
-                self.assertEqual(len(patches), 35)
+                self.assertEqual(len(patches), 45)
                 self.assertEqual(len(code) % 16, 0)
                 self.assertTrue(all(int(cell['bridge'], 16) % 16 == 0 for cell in audit['cells']))
                 self.assertEqual(audit['maximum_horizontal_size'], 22)

@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.27 — 2026-10-31 (local test build)
+
+- Keep all seven equipment-detail race requirements inside the left pane using 96px column spacing and bounded 80px cells. Preserve race order, permissions and selection colors.
+- Use compact bonus labels in this popup: Spell Pwr+, Thief+, Spell Res+, Special Res+, Levitate and Enc.+/Enc.-. Keep the full canonical translations elsewhere. Render the notes at 20px and fit their widest line within 416px, rather than relying on the native measurement routine's last-line result.
+- Pass all 128 regression tests, including emitted race-fitting and multiline measurement code with hostile native callees. Independently verify all 636 overlay files; only the executable differs from 0.1.26. Update the local test copy atomically and refresh the launcher, preserving saves and controller settings. Updated in-game appearance remains pending; no release is published.
+
 ## 0.1.26 — 2026-10-25 (local test build)
 
 - Replace the treatment/recovery roster's space-padded heading with eight individually positioned labels: Lv, Name, Align., Cls, Race, Sex, Status and Fee. Match the alignment heading to the Good/Neut./Evil field and the class heading to its icon.
