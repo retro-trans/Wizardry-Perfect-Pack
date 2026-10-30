@@ -26,5 +26,16 @@
   "visual_verification": false,
   "gameplay_verified": false,
   "full_playthrough_verified": false,
-  "scope": "Exact ISO/package/installed payload identity and limited headless startup only. The probe was stopped at its deadline; installer teardown failed after successful installation. All diagnostics remain in separate reports."
+  "scope": "Exact ISO/package/installed payload identity and limited headless startup only. The probe was stopped at its deadline; installer teardown failed after successful installation. All diagnostics remain in separate reports.",
+  "startup": {
+    "result": "actual_game_execution_observed_with_warnings",
+    "elapsed_seconds": 300.81,
+    "title_asset_opened": true,
+    "boot_verified": true,
+    "fatal_log_count": 0,
+    "access_violation_or_segmentation_log_count": 0,
+    "error_log_count": 103,
+    "terminated_own_process_after_timeout": true,
+    "other_emulators_untouched": true
+  }
 }

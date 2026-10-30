@@ -54,7 +54,7 @@ The extracted corpus has **11,387 decisions**: 10,796 English drafts and 591 int
 
 **Early build: further proofreading and full in-game playtesting are needed.** Verification covers all 636 overlay files, 1,513 package entries, independent ISO9660/UDF package extraction, 128 project regressions and 5,222 dialogue paragraphs. All four ISO patches reproduce the complete target image. RPCS3 logs a successful fresh-profile installation and all 1,483 installed files match, but its headless installer exits with a teardown error. Scoped installation and startup observations are recorded in the [release evidence](https://github.com/retro-trans/Wizardry-Perfect-Pack/tree/v0.1.27/docs/releases/0.1.27).
 
-A 300-second cold startup probe loaded the title assets and observed continuing PPU/SPU execution without a logged fatal error or access violation. Nonfatal diagnostics are retained in the reports. This is a startup check, not visual or gameplay acceptance.
+Separate 300-second cold and warm startup probes loaded the title assets and observed continuing PPU/SPU execution without a logged fatal error or access violation. Nonfatal diagnostics are retained in the reports. This is a startup check, not visual or gameplay acceptance.
 
 Known limitations:
 
