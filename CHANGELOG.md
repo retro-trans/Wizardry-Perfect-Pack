@@ -9,6 +9,7 @@
 - Prepare ISO patches from the original Japanese image and exact public English 0.1.23/0.1.14/0.1.11 images. All four encode/decode checks reproduce the full 0.1.27 ISO. Verify independent ISO9660/UDF extraction, fresh RPCS3 installation and all 1,483 installed-file hashes. Retain installer teardown and nonfatal startup diagnostics separately.
 - Observe title-asset loading and continued execution in separate 300-second cold and warm startup probes, without logged fatal errors or access violations. Retain nonfatal diagnostics and the installer teardown error; visual acceptance and full playtesting remain pending.
 - Update the README and release notes in the Macross format, with the Prisoners-only scope notice, Steam link and current ISO/RPCS3 instructions.
+- Publish v0.1.27 as the latest release with seven verified assets. Download and verify every uploaded asset, refresh the Retro Trans Tools catalog, and confirm direct Automatic routes from the original Japanese ISO and public English 0.1.23/0.1.14/0.1.11 ISOs while preserving all prior catalog identities.
 
 ## 0.1.26 — 2026-10-25 (local test build)
 

@@ -1,0 +1,62 @@
+{
+  "version": "0.1.27",
+  "result": "passed",
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "bytes": 2778,
+      "sha256": "d88109ffa7334df7749921459f19726473da834b7e97e862b9beae9672ba51f8",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 691,
+      "sha256": "01de5822324b704af0cbd0c6db29a070f916ba96205de7cf12c14cb921f7628c",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 1007,
+      "sha256": "0ab08df04bef57a5eb2ee17a581b740e5a3a2b9060c26348577903b865214743",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.11-to-v0.1.27.xdelta",
+      "bytes": 32228231,
+      "sha256": "268777241cbbb77be87cd7e8366ae6cdd1b0e8a1385c14d7e16e640abe030ecc",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.14-to-v0.1.27.xdelta",
+      "bytes": 32227325,
+      "sha256": "83f8de72b5583e574c4d0aa75bb80fee1ccfe3c46289bb7711afc9b5a3644757",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.23-to-v0.1.27.xdelta",
+      "bytes": 32174314,
+      "sha256": "542d67e7a07cceb824bdefd743e5e99240bc21d7e7b98c3564d3e597c2e61138",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    },
+    {
+      "name": "Wizardry-Perfect-Pack-Prisoners-English-v0.1.27.xdelta",
+      "bytes": 220820982,
+      "sha256": "9b9a0a4e5db45dd3d1361447ae806af84201ddc5b698fba1b06844c380efd3eb",
+      "github_digest_matches": true,
+      "local_release_matches": true
+    }
+  ],
+  "downloaded_assets_verified": 7,
+  "verification_phase": "Authenticated download of uploaded draft assets before publication",
+  "public_release_url": "https://github.com/retro-trans/Wizardry-Perfect-Pack/releases/tag/v0.1.27",
+  "published_utc": "2026-10-30T18:08:04Z",
+  "public_metadata_matches_downloaded_assets": true,
+  "github_latest_confirmed": true,
+  "public_release_notes_match": true
+}
